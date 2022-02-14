@@ -28,6 +28,10 @@ COUNT_PANGRAMS = 1
 MIN_WORD_COUNT = 30
 MAX_WORD_COUNT = 50
 
+# Reject games with too many plural pairs
+CAP_PLURALS = True
+MAX_PLURALS = 3
+
 # total score limits
 MIN_TOTAL_SCORE = 80
 MAX_TOTAL_SCORE = 120
