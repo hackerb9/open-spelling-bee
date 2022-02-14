@@ -124,11 +124,14 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 		# check if generated answers are valid, based on params
 		if not manual_puzzle and ((len(pangram_list) != params.COUNT_PANGRAMS) \
 			or (total_score < params.MIN_TOTAL_SCORE or total_score > params.MAX_TOTAL_SCORE) \
-			or (len(results) < params.MIN_WORD_COUNT or len(results) > params.MAX_WORD_COUNT)):
+			or (len(results) < params.MIN_WORD_COUNT or len(results) > params.MAX_WORD_COUNT) \
+                	or (params.CAP_PLURALS and 'S' in letters and count_plurals(results) > params.MAX_PLURALS)):
+                        
 			# not valid! go to next letters (except when manual puzzle)
 			# incorrect number of pangrams
 			# OR total_score falls out of bounds
 			# OR total number of words falls out of bounds
+			# OR too many pairs of singular/plural (CHEESE, CHEESES) 
 			if params.PRINT_INVALID:
 				print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
 			return 0
@@ -169,6 +172,34 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 			json.dump(tmp, json_file, indent=4)
 
 		return 1
+
+def count_plurals(results):
+        """Given a list of words, return the number of pairs which appear as
+        both singular and plural form in the list (adding -S or -ES).
+
+        For example: CHEESE, CHEESES, CLICHE, CLICHES, HEEL, HEELS
+        would return 3.
+
+        This allows 'S' to be on the outer ring, but prevents boring
+        games where one is just typing the same word twice, such as:
+
+        ['APPLAUSE', 'GAUGE', 'GAUGES', 'GLUE', 'GLUES', 'GUESS', 'GUESSES', 'GULL', 'GULLS', 'GULP', 'GULPS', 'LEAGUE', 'LEAGUES', 'LUGGAGE', 'LUGS', 'LULL', 'LULLS', 'PAUSE', 'PAUSES', 'PLAGUE', 'PLAGUES', 'PLUG', 'PLUGS', 'PLUS', 'PLUSES', 'PULL', 'PULLS', 'PULP', 'PULPS', 'PULSE', 'PULSES', 'PUPS', 'PUSS', 'PUSSES', 'SAUSAGE', 'SAUSAGES', 'SLUG', 'SLUGS', 'SUES', 'SUPPLE', 'USAGE', 'USAGES', 'USELESS', 'USES', 'USUAL']
+
+        """
+
+        words = list(x['word'] for x in results)
+        count=0
+        for word in words:
+                if not word.endswith('S'):
+                        continue
+                if word[0:-1] in words:
+                        count=count+1
+                if not word.endswith('ES'):
+                        continue
+                if word[0:-2] in words:
+                        count=count+1
+        return count
+
 
 def main(puzzle_input=None):
 
