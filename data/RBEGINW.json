@@ -1,0 +1,272 @@
+{
+    "letters": "RBEGINW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 154,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BREWING"
+    ],
+    "word_list": [
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEGINNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BIGGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREWING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BRIBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRIBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRINE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGINEER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENGINEERING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ERRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIBBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GIBBERING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GINGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GREENING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NEWER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIGN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REIGNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RENEGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RENEWING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIBBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WREN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRINGER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WRINGING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

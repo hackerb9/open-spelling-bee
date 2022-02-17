@@ -1,0 +1,257 @@
+{
+    "letters": "ABDEGNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 122,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BONDAGE"
+    ],
+    "word_list": [
+        {
+            "word": "ABANDON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ABANDONED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ABODE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADAGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ADOBE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGENDA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BAGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANDAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANDAGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANDANNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEANED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEGAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BONDAGE",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "DABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEADEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEADENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOADED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NABBED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAGGED",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "letters": "ACEILTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VACILLATE"
+    ],
+    "word_list": [
+        {
+            "word": "ACTIVATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACTIVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALIVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALLEVIATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "CATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAVEAT",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CLEAT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CLEAVE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ITALIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTICE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TACTICAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TITILLATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VACATE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "VACILLATE",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "VALET",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "VITAL",
+            "score": 2,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "letters": "ACEHNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENCROACH"
+    ],
+    "word_list": [
+        {
+            "word": "ACHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACORN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANCHOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCHER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CACHE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANCER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CANOE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHANCE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "CORNEA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "CRANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARACHE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ENCROACH",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "ENHANCE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OCEAN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RACCOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANCH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RANCHER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RANCOR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROACH",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

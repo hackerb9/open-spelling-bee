@@ -1,0 +1,272 @@
+{
+    "letters": "ABEGMOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMBARGO"
+    ],
+    "word_list": [
+        {
+            "word": "AGREE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMBER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AMOEBA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMOEBAE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAGGAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAMBOO",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARGE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BARRAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BEGGAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAGER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "EAGERER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EMBARGO",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GARAGE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GARBAGE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRABBER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAMMAR",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAGER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MEAGRE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OMEGA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "letters": "TAGIJNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JAUNTING"
+    ],
+    "word_list": [
+        {
+            "word": "AGITATING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ATTAINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GIANT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INITIATING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JAUNTING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "JUNTA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "JUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "TAUNTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

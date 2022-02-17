@@ -1,0 +1,192 @@
+{
+    "letters": "RGILNOP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROLONGING"
+    ],
+    "word_list": [
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIPPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGNORING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ORIGIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROLONG",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PROLONGING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PRONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROPPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIPPLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

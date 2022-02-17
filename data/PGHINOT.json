@@ -1,0 +1,192 @@
+{
+    "letters": "PGHINOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 126,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PHOTOING"
+    ],
+    "word_list": [
+        {
+            "word": "HIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "HOPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "HOPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPINION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "OPTING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OPTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "OPTIONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PHONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PHOTO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PHOTOING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "PHOTON",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PINPOINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PINPOINTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PITTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POINT",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "POINTING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PONTOON",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "POTION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POTTING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "TOPPING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

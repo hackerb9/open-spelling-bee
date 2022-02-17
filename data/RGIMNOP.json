@@ -1,0 +1,272 @@
+{
+    "letters": "RGIMNOP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 145,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ROMPING"
+    ],
+    "word_list": [
+        {
+            "word": "GORGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GRIPPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GROOMING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IGNORING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MINORING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MIRRORING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOORING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORIGIN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PRIMPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROPPING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIMMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMPING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ROPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

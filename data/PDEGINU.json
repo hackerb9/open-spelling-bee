@@ -1,0 +1,257 @@
+{
+    "letters": "PDEGINU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 152,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UPENDING"
+    ],
+    "word_list": [
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEEPENED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEEPENING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEPEND",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "DIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "DUPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEEPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PENDED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PENGUIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PENNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PENNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PEPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGGED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIGPEN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUDDING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUNNED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUNNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPEND",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPENDED",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "UPENDING",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "UPPED",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "UPPING",
+            "score": 3,
+            "pangram": false
+        }
+    ]
+}

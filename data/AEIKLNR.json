@@ -1,0 +1,257 @@
+{
+    "letters": "AEIKLNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 120,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LANKIER"
+    ],
+    "word_list": [
+        {
+            "word": "AERIAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AIRLINE",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AIRLINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AKIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALIEN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALIKE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ALKALI",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ALKALINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANKLE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARLIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "INANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANKIER",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "LARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEAR",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAINIER",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANKER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RANKLE",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "REAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALER",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

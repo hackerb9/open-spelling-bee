@@ -1,0 +1,267 @@
+{
+    "letters": "MAGILNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 150,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MAGNOLIA"
+    ],
+    "word_list": [
+        {
+            "word": "AIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "AMMONIA",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "AMONG",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "ANIMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GLOOM",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAGNOLIA",
+            "score": 5,
+            "pangram": true
+        },
+        {
+            "word": "MAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAILING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAILMAN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALIGN",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MALIGNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MAMMALIAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANGO",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MILLION",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINIMAL",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOANING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "MOOING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "NAMING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NOMINAL",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

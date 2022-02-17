@@ -1,0 +1,242 @@
+{
+    "letters": "BAGINRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 140,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRAYING"
+    ],
+    "word_list": [
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABYING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAGGY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BANI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBARIAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BARGAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BARGAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BARGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BARING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARRAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BAYING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BINARY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAGGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRAINING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAINY",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAYING",
+            "score": 4,
+            "pangram": true
+        },
+        {
+            "word": "BRIBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "BRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "BRINGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINY",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GABBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GARBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "GRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRABBING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GYBING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "NABBING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RABBI",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "RIBBING",
+            "score": 4,
+            "pangram": false
+        }
+    ]
+}

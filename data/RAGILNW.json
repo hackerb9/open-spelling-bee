@@ -1,0 +1,227 @@
+{
+    "letters": "RAGILNW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 30,
+        "max_word_count": 50,
+        "min_total_score": 80,
+        "max_total_score": 240,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 139,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WRANGLING"
+    ],
+    "word_list": [
+        {
+            "word": "AIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAIGN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "ARRAIGNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARRANGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GARAGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GARGLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLARING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "GNARL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GNARLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAIN",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "GRILLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INGRAIN",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "INGRAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAGING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAILING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAINING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RARING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "RILING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARNING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WARRING",
+            "score": 4,
+            "pangram": false
+        },
+        {
+            "word": "WIRING",
+            "score": 3,
+            "pangram": false
+        },
+        {
+            "word": "WRANGLING",
+            "score": 6,
+            "pangram": true
+        },
+        {
+            "word": "WRIGGLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WRING",
+            "score": 2,
+            "pangram": false
+        },
+        {
+            "word": "WRINGING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}
