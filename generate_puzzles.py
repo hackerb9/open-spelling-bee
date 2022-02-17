@@ -102,6 +102,8 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 		#letters = 'WAHORTY' # debug
 
 	if letters in existing_puzzles:
+		if params.PRINT_INVALID == "progress":
+                        print("x", end='', flush=True)
 		return 0
 	else:
 		results = []
@@ -132,8 +134,11 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 			# OR total_score falls out of bounds
 			# OR total number of words falls out of bounds
 			# OR too many pairs of singular/plural (CHEESE, CHEESES) 
-			if params.PRINT_INVALID:
+			if params.PRINT_INVALID == "progress":
+				print ('.', end='', flush=True)
+			elif params.PRINT_INVALID:
 				print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
+
 			return 0
 
 		print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(1))))
