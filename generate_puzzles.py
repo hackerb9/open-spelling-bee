@@ -140,6 +140,10 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 				print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
 
 			return 0
+		elif params.PRINT_INVALID == "progress":
+                        # Got a valid puzzle, so go to new line
+			print ('') 
+
 
 		print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(1))))
 
