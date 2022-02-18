@@ -34,7 +34,7 @@ MAX_PLURALS = 3
 
 # total score limits
 MIN_TOTAL_SCORE = 80
-MAX_TOTAL_SCORE = 120
+MAX_TOTAL_SCORE = 240
 
 # Show rejected games as well as valid ones. True, False, or "progress".
 PRINT_INVALID = "progress"      # "progress" prints dots for invalid games.
