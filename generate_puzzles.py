@@ -111,9 +111,9 @@ def print_cumulative_why(why):
 	If multiple reasons are indicated, then fractional amounts are
 	added for each reason in why_cumulative.
 
-        This is useful to tune to the params.py file to a specific
-        dictionary if too few games are being generated.
-        '''
+	This is useful to tune to the params.py file to a specific
+	dictionary if too few games are being generated.
+	'''
 	global why_cumulative
 
 	print()
@@ -141,8 +141,8 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 		#letters = 'WAHORTY' # debug
 
 	if letters in existing_puzzles:
-		is_valid=False
-		why_invalid['Already found']=1
+		is_valid = False
+		why_invalid['Already found'] = 1
 		#return 0
 	results = []
 	if params.THREADS > 1:
@@ -198,7 +198,7 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 		if params.PRINT_INVALID == "dots":
 			print ('.', end='', flush=True)
 		elif params.PRINT_INVALID == "why":
-                        print_cumulative_why(why_invalid)
+			print_cumulative_why(why_invalid)
 		elif params.PRINT_INVALID:
 			print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
 		return 0
@@ -253,61 +253,61 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 	return 1
 
 def count_plurals(results):
-        """Given a list of words, return the number of pairs which appear as
-        both singular and plural form in the list (adding -S or -ES).
+	"""Given a list of words, return the number of pairs which appear as
+	both singular and plural form in the list (adding -S or -ES).
 
-        For example: CHEESE, CHEESES, CLICHE, CLICHES, HEEL, HEELS
-        would return 3.
+	For example: CHEESE, CHEESES, CLICHE, CLICHES, HEEL, HEELS
+	would return 3.
 
-        This allows one to reject games which have too high of a count
-        of plural pairs. (See params.py:MAX_PLURALS). The reasoning is
-        that it would be boring to have to repeatedly type the same
-        word twice, such as:
+	This allows one to reject games which have too high of a count
+	of plural pairs. (See params.py:MAX_PLURALS). The reasoning is
+	that it would be boring to have to repeatedly type the same
+	word twice, such as:
 
-        ['APPLAUSE', 'GAUGE', 'GAUGES', 'GLUE', 'GLUES', 'GUESS', 'GUESSES', 'GULL', 'GULLS', 'GULP', 'GULPS', 'LEAGUE', 'LEAGUES', 'LUGGAGE', 'LUGS', 'LULL', 'LULLS', 'PAUSE', 'PAUSES', 'PLAGUE', 'PLAGUES', 'PLUG', 'PLUGS', 'PLUS', 'PLUSES', 'PULL', 'PULLS', 'PULP', 'PULPS', 'PULSE', 'PULSES', 'PUPS', 'PUSS', 'PUSSES', 'SAUSAGE', 'SAUSAGES', 'SLUG', 'SLUGS', 'SUES', 'SUPPLE', 'USAGE', 'USAGES', 'USELESS', 'USES', 'USUAL']
+	['APPLAUSE', 'GAUGE', 'GAUGES', 'GLUE', 'GLUES', 'GUESS', 'GUESSES', 'GULL', 'GULLS', 'GULP', 'GULPS', 'LEAGUE', 'LEAGUES', 'LUGGAGE', 'LUGS', 'LULL', 'LULLS', 'PAUSE', 'PAUSES', 'PLAGUE', 'PLAGUES', 'PLUG', 'PLUGS', 'PLUS', 'PLUSES', 'PULL', 'PULLS', 'PULP', 'PULPS', 'PULSE', 'PULSES', 'PUPS', 'PUSS', 'PUSSES', 'SAUSAGE', 'SAUSAGES', 'SLUG', 'SLUGS', 'SUES', 'SUPPLE', 'USAGE', 'USAGES', 'USELESS', 'USES', 'USUAL']
 
-        """
+	"""
 
-        words = list(x['word'] for x in results)
-        count=0
-        for word in words:
-                if not word.endswith('S'):
-                        continue
-                if word[0:-1] in words:
-                        count=count+1
-                if not word.endswith('ES'):
-                        continue
-                if word[0:-2] in words:
-                        count=count+1
-        return count
+	words = list(x['word'] for x in results)
+	count=0
+	for word in words:
+		if not word.endswith('S'):
+			continue
+		if word[0:-1] in words:
+			count=count+1
+		if not word.endswith('ES'):
+			continue
+		if word[0:-2] in words:
+			count=count+1
+	return count
 
 
 def count_gerunds(results):
-        """Given a list of words, return the number of pairs which appear as
-        both verb and gerundive noun form in the list (adding -ING,
-        possibly doubling previous letter, possibly removing -E
-        suffix).
+	"""Given a list of words, return the number of pairs which appear as
+	both verb and gerundive noun form in the list (adding -ING,
+	possibly doubling previous letter, possibly removing -E
+	suffix).
 
-        For example: ALIGN, ALIGNING, LOVE, LOVING, ZIGZAG, ZIGZAGGING
-        would return 3.
+	For example: ALIGN, ALIGNING, LOVE, LOVING, ZIGZAG, ZIGZAGGING
+	would return 3.
 
-        Limiting the count (see params.py:MAX_GERUNDS) allows games
-        with 'I', 'N', and 'G' to exist, but rejects games that are
-        too simple because too many words end in -ING.
-        """
+	Limiting the count (see params.py:MAX_GERUNDS) allows games
+	with 'I', 'N', and 'G' to exist, but rejects games that are
+	too simple because too many words end in -ING.
+	"""
 
-        words = list(x['word'] for x in results)
-        count=0
-        for word in words:
-                if not word.endswith('ING'):
-                        continue
-                if word[0:-3] in words:
-                        count=count+1
-                if word[0:-3]+'E' in words:
-                        count=count+1
-                if len(word) >= 5 and word[-4] == word[-5] and word[0:-4] in words:
-                        count=count+1
-        return count
+	words = list(x['word'] for x in results)
+	count=0
+	for word in words:
+		if not word.endswith('ING'):
+			continue
+		if word[0:-3] in words:
+			count=count+1
+		if word[0:-3]+'E' in words:
+			count=count+1
+		if len(word) >= 5 and word[-4] == word[-5] and word[0:-4] in words:
+			count=count+1
+	return count
 
 
 def main(puzzle_input=None):
