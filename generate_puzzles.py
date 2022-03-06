@@ -123,27 +123,48 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 		# generate list of pangrams
 		pangram_list = list(filter(lambda x: x.get('pangram'), results))
 
-		# check if generated answers are valid, based on params
-		if not manual_puzzle and ((len(pangram_list) != params.COUNT_PANGRAMS) \
-			or (total_score < params.MIN_TOTAL_SCORE or total_score > params.MAX_TOTAL_SCORE) \
-			or (len(results) < params.MIN_WORD_COUNT or len(results) > params.MAX_WORD_COUNT) \
-                	or (params.CAP_PLURALS and 'S' in letters and count_plurals(results) > params.MAX_PLURALS)) \
-                	or (params.CAP_GERUNDS and all([[x in letters for x in ('I', 'N', 'G')]]) and count_gerunds(results) > params.MAX_GERUNDS):
-                        
-			# not valid! go to next letters (except when manual puzzle)
-			# incorrect number of pangrams
-			# OR total_score falls out of bounds
-			# OR total number of words falls out of bounds
-			# OR too many pairs of singular/plural (FOOL, FOOLS) 
-			# OR too many pairs of verb/gerund (ENHANCE, ENHANCING)
+		# check if generated answers are invalid, based on params
+		# incorrect number of pangrams
+		# OR total_score falls out of bounds
+		# OR total number of words falls out of bounds
+		# OR too many pairs of singular/plural (FOOL, FOOLS) 
+		# OR too many pairs of verb/gerund (ENHANCE, ENHANCING)
+		is_valid=True
+		if not manual_puzzle:
+			if (len(pangram_list) < params.COUNT_PANGRAMS):
+				progress='p'	# Too few pangrams
+				is_valid=False
+			elif (len(pangram_list) > params.COUNT_PANGRAMS):
+				progress='P'	# Too many pangrams
+				is_valid=False
+			elif (total_score < params.MIN_TOTAL_SCORE):
+				progress='-'	# Total score too low
+				is_valid=False
+			elif (total_score > params.MAX_TOTAL_SCORE):
+				progress='+'	# Total score too high
+				is_valid=False
+			elif (len(results) < params.MIN_WORD_COUNT):
+				progress='<'	# Too few words
+				is_valid=False
+			elif (len(results) > params.MAX_WORD_COUNT):
+				progress='>'	# Too many words
+				is_valid=False
+			elif (params.CAP_PLURALS and 'S' in letters and count_plurals(results) > params.MAX_PLURALS):
+				progress='S'	# Too many plural pairs
+				is_valid=False
+			elif (params.CAP_GERUNDS and all([[x in letters for x in ('I', 'N', 'G')]]) and count_gerunds(results) > params.MAX_GERUNDS):
+				progress='G'	# Too many gerund pairs
+				is_valid=False
+			
+		if not is_valid:
+			# not valid! go to next letters. (manual puzzle is always valid)
 			if params.PRINT_INVALID == "progress":
-				print ('.', end='', flush=True)
+				print (progress, end='', flush=True)
 			elif params.PRINT_INVALID:
 				print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
-
 			return 0
 		elif params.PRINT_INVALID == "progress":
-                        # Got a valid puzzle, so go to new line
+			# Got a valid puzzle, so go to new line
 			print ('') 
 
 
@@ -235,13 +256,10 @@ def count_gerunds(results):
                         continue
                 if word[0:-3] in words:
                         count=count+1
-                        print(word, end=', ')
                 if word[0:-3]+'E' in words:
                         count=count+1
-                        print(word, end=', ')
                 if len(word) >= 5 and word[-4] == word[-5] and word[0:-4] in words:
                         count=count+1
-                        print(word, end=', ')
         return count
 
 
