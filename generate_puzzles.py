@@ -127,13 +127,15 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 		if not manual_puzzle and ((len(pangram_list) != params.COUNT_PANGRAMS) \
 			or (total_score < params.MIN_TOTAL_SCORE or total_score > params.MAX_TOTAL_SCORE) \
 			or (len(results) < params.MIN_WORD_COUNT or len(results) > params.MAX_WORD_COUNT) \
-                	or (params.CAP_PLURALS and 'S' in letters and count_plurals(results) > params.MAX_PLURALS)):
+                	or (params.CAP_PLURALS and 'S' in letters and count_plurals(results) > params.MAX_PLURALS)) \
+                	or (params.CAP_GERUNDS and all([[x in letters for x in ('I', 'N', 'G')]]) and count_gerunds(results) > params.MAX_GERUNDS):
                         
 			# not valid! go to next letters (except when manual puzzle)
 			# incorrect number of pangrams
 			# OR total_score falls out of bounds
 			# OR total number of words falls out of bounds
-			# OR too many pairs of singular/plural (CHEESE, CHEESES) 
+			# OR too many pairs of singular/plural (FOOL, FOOLS) 
+			# OR too many pairs of verb/gerund (ENHANCE, ENHANCING)
 			if params.PRINT_INVALID == "progress":
 				print ('.', end='', flush=True)
 			elif params.PRINT_INVALID:
@@ -189,8 +191,10 @@ def count_plurals(results):
         For example: CHEESE, CHEESES, CLICHE, CLICHES, HEEL, HEELS
         would return 3.
 
-        This allows 'S' to be on the outer ring, but prevents boring
-        games where one is just typing the same word twice, such as:
+        This allows one to reject games which have too high of a count
+        of plural pairs. (See params.py:MAX_PLURALS). The reasoning is
+        that it would be boring to have to repeatedly type the same
+        word twice, such as:
 
         ['APPLAUSE', 'GAUGE', 'GAUGES', 'GLUE', 'GLUES', 'GUESS', 'GUESSES', 'GULL', 'GULLS', 'GULP', 'GULPS', 'LEAGUE', 'LEAGUES', 'LUGGAGE', 'LUGS', 'LULL', 'LULLS', 'PAUSE', 'PAUSES', 'PLAGUE', 'PLAGUES', 'PLUG', 'PLUGS', 'PLUS', 'PLUSES', 'PULL', 'PULLS', 'PULP', 'PULPS', 'PULSE', 'PULSES', 'PUPS', 'PUSS', 'PUSSES', 'SAUSAGE', 'SAUSAGES', 'SLUG', 'SLUGS', 'SUES', 'SUPPLE', 'USAGE', 'USAGES', 'USELESS', 'USES', 'USUAL']
 
@@ -207,6 +211,37 @@ def count_plurals(results):
                         continue
                 if word[0:-2] in words:
                         count=count+1
+        return count
+
+
+def count_gerunds(results):
+        """Given a list of words, return the number of pairs which appear as
+        both verb and gerundive noun form in the list (adding -ING,
+        possibly doubling previous letter, possibly removing -E
+        suffix).
+
+        For example: ALIGN, ALIGNING, LOVE, LOVING, ZIGZAG, ZIGZAGGING
+        would return 3.
+
+        Limiting the count (see params.py:MAX_GERUNDS) allows games
+        with 'I', 'N', and 'G' to exist, but rejects games that are
+        too simple because too many words end in -ING.
+        """
+
+        words = list(x['word'] for x in results)
+        count=0
+        for word in words:
+                if not word.endswith('ING'):
+                        continue
+                if word[0:-3] in words:
+                        count=count+1
+                        print(word, end=', ')
+                if word[0:-3]+'E' in words:
+                        count=count+1
+                        print(word, end=', ')
+                if len(word) >= 5 and word[-4] == word[-5] and word[0:-4] in words:
+                        count=count+1
+                        print(word, end=', ')
         return count
 
 
