@@ -25,7 +25,7 @@ VOWEL_LIST = ('A', 'E', 'I', 'O', 'U')
 COUNT_PANGRAMS = 1
 
 # word count limits
-MIN_WORD_COUNT = 30
+MIN_WORD_COUNT = 25
 MAX_WORD_COUNT = 50
 
 # Reject games with too many plural pairs (-S)
@@ -38,7 +38,7 @@ CAP_GERUNDS = True
 MAX_GERUNDS = 5
 
 # total score limits
-MIN_TOTAL_SCORE = 80
+MIN_TOTAL_SCORE = 60
 MAX_TOTAL_SCORE = 240
 
 # Show rejected games as well as valid ones.
