@@ -28,9 +28,14 @@ COUNT_PANGRAMS = 1
 MIN_WORD_COUNT = 30
 MAX_WORD_COUNT = 50
 
-# Reject games with too many plural pairs
+# Reject games with too many plural pairs (-S)
 CAP_PLURALS = True
 MAX_PLURALS = 3
+
+
+# Reject games with too many gerund pairs (-ING)
+CAP_GERUNDS = True
+MAX_GERUNDS = 5
 
 # total score limits
 MIN_TOTAL_SCORE = 80
