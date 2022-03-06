@@ -41,5 +41,7 @@ MAX_GERUNDS = 5
 MIN_TOTAL_SCORE = 80
 MAX_TOTAL_SCORE = 240
 
-# Show rejected games as well as valid ones. True, False, or "progress".
-PRINT_INVALID = "progress"      # "progress" prints dots for invalid games.
+# Show rejected games as well as valid ones.
+# True, False, or "dots", or "why".
+PRINT_INVALID = "dots"        # "dots" simply prints a dot per invalid game.
+PRINT_INVALID = "why"         # "why" prints % stats for invalid games.
