@@ -41,6 +41,7 @@ def play(puzl):
         guess = ask_user()
 
         # user need some help
+        if guess in ('', '?'): guess="!h"
         if guess.startswith('!'):
             help(guess, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count)
             continue
