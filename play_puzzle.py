@@ -4,6 +4,8 @@
 
 import params
 import utils
+from shutil import get_terminal_size
+from textwrap import fill
 
 import os
 import sys
@@ -43,7 +45,7 @@ def play(puzl):
         # user need some help
         if guess in ('', '?'): guess="!h"
         if guess.startswith('!'):
-            help(guess, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count)
+            help(guess, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list)
             continue
 
         # already guessed that
@@ -157,7 +159,7 @@ def ask_user():
 
     return text
 
-def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count):
+def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list):
     
     # some features for
     clean_msg = msg.replace('!','')
@@ -168,6 +170,13 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
 
     if clean_msg == 'q':
         print('Quitting...')
+        a=set( x['word'] for x in word_list )
+        b=set(guess_list)
+        c=sorted( list(a-b) )
+        width=get_terminal_size().columns
+        print( fill(', '.join(c),  width=width-8,
+                    initial_indent=' '*4,
+                    subsequent_indent=' '*4 ) )
         exit(0)
 
     help_msg = '!i : instructions\n!g : show letters\n!f : shuffle letters\n!s : player stats\n!h : help\n!q : quit'
