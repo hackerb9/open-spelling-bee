@@ -174,9 +174,8 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
         b=set(guess_list)
         c=sorted( list(a-b) )
         width=get_terminal_size().columns
-        print( fill(', '.join(c),  width=width-8,
-                    initial_indent=' '*4,
-                    subsequent_indent=' '*4 ) )
+        print( fill(' missed: ' +', '.join(c),  width=width-8,
+                    initial_indent=' '*4, subsequent_indent=' '*13 ) )
         exit(0)
 
     help_msg = '!i : instructions\n!g : show letters\n!f : shuffle letters\n!s : player stats\n!h : help\n!q : quit'
@@ -197,15 +196,17 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
     Have fun!
     '''
 
+    width=get_terminal_size().columns
     msg_dict = {
         'h' : help_msg,
         'i' : instruction_msg,
         'g' : draw_letters_honeycomb(letters),
         'f' : draw_letters_honeycomb(shuffle_letters(letters)),
-        's' : 'guessed: '+', '.join(guess_list[::-1])+'\n'
-                'player words: '+str(player_words)+' / '+str(word_count)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
-                'player score: '+str(player_score)+' / '+str(total_score)+' ('+str(round(player_score*100.0/total_score,1))+'%)'+'\n'
-                'pangram found: '+str(player_pangram),
+        's' : fill('guessed: '+', '.join(guess_list[::-1]),
+                   width=width-8, initial_indent=' '*4, subsequent_indent=' '*13)+'\n'
+            '    player words: '+str(player_words)+' / '+str(word_count)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
+            '    player score: '+str(player_score)+' / '+str(total_score)+' ('+str(round(player_score*100.0/total_score,1))+'%)'+'\n'
+            '    pangram found: '+str(player_pangram),
     }
 
     print(msg_dict.get(clean_msg,'Unknown selection'))
