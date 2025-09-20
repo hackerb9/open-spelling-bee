@@ -1,0 +1,84 @@
+1. VERBING PROBLEM
+
+The SCOWL wordlist seems to have a VERBING PROBLEM. There are a bunch
+of words such as "GEED" and "GEEING" listed as "common" when only the
+non-verb form of the root word ("GEE") is actually common. This causes
+puzzles to be created with much more difficult words than intended.
+
+For example, the file 'english-words.35' contains the following:
+
+    gangled, gangling
+    gangrened, gangrening
+    garaged, garaging
+    garlanded, garlanding
+    garrisoning
+    gating
+    gazetted, gazetting
+    geed, geeing
+    gentled, gentling
+    ghosted, ghosting
+    gifting
+    ginned, ginning
+    gladdened, gladdening
+    glamoured, glamouring
+    glassed, glassing
+    gloried, glorying
+    gloving
+    gnarls, gnarling
+    gobbed, gobbing
+    grassed, grassing
+    greened, greening
+    grimed, griming
+    guested, guesting
+    gulled, gulling
+    gusted, gusting
+    guttered, guttering
+    guyed, guying
+
+(The problem occurs with all letters, but only 'G*ING' was checked by
+hand. For example: husbanded, husbanding, hyphened, hyphening,
+impoverishes, impoverishing, ingrains, ingraining, instanced,
+instancing, interluded, interluding)
+
+While the above are all wonderful and valid words in English, they
+should be bonus words, not required to solve the puzzle 100%.
+
+This is a bug in SCOWL. Each filename that ends in a number ".n"
+should only have words in it which are in the top n% of usage. The
+words above, from 'english-words.35', are a problem because they are
+so rare that it is unlikely thaty are from the top 35%.
+
+----------------------------------------------------------------------
+
+2. ACADEMIC CORPUS
+
+The file english-words.10 seems to not suffer from the verbing
+problem. However, it has another issue: it appears to be derived from
+an ACADEMIC CORPUS. It contains many words — such as "CS", "cumming",
+"pi", "re", and "sophisticating" — that are almost certainly not in
+the top 10% of English usage.
+
+The corpus used for SCOWL appears to be email and papers from some
+academic institution. Here are some of the words in the "top 10%"
+which give it away:
+
+  "absence", "academic", "accordingly", "administration", "admittedly",
+  "algorithm", "ambiguous", "analogue", "analysis", "arbitrary",
+  "beforehand", "buffer", "bytes", "calculations", "chairman", "computing",
+  "database", "datum", "datum's", "decision's", "department", "discipline",
+  "distribution", "documentation", "engineering", "forthcoming", "graduate",
+  "hardware", "hyphenation", "hypothetheses" "indefinable", "implementing",
+  "inputing", "institution", "introduction", "invariably", "justification",
+  "keyboard", "laboratory", "lessons", "liable", "literature", "logging",
+  "magnitude", "manipulation", "mathematical", "mechanism", "membership",
+  "misleading", "mod", "nevertheless", "numerical", "obviously", "papers",
+  "paragraph", "parallel", "particularly", "phenomenon", "philosophy",
+  "postmaster", "printout", "procedure", "processors", "programmed",
+  "proposed", "publication", "qualifying", "readily", "references",
+  "referred", "requirements", "respectively", "scientific", "simultaneously",
+  "software", "specifying", "straightforward", "submitting", "terminology",
+  "theoretical", "thereby", "therefore", "thus", "undergraduate", "users",
+  "whatsoever", "whereas", "widespread"
+
+The file english-words.20 seems to be similar: it does not have the
+verbing problem, but does seem to over emphasize the acadmic domain.
