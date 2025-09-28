@@ -131,3 +131,125 @@ Use the following commands for more details:
 + `X` as center letter: `XACESTV`, `XEFIOST`, `XAENSTU`, `XADEIRS`, `XAEINOT`, `XCENOST`, `XEFIPRS`, `XAERSTY`, `XDELOPS`, `XBELOST`, `XCDELSU`
 
 + `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
+
+## To do
+
+### Remove unininteresting puzzles 
+
+Too many words with the same suffix or prefix. For example: WAGINOV
+in which more than half of the words ending in -ING.
+
+### Place found words to the side of the grid
+
+It may be distracting to have it always shown, but it may be nice to
+sometimes have the words the user has found printed to the side of the
+puzzle. The list probably should be printed in columns so as to
+maximize the distance from the puzzle.
+
+### Commands to add words to user lists
+
+The usershould be able to quickly add words to a list when they
+come up during play.
+
+There should be at least three word lists.
+
+1. **ADD**: Add this word to the dictionary used to generate puzzles in
+   the future. (E.g., AURORA, LINGUINI, FALAFEL, ALFALFA, UNICYCLING
+   are not in the current default dictionary.)
+   
+2. **REMOVE**: This word should be on the "stoplist" so it will not be
+   used to generate puzzles.
+
+   This is necessary because the SCOWL dictionary this program
+   currently uses has many words in the "top 35% of English" list
+   which simply are not common enough to be there. For example:
+
+   | Common homonym | Rare verb conjugations |
+   |----------------|------------------------|
+   | GEE            | GEED, GEEING           |
+   | DIN            | DINNED, DINNING        |
+   | HARE           | HARED, HARING          |
+   | ALIEN          | ALIENED, ALIENING      |
+
+   While those rare conjugations are perfectly valid English, they do
+   not make for very fun puzzles. Many of the words appear to be an
+   automated attempt to conjugate "common verbs", but the root word is
+   not actually a verb in its common usage.
+
+   There are also some words which we may want to remove because they
+   are not common in written English, such as LEMME and WANNA. Again,
+   while valid and should probably be accepted if someone guesses
+   them, they make people groan if they spend a long time trying to
+   solve the last few words and see that these are the words they missed.
+   
+3. **VALID**: Remember this word as valid, but do not generate puzzles
+   using it. (E.g., NAIAD, TILAPIA, ANNEAL, YURT). Such words might be
+   worth bonus points in the future or perhaps earn hints, but they
+   are not required to be known to get "100%" on the puzzle. The
+   important point is that the puzzles are fun for most people but
+   also allow folks with grandiloquent vocabularies to play.
+
+Note that, if the game board wasn't regenerated to include ADDed
+words, any words on the ADD list should be accepted when playing.
+Likely, words on the REMOVE list should also be accepted as they have
+all (so far) been actual English words, just obscure ones.
+
+### Give hints
+
+The last few words can be a pain to solve. It would be nice if this
+program could give hints when needed.
+
+1. In the "found words" list, use underscores to indicate the length
+   of words that have not yet been found.
+
+	`ABEYANCE  BAOBAB  _______  ______  _____`
+   
+1. Fill in the first letter of the longest remaining word.
+
+	`ABEYANCE  BAOBAB  C______  ______  _____`
+
+1. Fill in the first letter of all remaining words.
+
+	`ABEYANCE  BAOBAB  C______  B_____  N____`
+
+1. Fill in the second letter of the longest remaining word. 
+
+	`ABEYANCE  BAOBAB  CA_____  B_____  N____`
+
+1. Fill in the second letter of all remaining words. 
+
+	`ABEYANCE  BAOBAB  CA_____  BA____  NA___`
+
+1. Fill in third letter of the longest remaining word. 
+
+	`ABEYANCE  BAOBAB  CAY____  BA____  NA___`
+
+1. et cetera
+
+	`ABEYANCE  BAOBAB  CAY____  BAB___  NAB__`
+
+1. et cetera
+
+	`ABEYANCE  BAOBAB  CAYE___  BAB___  NAB__`
+
+1. et cetera
+
+	`ABEYANCE  BAOBAB  CAYE___  BABO__  NABO_`
+
+### libreadline
+
+The user should be able to hit the up arrow to go back in the history
+and correct mistakes.
+
+### Show encouragement
+
+Cause, why not?
+
+### Use fancy terminal escape sequences
+
+Currently this program runs the same whether on a teletypewriter or a
+video terminal. There is no need for a full screen program, but it
+might be enhanced a bit by the judicious use of bold and reverse
+color. Maybe, if we want to go crazy, a one-line ASCII animation using
+carriage-return without newline.
+
