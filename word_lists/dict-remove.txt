@@ -1,5 +1,5 @@
-# Words that are in SCOWL's top 35% but should not be used to generate
-# puzzles as they are actually less common.
+# Words listed in SCOWL's top 35% of English that should not be used
+# to generate puzzles as they are actually less common.
 
 lemme
 genii
@@ -10,7 +10,7 @@ uteri
 accede, acceded, accedes, acceding
 barrings
 
-# Common nouns conjugated as less common verbs should not be in SCOWL.35.
+# Many common nouns conjugated as less common verbs in SCOWL english-words.35.
 abscessing
 absents, absented, absenting
 #acquaints, acquainting
@@ -144,5 +144,6 @@ inclines, inclining
 kites, kited
 tided, tiding
 tinges, tinging
-viced, vicing
+viced, vicing, vised, vising
+
 
