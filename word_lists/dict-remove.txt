@@ -1,14 +1,148 @@
 # Words that are in SCOWL's top 35% but should not be used to generate
 # puzzles as they are actually less common.
 
+lemme
+genii
 roman
 hided
+mete
+uteri
+accede, acceded, accedes, acceding
+barrings
+
+# Common nouns conjugated as less common verbs should not be in SCOWL.35.
+abscessing
+absents, absented, absenting
+#acquaints, acquainting
+advantaging
+alibied, alibiing
+aliened, aliening
+alloying
+allying
+amnestied, amnestying
+antiquates, antiquating
+antiqued, antiquing
+ashed, ashing
+asphalted, asphalting, asphalts
+asterisked, asterisking
+automobiled, automobiling
+autopsied, autopsying
+awes, awing
+backhanding, backhands
+backlogs, backlogging
+ballasted, ballasting
+banqueted, banqueting
+barbered, barbering
+barraged, barraging
+
+beavered, beavering
+beefs, beefed, beefing
+beggared, beggaring
+belled, belling
+bellied, bellying
+bereaves, bereaving
+berried, berrying
+bewared, bewares, bewaring
+binned, binning
+birched, birching
+blackberrying
+blacked, blacking
+blackjacked, blackjacking, blackjacks
+blemishing
+blobbed, blobbing
+blooded, blooding
+bloodies, bloodying
+blotching
+bloused, blousing
+blueprinted, blueprinting
+blued, bluing
+#boned, boning
+#botches, botching
+bottomed, bottoming
+brained, braining
+brandied, brandying
+brazens, brazened, brazening
+breasting
+brisks, brisked, brisking
+brocading
+brooked, brooking
+bucketed, bucketing
+bugled, bugling
+bulked, bulking
+bulldogged, bulldogging
+bulletined, bulletining
+bulled, bulling
+bunked, bunking
+burred, burring
+#butterflied, butterflying
+cabbed, cabbing
+calendared, calendaring
+callousing
+callusing
+candled, candling
+cankered, cankering
+cannoned, cannoning
+canopying
+capsuled, capsuling
+careered, careering
+caricatured, caricaturing
+carpentered, carpentering
+cartooned, cartooning
+casseroled, casseroling
+censused, censusing
+certificating
+chancing
+cheeking
+chinked, chinking
+chinning
+choppered, choppering
+chorused, chorusing
+chowed, chowering
+chroming
+chummed, chumming
+cindered, cindering
+circuited
+circumstanced, circumstancing
+clouted, clouting
+clued, cluing
+coaled, coaling
+cocooned, cocooning
+codded, codding
+coffined, coffining
+coked, coking
+compassed, compassing
+concerting
+concreted, concreting
+contenting
+convoyed, convoying
+cording
+corned, corning
 cottoned, cottoning
+covenanted, covenanting
+cratered, cratering
+crayoned, crayoning
+crewed, crewing
+crimsoned, crimsoning
+crisped, crisping
+crooking
+crumbed, crumbing
+crusted, crusting
+curtained, curtaining
+deeded, deeding
+dinned, dinning
+diked, diking
 geed, geeing
 gigged, gigging
 ginned, ginning
 gonged, gonging
+haled, haling
+hallmarked, hallmarking
+haloed, haloing
+hammed, hamming
+hared, haring
+inclines, inclining
+kites, kited
+tided, tiding
 tinges, tinging
 viced, vicing
-mete
-uteri, penes
+
