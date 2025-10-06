@@ -1,8 +1,7 @@
-# Words that should be recognized as valid but not used to generate
-# puzzles. Some sort of bonus can be given, like a free hint. 
+# Obscure words that should be recognized as valid but not used to
+# generate puzzles. Some sort of bonus may be given, like a free hint.
 
 challah
-macaroon
 anionic
 conic
 manioc
@@ -14,6 +13,7 @@ conman
 anomia
 monomania
 monomaniac
+fecund
 cairn
 corona
 aurora
@@ -64,3 +64,61 @@ conniving
 noggin
 eggnog
 gogo, gogos, gogoed, gogoing
+dietic
+peptic
+plat
+plait
+tilapia
+mantilla
+militiaman
+emetic
+decedent
+candida
+deadend
+naiad
+nand
+fella
+caul
+fecal
+anneal
+flan
+alef
+allele
+faceful
+nacelle
+clueful
+canful
+effluence
+rococo
+taro
+yurt
+troy
+tort
+logy, logey
+logon
+gnoll
+googol, googolplex
+coyly
+leggy
+oolong
+oncology
+mommy, momma
+yummy
+manna
+tomtom
+anonym
+mammon
+automata
+ottoman
+atman
+ammo
+amino
+muumuu
+ganache
+chela
+henna
+galena
+incel
+enlace
+elan
+pipette
