@@ -136,11 +136,30 @@ Use the following commands for more details:
 
 ## To do
 
+### Deal with too many rejected words
+
+Too many words are being refused. Example: IACLNOV:
+
+    avian, iconic, laconic, clinician, cilia, loci, aioli, cavil,
+    convivial, cannoli, oilcan, voila, parry, aurora, pyro, purl,
+	parlay, orally, aurally
+
+* [_] `!A` should add words to a user dictionary for later analysis.
+
+* [_] Use that dict to figure out what SCOWL dictionary is best.
+
+* [_] Give player extra points for words which are not in the
+  generating dictionary but are valid in more recondite sources.
+  (Check user dict, more scowl, or maybe online dictd).
+
+* [_] Super points for a second PANGRAM; volcanic / convivial.
+
+
 ### Remove unininteresting puzzles 
 
 Too many words with the same suffix or prefix. For example: `WAGINOV`
 in which more than half of the words ending in -ING. (On the other
-hand, there are a few -ING heavy puzzles that are fun, like `ICGNTOV`.)
+hand, there are a few -ING heavy puzzles that are fun, like `ICGNOTV`.)
 
 * [ ] Consider using compression to detect repetitiveness. If size is
   below a certain percentage, reject.
