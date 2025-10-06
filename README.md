@@ -142,15 +142,15 @@ Too many words with the same suffix or prefix. For example: `WAGINOV`
 in which more than half of the words ending in -ING. (On the other
 hand, there are a few -ING heavy puzzles that are fun, like `ICGNTOV`.)
 
-Consider using compression to detect repetitiveness. If size is below
-a certain percentage, reject.
+* [ ] Consider using compression to detect repetitiveness. If size is
+  below a certain percentage, reject.
 
 ### Place found words to the side of the grid
 
-It may be distracting to have it always shown, but it may be nice to
-sometimes have the words the user has found printed to the side of the
-puzzle. The list probably should be printed in columns so as to
-maximize the distance from the puzzle.
+* [ ] While probably distracting if it was always shown, it may be
+  nice to sometimes have the words the user has found printed to the
+  side of the puzzle. The list probably should be printed in columns
+  so as to maximize the distance from the puzzle.
 
 ### Commands to add words to user lists
 
@@ -159,11 +159,11 @@ come up during play.
 
 There should be at least three word lists.
 
-1. **ADD**: Add this word to the dictionary used to generate puzzles in
+1. [ ] **ADD**: Add this word to the dictionary used to generate puzzles in
    the future. (E.g., AURORA, LINGUINI, FALAFEL, ALFALFA, UNICYCLING
    are not in the current default dictionary.)
    
-2. **REMOVE**: This word should be on the "stoplist" so it will not be
+2. [ ] **REMOVE**: This word should be on the "stoplist" so it will not be
    used to generate puzzles.
 
    This is necessary because the SCOWL dictionary this program
@@ -188,7 +188,7 @@ There should be at least three word lists.
    them, they make people groan if they spend a long time trying to
    solve the last few words and see that these are the words they missed.
    
-3. **OKAY**: Remember this word as valid when playing future games,
+3. [ ] **OKAY**: Remember this word as valid when playing future games,
    but do not generate puzzles using it. This is for actual words that
    are too obscure. (E.g., NAIAD, TILAPIA, ANNEAL, YURT). Such words
    might be worth bonus points in the future or perhaps earn hints,
@@ -207,14 +207,18 @@ they have all (so far) been actual English words, just obscure ones.
 ### Give hints
 
 The last few words can be a pain to solve. It would be nice if this
-program could give hints when needed.
+program could give hints when needed. For example, _“The most common
+starting letter for the words remaining is 'R'”_ or “There are 3 'R'
+words, 2 'S' words, and 1 'T' word.”_
 
-1. In the "found words" list, use underscores to indicate the length
-   of words that have not yet been found.
+Another way to provide hints would be to give specific letters, like so:
+
+1. First hint: In the "found words" list, use underscores to indicate
+   the length of words that have not yet been found.
 
 	`ABEYANCE  BAOBAB  _______  ______  _____`
    
-1. Fill in the first letter of the longest remaining word.
+1. Second hint: Fill in the first letter of the longest remaining word.
 
 	`ABEYANCE  BAOBAB  C______  ______  _____`
 
@@ -255,11 +259,23 @@ and correct mistakes.
 
 Cause, why not?
 
+* [ ] “ERUDITION BONUS: We didn't expect people to know that word. You get
+  one free hint. Use !HINT when stuck.”
+
+* [ ] “GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When
+  you quit, any remaining words will be listed.”
+
+* [ ] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
+  earned a free HINT. Use '!HINT' when stuck.”
+
 ### Use fancy terminal escape sequences
 
-Currently this program runs the same whether on a teletypewriter or a
-video terminal. There is no need for a full screen program, but it
-might be enhanced a bit by the judicious use of bold and reverse
-color. Maybe, if we want to go crazy, a one-line ASCII animation using
-carriage-return without newline.
+* Currently this program runs the same whether on a teletypewriter or
+a video terminal. Full screen ncurses would be too much, but it might be
+enhanced a bit by
+
+* [ ] the judicious use of bold and reverse color. 
+
+* [ ] Maybe, if we want to go crazy, we could show a one-line ASCII
+  animation using carriage-return without newline.
 
