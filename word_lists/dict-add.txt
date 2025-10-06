@@ -1,12 +1,27 @@
-# Words that ought to be used to create puzzles even though they
-# aren't officially in SCOWL's top 35%
+# Words that are common enough that they ought to be used to create
+# puzzles even though they aren't listed in SCOWL's top 35% of English.
 
+geek
+debacle
+macaroon
+melee
+deice, deiced, deicing
+impala
+medic
+cyan
+nanny
+falafel
+alfalfa
+linguini
+unicycling
+tarot
+rotator
+aurora
 ingot
 beachhead
 iconic
 ionic
 ocarina
-fecund
 mage
 manatee
 peppery
