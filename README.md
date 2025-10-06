@@ -132,6 +132,8 @@ Use the following commands for more details:
 
 + `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
 
++ Recommended: `NACEGHL`
+
 ## To do
 
 ### Remove unininteresting puzzles 
@@ -182,17 +184,21 @@ There should be at least three word lists.
    them, they make people groan if they spend a long time trying to
    solve the last few words and see that these are the words they missed.
    
-3. **VALID**: Remember this word as valid, but do not generate puzzles
-   using it. (E.g., NAIAD, TILAPIA, ANNEAL, YURT). Such words might be
-   worth bonus points in the future or perhaps earn hints, but they
-   are not required to be known to get "100%" on the puzzle. The
-   important point is that the puzzles are fun for most people but
-   also allow folks with grandiloquent vocabularies to play.
+3. **OKAY**: Remember this word as valid when playing future games,
+   but do not generate puzzles using it. This is for actual words that
+   are too obscure. (E.g., NAIAD, TILAPIA, ANNEAL, YURT). Such words
+   might be worth bonus points in the future or perhaps earn hints,
+   but they are not required to be known to get "100%" on the puzzle.
+   The important point is that generated puzzles are fun for most
+   people while accomodating folks with grandiloquent vocabularies.
 
-Note that, if the game board wasn't regenerated to include ADDed
-words, any words on the ADD list should be accepted when playing.
-Likely, words on the REMOVE list should also be accepted as they have
-all (so far) been actual English words, just obscure ones.
+Note that any words on the **ADD** list should be accepted when
+playing, even if the gameboard hasn't been regenerated to include it
+as one of the official words to search for. It can be treated the same
+as the **OKAY** list.
+
+Words on the **REMOVE** list should (probably) also be accepted as
+they have all (so far) been actual English words, just obscure ones.
 
 ### Give hints
 
