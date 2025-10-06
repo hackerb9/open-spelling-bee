@@ -132,14 +132,18 @@ Use the following commands for more details:
 
 + `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
 
-+ Recommended: `NACEGHL`
++ Play tester faves: `ECHOPRY`, `NACEGHL`, `ECIQRTU`
 
 ## To do
 
 ### Remove unininteresting puzzles 
 
-Too many words with the same suffix or prefix. For example: WAGINOV
-in which more than half of the words ending in -ING.
+Too many words with the same suffix or prefix. For example: `WAGINOV`
+in which more than half of the words ending in -ING. (On the other
+hand, there are a few -ING heavy puzzles that are fun, like `ICGNTOV`.)
+
+Consider using compression to detect repetitiveness. If size is below
+a certain percentage, reject.
 
 ### Place found words to the side of the grid
 
