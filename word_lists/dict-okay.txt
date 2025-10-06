@@ -1,0 +1,66 @@
+# Words that should be recognized as valid but not used to generate
+# puzzles. Some sort of bonus can be given, like a free hint. 
+
+challah
+macaroon
+anionic
+conic
+manioc
+anima
+manimal
+minima
+amino
+conman
+anomia
+monomania
+monomaniac
+cairn
+corona
+aurora
+ricin
+niacin
+norn
+ronin
+carcinoma
+arnica
+mutagen
+gamete
+munge
+kludge
+meme
+magma
+manga
+manna
+muumuu
+attunement
+nutmeat
+menage
+metagame
+numen
+emanant
+yore
+yecch, yecchy
+phooey
+hooey
+peeper
+cohere
+creche
+cypher
+cruet
+crier
+trice
+ricer
+retiree
+eruct
+quire
+titre, titer
+requite
+critter
+curie, curies
+recruiter
+ricture, rictus
+intoning
+conniving
+noggin
+eggnog
+gogo, gogos, gogoed, gogoing

@@ -1,0 +1,7 @@
+# Words that the game might recognize as being silly guesses, such as
+# internet slang or pop culture references. Can reply with humor, "Yeah,
+# right! Ha ha," or snark, "Nope. I'm not accepting that".
+rotfl
+narc
+pyro
+

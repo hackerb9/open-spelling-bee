@@ -1,0 +1,14 @@
+# Words that are in SCOWL's top 35% but should not be used to generate
+# puzzles as they are actually less common.
+
+roman
+hided
+cottoned, cottoning
+geed, geeing
+gigged, gigging
+ginned, ginning
+gonged, gonging
+tinges, tinging
+viced, vicing
+mete
+uteri, penes
