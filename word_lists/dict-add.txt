@@ -34,3 +34,5 @@ cognition
 pallet
 latte
 elate
+arugula
+agate
