@@ -7,33 +7,31 @@ conic
 manioc
 anima
 manimal
-minima
-amino
-conman
+minima, maxima
+amino, aminos
+conman, conmen
 anomia
 monomania
-monomaniac
+monomaniac, monomaniacs
 fecund
 cairn
 corona
 aurora
 ricin
 niacin
-norn
+norn, norns
 ronin
 carcinoma
 arnica
-mutagen
-gamete
+mutagen, mutagens
+gamete, gametes
 munge
-kludge
-meme
+kludge, kludges
+meme, memes
 magma
 manga
-manna
-muumuu
 attunement
-nutmeat
+nutmeat, nutmeats
 menage
 metagame
 numen
@@ -42,20 +40,20 @@ yore
 yecch, yecchy
 phooey
 hooey
-peeper
+peeper, peepers
 cohere
 creche
 cypher
-cruet
+cruet, cruets
 crier
 trice
 ricer
-retiree
+retiree, retirees
 eruct
-quire
+quire, quires
 titre, titer
 requite
-critter
+critter, critters
 curie, curies
 recruiter
 ricture, rictus
@@ -66,37 +64,37 @@ eggnog
 gogo, gogos, gogoed, gogoing
 dietic
 peptic
-plat
-plait
+plat, plats
+plait, plaits
 tilapia
-mantilla
-militiaman
+mantilla, mantillas
+militiaman, militiamen
 emetic
 decedent
 candida
-deadend
-naiad
+deadend, deadends
+naiad, naiads
 nand
-fella
+fella, fellas
 caul
 fecal
 anneal
-flan
+flan, flans
 alef
-allele
+allele, alleles
 faceful
-nacelle
+nacelle, nacelles
 clueful
 canful
 effluence
 rococo
 taro
-yurt
+yurt, yurts
 troy
 tort
 logy, logey
 logon
-gnoll
+gnoll, gnolls
 googol, googolplex
 coyly
 leggy
@@ -105,46 +103,51 @@ oncology
 mommy, momma
 yummy
 manna
-tomtom
-anonym
+tomtom, tomtoms
 mammon
 automata
-ottoman
+ottoman, ottomans
 atman
 ammo
-amino
-muumuu
+muumuu, muumuus
 ganache
 chela
 henna
 galena
-incel
+incel, incels
 enlace
 elan
-pipette
-berm
-tattletale
+tattletale, tattletales
 plat
-phthalate
+phthalate, phthalates
 telehealth
-applet, cotlet
+applet, cotlet, applets, cotlets
 platelet
 aglet, aglets
-eaglet
+eaglet, eaglets
 rugate
 gaggle
 glug
 luge
-gaggle
-greeter
+greeter, greeters
 ague
 ragtag
 reggae
-raga
+raga, ragas
 auger
 augur
-grue
+grue, grues
 tutelage
-hoyden
-modem
+hoyden, hoydens
+modem, modems
+pipette, pipettes
+berm, berms
+reaver, reavers, reave
+aggrieve, aggrieved
+vegetive, vegetate
+avers, aver, averred
+variegated, variegate
+veggie, veggies
+vitiate, vitiates
+
 
