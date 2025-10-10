@@ -1,15 +1,15 @@
 # Words that are common enough that they ought to be used to create
 # puzzles even though they aren't listed in SCOWL's top 35% of English.
+# See also: scowl/english-words.35
 
-geek
+geek, geeks
 debacle
-macaroon
-melee
+macaroon, macaroons
+melee, melees
 deice, deiced, deicing
-impala
-medic
-cyan
-nanny
+impala, impalas
+medic, medics
+nanny, nannies
 falafel
 alfalfa
 linguini
@@ -17,22 +17,24 @@ unicycling
 tarot
 rotator
 aurora
-ingot
+ingot, ingots
 beachhead
 iconic
 ionic
-ocarina
-mage
-manatee
+mage, mages
+manatee, manatees
+ocarina, ocarinas
 peppery
-ochre, ocher
-ecru
+cyan
 umber
+sienna
+ochre
+ecru
 teal
 recruiter
 cognition
-pallet
-latte
+pallet, pallets
+latte, lattes
 elate
 arugula
-agate
+agate, agates
