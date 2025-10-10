@@ -1,14 +1,16 @@
 # Words listed in SCOWL's top 35% of English that should not be used
 # to generate puzzles as they are actually less common.
+# See also: scowl/english-words.35
 
 lemme
 genii
+uteri
 roman
 hided
-mete
-uteri
+deaves
 barrings
 rummer, rummest
+mes
 
 # Many common nouns conjugated as less common verbs in SCOWL english-words.35.
 abscessing
@@ -45,8 +47,8 @@ blobbed, blobbing
 blooded, blooding
 blotching
 bloused, blousing
-blueprinted, blueprinting
 blued, bluing
+blueprinted, blueprinting
 bottomed, bottoming
 brazens, brazened, brazening
 breasting
@@ -56,14 +58,12 @@ brooked, brooking
 bucketed, bucketing
 bulked, bulking
 bulldogged, bulldogging
-bulletined, bulletining
 bulled, bulling
+bulletined, bulletining
 burred, burring
 cabbed, cabbing
 calendared, calendaring
-callousing
-callusing
-candled, candling
+callousing, callusing
 cankered, cankering
 cannoned, cannoning
 canopying
@@ -101,8 +101,8 @@ crooking
 crumbed, crumbing
 curtained, curtaining
 deeded, deeding
-dinned, dinning
 diked, diking
+dinned, dinning
 
 geed, geeing
 gigged, gigging
@@ -113,6 +113,7 @@ hallmarked, hallmarking
 haloed, haloing
 hammed, hamming
 hared, haring
+honeying
 hymned, hymning
 kited, kiting
 satellited, satelliting
@@ -121,6 +122,8 @@ tinges, tinging
 viced, vicing, vised, vising
 
 # These may be too common to remove, so they dwell in comment limbo
+#mete	# Obsolete, seen only with "mete out"
+
 #acquaints, acquainting
 #autopsied, autopsying
 #barraged, barraging
@@ -136,6 +139,7 @@ viced, vicing, vised, vising
 #bugled, bugling
 #bunked, bunking
 #butterflied, butterflying
+#candled, candling
 #careered, careering
 #chancing
 #choppered, choppering
