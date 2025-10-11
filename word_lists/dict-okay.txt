@@ -163,7 +163,6 @@ piratical
 acacia
 licit
 apical
-participial
 verdure
 curcumin
 ermine
@@ -189,8 +188,8 @@ ettin, ettins
 nixie, nixies
 tine, tines
 teeny
-ante, anteed, antes
-erinys
+ante, antes, anteed
+erinys, erinyes
 neaten
 gnomic
 eocene
@@ -201,3 +200,13 @@ tulle
 gonad, gonads
 agog
 dingo, dingoes
+diminuendo, fortissimo, pianissimo, scherzo
+legato, staccato
+largo, adagio, andante, vivace, allegro
+
+adagietto, allargando, allegretto, allegro, andante, andantino, calando, crescendo, decrescendo, diminuendo, forte, fortissimo, larghetto, larghissimo, largo, legato, lento, marcando, pianissimo, piano, pizzicato, prestissimo, presto, rallentando, ritardando, ritenuto, scherzando, scherzo, spiccato, staccato, stretto
+nonagon
+ovoid
+doodad, doodads
+
+
