@@ -159,12 +159,15 @@ Too many words are being refused. Example: IACLNOV:
 
 ### Remove unininteresting puzzles 
 
-Too many words with the same suffix or prefix. For example: `WAGINOV`
-in which more than half of the words ending in -ING. (On the other
-hand, there are a few -ING heavy puzzles that are fun, like `ICGNOTV`.)
+Too many words with the same suffix or prefix. For example: `WAGINOV`,
+uniqueness score = 0.47, in which more than half of the words end in
+-ING. On the other hand, there are a few -ING heavy puzzles that are
+fun, like `ICGNOTV`, uniqueness score = 0.38.
 
-* [ ] Consider using compression to detect repetitiveness. If size is
-  below a certain percentage, reject.
+* [x] Use compression to detect repetitiveness of words. Uniqueness
+      score is ratio of compressed to original size. 
+
+* [ ] If uniqueness is below a certain percentage (50%?), reject.
 
 ### Place found words to the side of the grid
 
@@ -175,7 +178,7 @@ hand, there are a few -ING heavy puzzles that are fun, like `ICGNOTV`.)
 
 ### Commands to add words to user lists
 
-The usershould be able to quickly add words to a list when they
+The user should be able to quickly add words to a list when they
 come up during play.
 
 There should be at least three word lists.
@@ -205,9 +208,10 @@ There should be at least three word lists.
 
    There are also some words which we may want to remove because they
    are not common in written English, such as LEMME and WANNA. Again,
-   while valid and should probably be accepted if someone guesses
-   them, they make people groan if they spend a long time trying to
-   solve the last few words and see that these are the words they missed.
+   they are genuine English and should probably be accepted if someone
+   guesses them, however they make people groan if they spend a long
+   time trying to solve the last few words and end up being shown
+   these as the words they missed.
    
 3. [ ] **OKAY**: Remember this word as valid when playing future games,
    but do not generate puzzles using it. This is for actual words that
