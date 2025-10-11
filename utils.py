@@ -95,10 +95,7 @@ def uniqueness(word_list) -> float:
         words = ''.join(x['word'] for x in word_list)
         original = len(words)
         compressed = len( gzip.compress( words.encode() ) )
-
-        header = len( gzip.compress( ''.encode() ) )
-        original = original - header
-        compressed = compressed - header
+        compressed = compressed - len( gzip.compress( ''.encode() ) )
 
         return round( compressed / original, 2 )
 
