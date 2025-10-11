@@ -115,9 +115,10 @@ def play(puzl):
             if not achievements['50']:
                 word_percent=round(player_words*100.0/word_count,1)
                 score_percent=round(player_score*100.0/total_score,1)
-                if word_percent >= 50 or score_percent >=50:
+                if word_percent >= 50 or score_percent >= 50:
                     achievements['50'] = True
-                    print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”\n' ) )
+                    print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”' ) )
+                    print()
 
             # add good guess to the list, so it can't be reused
             guess_list.append(guess)
@@ -205,6 +206,8 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
 
     Each puzzle has ''' + str(params.COUNT_PANGRAMS) + ''' pangram(s) that uses each of the ''' + str(params.TOTAL_LETTER_COUNT) + ''' letters.
     The pangram is worth 7 extra points.
+
+    To reach "genius" level, you'll need to solve 50% of the words.
 
     Have fun!
     '''
