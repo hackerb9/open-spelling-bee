@@ -3,6 +3,7 @@
 # See also: scowl/english-words.35
 
 lemme
+gonna
 genii
 uteri
 roman
