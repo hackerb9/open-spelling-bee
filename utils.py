@@ -84,12 +84,12 @@ def uniqueness(word_list) -> float:
         '''
         Calculate a metric of how unique a puzzle's words are.
 
-        Theoretical range is from 0.00 (repetitive) to 1.00 (unique).
-        Single English is naturally repetitive, actual range is approximately 0.40 to 0.60. 
+        Theoretical range is from 0.00 (monotonous) to 1.00 (unpredictable).
+        Since English is naturally repetitive, actual range is roughly 0.33 to 0.62. 
+        (0.33: GIKNOTW; 0.62: BACIORT)
 
         The purpose is to discard puzzles that are too repetitive.
-        (WIGGLE, WIGGLED, WRIGGLE, WRIGGLED, ...)
-
+        For example, 0.40: WIGGLE, WIGGLED, WRIGGLE, WRIGGLED, ...
         '''
         
         words = ''.join(x['word'] for x in word_list)
@@ -101,3 +101,29 @@ def uniqueness(word_list) -> float:
         compressed = compressed - header
 
         return round( compressed / original, 2 )
+
+def check_uniqueness(puzl_dir=None):
+        '''Read data files and output a list of puzzles sorted by the uniqueness metric'''
+        if puzl_dir is None:
+                puzl_dir = params.PUZZLE_DATA_PATH
+
+        puzzles = glob.glob(puzl_dir + os.sep + '*.json')
+        puzl_idx_list = [x.split(os.sep)[-1].split('.')[0] for x in puzzles]
+        results = {}
+        for puzl_path in puzzles:
+                with open(puzl_path,'r') as fp:
+                        puzl = json.load(fp)
+                        word_list = puzl.get('word_list')
+                        results[puzl_path] = uniqueness(word_list);
+                        
+        results = dict( sorted(results.items(), key=lambda i: i[1] ))
+        for puzl_path in results:
+                print( f"{results[puzl_path]}\t{puzl_path}" )
+                
+
+
+if __name__ == "__main__":
+        if len(sys.argv) > 1:
+                check_uniqueness(sys.argv[1])
+        else:
+                check_uniqueness()
