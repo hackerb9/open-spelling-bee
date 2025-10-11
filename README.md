@@ -160,10 +160,10 @@ Too many words are being refused. Example: IACLNOV:
 
 ### Remove unininteresting puzzles 
 
-Too many words with the same suffix or prefix. For example: `WAGINOV`,
-uniqueness score = 0.47, in which more than half of the words end in
--ING. On the other hand, there are a few -ING heavy puzzles that are
-fun, like `ICGNOTV`, uniqueness score = 0.38.
+Too many words with the same suffix or prefix. For example: `WAGINOV`
+(uniqueness = 0.47) in which more than half of the words end in -ING.
+On the other hand, there are a few -ING heavy puzzles that are fun,
+like `ICGNOTV` (uniqueness = 0.38).
 
 * [x] Use compression to detect repetitiveness of words. Uniqueness
       score is ratio of compressed to original size. 
