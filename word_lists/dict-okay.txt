@@ -196,5 +196,8 @@ gnomic
 eocene
 nonce
 moire
-pompom
+pompom, pompoms
 tulle
+gonad, gonads
+agog
+dingo, dingoes
