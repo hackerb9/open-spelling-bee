@@ -126,6 +126,8 @@ Use the following commands for more details:
 
 ## interesting puzzles
 
++ High "uniqueness" score: `EAINTXY`, `BACIORT`, `IACMORT`
+
 + `Q` as center letter: `QAHILSU`, `QBEISTU`
 
 + `X` as center letter: `XACESTV`, `XEFIOST`, `XAENSTU`, `XADEIRS`, `XAEINOT`, `XCENOST`, `XEFIPRS`, `XAERSTY`, `XDELOPS`, `XBELOST`, `XCDELSU`
