@@ -82,11 +82,11 @@ def print_table(data, cols, wide):
 
 def uniqueness(word_list) -> float:
         '''
-        Calculate a metric of how unique a puzzle's words are.
+        Calculate a metric of how "unique" a puzzle's words are.
 
         Theoretical range is from 0.00 (monotonous) to 1.00 (unpredictable).
-        Since English is naturally repetitive, actual range is roughly 0.33 to 0.62. 
-        (0.33: GIKNOTW; 0.62: BACIORT)
+        English is naturally repetitive, so actual range is ~ 0.31 to 0.53.
+        (0.31: GIKNOTW; 0.53: BACIORT)
 
         The purpose is to discard puzzles that are too repetitive.
         For example, 0.40: WIGGLE, WIGGLED, WRIGGLE, WRIGGLED, ...
@@ -100,7 +100,7 @@ def uniqueness(word_list) -> float:
         return round( compressed / original, 2 )
 
 def check_uniqueness(puzl_dir=None):
-        '''Read data files and output a list of puzzles sorted by the uniqueness metric'''
+        '''Read all data files and output a list of puzzles sorted by the uniqueness metric'''
         if puzl_dir is None:
                 puzl_dir = params.PUZZLE_DATA_PATH
 
