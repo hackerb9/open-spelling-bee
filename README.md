@@ -285,11 +285,11 @@ and correct mistakes.
 
 Cause, why not?
 
+* [x] “GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When
+  you quit, any remaining words will be listed.”
+
 * [ ] “ERUDITION BONUS: We didn't expect people to know that word. You get
   one free hint. Use !HINT when stuck.”
-
-* [ ] “GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When
-  you quit, any remaining words will be listed.”
 
 * [ ] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
   earned a free HINT. Use '!HINT' when stuck.”
@@ -302,6 +302,6 @@ enhanced a bit by
 
 * [ ] the judicious use of bold and reverse color. 
 
-* [ ] Maybe, if we want to go crazy, we could show a one-line ASCII
+* [ ] Maybe — if we want to go _crazy_ — we could show a one-line ASCII
   animation using carriage-return without newline.
 
