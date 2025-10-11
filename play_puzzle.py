@@ -32,6 +32,7 @@ def play(puzl):
     player_score = 0
     player_words = 0
 
+    print ('Uniqueness:', utils.uniqueness(word_list))
     #print(word_list) # no cheating!
 
     guess_list = []
