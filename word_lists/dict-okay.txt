@@ -192,4 +192,5 @@ teeny
 ante, anteed, antes
 erinys
 neaten
-
+gnomic
+eocene
