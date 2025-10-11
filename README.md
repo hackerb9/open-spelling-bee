@@ -134,7 +134,8 @@ Use the following commands for more details:
 
 + `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
 
-+ Play tester faves: `ECHOPRY`, `NACEGHL`, `VAEGIRT`, `IACLPRT`, `ECIQRTU`
++ Play tester faves: `ECHOPRY`, `NACEGHL`, `ECIQRTU`, `VAEGIRT`,
+  `IACLPRT`, `RCEIMNU`
 
 ## To do
 
