@@ -28,15 +28,16 @@ def play(puzl):
     
     print ('Max score:',total_score)
     print ('Total words:', word_count)
+    print ('Uniqueness:', utils.uniqueness(word_list))
 
     player_score = 0
     player_words = 0
 
-    print ('Uniqueness:', utils.uniqueness(word_list))
     #print(word_list) # no cheating!
 
     guess_list = []
     player_pangram = False
+    achievements = { '50': False, '85': False}
 
     # loop until game ends
     while True:
@@ -46,7 +47,7 @@ def play(puzl):
         # user need some help
         if guess in ('', '?'): guess="!h"
         if guess.startswith('!'):
-            help(guess, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list)
+            help(guess, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list, achievements)
             continue
 
         # already guessed that
@@ -110,12 +111,21 @@ def play(puzl):
             utils.print_table(print_list, len(print_list), 22)
             print()
 
+            # Did they make it to 50% of words or score?
+            if not achievements['50']:
+                word_percent=round(player_words*100.0/word_count,1)
+                score_percent=round(player_score*100.0/total_score,1)
+                if word_percent >= 50 or score_percent >=50:
+                    achievements['50'] = True
+                    print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”\n' ) )
+
             # add good guess to the list, so it can't be reused
             guess_list.append(guess)
         
         # all words found (somehow this could be possible)
         if player_words == word_count:
             print ('Congratulations. You found them all!','\n')
+            exit(0)
 
 def shuffle_letters(letters):
     # shuffles letters, excluding the center letter
@@ -160,7 +170,7 @@ def ask_user():
 
     return text
 
-def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list):
+def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list, achievements):
     
     # some features for
     clean_msg = msg.replace('!','')
@@ -171,12 +181,14 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
 
     if clean_msg == 'q':
         print('Quitting...')
-        a=set( x['word'] for x in word_list )
-        b=set(guess_list)
-        c=sorted( list(a-b) )
-        width=get_terminal_size().columns
-        print( fill(' missed: ' +', '.join(c),  width=width-8,
-                    initial_indent=' '*4, subsequent_indent=' '*13 ) )
+        if achievements['50']:
+            a=set( x['word'] for x in word_list )
+            b=set(guess_list)
+            c=sorted( list(a-b) )
+            if len(c) > 0:
+                width=get_terminal_size().columns
+                print( fill(' missed: ' +', '.join(c),  width=width-8,
+                            initial_indent=' '*4, subsequent_indent=' '*13 ) )
         exit(0)
 
     help_msg = '!i : instructions\n!g : show letters\n!f : shuffle letters\n!s : player stats\n!h : help\n!q : quit'
