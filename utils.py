@@ -10,6 +10,7 @@ import random
 import json
 import glob
 import sys
+import gzip
 
 # check validity of provided letters
 def check_letters(pzl):
@@ -78,3 +79,25 @@ def print_table(data, cols, wide):
     print(line.format(*data))
     #last_line = pat * r
     #print(last_line.format(*data[n*cols:]))
+
+def uniqueness(word_list) -> float:
+        '''
+        Calculate a metric of how unique a puzzle's words are.
+
+        Theoretical range is from 0.00 (repetitive) to 1.00 (unique).
+        Single English is naturally repetitive, actual range is approximately 0.40 to 0.60. 
+
+        The purpose is to discard puzzles that are too repetitive.
+        (WIGGLE, WIGGLED, WRIGGLE, WRIGGLED, ...)
+
+        '''
+        
+        words = ''.join(x['word'] for x in word_list)
+        original = len(words)
+        compressed = len( gzip.compress( words.encode() ) )
+
+        header = len( gzip.compress( ''.encode() ) )
+        original = original - header
+        compressed = compressed - header
+
+        return round( compressed / original, 2 )
