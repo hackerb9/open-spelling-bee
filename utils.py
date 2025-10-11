@@ -97,7 +97,10 @@ def uniqueness(word_list) -> float:
         compressed = len( gzip.compress( words.encode() ) )
         compressed = compressed - len( gzip.compress( ''.encode() ) )
 
-        return round( compressed / original, 2 )
+        if original != 0:
+                return round( compressed / original, 2 )
+        else:
+                return 1.00
 
 def check_uniqueness(puzl_dir=None):
         '''Read all data files and output a list of puzzles sorted by the uniqueness metric'''
