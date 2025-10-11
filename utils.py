@@ -97,9 +97,9 @@ def uniqueness(word_list) -> float:
         compressed = len( gzip.compress( words.encode() ) )
         compressed = compressed - len( gzip.compress( ''.encode() ) )
 
-        if original != 0:
+        try:
                 return round( compressed / original, 2 )
-        else:
+        except ZeroDivisonError:
                 return 1.00
 
 def check_uniqueness(puzl_dir=None):
