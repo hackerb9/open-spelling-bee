@@ -200,13 +200,26 @@ tulle
 gonad, gonads
 agog
 dingo, dingoes
-diminuendo, fortissimo, pianissimo, scherzo
-legato, staccato
+fortissimo, diminuendo, pianissimo
+legato, staccato, scherzo
 largo, adagio, andante, vivace, allegro
-
-adagietto, allargando, allegretto, allegro, andante, andantino, calando, crescendo, decrescendo, diminuendo, forte, fortissimo, larghetto, larghissimo, largo, legato, lento, marcando, pianissimo, piano, pizzicato, prestissimo, presto, rallentando, ritardando, ritenuto, scherzando, scherzo, spiccato, staccato, stretto
 nonagon
 ovoid
 doodad, doodads
-
+penne
+lateen
+naphtha
+neap
+natal
+napa
+peen
+ballpeen
+paean
+penpal
+lenten
+aurally
+orca
+cola
+venial
+bidet
 
