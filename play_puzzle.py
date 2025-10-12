@@ -120,6 +120,16 @@ def play(puzl):
                     print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”' ) )
                     print()
 
+            # Did they make it to 85% of words or score?
+            if not achievements['85']:
+                word_percent=round(player_words*100.0/word_count,1)
+                score_percent=round(player_score*100.0/total_score,1)
+                if word_percent >= 85 or score_percent >= 85:
+                    achievements['85'] = True
+                    print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”' ) )
+                    print()
+
+
             # add good guess to the list, so it can't be reused
             guess_list.append(guess)
         
@@ -171,6 +181,23 @@ def ask_user():
 
     return text
 
+def show_status(guess_list, player_words, word_count, player_score, total_score, player_pangram, achievements):
+    width=get_terminal_size().columns
+    return fill('found: ' + ', '.join(guess_list[::-1]), width=width-8, initial_indent=' '*4, subsequent_indent=' '*11) + '\n' \
+        f'    player words: {player_words} / {word_count} ({round(player_words*100.0/word_count,1)}%)\n' \
+        f'    player score: {player_score} / {total_score} ({round(player_score*100.0/total_score,1)}%)\n' \
+        f'    pangram found: {player_pangram}'
+
+
+def show_not_found(word_list, guess_list):
+    a=set( x['word'] for x in word_list )
+    b=set(guess_list)
+    c=sorted( list(a-b) )
+    if len(c) > 0:
+        width=get_terminal_size().columns
+        print( fill('not found: ' +', '.join(c),  width=width-8,
+                    initial_indent=' '*0, subsequent_indent=' '*11 ) )
+
 def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list, achievements):
     
     # some features for
@@ -182,14 +209,9 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
 
     if clean_msg == 'q':
         print('Quitting...')
+        print(show_status(guess_list, player_words, word_count, player_score, total_score, player_pangram, achievements))
         if achievements['50']:
-            a=set( x['word'] for x in word_list )
-            b=set(guess_list)
-            c=sorted( list(a-b) )
-            if len(c) > 0:
-                width=get_terminal_size().columns
-                print( fill(' missed: ' +', '.join(c),  width=width-8,
-                            initial_indent=' '*4, subsequent_indent=' '*13 ) )
+            show_not_found(word_list, guess_list)
         exit(0)
 
     help_msg = '!i : instructions\n!g : show letters\n!f : shuffle letters\n!s : player stats\n!h : help\n!q : quit'
@@ -212,17 +234,12 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
     Have fun!
     '''
 
-    width=get_terminal_size().columns
     msg_dict = {
         'h' : help_msg,
         'i' : instruction_msg,
         'g' : draw_letters_honeycomb(letters),
         'f' : draw_letters_honeycomb(shuffle_letters(letters)),
-        's' : fill('guessed: '+', '.join(guess_list[::-1]),
-                   width=width-8, initial_indent=' '*4, subsequent_indent=' '*13)+'\n'
-            '    player words: '+str(player_words)+' / '+str(word_count)+' ('+str(round(player_words*100.0/word_count,1))+'%)'+'\n'
-            '    player score: '+str(player_score)+' / '+str(total_score)+' ('+str(round(player_score*100.0/total_score,1))+'%)'+'\n'
-            '    pangram found: '+str(player_pangram),
+        's' : show_status(guess_list, player_words, word_count, player_score, total_score, player_pangram, achievements)
     }
 
     print(msg_dict.get(clean_msg,'Unknown selection'))
