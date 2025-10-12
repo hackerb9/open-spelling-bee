@@ -176,10 +176,13 @@ def draw_letters_honeycomb(letters):
     return hex_string.format(*letters)
 
 def ask_user():
-    text = input('Your guess: ')
-    text = text.strip().upper()
-
-    return text
+    try:
+        text = input('Your guess: ')
+        text = text.strip().upper()
+        return text
+    except (EOFError, KeyboardInterrupt):
+        print("Exiting...")
+        exit(1)
 
 def show_status(guess_list, player_words, word_count, player_score, total_score, player_pangram, achievements):
     width=get_terminal_size().columns
