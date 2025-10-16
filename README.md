@@ -305,3 +305,6 @@ enhanced a bit by
 * [ ] Maybe — if we want to go _crazy_ — we could show a one-line ASCII
   animation using carriage-return without newline.
 
+### Dictionary
+
+* [ ] Add !d to look up a word in a dictionary, if dict is installed.
