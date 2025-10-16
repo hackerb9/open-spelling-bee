@@ -307,4 +307,42 @@ enhanced a bit by
 
 ### Dictionary
 
-* [ ] Add !d to look up a word in a dictionary, if dict is installed.
+* [ ] Add !w to look up a word in a dictionary, if dict is installed.
+
+### Are Döppelgangers a problem?
+
+  * [ ] Investigate and maybe remove 
+
+A quick check for identical pangrams (two or more puzzles that have
+different center letters but result in the same pangram) shows that
+they are not rare. Theoretically, every single letter in a pangram
+could be used in the center, generating 7 different puzzles. 
+
+Is this a genuine problem? Due to the center letter restriction,
+sometimes the rest of the words can be very different. What's the
+appropriate measure if the set of answers is too similar between
+puzzles? If they are too similar, which one should be kept?
+
+Here's a table for the set of 3099 puzzles being generated as of 2025.
+
+| Döppelganger Number | Num Pangrams | Num Puzzles |
+|--------------------:|-------------:|------------:|
+| Unique            1 |          411 |         411 |
+| Twins             2 |          383 |         766 |
+| Triplets          3 |          257 |         771 |
+| Quadruplets       4 |          183 |         732 |
+| Quintuplets       5 |           63 |         315 |
+| Sextuplets        6 |           15 |          90 |
+| Septuplets        7 |            2 |          14 |
+
+That shows 411 of the puzzles have a unique pangram. There are two
+pangrams which use every single letter in the center. Of the 3099
+puzzles, there are only 1314 pangrams. Simply considering them
+"duplicates" and throwing them out might be problem.
+
+To generate the table in the future, one can use:
+
+<!-- Single backtick instead of three so it wraps on the screen -->
+`grep -h -B3 '"pangram": true' data/*.json  | grep word | sort | uniq -c | cut -c-10 | sort -n | uniq -c | awk '{printf("|%4d |%3d |%5d |\n", $2, $1, $1*$2)}'`
+
+
