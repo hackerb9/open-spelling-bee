@@ -207,7 +207,7 @@ def scowl_sort(fullpath):
         return (ext, name)
 
 def scowl_lookup_usage():
-        print('''Usage: slook <pattern>
+        print('''Usage: ./utils.py slook <pattern>
 
 Shows words matching the given prefix (regular expression ^pattern.*)
 and which wordlist file it was found in. The number at the end of the
