@@ -153,7 +153,7 @@ cilia
 rill, rills
 tapir, tapirs
 papilla, papillae
-arctic
+arctic, artic
 tarpit, tarpits
 cattail, cattails
 lariat, lariats
@@ -257,3 +257,11 @@ niner
 woofer, tweeter
 foodie
 droid
+matcha
+tram
+cathartic
+chit
+tarmac
+catarrh
+chitchat
+hath
