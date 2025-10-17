@@ -254,3 +254,6 @@ pricier
 crimp
 preemie
 niner
+woofer, tweeter
+foodie
+droid
