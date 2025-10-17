@@ -151,6 +151,23 @@ def check_uniqueness(*args):
                 print( f"{results[puzl_path]}\t{puzl_path}" )
                 
 
+def compare_overlap(f1, f2):
+        '''Given two puzzle names, show how much their words overlap.'''
+        file1 = get_puzzle_dir_or_filename(f1).pop()
+        file2 = get_puzzle_dir_or_filename(f2).pop()
+        with open(file1,'r') as fp:
+                puzl = json.load(fp)
+                words1 = [x['word'] for x in puzl.get('word_list')]
+                len1=len(words1)
+        with open(file2,'r') as fp:
+                puzl = json.load(fp)
+                words2 = [x['word'] for x in puzl.get('word_list')]
+                len2=len(words2)
+        both=len(set(words1).intersection(words2))
+        print(f"{file1:>30}: {len1:>2}")
+        print(f"{file2:>30}: {len2:>2}")
+        print(f"{'Words in both':>30}: {both:>2}")
+        print(f"{'Overlap':>30}: {100*both/min(len1,len2):>5.2f}%")
 
 if __name__ == "__main__":
         if len(sys.argv) <= 1:
@@ -184,7 +201,12 @@ where <cmd> can be one of:
                 if len(args) > 2:
                         compare_overlap(args[1], args[2])
                 else:
-                        print("Usage: cmp <filename1.json> <filename2.json>")
+                        print('''\
+Usage: {sys.argv[0]} cmp <puzzle1> <puzzle2>
+Examples:
+          ./utils.py cmp rceimnu rceimnp
+          ./utils.py cmp yaeglru  data/YAEGLRT.json
+          ./utils.py cmp data.twl/CADEHKW.json  data/CADEHKW.json''');
                         exit(1)
 
         elif (args[0] == "slook"):
@@ -192,6 +214,9 @@ where <cmd> can be one of:
                         scowl_lookup(args[1])
                 else:
                         print("Usage: slook <word>")
+                        print("Shows which word list files contain regular expression ^word.*  ")
+                        print("The number at the end is an indication of how common SCOWL thinks the word is.")
+                        print("For example, english-words.35 is supposed to be the top 35% most common.")
                         exit(1)
 
         else:
