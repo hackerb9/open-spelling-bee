@@ -102,12 +102,42 @@ def uniqueness(word_list) -> float:
         except ZeroDivisonError:
                 return 1.00
 
-def check_uniqueness(puzl_dir=None):
-        '''Read all data files and output a list of puzzles sorted by the uniqueness metric'''
-        if puzl_dir is None:
-                puzl_dir = params.PUZZLE_DATA_PATH
+def get_puzzle_dir_or_filename(puzl_name=None):
+        '''Given a DIRECTORY or FILENAME glob, return a list of filenames.
 
-        puzzles = glob.glob(puzl_dir + os.sep + '*.json')
+        A DIRECTORY (e.g., "data.twl/") returns all files that end in .json.
+        A FILENAME ("data/YAEGLRU.json") returns that file.
+
+        Globs are allowed ("data/YAEG*") to specify multiple files.
+        Filename can omit "data/" prefix and ".json" suffix, ("YAEGLRU"),
+        Letters can be lowercase ("yaeglru"). Globs are allowed ("yae*").
+        If the shell is expanding the globs, quote it in single ticks:
+        ./utils.py uniq '*y*'    shows all games with the letter 'Y'.
+
+        Defaults to PUZZL_DATA_PATH ("data/").'''
+        
+        if puzl_name is None:
+                return glob.glob(params.PUZZLE_DATA_PATH + os.sep + '*.json')
+
+        if os.path.isdir(puzl_name):
+                return glob.glob(puzl_name + os.sep + '*.json')
+
+        puzzles = glob.glob(f"{params.PUZZLE_DATA_PATH}{os.sep}{puzl_name.upper()}.json")
+        if len(puzzles) == 0:
+                puzzles = glob.glob(puzl_name)
+        if len(puzzles) == 0:
+                print(f"No such directory or file '{puzl_name}'")
+                exit(-1) 
+        return puzzles
+
+
+def check_uniqueness(*args):
+        '''Read all data files and output a list of puzzles sorted by the uniqueness metric'''
+
+        if len(args) == 0: args=[None]
+        puzzles=[]
+        for puzl_name in args:
+                puzzles += get_puzzle_dir_or_filename(puzl_name)
         puzl_idx_list = [x.split(os.sep)[-1].split('.')[0] for x in puzzles]
         results = {}
         for puzl_path in puzzles:
@@ -123,7 +153,48 @@ def check_uniqueness(puzl_dir=None):
 
 
 if __name__ == "__main__":
-        if len(sys.argv) > 1:
-                check_uniqueness(sys.argv[1])
+        if len(sys.argv) <= 1:
+                print( f'''\
+Usage: {sys.argv[0]} <cmd> [opts]
+
+where <cmd> can be one of:
+
+  uniq [dir...]
+                print a "uniqueness" score for all .json files in "data/"
+                (Entropy from approx 0.4 to 0.6)
+
+  cmp <f1> <f2>
+                compare two files from data/*.json and show how many
+                words they have in common.
+		
+  slook <word>
+                lookup prefix <word> in all the SCOWL wordlists (common & rare)
+''')
+                exit(1)
+        
+        args=sys.argv[1:]
+        
+        if (args[0] == "uniq"):
+                if len(args) > 1:
+                        check_uniqueness(*args[1:])
+                else:
+                        check_uniqueness()
+
+        elif (args[0] == "cmp"):
+                if len(args) > 2:
+                        compare_overlap(args[1], args[2])
+                else:
+                        print("Usage: cmp <filename1.json> <filename2.json>")
+                        exit(1)
+
+        elif (args[0] == "slook"):
+                if len(args) > 2:
+                        scowl_lookup(args[1])
+                else:
+                        print("Usage: slook <word>")
+                        exit(1)
+
         else:
-                check_uniqueness()
+                print(f"Unknown command: {args[0]}")
+                exit(1)
+                
