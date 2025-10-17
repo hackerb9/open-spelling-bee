@@ -171,19 +171,15 @@ in which more than half of the words end in -ING.
   * It is true that the unintersting puzzles have low uniqueness
     scores below 50% (WAGINOV uniqueness = 0.47) 
 
-  * However, Puzzles like RCEIMNP (uniq = 0.42) are . There are even
-    -ING heavy puzzles that are fun, like `ICGNOTV` (uniqueness =
-    0.38).
-
-
-    
+  * However, some puzzles with low "uniqueness" are interesting (e.g.,
+    `RCEIMNP`, uniq = 0.42). There are even -ING heavy puzzles that
+    are fun (e.g., `ICGNOTV`, uniq = 0.38).
 	
-* [ ] What gets players annoyed is when they have to inflect every
-      word: ANNOY, ANNOYS, ANNOYING.
+* [ ] Perhaps what gets players annoyed is when they have to inflect
+      every word: WAGE, WAGED, WAGGLE, WAGGLED, BADGE, BADGED
 
-  * [ ] Can we check for that? It might be tricky due to the root
-        CHANGE, CHANGING. Prehaps looking only at common prefix?
-
+  * [ ] Can we check for that? Is there an easy way to stem a word so
+        we can count the actual number of root words?
 
 ### Place found words to the side of the grid
 
