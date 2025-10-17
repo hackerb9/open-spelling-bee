@@ -57,7 +57,7 @@ def play(puzl):
         
         # guess less than minimum letters
         if len(guess) < params.MIN_WORD_LENGTH:
-            print ('Guessed word is too short. Minimum length:',str(params.MIN_WORD_LENGTH),'\n')
+            print (f'Guessed word is too short. Minimum length: {params.MIN_WORD_LENGTH}\n')
             continue           
 
         # scenario 1: includes letter not in a list
@@ -98,17 +98,20 @@ def play(puzl):
 
             player_score += word_score
 
-            print_list = ['✓ '+guess, \
-                'word score = '+str(word_score), \
-                'words found = '+str(player_words) + '/'+str(word_count), \
-                'total score = '+str(player_score) + '/'+str(total_score), \
-                    ]
+            print_list = [
+                '✓ '+guess, \
+                f'+{word_score} points', \
+                f'{player_words}/{word_count} words', \
+                f'{player_score}/{total_score} score', \
+            ]
 
             if word_dict.get('word') in pangram_list:
                 print_list[0] += ' ***'
 
             # print success and running stats
-            utils.print_table(print_list, len(print_list), 22)
+            c = len(print_list)
+            w = int(get_terminal_size().columns / c)
+            utils.print_table(print_list, c, w)
             print()
 
             # Did they make it to 50% of words or score?
@@ -117,7 +120,8 @@ def play(puzl):
                 score_percent=round(player_score*100.0/total_score,1)
                 if word_percent >= 50 or score_percent >= 50:
                     achievements['50'] = True
-                    print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”' ) )
+                    print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
+                                width=get_terminal_size().columns) )
                     print()
 
             # Did they make it to 85% of words or score?
@@ -198,8 +202,7 @@ def show_not_found(word_list, guess_list):
     c=sorted( list(a-b) )
     if len(c) > 0:
         width=get_terminal_size().columns
-        print( fill('not found: ' +', '.join(c),  width=width-8,
-                    initial_indent=' '*0, subsequent_indent=' '*11 ) )
+        print( fill('not found: ' +', '.join(c), subsequent_indent=' '*11 ))
 
 def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list, achievements):
     
@@ -218,18 +221,19 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
         exit(0)
 
     help_msg = '!i : instructions\n!g : show letters\n!f : shuffle letters\n!s : player stats\n!h : help\n!q : quit'
-    instruction_msg = '''
+    instruction_msg = f'''
     Welcome to the Open Source Spelling Bee puzzle!
-    To play, build minimum ''' + str(params.MIN_WORD_LENGTH) + '''-letter words.
+    To play, build minimum {params.MIN_WORD_LENGTH}-letter words.
     Each word must include the center letter at least once.
     Letters may be used as many times as you'd like.
 
-    Scoring: 1 point for a 4 letter word, and 1 more point for each word longer than 4 letters.
-                Example:  WORD - 1 point
-                          WORDS - 2 points
+    Scoring: 1 point for a {params.MIN_WORD_LENGTH} letter word, and
+             1 more point for each extra letter beyond that.
+                Example:      WORD - 1 point
+                             WORDS - 2 points
                           SPELLING - 5 points
 
-    Each puzzle has ''' + str(params.COUNT_PANGRAMS) + ''' pangram(s) that uses each of the ''' + str(params.TOTAL_LETTER_COUNT) + ''' letters.
+    Each puzzle has {params.COUNT_PANGRAMS} pangram{"s" if params.COUNT_PANGRAMS!=1 else ""} that uses each of the {params.TOTAL_LETTER_COUNT} letters.
     The pangram is worth 7 extra points.
 
     To reach "genius" level, you'll need to solve 50% of the words.
