@@ -161,14 +161,29 @@ Too many words are being refused. Example: IACLNOV:
 ### Remove unininteresting puzzles 
 
 Too many words with the same suffix or prefix. For example: `WAGINOV`
-(uniqueness = 0.47) in which more than half of the words end in -ING.
-On the other hand, there are a few -ING heavy puzzles that are fun,
-like `ICGNOTV` (uniqueness = 0.38).
+in which more than half of the words end in -ING.
 
-* [x] Use compression to detect repetitiveness of words. Uniqueness
-      score is ratio of compressed to original size. 
+* [x] Use compression to detect repetitiveness of words. "Uniqueness
+      score" is ratio of compressed to original size.
 
-* [ ] If uniqueness is below a certain percentage (50%?), reject.
+  * [x] Can we reject if uniqueness is below a certain percentage? No.
+
+  * It is true that the unintersting puzzles have low uniqueness
+    scores below 50% (WAGINOV uniqueness = 0.47) 
+
+  * However, Puzzles like RCEIMNP (uniq = 0.42) are . There are even
+    -ING heavy puzzles that are fun, like `ICGNOTV` (uniqueness =
+    0.38).
+
+
+    
+	
+* [ ] What gets players annoyed is when they have to inflect every
+      word: ANNOY, ANNOYS, ANNOYING.
+
+  * [ ] Can we check for that? It might be tricky due to the root
+        CHANGE, CHANGING. Prehaps looking only at common prefix?
+
 
 ### Place found words to the side of the grid
 
