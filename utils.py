@@ -11,6 +11,7 @@ import json
 import glob
 import sys
 import gzip
+import re
 
 # check validity of provided letters
 def check_letters(pzl):
@@ -169,9 +170,69 @@ def compare_overlap(f1, f2):
         print(f"{'Words in both':>30}: {both:>2}")
         print(f"{'Overlap':>30}: {100*both/min(len1,len2):>5.2f}%")
 
+def scowl_lookup(pattern):
+        '''Like the look(1) command, shows matches for "pattern" as a prefix,
+        but searches through the SCOWL word_lists.
+        Essentially: rgrep -i ^pattern word_lists/scowl
+
+        NOTE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
+
+        If there are too many matches and you just want the exact
+        word, just put a $ at the end. For example,
+
+            $ ./utils.py slook mes | wc -l
+            914
+            $ ./utils.py slook mes$ | wc -l
+            2
+        '''
+
+        regex=re.compile(fr'^{pattern}.*', flags=re.IGNORECASE|re.MULTILINE)
+        for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
+                with open(f, 'r', encoding='ISO-8859-1') as fp:
+                        output=re.findall(regex, fp.read())
+                        for w in output:
+                                try:
+                                        print(f'{f}: {w}')
+                                except BrokenPipeError:
+                                        sys.stdout = None
+
+def scowl_sort(fullpath):
+        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
+        name, ext = os.path.splitext(fullpath)
+        try:
+                ext = int(ext[1:])
+        except ValueError:
+                ext = 999
+
+        return (ext, name)
+
+def scowl_lookup_usage():
+        print('''Usage: slook <pattern>
+
+Shows words matching the given prefix (regular expression ^pattern.*)
+and which wordlist file it was found in. The number at the end of the
+filename is an indication of how common SCOWL thinks the word is. This
+is useful to see why a word is getting rejected. The default threshold
+is <=35, so english-words.35 is used but english-words.40 is not. 
+
+    $ ./utils.py slook alfalfa
+    word_lists/scowl/english-words.40: alfalfa
+    word_lists/scowl/english-words.80: alfalfas
+
+Too many matches? For the exact word, put a '$' at the end. For example,
+
+    $ ./utils.py slook mes | wc -l
+    914
+    $ ./utils.py slook mes$
+    word_lists/scowl/english-words.35: mes
+''')
+
+
+
+                
 if __name__ == "__main__":
         if len(sys.argv) <= 1:
-                print( f'''\
+                print(f'''\
 Usage: {sys.argv[0]} <cmd> [opts]
 
 where <cmd> can be one of:
@@ -210,13 +271,10 @@ Examples:
                         exit(1)
 
         elif (args[0] == "slook"):
-                if len(args) > 2:
+                if len(args) > 1:
                         scowl_lookup(args[1])
                 else:
-                        print("Usage: slook <word>")
-                        print("Shows which word list files contain regular expression ^word.*  ")
-                        print("The number at the end is an indication of how common SCOWL thinks the word is.")
-                        print("For example, english-words.35 is supposed to be the top 35% most common.")
+                        scowl_lookup_usage()
                         exit(1)
 
         else:
