@@ -37,7 +37,9 @@ def play(puzl):
 
     guess_list = []
     player_pangram = False
-    achievements = { '50': False, '85': False}
+    achievements = { '50': False, '70': False, '85': False }
+    hints_available = 0
+    hints_used = 0
 
     # loop until game ends
     while True:
@@ -113,28 +115,39 @@ def play(puzl):
             w = int(get_terminal_size().columns / c)
             utils.print_table(print_list, c, w)
             print()
-
+            
+            word_percent=round(player_words*100.0/word_count,1)
+            score_percent=round(player_score*100.0/total_score,1)
             # Did they make it to 50% of words or score?
             if not achievements['50']:
-                word_percent=round(player_words*100.0/word_count,1)
-                score_percent=round(player_score*100.0/total_score,1)
                 if word_percent >= 50 or score_percent >= 50:
                     achievements['50'] = True
                     print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
                                 width=get_terminal_size().columns) )
                     print()
 
+            # Did they make it to 70% of words or score?
+            if not achievements['70']:
+                if word_percent >= 70 or score_percent >= 70:
+                    achievements['70'] = True
+                    print( fill("“AMAZING: You've reached 70%! Next bonus at 85%.”" ) )
+                    if hints_available>0:
+                        offer_hint()
+                    print()
+
             # Did they make it to 85% of words or score?
             if not achievements['85']:
-                word_percent=round(player_words*100.0/word_count,1)
-                score_percent=round(player_score*100.0/total_score,1)
                 if word_percent >= 85 or score_percent >= 85:
                     achievements['85'] = True
-                    print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”' ) )
+                    print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”', width=get_terminal_size().columns ) )
+                    hints_available += 1
+                    hints_used -= 1
+                    print( fill('You get one free hint.' ) )
+                    offer_hint()
                     print()
 
 
-            # add good guess to the list, so it can't be reused
+            # add good guess to the list, so it can't be reused
             guess_list.append(guess)
         
         # all words found (somehow this could be possible)
@@ -202,7 +215,12 @@ def show_not_found(word_list, guess_list):
     c=sorted( list(a-b) )
     if len(c) > 0:
         width=get_terminal_size().columns
-        print( fill('not found: ' +', '.join(c), subsequent_indent=' '*11 ))
+        print( fill('not found: ' +', '.join(c), subsequent_indent=' '*11 , width=width))
+
+def offer_hint(used, available):
+    width=get_terminal_size().columns
+    used_hints=f'{used} hint{"s" if used!=1 else ""}'
+    print( fill(f'You have used {used_hints} and have {available} remaining. {"Use !hint to get a hint." if available>0 else ""}', width=width))
 
 def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list, achievements):
     
