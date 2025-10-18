@@ -12,6 +12,8 @@ import glob
 import sys
 import gzip
 import re
+from dataclasses import dataclass, asdict
+
 
 # check validity of provided letters
 def check_letters(pzl):
@@ -56,18 +58,24 @@ def select_puzzle(puzl_idx=None):
     # scenario 3: create a new puzzle because an existing one was not found
     else:
         puzl_idx = generate_puzzles.main(puzl_idx)
-        print ('You created a new puzzle:',puzl_idx)
         puzl_path = params.PUZZLE_DATA_PATH + os.sep + puzl_idx + '.json'
+        print ('You created a new puzzle:',puzl_path)
     
     return puzl_path
 
+@dataclass
+class Puzzle:
+    letters: str
+    generation_info: dict
+    total_score: int
+    word_count: int
+    pangram_count: int
+    pangram_list: list
+    word_list: list
+
 def read_puzzle(puzl_path):
-
     with open(puzl_path,'r') as fp:
-        puzzles = json.load(fp)
-
-    #print(len(puzzles.get('letters'),'total puzzle(s) were loaded')
-
+        puzzles = Puzzle(**json.load(fp))
     return puzzles
 
 def print_table(data, cols, wide):

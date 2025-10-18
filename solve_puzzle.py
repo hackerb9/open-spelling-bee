@@ -7,23 +7,24 @@ import utils
 
 import os
 import sys
+from dataclasses import asdict
 
 def solve(p):
 
-    print ('letters:', p.get('letters',None))
-    print ('total_score:', p.get('total_score',''))
-    print ('word_count:', p.get('word_count',''))
-    print ('pangram(s):', ', '.join(p.get('pangram_list',[])))
+    print ('letters:', p.letters)
+    print ('total_score:', p.total_score)
+    print ('word_count:', p.word_count)
+    print ('pangram(s):', ', '.join(p.pangram_list))
     print ()
 
     # print all answers
-    for x in p.get('word_list',[]):
+    for x in p.word_list:
         score = x.get('score')
 
         # add 7 points if word is pangram
-        if x.get('word') in p.get('pangram_list',[]):
+        if x['word'] in p.pangram_list:
             score += + 7
-        utils.print_table((x.get('word'),score), 2, 10)
+        utils.print_table((x['word'],score), 2, 10)
 
     return
 
