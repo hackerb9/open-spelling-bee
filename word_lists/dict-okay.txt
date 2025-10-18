@@ -1,6 +1,9 @@
 # Obscure words that should be recognized as valid but not used to
 # generate puzzles. Some sort of bonus may be given, like a free hint.
 
+# Some word pairs dance with hyphenation, joining and unjoining.
+# For this file, we'll be liberal and accept "pompoms", "deepfried", etc.
+
 challah
 anionic
 conic
@@ -72,7 +75,7 @@ militiaman, militiamen
 emetic
 decedent
 candida
-deadend, deadends
+deadend, deadends		# Hyphenation optional
 naiad, naiads
 nand
 fella, fellas
@@ -117,7 +120,7 @@ galena
 incel, incels
 enlace, enlaces, enlaced
 elan
-tattletale, tattletales
+tattletale, tattletales		# Hyphenation optional
 plat
 phthalate, phthalates
 telehealth
@@ -179,7 +182,7 @@ uric
 runic
 robotic
 biotic
-bricabrac
+bricabrac			# Hyphenation optional
 bract, bracts
 baobab, baobabs
 boob, boobs
@@ -198,7 +201,7 @@ gnomic
 eocene
 nonce
 moire
-pompom, pompoms
+pompom, pompoms			# Hyphenation optional
 tulle
 gonad, gonads
 agog
@@ -216,9 +219,9 @@ neap
 natal
 napa
 peen
-ballpeen
+ballpeen			# Hyphenation optional
 paean, paeans
-penpal, penpals
+penpal, penpals			# Hyphenation optional
 lenten
 aurally
 orca, orcas
@@ -231,7 +234,7 @@ ogee, ogees
 eigen
 bupleurum
 purl
-pellmell
+pellmell			# Hyphenation optional
 beep, beeps, beeped
 bleep, bleeps, bleeped
 pullup
@@ -249,7 +252,7 @@ roger, rogered
 grog
 engorge, engorged
 orgone
-lovelorn
+lovelorn			# Hyphenation optional
 gorgon
 vroom
 pincer
@@ -265,19 +268,19 @@ cathartic
 chit
 tarmac
 catarrh
-chitchat
+chitchat			# Hyphenation optional
 hath
 trotter
 looter
 floe
 toile
 toilette
-hifi, lofi, wifi
+hifi, lofi, wifi		# Hyphenation optional
 roil, roils, roiled
 footer
 roofer
 woofer, tweeter
-liftoff
+liftoff				# Hyphenation optional
 rotter
 fortifier
 folie
@@ -285,3 +288,12 @@ oriel
 oleo
 trefoil
 retool
+pied
+dipper
+dippier
+reified, reify
+refried
+riffed
+derriere
+eider
+deepfried			# Hyphenation optional
