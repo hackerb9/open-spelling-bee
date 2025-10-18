@@ -297,3 +297,7 @@ riffed
 derriere
 eider
 deepfried			# Hyphenation optional
+minty
+intuit, intuits, intuiting
+mung, mungbean
+munge, munges, munging
