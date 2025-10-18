@@ -224,14 +224,12 @@ def offer_hint(used, available):
 
 def help(msg, letters, guess_list, player_score, player_words, player_pangram, total_score, word_count, word_list, achievements):
     
-    # some features for
-    clean_msg = msg.replace('!','')
-    if clean_msg:
-        clean_msg = clean_msg[0].lower()
-    else:
-        clean_msg = 'i'         # ! by itself shows instructions
+    # "!FOO" -> "foo"
+    msg = msg[1:].lower()
+    if msg == 'help': msg = 'h'
+    if msg == '': msg = 'i'     # ! by itself shows instructions
 
-    if clean_msg == 'q':
+    if msg == 'q' or msg == 'quit':
         print('Quitting...')
         print(show_status(guess_list, player_words, word_count, player_score, total_score, player_pangram, achievements))
         if achievements['50']:
@@ -264,10 +262,10 @@ def help(msg, letters, guess_list, player_score, player_words, player_pangram, t
         'i' : instruction_msg,
         'g' : draw_letters_honeycomb(letters),
         'f' : draw_letters_honeycomb(shuffle_letters(letters)),
-        's' : show_status(guess_list, player_words, word_count, player_score, total_score, player_pangram, achievements)
+        's' : show_status(guess_list, player_words, word_count, player_score, total_score, player_pangram, achievements),
     }
 
-    print(msg_dict.get(clean_msg,'Unknown selection'))
+    print(msg_dict.get(msg,f'Unknown command: {msg}'))
     return
 
 def main():
