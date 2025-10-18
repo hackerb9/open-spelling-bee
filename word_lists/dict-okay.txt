@@ -257,7 +257,6 @@ pricier
 crimp, crimped, crimping, crimps
 preemie
 niner
-woofer, tweeter
 foodie
 droid
 matcha
@@ -268,3 +267,21 @@ tarmac
 catarrh
 chitchat
 hath
+trotter
+looter
+floe
+toile
+toilette
+hifi, lofi, wifi
+roil, roils, roiled
+footer
+roofer
+woofer, tweeter
+liftoff
+rotter
+fortifier
+folie
+oriel
+oleo
+trefoil
+retool
