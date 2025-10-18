@@ -16,6 +16,7 @@ verier
 properer
 properest
 guying
+phonied
 
 # Many common nouns conjugated as less common verbs in SCOWL english-words.35.
 abscessing
