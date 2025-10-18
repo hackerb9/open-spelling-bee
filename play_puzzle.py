@@ -132,7 +132,7 @@ def play(puzl):
                     achievements['70'] = True
                     print( fill("“AMAZING: You've reached 70%! Next bonus at 85%.”" ) )
                     if hints_available>0:
-                        offer_hint()
+                        offer_hint(hints_used, hints_available)
                     print()
 
             # Did they make it to 85% of words or score?
@@ -143,7 +143,7 @@ def play(puzl):
                     hints_available += 1
                     hints_used -= 1
                     print( fill('You get one free hint.' ) )
-                    offer_hint()
+                    offer_hint(hints_used, hints_available)
                     print()
 
 
