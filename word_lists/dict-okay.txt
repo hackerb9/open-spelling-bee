@@ -301,3 +301,6 @@ minty
 intuit, intuits, intuiting
 mung, mungbean
 munge, munges, munging
+modded, modding
+hotrod, hotrodding, hotrods
+opine, opined, opines
