@@ -178,42 +178,6 @@ def compare_overlap(f1, f2):
         print(f"{'Words in both':>30}: {both:>2}")
         print(f"{'Overlap':>30}: {100*both/min(len1,len2):>5.2f}%")
 
-def scowl_lookup(pattern):
-        '''Like the look(1) command, shows matches for "pattern" as a prefix,
-        but searches through the SCOWL word_lists.
-        Essentially: rgrep -i ^pattern word_lists/scowl
-
-        NOTE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
-
-        If there are too many matches and you just want the exact
-        word, just put a $ at the end. For example,
-
-            $ ./utils.py slook mes | wc -l
-            914
-            $ ./utils.py slook mes$ | wc -l
-            2
-        '''
-
-        regex=re.compile(fr'^{pattern}.*', flags=re.IGNORECASE|re.MULTILINE)
-        for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
-                with open(f, 'r', encoding='ISO-8859-1') as fp:
-                        output=re.findall(regex, fp.read())
-                        for w in output:
-                                try:
-                                        print(f'{f}: {w}')
-                                except BrokenPipeError:
-                                        sys.stdout = None
-
-def scowl_sort(fullpath):
-        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
-        name, ext = os.path.splitext(fullpath)
-        try:
-                ext = int(ext[1:])
-        except ValueError:
-                ext = 999
-
-        return (ext, name)
-
 def scowl_lookup_usage():
         print('''Usage: ./utils.py slook <pattern>
 
@@ -235,6 +199,46 @@ Too many matches? For the exact word, put a '$' at the end. For example,
     word_lists/scowl/english-words.35: mes
 ''')
 
+
+def scowl_lookup(pattern):
+        '''Like the look(1) command, shows matches for "pattern" as a prefix,
+        but searches through the SCOWL word_lists.
+        Essentially: rgrep -i ^pattern word_lists/scowl
+
+        NOTE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
+
+        If there are too many matches and you just want the exact
+        word, just put a $ at the end. For example,
+
+            $ ./utils.py slook mes | wc -l
+            914
+            $ ./utils.py slook mes$ | wc -l
+            2
+        '''
+
+        if type(pattern) is not list:
+                pattern = [ pattern ]
+
+        for p in pattern:
+                regex=re.compile(fr'^{p}.*', flags=re.IGNORECASE|re.MULTILINE)
+                for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
+                        with open(f, 'r', encoding='ISO-8859-1') as fp:
+                                output=re.findall(regex, fp.read())
+                                for w in output:
+                                        try:
+                                                print(f'{f}: {w}')
+                                        except BrokenPipeError:
+                                                sys.stdout = None
+
+def scowl_sort(fullpath):
+        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
+        name, ext = os.path.splitext(fullpath)
+        try:
+                ext = int(ext[1:])
+        except ValueError:
+                ext = 999
+
+        return (ext, name)
 
 
                 
