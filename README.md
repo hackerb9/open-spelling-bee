@@ -352,9 +352,21 @@ pangrams which use every single letter in the center. Of the 3099
 puzzles, there are only 1314 pangrams. Simply considering them
 "duplicates" and throwing them out might be problem.
 
-To generate the table in the future, one can use:
+* To generate the table in the future, one can use:
 
-<!-- Single backtick instead of three so it wraps on the screen -->
-`grep -h -B3 '"pangram": true' data/*.json  | grep word | sort | uniq -c | cut -c-10 | sort -n | uniq -c | awk '{printf("|%4d |%3d |%5d |\n", $2, $1, $1*$2)}'`
+  <!-- Single backtick instead of three so it wraps on the screen -->
+  `grep -h -B3 '"pangram": true' data/*.json  | grep word | sort | uniq -c | cut -c-10 | sort -n | uniq -c | awk '{printf("|%4d |%3d |%5d |\n", $2, $1, $1*$2)}'`
 
+* To see which files are the n-tuplets:
 
+  `grep -B3 '"pangram": true' data/*.json  | grep word | sort -k3 | awk '{ $1=substr($1, 6, 7) ; if (old != $3) {print count "\t" files; count=1; files=$1; old=$3;} else {count++; files=files "\t" $1;}} END { print count "\t" files; }' | sort -n `
+
+  the last five lines of that are:
+
+  ```
+  6 ECFLORU FCELORU LCEFORU OCEFLRU RCEFLOU UCEFLOR
+  6 ECIKLNR ICEKLNR KCEILNR LCEIKNR NCEIKLR RCEIKLN
+  6 EFILNTY FEILNTY IEFLNTY LEFINTY NEFILTY TEFILNY
+  7 CEHINOR ECHINOR HCEINOR ICEHNOR NCEHIOR OCEHINR RCEHINO
+  7 INOPRTU NIOPRTU OINPRTU PINORTU RINOPTU TINOPRU UINOPRT
+  ```
