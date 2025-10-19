@@ -148,15 +148,15 @@ Too many words are being refused. Example: IACLNOV:
     convivial, cannoli, oilcan, voila, parry, aurora, pyro, purl,
 	parlay, orally, aurally
 
-* [_] `!A` should add words to a user dictionary for later analysis.
+* [ ] `!A` should add words to a user dictionary for later analysis.
 
-* [_] Use that dict to figure out what SCOWL dictionary is best.
+* [ ] Use that dict to figure out what SCOWL dictionary is best.
 
-* [_] Give player extra points for words which are not in the
+* [ ] Give player extra points for words which are not in the
   generating dictionary but are valid in more recondite sources.
   (Check user dict, more scowl, or maybe online dictd).
 
-* [_] Super points for a second PANGRAM; volcanic / convivial.
+* [ ] Super points for a second PANGRAM; volcanic / convivial.
 
 
 ### Remove unininteresting puzzles 
@@ -169,13 +169,22 @@ in which more than half of the words end in -ING.
 
   * [x] Can we reject if uniqueness is below a certain percentage? No.
 
-  * It is true that the unintersting puzzles have low uniqueness
-    scores below 50% (WAGINOV uniqueness = 0.47) 
+  * It is true that the uninteresting puzzles have low uniqueness
+    scores, usually below 50% (WAGINOV uniqueness = 0.47)...
 
   * However, some puzzles with low "uniqueness" are interesting (e.g.,
-    `RCEIMNP`, uniq = 0.42). There are even -ING heavy puzzles that
-    are fun (e.g., `ICGNOTV`, uniq = 0.38).
+    `RCEIMNP`, uniq = 0.42). 
 	
+* [x] Are there puzzles which have a repetitive suffix and yet are
+      still interesting? Yes. Maybe.
+
+  * `TAIMNOV`, uniq = 0.42, contains many similar words, but finding
+    them was challenging and not redundant as they all had unique
+    meanings. (initiation, innovation, intonation, invitation,
+    intimation, imitation, annotation, aviation, animation, ...).
+
+  * There are even -ING heavy puzzles that are fun (e.g., `ICGNOTV`, uniq = 0.38).
+
 * [ ] Perhaps what gets players annoyed is when they have to inflect
       every word: WAGE, WAGED, WAGGLE, WAGGLED, BADGE, BADGED
 
@@ -306,7 +315,7 @@ Cause, why not?
 * [ ] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
   earned a free HINT. Use '!HINT' when stuck.”
 
-### Use fancy terminal escape sequences
+### Use "fancy" terminal escape sequences?
 
 * Currently this program runs the same whether on a teletypewriter or
 a video terminal. Full screen ncurses would be too much, but it might be
@@ -335,22 +344,24 @@ sometimes the rest of the words can be very different. What's the
 appropriate measure if the set of answers is too similar between
 puzzles? If they are too similar, which one should be kept?
 
-Here's a table for the set of 3099 puzzles being generated as of 2025.
+  * [x] Create a table of Döppelgangers
 
-| Döppelganger Number | Num Pangrams | Num Puzzles |
-|--------------------:|-------------:|------------:|
-| Unique            1 |          411 |         411 |
-| Twins             2 |          383 |         766 |
-| Triplets          3 |          257 |         771 |
-| Quadruplets       4 |          183 |         732 |
-| Quintuplets       5 |           63 |         315 |
-| Sextuplets        6 |           15 |          90 |
-| Septuplets        7 |            2 |          14 |
+  For the 3099 puzzles being generated as of 2025:
 
-That shows 411 of the puzzles have a unique pangram. There are two
-pangrams which use every single letter in the center. Of the 3099
-puzzles, there are only 1314 pangrams. Simply considering them
-"duplicates" and throwing them out might be problem.
+  | Döppelganger Number | Num Pangrams | Num Puzzles |
+  |--------------------:|-------------:|------------:|
+  | Unique            1 |          411 |         411 |
+  | Twins             2 |          383 |         766 |
+  | Triplets          3 |          257 |         771 |
+  | Quadruplets       4 |          183 |         732 |
+  | Quintuplets       5 |           63 |         315 |
+  | Sextuplets        6 |           15 |          90 |
+  | Septuplets        7 |            2 |          14 |
+
+  That shows 411 of the puzzles have a unique pangram. There are two
+  pangrams which use every single letter in the center. Of the 3099
+  puzzles, there are only 1314 pangrams. Simply considering them
+  "duplicates" and throwing them out might be problem.
 
 * To generate the table in the future, one can use:
 
@@ -370,3 +381,40 @@ puzzles, there are only 1314 pangrams. Simply considering them
   7 CEHINOR ECHINOR HCEINOR ICEHNOR NCEHIOR OCEHINR RCEHINO
   7 INOPRTU NIOPRTU OINPRTU PINORTU RINOPTU TINOPRU UINOPRT
   ```
+
+  * [x] Make a tool to compare twin puzzles. 
+  
+    ```
+    $ ./utils.py cmp gcinotv icgnotv
+	data/GCINOTV.json: 40
+	data/ICGNOTV.json: 48
+	    Words in both: 37
+	          Overlap: 92.50%
+    ```
+	
+    Of the 40 words in `GCINOTV`, only three of them are not in
+    `ICGNOTV` for 92.5% overlap. Clearly a player would find one of
+    them redundant. The latter has more unique words (11), but more
+    words is not always better. Is there a programmatic way to choose
+    which should be kept?
+
+  * [ ] Make a tool to compare multiple puzzles. 
+  
+    ```
+    $ ./utils.py cmp AIMNOTV IAMNOTV NAIMOTV OAIMNTV TAIMNOV MAINOTV
+
+    ??? output might be number of unique words or perhaps a histogram
+	??? counting the number of words which were found in n different puzzles.
+    ??? But is that useful? 
+	```
+	
+	The real metric is, will people feel like they are playing a
+	different puzzle or will it be deja vu? Perhaps if more than 50%
+	of the words are unique it's okay? 
+
+  * [ ] Maybe Döppelgangers is the wrong way to look at this. Make a
+        tool to count up the occurrences of each word over *all*
+        puzzles. Maybe a puzzle which has a lot of very common words
+        should be discarded regardless of whether it has a unique
+        pangram?
+
