@@ -281,10 +281,10 @@ def command(msg, puzzle, player):
     elif msg == 'hint':
         give_hint(puzzle, player)
     elif msg.startswith('slook'):
-        tempwords = msg.split()[1:]
-        if len(tempwords) == 0:
-            tempwords=[ player.lastguess ]
-        utils.scowl_lookup(tempwords)
+        if len( msg.split()[1:] ) > 0:
+            utils.scowl_lookup( msg.split()[1:] )
+        else:
+            utils.scowl_lookup( player.lastguess )
     else:
         print(f'Unknown command "!{msg}"')
         print_help()
