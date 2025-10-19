@@ -253,49 +253,71 @@ they have all (so far) been actual English words, just obscure ones.
 
 ### Give hints
 
-The last few words can be a pain to solve. It would be nice if this
-program could give hints when needed. For example, _“The most common
-starting letter for the words remaining is 'R'”_ or “There are 3 'R'
-words, 2 'S' words, and 1 'T' word.”_
+The last few words can be a pain to solve. This program can now give
+hints using `!hint`, but it is currently too easy and needs to be
+better balanced. It should be discouraged or even forbidden until the
+player truly needs it.
 
-Another way to provide hints would be to give specific letters, like so:
+  * [x] Give hints by progressively revealing letters of the longest
+        remaining word.
 
-1. First hint: In the "found words" list, use underscores to indicate
-   the length of words that have not yet been found.
+	```
+	Your guess: !hint
+	ABE_____ (8 letters)
+	```
 
-	`ABEYANCE  BAOBAB  _______  ______  _____`
-   
-1. Second hint: Fill in the first letter of the longest remaining word.
+  * [ ] Balance hints. Maybe charge for them and if the user doesn't
+        have enough points they can't get it? Or use a timer? Or maybe
+        randomly offer a hint when they quit if they happen to
+        "MATCH", like in pinball — except in this case we want to
+        encourage novices so, the less points you have the more likely
+        you are to match?
 
-	`ABEYANCE  BAOBAB  C______  ______  _____`
+  * [ ] Start out with more subtle hints. For example, _“The most
+	common starting letter for the words remaining is 'R'”_ or _“There
+	are 3 'R' words, 2 'S' words, and 1 'T' word.”_
 
-1. Fill in the first letter of all remaining words.
+  * [ ] Another way to provide hints would be to show them along with
+	the found words list (`!s`) using underscores. This would work
+	especially well if the found words are already printing to the
+	side of the honeycomb. (See other todo item.)
 
-	`ABEYANCE  BAOBAB  C______  B_____  N____`
+	1. First hint: In the "found words" list, show unfound words using
+	   underscores.
 
-1. Fill in the second letter of the longest remaining word. 
+		`ABEYANCE  BAOBAB  _______  ______  _____`
 
-	`ABEYANCE  BAOBAB  CA_____  B_____  N____`
+	1. Second hint: Fill in the first letter of the longest remaining word.
 
-1. Fill in the second letter of all remaining words. 
+		`ABEYANCE  BAOBAB  C______  ______  _____`
 
-	`ABEYANCE  BAOBAB  CA_____  BA____  NA___`
+	1. Fill in the first letter of all remaining words.
 
-1. Fill in third letter of the longest remaining word. 
+		`ABEYANCE  BAOBAB  C______  B_____  N____`
 
-	`ABEYANCE  BAOBAB  CAY____  BA____  NA___`
+	1. Fill in the second letter of the longest remaining word. 
 
-1. et cetera
+		`ABEYANCE  BAOBAB  CA_____  B_____  N____`
 
-	`ABEYANCE  BAOBAB  CAY____  BAB___  NAB__`
+	1. Fill in the second letter of all remaining words. 
 
-1. et cetera
+		`ABEYANCE  BAOBAB  CA_____  BA____  NA___`
 
-	`ABEYANCE  BAOBAB  CAYE___  BAB___  NAB__`
+	1. Fill in third letter of the longest remaining word. 
 
-1. et cetera
+		`ABEYANCE  BAOBAB  CAY____  BA____  NA___`
 
-	`ABEYANCE  BAOBAB  CAYE___  BABO__  NABO_`
+	1. et cetera
+
+		`ABEYANCE  BAOBAB  CAY____  BAB___  NAB__`
+
+	1. et cetera
+
+		`ABEYANCE  BAOBAB  CAYE___  BAB___  NAB__`
+
+	1. et cetera
+
+		`ABEYANCE  BAOBAB  CAYE___  BABO__  NABO_`
 
 ### libreadline
 
@@ -309,11 +331,11 @@ Cause, why not?
 * [x] “GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When
   you quit, any remaining words will be listed.”
 
+* [x] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
+  earned a free HINT. Use '!HINT' when stuck.”
+
 * [ ] “ERUDITION BONUS: We didn't expect people to know that word. You get
   one free hint. Use !HINT when stuck.”
-
-* [ ] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
-  earned a free HINT. Use '!HINT' when stuck.”
 
 ### Use "fancy" terminal escape sequences?
 
