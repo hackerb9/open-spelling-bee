@@ -141,6 +141,7 @@ def play(puzzle):
         # all words found (somehow this could be possible)
         if player.words == puzzle.word_count:
             print ('Congratulations. You found them all!','\n')
+            print_status(puzzle, player)
             exit(0)
 
 def shuffle_letters(game_letters):
