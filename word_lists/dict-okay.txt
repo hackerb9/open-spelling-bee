@@ -311,3 +311,4 @@ pinout, pinouts
 tiptop
 pinto
 tinpot
+zine
