@@ -46,27 +46,22 @@ def play(puzzle):
         guess = ask_user()
 
         # user need some help
-        if guess in ('', '?'): guess="!h"
+        if guess in ('', '!redraw'): guess="!g"
+        if guess in ('?', '!?', '!help'): guess="!h"
         if guess.startswith('!'):
             command(guess, puzzle, player)
             continue
 
-        # already guessed that
+        # Is word easily dismissable?
         if guess in player.found:
             print ('You already found:',guess,'\n')
             continue
-        
-        # guess less than minimum letters
         if len(guess) < params.MIN_WORD_LENGTH:
             print (f'Guessed word is too short. Minimum length: {params.MIN_WORD_LENGTH}\n')
             continue           
-
-        # scenario 1: includes letter not in a list
         if any([x for x in guess if x not in puzzle.letters]):
             print ('Invalid letter(s)','\n')
             continue
-
-        # scenario 2: doesn't include center letter but all other letters valid
         if puzzle.letters[0] not in guess:
             print ('Must include center letter:',puzzle.letters[0],'\n')
             continue
@@ -76,19 +71,17 @@ def play(puzzle):
         word_index = next((index for (index, d) in enumerate(puzzle.word_list) if d['word'] == guess), None)
 
         if word_index is None:
-            # scenario 4: not a valid word
-            print ('Sorry,',guess,'is not a valid word','\n')
+            print (f'Sorry, "{guess}" is not a valid word','\n')
             continue
-        elif guess in player.found:
-            # scenario 5: good word but already found
-            print ('You already found',guess,'\n')
-            continue
+
         else:
             # word is valid and found
-            word_dict = puzzle.word_list[word_index]
-
             player.words += 1
 
+            # add good guess to the list, so it can't be reused
+            player.found.append(guess)
+
+            word_dict = puzzle.word_list[word_index]
             word_score = word_dict.get('score')
             if word_dict.get('word') in puzzle.pangram_list:
                 # pangrams are worth +7 extra
@@ -144,9 +137,6 @@ def play(puzzle):
                     print( fill('You get one free hint.' ) )
                     offer_hint(player.hints_used, player.hints)
                     print()
-
-            # add good guess to the list, so it can't be reused
-            player.found.append(guess)
         
         # all words found (somehow this could be possible)
         if player.words == puzzle.word_count:
@@ -224,7 +214,7 @@ def offer_hint(used, available):
     print( fill(f'You have used {used_hints} and have {available} remaining. {"Use !hint to get a hint." if available>0 else ""}', width=width))
 
 def command(msg, puzzle, player):
-    
+    '''Player gave a !msg command, so do the action requested'''
     # "!FOO" -> "foo"
     msg = msg[1:].lower()
     if msg == '': msg = 'i'     # ! by itself shows instructions
@@ -234,6 +224,7 @@ def command(msg, puzzle, player):
         print('Quitting...')
         print_status(puzzle, player)
 
+        # If they got over 50%, then show them the words they missed
         if player.achievements['50']:
             show_not_found(puzzle.word_list, player.found)
         exit(0)
