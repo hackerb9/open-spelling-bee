@@ -193,13 +193,15 @@ def ask_user(prompt='Your guess: '):
 
 def print_status(puzzle, player):
     width=get_terminal_size().columns
+    print (f'''\
+    player words: {player.words} / {puzzle.word_count} ({round(player.words*100.0/puzzle.word_count,1)}%)
+    player score: {player.score-2**player.hint_penalty+1} / {puzzle.total_score} ({round(player.score*100.0/puzzle.total_score,1)}%)
+    hint penalty: {2**player.hint_penalty-1}, hints used: {player.hints_used}, hints available: {player.hints_available}
+    pangram found: {player.pangram}''')
+
     if len(player.found) > 0:
         print (fill('found: ' + ', '.join(player.found[::-1]), width=width-8,
                     initial_indent=' '*4, subsequent_indent=' '*11))
-    print (f'''\
-    player words: {player.words} / {puzzle.word_count} ({round(player.words*100.0/puzzle.word_count,1)}%)
-    player score: {player.score} / {puzzle.total_score} ({round(player.score*100.0/puzzle.total_score,1)}%)
-    pangram found: {player.pangram}''')
 
 
 def get_not_found(word_list, player_found):
