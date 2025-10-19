@@ -23,6 +23,7 @@ class PlayerState:
     hints_used = 0
     hint_penalty = 0
     hints_given = {}
+    lastguess = 'anomia'
 
 def play(puzzle):
     # "puzzle" is a Puzzle dataclass, see utils.py.
@@ -54,6 +55,7 @@ def play(puzzle):
             command(guess, puzzle, player)
             continue
 
+        player.lastguess = guess       # Save for future ! commands like !ok
         # Is word easily dismissable?
         if guess in player.found:
             print ('You already found:',guess,'\n')
@@ -278,6 +280,11 @@ def command(msg, puzzle, player):
         print_status(puzzle, player)
     elif msg == 'hint':
         give_hint(puzzle, player)
+    elif msg.startswith('slook'):
+        tempwords = msg.split()[1:]
+        if len(tempwords) == 0:
+            tempwords=[ player.lastguess ]
+        utils.scowl_lookup(tempwords)
     else:
         print(f'Unknown command "!{msg}"')
         print_help()
