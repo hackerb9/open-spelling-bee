@@ -19,8 +19,10 @@ class PlayerState:
     found = []
     pangram = False
     achievements =  { '50': False, '70': False, '85': False }
-    hints = 0
+    hints_available = 0
     hints_used = 0
+    hint_penalty = 0
+    hints_given = {}
 
 def play(puzzle):
     # "puzzle" is a Puzzle dataclass, see utils.py.
@@ -122,9 +124,9 @@ def play(puzzle):
             if not player.achievements['70']:
                 if word_percent >= 70 or score_percent >= 70:
                     player.achievements['70'] = True
-                    print( fill("“AMAZING: You've reached 70%! Next bonus at 85%.”" ) )
-                    if player.hints>0:
-                        offer_hint(player.hints_used, player.hints)
+                    print( fill("“AMAZING: You've reached 70%! You'll get a bonus at 85%.”" ) )
+                    if player.hints_available>0:
+                        offer_hint(player.hints_used, player.hints_available)
                     print()
 
             # Did they make it to 85% of words or score?
@@ -132,10 +134,9 @@ def play(puzzle):
                 if word_percent >= 85 or score_percent >= 85:
                     player.achievements['85'] = True
                     print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”', width=get_terminal_size().columns ) )
-                    player.hints += 1
-                    player.hints_used -= 1
+                    player.hints_available += 1
                     print( fill('You get one free hint.' ) )
-                    offer_hint(player.hints_used, player.hints)
+                    offer_hint(player.hints_used, player.hints_available)
                     print()
         
         # all words found (somehow this could be possible)
@@ -181,9 +182,9 @@ def draw_letters_honeycomb(game_letters):
 
     return hex_string.format(*game_letters)
 
-def ask_user():
+def ask_user(prompt='Your guess: '):
     try:
-        text = input('Your guess: ')
+        text = input(prompt)
         text = text.strip().upper()
         return text
     except (EOFError, KeyboardInterrupt):
@@ -201,10 +202,14 @@ def print_status(puzzle, player):
     pangram found: {player.pangram}''')
 
 
-def show_not_found(word_list, player_found):
+def get_not_found(word_list, player_found):
     a=set( x['word'] for x in word_list )
     b=set(player_found)
     c=sorted( list(a-b) )
+    return c
+
+def show_not_found(word_list, player_found):
+    c = get_not_found(word_list, player_found)
     if len(c) > 0:
         width=get_terminal_size().columns
         print( fill('not found: ' +', '.join(c), subsequent_indent=' '*11 , width=width))
@@ -213,6 +218,35 @@ def offer_hint(used, available):
     width=get_terminal_size().columns
     used_hints=f'{used} hint{"s" if used!=1 else ""}'
     print( fill(f'You have used {used_hints} and have {available} remaining. {"Use !hint to get a hint." if available>0 else ""}', width=width))
+
+def give_hint(puzzle, player):
+    '''Show a hint by revealing a letter of the longest unfound word.'''
+    if (player.hints_available <= 0):
+        reply=ask_user("It'll cost you. Are you sure? ")
+        if len(reply)==0 or reply[0] != 'Y':
+            print()
+            return
+        player.hint_penalty += 1
+    else:
+        player.hints_available -= 1
+    player.hints_used += 1
+    word = get_longest_unfound(puzzle.word_list, player.found)
+    if not word in player.hints_given:
+        player.hints_given[word] = 0
+    if player.hints_given[word] >= len(word):
+        print(word)             # Humph. Need we say more?
+        print()
+        return
+    player.hints_given[word] += 1
+    x=player.hints_given[word]
+    y=len(word) - player.hints_given[word]
+    print( word[0:x] + '_'*y, len(word), 'letters' )
+    print()
+    
+def get_longest_unfound(word_list, player_found):
+    c = get_not_found(word_list, player_found)
+    c = sorted(c, key=len)
+    return c[-1]
 
 def command(msg, puzzle, player):
     '''Player gave a !msg command, so do the action requested'''
@@ -240,6 +274,8 @@ def command(msg, puzzle, player):
         print(draw_letters_honeycomb(puzzle.letters))
     elif msg == 's':
         print_status(puzzle, player)
+    elif msg == 'hint':
+        give_hint(puzzle, player)
     else:
         print(f'Unknown command "!{msg}"')
         print_help()
