@@ -271,7 +271,7 @@ catarrh
 chitchat			# Hyphenation optional
 hath
 trotter
-looter
+looter, looters
 floe
 toile
 toilette
@@ -346,3 +346,13 @@ phenotype, phenotypes
 yoyo, yoyos, yoyoed
 ptooey
 collet, collets
+electrolyte, electrolytes
+octet, octets
+coot
+lector
+orrery
+ocelot
+erector
+rectory
+recto
+verso
