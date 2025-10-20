@@ -189,9 +189,12 @@ def ask_user(prompt='Your guess: '):
         text = input(prompt)
         text = text.strip().upper()
         return text
-    except (EOFError, KeyboardInterrupt):
+    except (KeyboardInterrupt):
         print("Exiting...")
         exit(1)
+    except (EOFError):
+        return ""
+
 
 def print_status(puzzle, player):
     width=get_terminal_size().columns
@@ -256,8 +259,7 @@ def command(msg, puzzle, player):
     '''Player gave a !msg command, so do the action requested'''
     # "!FOO" -> "foo"
     msg = msg[1:].lower()
-    if msg == '': msg = 'i'     # ! by itself shows instructions
-    if msg == 'help': msg = 'h'
+    if msg == '': msg = 'h'     # ! by itself shows the game commands
 
     if msg == 'q' or msg == 'quit':
         print('Quitting...')
@@ -268,7 +270,9 @@ def command(msg, puzzle, player):
             show_not_found(puzzle.word_list, player.found)
         exit(0)
     elif msg == 'h':
-        print_help()
+        print_short_commands()
+    elif msg == 'help':
+        print_full_commands()
     elif msg == 'i':
         print_instructions()
     elif msg == 'g':
@@ -287,31 +291,61 @@ def command(msg, puzzle, player):
             utils.scowl_lookup( player.lastguess )
     else:
         print(f'Unknown command "!{msg}"')
-        print_help()
+        print_short_commands()
     return
 
-def print_help():
-    print('!i : instructions\n!g : show letters\n!f : shuffle letters\n!s : player stats\n!h : this help\n!q : quit')
+def print_short_commands():
+    utils.print_table([ '!s : player stats', '!g : show letters', '!f : shuffle letters', '!i : instructions', '!q : quit', '!help: all commands' ], 3, 22)
+    print()
+
+def print_full_commands():
+    utils.print_table([ '!s : player stats and found words', '!g : show honeycomb of letters', '!i : game instructions',  '!f : shuffle letters', '!h : short command list', '!q : quit' ], 2, 35)
+    print()
+    print('''\
+Extended commands
+
+    !help : This extended command list
+    !hint : Request a hint
+    !slook  [word...] : Look up words (regex) in SCOWL word list
+    !dict   [word...] : Look up words in dictionary (requires dict)
+    !ok     [word...] : Accept this word in the future
+    !add    [word...] : Same as !ok, but also use it to generate new puzzles
+    !remove [word...] : Same as !ok, but disallow it from generating puzzles
+
+    Note: "[word...]" means zero, one, or more words are allowed.
+          If no words are specified, the last guess will be used.
+    ''')
+    print('''\
+Special keys
+
+    ENTER on an empty line shows the letters, same as !g.
+    Ctrl-U erase current guess and start typing again.
+    Ctrl-C immediately quits the program (handy to hide missed words).
+    ''')
+    
 
 def print_instructions():
     print(f'''
     Welcome to the Open Source Spelling Bee puzzle!
     To play, build minimum {params.MIN_WORD_LENGTH}-letter words.
     Each word must include the center letter at least once.
-    Letters may be used as many times as you'd like.
+    Letters may be used as many times as you'd like, in any order.
 
     Scoring: 1 point for a {params.MIN_WORD_LENGTH} letter word, and
              1 more point for each extra letter beyond that.
                 Example:      WORD - 1 point
-                             WORDS - 2 points
-                          SPELLING - 5 points
+                             WORDY - 2 points
+                            WORKED - 3 points
+                          WOODWORK - 5 points
 
     Each puzzle has {params.COUNT_PANGRAMS} pangram{"s" if params.COUNT_PANGRAMS!=1 else ""} that uses each of the {params.TOTAL_LETTER_COUNT} letters.
     The pangram is worth 7 extra points.
 
+                           KEYWORD - 4 points + 7 points (*** PANGRAM !!!)
+
     To reach "genius" level, you'll need to solve 50% of the words.
 
-    Have fun!
+    Type "!h" to see game commands. Have fun!
     ''')
 
 
