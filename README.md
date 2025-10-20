@@ -6,6 +6,11 @@ Open source port of New York Times' puzzle game Spelling Bee for the command lin
 
 Requires Python 3.x and nothing but standard Python libraries.
 
+![Screenshot of OSB in a terminal window][screenshot]
+
+[screenshot]: README.md.d/screenshot.webp "How many words can you spell from DEKORYW?"
+
+
 ## to play
 
 To download the game:
