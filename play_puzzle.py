@@ -28,13 +28,13 @@ class PlayerState:
 def play(puzzle):
     # "puzzle" is a Puzzle dataclass, see utils.py.
 
-    print('Type !help or !h for help')
+    print('Type !i for instructions or !h for command help')
     print('Playing puzzle index:',puzzle.letters)
     print('Your letters are:',draw_letters_honeycomb(puzzle.letters))
 
     # pangram is worth 7 extra points
     puzzle.total_score = puzzle.total_score + 7 * puzzle.pangram_count
-    
+
     print ('Max score:', puzzle.total_score)
     print ('Total words:', puzzle.word_count)
     print ('Uniqueness:', utils.uniqueness(puzzle.word_list))
@@ -62,7 +62,7 @@ def play(puzzle):
             continue
         if len(guess) < params.MIN_WORD_LENGTH:
             print (f'Guessed word is too short. Minimum length: {params.MIN_WORD_LENGTH}\n')
-            continue           
+            continue
         if any([x for x in guess if x not in puzzle.letters]):
             print ('Invalid letter(s)','\n')
             continue
@@ -111,7 +111,7 @@ def play(puzzle):
             w = int(get_terminal_size().columns / c)
             utils.print_table(print_list, c, w)
             print()
-            
+
             word_percent=round(player.words*100.0/puzzle.word_count,1)
             score_percent=round(player.score*100.0/puzzle.total_score,1)
             # Did they make it to 50% of words or score?
@@ -140,7 +140,7 @@ def play(puzzle):
                     print( fill('You get one free hint.' ) )
                     offer_hint(player.hints_used, player.hints_available)
                     print()
-        
+
         # all words found (somehow this could be possible)
         if player.words == puzzle.word_count:
             print ('Congratulations. You found them all!','\n')
@@ -155,7 +155,7 @@ def shuffle_letters(game_letters):
     return game_letters[0] + ''.join(other_letters)
 
 def draw_letters_honeycomb(game_letters):
-    
+
     # taken from http://ascii.co.uk/art/hexagon
 
     if len(game_letters) != 7:
@@ -249,7 +249,7 @@ def give_hint(puzzle, player):
     y=len(word) - player.hints_given[word]
     print( word[0:x] + '_'*y, len(word), 'letters' )
     print()
-    
+
 def get_longest_unfound(word_list, player_found):
     c = get_not_found(word_list, player_found)
     c = sorted(c, key=len)
@@ -322,35 +322,34 @@ Special keys
     Ctrl-U erase current guess and start typing again.
     Ctrl-C immediately quits the program (handy to hide missed words).
     ''')
-    
+
 
 def print_instructions():
     print(f'''
     Welcome to the Open Source Spelling Bee puzzle!
-    To play, build minimum {params.MIN_WORD_LENGTH}-letter words.
+    To play, spell {params.MIN_WORD_LENGTH}-letter or longer words.
     Each word must include the center letter at least once.
     Letters may be used as many times as you'd like, in any order.
 
-    Scoring: 1 point for a {params.MIN_WORD_LENGTH} letter word, and
-             1 more point for each extra letter beyond that.
-                Example:      WORD - 1 point
-                             WORDY - 2 points
-                            WORKED - 3 points
-                          WOODWORK - 5 points
+    Scoring: 1 point for a {params.MIN_WORD_LENGTH}-letter word, and +1 for each extra letter.
+                Example:      WORD : 1 point
+                             WORDY : 2 points
+                            WORKED : 3 points
+                          WOODWORK : 5 points
 
     Each puzzle has {params.COUNT_PANGRAMS} pangram{"s" if params.COUNT_PANGRAMS!=1 else ""} that uses each of the {params.TOTAL_LETTER_COUNT} letters.
     The pangram is worth 7 extra points.
-
-                           KEYWORD - 4 points + 7 points (*** PANGRAM !!!)
+                       *** KEYWORD : 4 points + 7 points
 
     To reach "genius" level, you'll need to solve 50% of the words.
+    Type "!h" to see game commands.
 
-    Type "!h" to see game commands. Have fun!
+    Have fun!
     ''')
 
 
 def main():
-    
+
     # try to read an existing or new puzzle from command line (not required)
     try:
         puzzle_idx = sys.argv[1].strip().upper()
@@ -358,7 +357,7 @@ def main():
         puzzle_idx = None
 
     if puzzle_idx is not None:
-        
+
         # check validity of letters
         utils.check_letters(puzzle_idx)
 
@@ -372,4 +371,3 @@ def main():
 if __name__ == "__main__":
 
     main()
- 
