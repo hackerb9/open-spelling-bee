@@ -35,9 +35,11 @@ def play(puzzle):
     # pangram is worth 7 extra points
     puzzle.total_score = puzzle.total_score + 7 * puzzle.pangram_count
 
-    print ('Max score:', puzzle.total_score)
-    print ('Total words:', puzzle.word_count)
-    print ('Uniqueness:', utils.uniqueness(puzzle.word_list))
+    utils.print_table([f'Max score: {puzzle.total_score}', 
+                       f'Total words: {puzzle.word_count}',
+                       f'Uniqueness: {utils.uniqueness(puzzle.word_list)}'],
+                      3, 25)
+                      
 
     #print(puzzle.word_list) # no cheating!
 
@@ -303,24 +305,20 @@ def print_full_commands():
     print()
     print('''\
 Extended commands
-
-    !help : This extended command list
-    !hint : Request a hint
-    !slook  [word...] : Look up words (regex) in SCOWL word list
-    !dict   [word...] : Look up words in dictionary (requires dict)
-    !ok     [word...] : Accept this word in the future
-    !add    [word...] : Same as !ok, but also use it to generate new puzzles
-    !remove [word...] : Same as !ok, but disallow it from generating puzzles
+    !hint             : Request a hint.
+    !slook  [word...] : Look up words (regex) in SCOWL word lists.
+    !dict   [word...] : Look up words in dictionary (requires dict).
+    !ok     [word...] : Accept this word in the future as a bonus word.
+    !add    [word...] : Add to the wordlist used to generate new puzzles.
+    !remove [word...] : Remove from wordlist when generating puzzles.
 
     Note: "[word...]" means zero, one, or more words are allowed.
           If no words are specified, the last guess will be used.
     ''')
     print('''\
 Special keys
-
     ENTER on an empty line shows the letters, same as !g.
-    Ctrl-U erase current guess and start typing again.
-    Ctrl-C immediately quits the program (handy to hide missed words).
+    Ctrl-U erases current guess. Ctrl-C exits immediately.
     ''')
 
 
