@@ -210,6 +210,11 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 
 	print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(1))))
 
+	if manual_puzzle and (len(pangram_list) < params.COUNT_PANGRAMS):
+                print(f'Warning: {len(pangram_list)} pangrams found'
+                      f'(of {params.COUNT_PANGRAMS} required) in {letters}',
+                      file=sys.stderr)
+
 	# if you made it this far, you have a valid word list
 	# and the game will be recorded
 
