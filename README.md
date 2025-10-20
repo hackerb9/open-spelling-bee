@@ -2,7 +2,10 @@
 
 # 🐝
 
-Open source port of New York Times' puzzle game Spelling Bee for the command line.
+Open source port of New York Times' puzzle game [Spelling Bee][NYT] for the command line.
+
+[NYT]: https://www.nytimes.com/puzzles/spelling-bee "The New York Times Spelling Bee"
+
 
 Requires Python 3.x and nothing but standard Python libraries.
 
@@ -38,7 +41,9 @@ To solve a game (aka cheat-mode):
 
 If the game does not exist, it will be created and saved to the `data/` folder. 
 
-For a list of the previous NY Times letter selections, see [William Shunn's page](https://www.shunn.net/bee/?past=1).
+For a list of the previous NY Times letter selections, see [William Shunn's sbsolver][sbsolver].
+
+[sbsolver]: https://www.sbsolver.com/s/1 "WAHORTY: May 9, 2018"
 
 ## to generate new puzzles
 
@@ -78,12 +83,18 @@ To play, build words with a minimum of 4 letters, using the letters provided.
 
 Each word must include the center letter at least once.
 
-Letters may be used as many times as you'd like.
+Letters may be used as many times as you'd like and in any order.
 
 Scoring: 1 point for a 4 letter word, and 1 more point for each additional letter.
 
+                Example:      WORD : 1 point
+                             WORDY : 2 points
+                            WORKED : 3 points
+                          WOODWORK : 5 points
+
 Each puzzle has 1 "pangram" that uses each of the 7 letters at least once. The pangram is worth 7 extra points.
 
+                       *** KEYWORD : 4 points + 7 points
 
 
 ## example play
@@ -138,7 +149,7 @@ Use the following commands for more details:
 
 ## interesting puzzles
 
-+ High "uniqueness" score: `EAINTXY`, `BACIORT`, `IACMORT`
++ High "uniqueness" score (answers are dissimilar): `EAINTXY`, `BACIORT`, `IACMORT`
 
 + `Q` as center letter: `QAHILSU`, `QBEISTU`
 
@@ -149,6 +160,16 @@ Use the following commands for more details:
 + Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`, `VAEGIRT`, `IACLPRT`
 
 + Especially challenging: `RCEIMNP`, `TACHIMR`, `VAEGIRT`
+
++ Historic: 
+  * [ ] on or before 2004 November 1 (The Times of London, [Polygon][Polygon])
+  * [ ] 2014 (Will Shortz proposes Spelling Bee based on Polygon)
+  * 2015 February 22 `PADEQUR` (Frank Longo publishes first print Spelling Bee in NYT Magazine)
+  * 2018 May 9: `WAHORTY` May 9, 2018 (Sam Von Ehren releases first digital NYT Spelling Bee online)
+  * 2025 March 12: `FLOSUAB` (Sam Ezersky creates first NYT Spelling Bee to include the letter `S`)
+
+[Polygon]: https://www.thetimes.com/article/how-to-play-polygon-gw30jlb39h2
+
 
 ## To do
 
