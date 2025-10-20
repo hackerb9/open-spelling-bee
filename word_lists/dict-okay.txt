@@ -326,3 +326,5 @@ anatto
 natto
 anomia
 viand, viands
+cruddy, cruddier, cruddiest
+inure, inured
