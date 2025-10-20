@@ -181,46 +181,33 @@ def compare_overlap(f1, f2):
 def scowl_lookup_usage():
         print('''Usage: ./utils.py slook <pattern>
 
-Shows words matching the given prefix (regular expression ^pattern.*)
-and which wordlist file it was found in. The number at the end of the
+Shows words matching the exact word (regular expression ^pattern$) and
+which wordlist file it was found in. The number at the end of the
 filename is an indication of how common SCOWL thinks the word is. This
 is useful to see why a word is getting rejected. The default threshold
-is <=35, so english-words.35 is used but english-words.40 is not. 
+for generating puzzles is <=35, so english-words.35 is used but
+english-words.40 is not.
 
-    $ ./utils.py slook alfalfa
+To see possible inflections of a word, append .* like so:
+
+    $ ./utils.py slook alfalfa.*
     word_lists/scowl/english-words.40: alfalfa
     word_lists/scowl/english-words.80: alfalfas
 
-Too many matches? For the exact word, put a '$' at the end. For example,
-
-    $ ./utils.py slook mes | wc -l
-    914
-    $ ./utils.py slook mes$
-    word_lists/scowl/english-words.35: mes
 ''')
 
 
 def scowl_lookup(pattern):
-        '''Like the look(1) command, shows matches for "pattern" as a prefix,
-        but searches through the SCOWL word_lists.
-        Essentially: rgrep -i ^pattern word_lists/scowl
+        '''Grep the SCOWL word_lists for ^pattern$
 
-        NOTE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
-
-        If there are too many matches and you just want the exact
-        word, just put a $ at the end. For example,
-
-            $ ./utils.py slook mes | wc -l
-            914
-            $ ./utils.py slook mes$ | wc -l
-            2
+        NOTA BENE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
         '''
 
         if type(pattern) is not list:
                 pattern = [ pattern ]
 
         for p in pattern:
-                regex=re.compile(fr'^{p}.*', flags=re.IGNORECASE|re.MULTILINE)
+                regex=re.compile(fr'^{p}$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
                         with open(f, 'r', encoding='ISO-8859-1') as fp:
                                 output=re.findall(regex, fp.read())
@@ -258,7 +245,7 @@ where <cmd> can be one of:
                 words they have in common.
 		
   slook <word>
-                lookup prefix <word> in all the SCOWL wordlists (common & rare)
+                lookup regex ^word$ in all the SCOWL wordlists (common & rare)
 ''')
                 exit(1)
         
@@ -284,7 +271,7 @@ Examples:
 
         elif (args[0] == "slook"):
                 if len(args) > 1:
-                        scowl_lookup(args[1])
+                        scowl_lookup(args[1:])
                 else:
                         scowl_lookup_usage()
                         exit(1)
