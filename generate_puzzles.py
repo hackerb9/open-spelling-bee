@@ -89,8 +89,11 @@ def check_words(letters, word):
 
 def get_score(word):
 
-	# simple scoring algorithm, for now
-	return len(word) - params.MIN_WORD_LENGTH + 1
+	# simple scoring algorithm. Maybe use MIN_WORD_LENGTH?
+        if len(word) == 4:
+                return 1
+        else:
+	        return len(word)
 
 
 # For debugging, number of valid games found during this run.
