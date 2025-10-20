@@ -330,3 +330,6 @@ cruddy, cruddier, cruddiest
 inure, inured
 okay
 pupa, pupae
+rapper, rappers
+rupee, rupees
+quipu
