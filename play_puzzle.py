@@ -62,8 +62,8 @@ def play(puzzle):
         if guess in player.found:
             print ('You already found:',guess,'\n')
             continue
-        if len(guess) < params.MIN_WORD_LENGTH:
-            print (f'Guessed word is too short. Minimum length: {params.MIN_WORD_LENGTH}\n')
+        if len(guess) < puzzle.generation_info.get("min_word_length", 0):
+            print (f'Guessed word is too short. Minimum length: {puzzle.generation_info.get("min_word_length", 0)}\n')
             continue
         if any([x for x in guess if x not in puzzle.letters]):
             print ('Invalid letter(s)','\n')
