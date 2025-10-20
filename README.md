@@ -147,7 +147,7 @@ Use the following commands for more details:
 
 ## To do
 
-See [the todo list](todo.md) for thoughts of what will come next.
+See [the todo list](todo.md) for random thoughts of what may come.
 
 Suggestions are welcome! Just file an
 [issue](https://github.com/hackerb9/open-spelling-bee/issues) on
