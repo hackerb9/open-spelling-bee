@@ -202,8 +202,8 @@ def print_status(puzzle, player):
     width=get_terminal_size().columns
     print (f'''\
     player words: {player.words} / {puzzle.word_count} ({round(player.words*100.0/puzzle.word_count,1)}%)
-    player score: {player.score-2**player.hint_penalty+1} / {puzzle.total_score} ({round(player.score*100.0/puzzle.total_score,1)}%)
-    hint penalty: {2**player.hint_penalty-1}, hints used: {player.hints_used}, hints available: {player.hints_available}
+    player score: {player.score} / {puzzle.total_score} ({round(player.score*100.0/puzzle.total_score,1)}%)
+    hints used: {player.hints_used}, hints available: {player.hints_available}, hint penalty: {2**player.hint_penalty-1}
     pangram found: {player.pangram}''')
 
     if len(player.found) > 0:
@@ -236,6 +236,7 @@ def give_hint(puzzle, player):
             print()
             return
         player.hint_penalty += 1
+        player.score -= 2**player.hint_penalty-1
     else:
         player.hints_available -= 1
     player.hints_used += 1
