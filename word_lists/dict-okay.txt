@@ -356,3 +356,6 @@ erector
 rectory
 recto
 verso
+clerestory
+tercel
+tyro
