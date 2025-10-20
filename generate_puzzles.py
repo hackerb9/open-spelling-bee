@@ -156,7 +156,7 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 			results.append(check_words(letters, word))
 
 	# remove None from list
-	results = list(filter(None.__ne__, results))
+	results = list(filter(None, results))
 
 	# get total score of all words
 	total_score = sum([x.get('score') for x in results])
