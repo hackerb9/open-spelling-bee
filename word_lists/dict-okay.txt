@@ -333,17 +333,16 @@ pupa, pupae
 rapper, rappers
 rupee, rupees
 quipu
-typo
-pooh
-honeypot
-hottentot
-poppet
+typo, typos
+honeypot, honeypots
+hottentot, hottentots
+poppet, poppets
 peyote
 toothy
 neoteny
 eyetooth
-poptop
 poopy
-phenotype
-yoyo
+phenotype, phenotypes
+yoyo, yoyos, yoyoed
 ptooey
+collet, collets
