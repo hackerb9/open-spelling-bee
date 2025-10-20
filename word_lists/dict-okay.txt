@@ -328,3 +328,5 @@ anomia
 viand, viands
 cruddy, cruddier, cruddiest
 inure, inured
+okay
+pupa, pupae
