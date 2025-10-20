@@ -1,5 +1,32 @@
 ## To do
 
+### Update scoring to be like NYT
+
+Words five-letters or more are worth as many points as they are long. 4-letter
+words are worth only 1 point. 
+
+
+| NYT Rank   | Score | 
+|------------|------:|
+| BEGINNER   |    0% |
+| GOOD START |    2% |
+| MOVING UP  |    5% |
+| GOOD       |    8% |
+| SOLID      |   15% |
+| NICE       |   25% |
+| GREAT      |   40% |
+| AMAZING    |   50% |
+| GENIUS     |   70% |
+| QUEEN BEE  |  100% |
+
+
+### Consider banning the letter 'S'
+
+NYT never allows puzzles with the letter S in order to prevent
+plurals with one exception: March 12, 2025 `FLOSUAB`
+
+
+
 ### Deal with too many rejected words
 
 Ever since we switched from TWL06.txt to SCOWL's english-words.35, too
