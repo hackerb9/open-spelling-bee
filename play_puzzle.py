@@ -287,7 +287,7 @@ def command(msg, puzzle, player):
         print_status(puzzle, player)
     elif msg == 'hint':
         give_hint(puzzle, player)
-    elif msg.startswith('slook'):
+    elif msg.startswith('slook') or msg.startswith('scowl'):
         if len( msg.split()[1:] ) > 0:
             utils.scowl_lookup( msg.split()[1:] )
         else:
@@ -307,7 +307,7 @@ def print_full_commands():
     print('''\
 Extended commands
     !hint             : Request a hint.
-    !slook  [word...] : Look up words (regex) in SCOWL word lists.
+    !scowl  [word...] : Look up words (regex) in SCOWL word lists.
     !dict   [word...] : Look up words in dictionary (requires dict).
     !ok     [word...] : Accept this word in the future as a bonus word.
     !add    [word...] : Add to the wordlist used to generate new puzzles.

@@ -179,7 +179,7 @@ def compare_overlap(f1, f2):
         print(f"{'Overlap':>30}: {100*both/min(len1,len2):>5.2f}%")
 
 def scowl_lookup_usage():
-        print('''Usage: ./utils.py slook <pattern>
+        print('''Usage: ./utils.py scowl <pattern>
 
 Shows words matching the exact word (regular expression ^pattern$) and
 which wordlist file it was found in. The number at the end of the
@@ -190,7 +190,7 @@ english-words.40 is not.
 
 To see possible inflections of a word, append .* like so:
 
-    $ ./utils.py slook alfalfa.*
+    $ ./utils.py scowl alfalfa.*
     word_lists/scowl/english-words.40: alfalfa
     word_lists/scowl/english-words.80: alfalfas
 
@@ -244,7 +244,7 @@ where <cmd> can be one of:
                 compare two files from data/*.json and show how many
                 words they have in common.
 		
-  slook <word>
+  scowl <word>
                 lookup regex ^word$ in all the SCOWL wordlists (common & rare)
 ''')
                 exit(1)
@@ -269,7 +269,7 @@ Examples:
           ./utils.py cmp data.twl/CADEHKW.json  data/CADEHKW.json''');
                         exit(1)
 
-        elif (args[0] == "slook"):
+        elif (args[0] == "scowl" or args[0] == "slook"):
                 if len(args) > 1:
                         scowl_lookup(args[1:])
                 else:

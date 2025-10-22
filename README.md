@@ -102,8 +102,8 @@ Each puzzle has 1 "pangram" that uses each of the 7 letters at least once. The p
 (based on game found by playing `python3 play_puzzle.py RDGHNOU`)
 
 ```
-Type !help or !h for help
-Playing puzzle index: 1
+Type !i for instructions or !h for command help
+Playing puzzle index: RDGHNOU
 Your letters are: 
             _____
            /     \
@@ -137,12 +137,10 @@ Your guess: GODHOOD
 
 Use the following commands for more details:
 ```
-!i : instructions
-!g : show letters
-!f : shuffle letters
-!s : player stats
-!h : help
-!q : quit
+
+Your guess: !h
+!s : player stats     !g : show letters     !f : shuffle letters
+!i : instructions     !q : quit             !help: all commands
 ```
 
 ---
