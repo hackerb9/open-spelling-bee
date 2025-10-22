@@ -382,5 +382,5 @@ robotic
 baobab, baobabs
 bocci, bocce
 ribbit
-
+trove, troves
 
