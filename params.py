@@ -39,7 +39,8 @@ MAX_GERUNDS = 5
 
 # total score limits
 MIN_TOTAL_SCORE = 60
-MAX_TOTAL_SCORE = 240
+#MAX_TOTAL_SCORE = 240
+MAX_TOTAL_SCORE = 400           # Allow long words
 
 # Show rejected games as well as valid ones.
 # True, False, or "dots", or "why".
