@@ -1,0 +1,256 @@
+{
+    "letters": "ADEIMTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 197,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DAYTIME"
+    ],
+    "word_list": [
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADMIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADMITTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "AIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DAYTIME",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMITATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMITATED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IMMEDIATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEDIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEDIATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MEDIATED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MEDITATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MEDITATED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "MIDDAY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

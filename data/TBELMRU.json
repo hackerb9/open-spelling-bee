@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 169,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,32 +39,32 @@
         },
         {
             "word": "BERET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLURT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BULLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUTLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "BUTTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "MUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TREBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "TREMBLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,32 +204,32 @@
         },
         {
             "word": "TUMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TUMBLER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "TUMULT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -1,0 +1,171 @@
+{
+    "letters": "WDEOPRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 129,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERPOWERED"
+    ],
+    "word_list": [
+        {
+            "word": "DREW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERDREW",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "OVERPOWER",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "OVERPOWERED",
+            "score": 11,
+            "pangram": true
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POWDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POWDERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "POWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POWERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POWWOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POWWOWED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

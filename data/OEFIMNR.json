@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 130,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "FOREMEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "FORMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "INFERIOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INFERNO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "INFORM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INFORMER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "MEMOIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "NOMINEE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFORM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFORMER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "ROOMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

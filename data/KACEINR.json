@@ -1,0 +1,161 @@
+{
+    "letters": "KACEINR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRANKIER"
+    ],
+    "word_list": [
+        {
+            "word": "AKIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRACKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRANK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRANKIER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CREAK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREAKIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INKIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KNACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KNACKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINK",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

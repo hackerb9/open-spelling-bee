@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 126,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCOUNT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ACCOUNTANT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "CANNON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,42 +64,42 @@
         },
         {
             "word": "CATNAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COCONUT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONCOCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COUPON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "OCCUPANT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "PONTOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "TAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOUCAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "UNCUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

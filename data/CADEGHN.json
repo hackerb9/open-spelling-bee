@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 144,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "ACHED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "CACHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CADENCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "CAGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "CANED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,47 +99,47 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHANGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANGED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "DANCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DANCED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECADENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "ENHANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENHANCED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HEADACHE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 161,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,62 +24,62 @@
     "word_list": [
         {
             "word": "CIVIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIVIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIVILIZE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CIVILIZED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "DECEIVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECEIVED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DELVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEVILED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEVILLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "DIVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIVIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIVIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "LEVEE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LEVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LEVELED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "LEVELLED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LEVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVELED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEVELLED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LEVIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "LIVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIVID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "VEILED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "VICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "VIVID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 156,
+    "total_score": 264,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,87 +24,87 @@
     "word_list": [
         {
             "word": "EMINENT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ENTER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENTIRE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENTREE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENTWINE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "IMMINENT",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INERT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INNER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INTENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INTER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INTERIM",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "INTERMENT",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "INTERMITTENT",
-            "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "INTERN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INTERNET",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INTERTWINE",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "MERRIMENT",
+            "word": "ENTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENTIRE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENTREE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENTWINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INERT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTERIM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INTERMENT",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INTERMITTENT",
+            "score": 12,
+            "pangram": false
+        },
+        {
+            "word": "INTERN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTERNET",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INTERTWINE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "MERRIMENT",
+            "score": 9,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "MINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "MITTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NITWIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RENEW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "RETIREMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "REWRITTEN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "TERMINI",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TINNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TWINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,22 +244,22 @@
         },
         {
             "word": "WINNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WINTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WINTERTIME",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "WINTRIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -269,7 +269,7 @@
         },
         {
             "word": "WRITTEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

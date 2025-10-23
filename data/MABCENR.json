@@ -1,0 +1,176 @@
+{
+    "letters": "MABCENR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 126,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REMEMBRANCE"
+    ],
+    "word_list": [
+        {
+            "word": "AMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARMAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BECAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMERA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBRACE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MACABRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEMBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEMBRANE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MENACE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBRANCE",
+            "score": 11,
+            "pangram": true
+        },
+        {
+            "word": "RENAME",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

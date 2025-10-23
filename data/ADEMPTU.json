@@ -1,0 +1,276 @@
+{
+    "letters": "ADEMPTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 203,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AMPUTATED"
+    ],
+    "word_list": [
+        {
+            "word": "ADAPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADAPTED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADEPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMPUTATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "AMPUTATED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTEMPT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ATTEMPTED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DATUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUTATED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPDATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UPDATED",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

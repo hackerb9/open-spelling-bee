@@ -1,0 +1,201 @@
+{
+    "letters": "AIJNORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 197,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JANITOR"
+    ],
+    "word_list": [
+        {
+            "word": "AJAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOTATION",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "ANOINT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INITIATION",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "INITIATOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INTONATION",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRRITANT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IRRITATION",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "JANITOR",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "NARRATION",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "NARRATOR",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOTATION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ORATION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATIO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RATION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTATION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAITOR",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

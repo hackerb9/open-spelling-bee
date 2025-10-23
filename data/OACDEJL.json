@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 71,
+    "total_score": 134,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ACCOLADE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAJOLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CAJOLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "COALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "COOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "COOLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "DOLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "DOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "LOADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOCALE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "LOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

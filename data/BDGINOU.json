@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 141,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "BIDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,37 +39,37 @@
         },
         {
             "word": "BINDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BINGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOBBIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BODING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "BONDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "BOUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOUNDING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "BUDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "BUNION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

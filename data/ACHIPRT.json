@@ -1,0 +1,251 @@
+{
+    "letters": "ACHIPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 160,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PATRIARCH"
+    ],
+    "word_list": [
+        {
+            "word": "APART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCHAIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARTHRITIC",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ATTACH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATRIARCH",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THATCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

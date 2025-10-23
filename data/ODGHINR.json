@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 193,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "DODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "DOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "DRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,42 +84,42 @@
         },
         {
             "word": "GORGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GORING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRIDIRON",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GROIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HONORING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "HOODING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HORDING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -144,27 +144,27 @@
         },
         {
             "word": "HORRID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IGNORING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INDIGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDOOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "IRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,27 +194,27 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORIGIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RHINO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

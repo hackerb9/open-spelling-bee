@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 185,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "FEINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIFTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "FINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FINITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "FITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,62 +104,62 @@
         },
         {
             "word": "FRITTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRUIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRUITIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUNNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FURNITURE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "FURRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FUTURE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INFER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INFINITE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INTERFERE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "INFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFINITE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INTERFERE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "NIFTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "UNFIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

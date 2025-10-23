@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 155,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ALIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANVIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AVAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AVAILABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "BELIEVABLE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "BELIEVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "ELEVEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENLIVEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENVIABLE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "LEAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIVABLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,27 +114,27 @@
         },
         {
             "word": "LIVEABLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIVEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAVAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "VALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "VANILLA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "VIABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "VILLA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILLAIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

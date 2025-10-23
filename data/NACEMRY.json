@@ -1,0 +1,161 @@
+{
+    "letters": "NACEMRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MERCENARY"
+    ],
+    "word_list": [
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANCER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENEMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MENACE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MERCENARY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEARN",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

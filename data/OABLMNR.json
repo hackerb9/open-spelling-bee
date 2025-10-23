@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 137,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ABNORMAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "AMORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,42 +39,42 @@
         },
         {
             "word": "ARBOR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ARMOR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "AROMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BABOON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BALLOON",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "BALLROOM",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BALLOON",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BALLROOM",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "BAMBOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "BLOOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "BROOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LABOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "MANOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAROON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "MOLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "MORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "NORMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "ROMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

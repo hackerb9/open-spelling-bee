@@ -1,0 +1,161 @@
+{
+    "letters": "OACENVY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONVEYANCE"
+    ],
+    "word_list": [
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANNOYANCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANYONE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANOE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANYON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONCAVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONVENE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONVEY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONVEYANCE",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "CONVOY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENVOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCEAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

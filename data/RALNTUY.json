@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 133,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALTAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "word": "AURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NATURAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NATURALLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "RALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "RATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUNNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARANTULA",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "TARTAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "TRUANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRULY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,27 +134,27 @@
         },
         {
             "word": "TYRANNY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TYRANT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ULTRA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "UNNATURAL",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ULTRA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNNATURAL",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "UNRULY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 136,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "ANKLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "BANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "BARREN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARRENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "BLANK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLANKER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KENNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KERNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "KNEEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "RANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RANKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

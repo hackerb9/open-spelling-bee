@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 156,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "EMPEROR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMPIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPROPER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "IMPROVE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "PEEVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "PREMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PREMIERE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,32 +129,32 @@
         },
         {
             "word": "PRIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRIMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRIMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIVIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PROVE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REPRIEVE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REPRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REPROVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "VIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

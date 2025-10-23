@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 226,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,82 +24,82 @@
     "word_list": [
         {
             "word": "BINGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BORING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRIBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRONZING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "GORGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GORING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,57 +134,57 @@
         },
         {
             "word": "GRINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GROIN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "IGNORING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "IGNORING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OOZING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORIGIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,22 +194,22 @@
         },
         {
             "word": "RINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ROBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ROBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ZONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 128,
+    "total_score": 227,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "EMPTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "MERIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "PERIMETER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PERMIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,72 +89,72 @@
         },
         {
             "word": "PERTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERVERT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PETITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PETTIER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PREEMPT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PRETTIER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PRIMITIVE",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "REMIT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REPETITIVE",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "RETIRE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RETRIEVE",
+            "word": "PETER",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "RETRIEVER",
+            "word": "PETITE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PETTIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PREEMPT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRETTIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PRIMITIVE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "REMIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPETITIVE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "RETIRE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RIVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,22 +174,22 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEMPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TERMITE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TIMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "TRIMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -254,17 +254,17 @@
         },
         {
             "word": "TRIPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

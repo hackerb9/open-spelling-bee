@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 148,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BICYCLING",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -34,57 +34,57 @@
         },
         {
             "word": "BILLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYCLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CYNIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "GLIBLY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "GYBING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ICING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INCLINING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "GYBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCLINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LYING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "NIBBLING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "NIBBLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

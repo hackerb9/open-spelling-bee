@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 143,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "COMET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMPEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMPETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COMPLETE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELOPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "MOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OMELET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OMELETTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "PELLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "PEOPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,22 +194,22 @@
         },
         {
             "word": "TEMPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEMPO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEMPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TOPPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

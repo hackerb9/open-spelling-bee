@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 169,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,57 +34,57 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CADDIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CADDIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAILY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DALLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECIDEDLY",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DELICACY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "DIALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIALLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EYELID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "IDEAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDEALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "IDYLLIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "YIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

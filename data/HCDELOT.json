@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 116,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "CLOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLOTHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLOTHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "ECHOED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "HEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "HOLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "HOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,37 +129,37 @@
         },
         {
             "word": "HOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

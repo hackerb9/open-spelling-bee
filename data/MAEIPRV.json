@@ -1,0 +1,161 @@
+{
+    "letters": "MAEIPRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VAMPIRE"
+    ],
+    "word_list": [
+        {
+            "word": "AMPERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMPIRE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPAIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREMIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PREMIERE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIMMER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REVAMP",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VAMPIRE",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

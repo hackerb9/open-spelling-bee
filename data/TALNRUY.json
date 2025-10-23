@@ -1,0 +1,166 @@
+{
+    "letters": "TALNRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 124,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NATURALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ALTAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NATURAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NATURALLY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "NUTTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TARANTULA",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRULY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRANNY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TYRANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ULTRA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNNATURAL",
+            "score": 9,
+            "pangram": false
+        }
+    ]
+}

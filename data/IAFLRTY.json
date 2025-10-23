@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 138,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "FAIRLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FAIRY",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FATALITY",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FATALITY",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FIFTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "FILLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLIRT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "FRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRAILTY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RARITY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATIFY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "TARIFF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "TRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

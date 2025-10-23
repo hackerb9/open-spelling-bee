@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 127,
+    "total_score": 235,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,27 +34,27 @@
         },
         {
             "word": "ATTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACTI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,62 +64,62 @@
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CREAKIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRICKET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRITERIA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EERIER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ERRATIC",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ICIER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "IRATE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "IRRITATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "EERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERRATIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRRITATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ITERATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "RACIER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REITERATE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RECITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REITERATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RETIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "RICKETIER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -169,32 +169,32 @@
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TACKIER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "TICKET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,32 +219,32 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TRICK",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TRICKIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "TRICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRICKIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

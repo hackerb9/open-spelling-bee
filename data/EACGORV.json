@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 175,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ACREAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AGREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "AVERAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "CAREER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "COVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COVERAGE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "GARAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,37 +154,37 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROCER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROOVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RACER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAVAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "RECOVER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,12 +254,12 @@
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

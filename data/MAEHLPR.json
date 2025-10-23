@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 60,
+    "total_score": 111,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMPERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMPLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EPHEMERAL",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "HAMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAREM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "LAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "PAMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "REALM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

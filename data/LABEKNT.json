@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 166,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,12 +34,12 @@
         },
         {
             "word": "ANKLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "BALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,32 +94,32 @@
         },
         {
             "word": "BLANK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLANKET",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BLATANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BLEAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,27 +129,27 @@
         },
         {
             "word": "KENNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KNEEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNELT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LABEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "LATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TABLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TALENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENABLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

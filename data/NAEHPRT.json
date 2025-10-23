@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 138,
+    "total_score": 246,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ANTEATER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APPARENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,57 +54,57 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTRANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTRAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTREAT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERRANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAPPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEARTEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEATHEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "NARRATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "NEATER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,42 +154,42 @@
         },
         {
             "word": "PANTHER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PARENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PARTNER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PATENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PATTERN",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PENETRATE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PARTNER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PATENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PATTERN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENETRATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PENNANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "REPENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REPENTANT",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "REPENTANT",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "TANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "TENTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "THREATEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

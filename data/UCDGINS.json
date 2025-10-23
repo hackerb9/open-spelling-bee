@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 162,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "CUING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CUNNING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DISCUS",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DISCUSS",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DISCUSSING",
-            "score": 7,
-            "pangram": true
-        },
-        {
-            "word": "DISGUISING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DISUSING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DISCUS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DISCUSSING",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "DISGUISING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "DISUSING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DUDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "DUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DUNGS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "GUIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "INDUCING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ISSUING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NUDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "SINUS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "SNUGGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "SNUGS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "SUING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "SUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "UNDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNSUNG",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "USING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

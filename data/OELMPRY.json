@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 155,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ELOPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMPEROR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMPLOY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMPLOYEE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EMPLOYER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "LORRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "MEMORY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "PEOPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "POLYP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POORLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "POPPY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,27 +209,27 @@
         },
         {
             "word": "PROPEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PROPELLER",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PROPELLER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PROPERLY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "ROOMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

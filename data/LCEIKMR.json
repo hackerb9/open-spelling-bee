@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 110,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,32 +29,32 @@
         },
         {
             "word": "CIRCLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLERIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLERK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLICK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "KILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "LIKELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LIMERICK",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "MILKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MILKIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RELIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

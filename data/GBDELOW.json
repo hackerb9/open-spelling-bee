@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 171,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BEGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,47 +34,47 @@
         },
         {
             "word": "BLOGGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOGGLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOWLEGGED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "DODGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DODGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOGWOOD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "GELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "GLOBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,27 +124,27 @@
         },
         {
             "word": "GLOWED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOBBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,27 +159,27 @@
         },
         {
             "word": "LEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LODGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LODGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "OGLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

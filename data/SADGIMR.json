@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 157,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -44,17 +44,17 @@
         },
         {
             "word": "AMASS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMISS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARIAS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "DIAGRAMS",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -94,27 +94,27 @@
         },
         {
             "word": "DISARM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DISARMS",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DISMISS",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DRAGS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRAMAS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "GRAMMARS",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRAMS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRASS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRIDS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MADAMS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "MAIDS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAIMS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMAS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "RADARS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RAIDS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "SADISM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "SAGAS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -259,12 +259,12 @@
         },
         {
             "word": "SARIS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "SIGMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

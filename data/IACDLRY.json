@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 133,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ACRID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ACRYLIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CARDIAC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAILY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DAIRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "DIARY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "DRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRILY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "IDYLLIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,42 +139,42 @@
         },
         {
             "word": "LYRIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LYRICAL",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RACIAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RACIALLY",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LYRICAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RACIAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RACIALLY",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "RADIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RADICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RADICALLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "RADII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

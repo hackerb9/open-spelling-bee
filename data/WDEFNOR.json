@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 187,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "DOWNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,47 +39,47 @@
         },
         {
             "word": "DROWN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DROWNED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ENDOW",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENDOWED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FEWER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FOREWORD",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DROWNED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ENDOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENDOWED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FEWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOREWORD",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FROWN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FROWNED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "NEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,47 +89,47 @@
         },
         {
             "word": "OWNED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "OWNER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RENEW",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RENEWED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RENOWN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RENOWNED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "OWNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENEWED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RENOWN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENOWNED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ROWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "WONDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WONDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOODEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOODENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "WOOFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "WORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

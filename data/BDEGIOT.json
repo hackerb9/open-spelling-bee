@@ -1,0 +1,156 @@
+{
+    "letters": "BDEGIOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BIGOTED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEIGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIGOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BIGOTED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOTEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEBIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEBITED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEBT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDBIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

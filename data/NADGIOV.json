@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 134,
+    "total_score": 239,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ADDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AGAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,57 +49,57 @@
         },
         {
             "word": "AVOIDING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIVIDING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DIVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIVINING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "GAINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,32 +119,32 @@
         },
         {
             "word": "GANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOADING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "INDIGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVADING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VAGINA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,17 +224,17 @@
         },
         {
             "word": "VANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VOIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VOODOOING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         }
     ]

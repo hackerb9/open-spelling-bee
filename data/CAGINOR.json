@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 121,
+    "total_score": 229,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,97 +24,97 @@
     "word_list": [
         {
             "word": "ACING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ACORN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARCING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANNON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNONING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CANON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CARRION",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CIGAR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CIRCA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COCOA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COCOON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COCOONING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "CARRION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CIGAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "COGNAC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "COINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "CORNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,32 +159,32 @@
         },
         {
             "word": "CRANING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CROONING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CROONING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GRACING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ICING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,32 +194,32 @@
         },
         {
             "word": "IRONIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORGANIC",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "RACCOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RACING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RANCOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RICING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

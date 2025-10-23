@@ -1,0 +1,236 @@
+{
+    "letters": "AEFMNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 131,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOREMAN"
+    ],
+    "word_list": [
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANFARE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREARM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOREMAN",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FRAME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAROON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMAN",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

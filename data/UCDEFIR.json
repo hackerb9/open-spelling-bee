@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 140,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "CRUCIFIED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CRUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "CUFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "CURED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CURRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,47 +104,47 @@
         },
         {
             "word": "FEUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FURRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FURRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECURRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RECURRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUDDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "RUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "RUFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UDDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 152,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "ARCANE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANCER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,32 +54,32 @@
         },
         {
             "word": "CANINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRANK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRANKIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INKIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "KINKIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KNACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNACKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "NICER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "RAINIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

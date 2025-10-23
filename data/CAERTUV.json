@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 117,
+    "total_score": 222,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCRUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCURATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "ACUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ACUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTRACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "CAREER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "CARVE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CATARACT",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CATARACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CATER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CATERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,32 +99,32 @@
         },
         {
             "word": "CAVEAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRATER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CREATURE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "CURTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CURVATURE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CURVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "CUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVACUATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,32 +184,32 @@
         },
         {
             "word": "RACER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REACT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECREATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECREATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETRACE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETRACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,27 +219,27 @@
         },
         {
             "word": "TERRACE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VACATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

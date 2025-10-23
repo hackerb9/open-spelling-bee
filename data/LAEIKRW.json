@@ -1,0 +1,186 @@
+{
+    "letters": "LAEIKRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WARLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "AERIAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALIKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALKALI",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARLIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKELIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LIKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WALKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARLIKE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WILIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

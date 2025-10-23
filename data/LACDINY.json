@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 118,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANDIDLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -69,37 +69,37 @@
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLINICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLINICALLY",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYNICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DAILY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "IDYLLIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INLAID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INLAND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "LANDLADY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

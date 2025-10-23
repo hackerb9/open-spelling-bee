@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 148,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,42 +29,42 @@
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ATTEMPT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMANATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMPTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENEMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "MATTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "MEANT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "PATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PAYMENT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "PENNANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "TEAMMATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "TEMPT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TENANT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TENEMENT",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "TENANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TENEMENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

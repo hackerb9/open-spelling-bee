@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 184,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABBEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARTERY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,42 +64,42 @@
         },
         {
             "word": "BARELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BATTERY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BELLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BETRAY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BETRAYAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "BLEARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,27 +114,27 @@
         },
         {
             "word": "EARLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EYEBALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LATELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "RALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RARELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REALLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REALTY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABBY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TREATY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "YEARLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

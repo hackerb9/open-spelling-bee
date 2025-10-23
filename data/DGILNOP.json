@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 153,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "DOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "DOLLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOODLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DOPING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "GILDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GLIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "IDLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,27 +129,27 @@
         },
         {
             "word": "INDIGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NOODLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PIDDLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "PLODDING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

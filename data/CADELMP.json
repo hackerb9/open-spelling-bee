@@ -1,0 +1,206 @@
+{
+    "letters": "CADELMP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 141,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLAMPED"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAMMED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CLAMP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLAMPED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAPPED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MADCAP",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PALACE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLACED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

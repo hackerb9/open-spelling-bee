@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 181,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,52 +24,52 @@
     "word_list": [
         {
             "word": "AMPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMPLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APTLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTEMPT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMPTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "LAPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "LEAPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PALATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "PALETTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAPAYA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "PATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "PELLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "PETAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "PLAYMATE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "PLEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,27 +219,27 @@
         },
         {
             "word": "TELETYPE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TEMPLATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TEMPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEMPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

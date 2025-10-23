@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 151,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "AWFUL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWFULLER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "FAREWELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "FEARFUL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "FLUFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "FULLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "LAWFUL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RAFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,22 +174,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFUEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUEFUL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,27 +199,27 @@
         },
         {
             "word": "RUFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WAFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WAFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WARFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WELFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

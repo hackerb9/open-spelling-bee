@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 110,
+    "total_score": 194,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "CHOICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHOICER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHOIR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHORE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHRONIC",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "COCOON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COERCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COERCION",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "COHERENCE",
+            "word": "CHORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHRONIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COERCION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "COHERENCE",
+            "score": 9,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "HEROIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEROIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEROINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HERON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "HONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "HORNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "INCOHERENCE",
-            "score": 8,
+            "score": 11,
             "pangram": true
         },
         {
             "word": "INNOCENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "IRONIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RHINO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

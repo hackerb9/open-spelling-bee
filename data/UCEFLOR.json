@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 137,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,32 +29,32 @@
         },
         {
             "word": "COLORFUL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COLOUR",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COLOURFUL",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "COLOURFUL",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRUELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FLOUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FLUFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FORCEFUL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FOULER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "FULLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "FUROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FURORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "OCCUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFUEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUEFUL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "RUFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ULCER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

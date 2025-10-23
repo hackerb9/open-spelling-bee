@@ -1,0 +1,181 @@
+{
+    "letters": "LBEIKNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 115,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLINKER"
+    ],
+    "word_list": [
+        {
+            "word": "BELIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLINK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLINKER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KERNEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KILN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKELIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LIKEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 194,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ADHERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ADHERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AHEAD",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DIARRHEA",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DIARRHEA",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DIARRHOEA",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "HAIRDO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAIRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAIRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "HARDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HARDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "HARED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HARRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "HEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEADER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEADIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "HEARD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "HERDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "HIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOARD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOARDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HOARDER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,32 +209,32 @@
         },
         {
             "word": "HOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORRID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDHEAD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

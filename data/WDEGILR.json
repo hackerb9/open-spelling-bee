@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 176,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "DWELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DWELLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "LEWDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEEDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "WEIRD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEIRDER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "WELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WELDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "WELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,32 +139,32 @@
         },
         {
             "word": "WIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WIGGLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "WILDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "WIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WRIGGLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WRIGGLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

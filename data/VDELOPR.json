@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 151,
+    "total_score": 274,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "DELVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVELOP",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEVELOPED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DEVELOPER",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "DEVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEVOLVED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "DROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,42 +74,42 @@
         },
         {
             "word": "EVOLVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVOLVED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LEVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LEVELED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "LEVELLED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LEVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVELED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEVELLED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "LOVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,97 +134,97 @@
         },
         {
             "word": "OVERDO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OVERRODE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PEEVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEEVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PROVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPROVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REPROVED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVOLVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,22 +234,22 @@
         },
         {
             "word": "VEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VOODOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOODOOED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

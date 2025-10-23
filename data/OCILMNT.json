@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 144,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "COLIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,32 +59,32 @@
         },
         {
             "word": "COMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMIT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COMMON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COMMOTION",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "COMMON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMMOTION",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CONCOCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCOCTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "LOCOMOTION",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "LOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MILLION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "MOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TONIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

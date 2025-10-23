@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 189,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AFTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "FALTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "FATAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FATALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "FATTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "FLATLY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FLATTER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FLATTERER",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "FLATTER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLATTERER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "FLATTERY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "FLEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLEETER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "FREELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "LEAFLET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEAFY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "LEFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "RAFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,12 +259,12 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

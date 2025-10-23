@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 170,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEETLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "BLUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLUNTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BULLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "BUTTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "DEBUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEBUTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "DENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "NETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "TENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "TENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TUBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,22 +209,22 @@
         },
         {
             "word": "TUNED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TUNNEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TUNNELED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "TUNNELLED",
+            "word": "TUNNEL",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUNNELED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TUNNELLED",
+            "score": 9,
             "pangram": false
         }
     ]

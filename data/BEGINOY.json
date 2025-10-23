@@ -1,0 +1,171 @@
+{
+    "letters": "BEGINOY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 137,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OBEYING"
+    ],
+    "word_list": [
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BEGIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEGINNING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "BEIGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BENIGN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BYGONE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EBBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EBONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GYBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GYBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OBEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBEYING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

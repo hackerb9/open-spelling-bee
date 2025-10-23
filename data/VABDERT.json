@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 197,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,57 +24,57 @@
     "word_list": [
         {
             "word": "ADVERB",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ADVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AVERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AVERTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEAVERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BEREAVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEREAVED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRAVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "EVADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,47 +104,47 @@
         },
         {
             "word": "RAVED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REVERBERATE",
-            "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "REVERBERATED",
-            "score": 9,
-            "pangram": true
-        },
-        {
-            "word": "REVERE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REVERED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REVERT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REVERTED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REVERBERATE",
+            "score": 11,
+            "pangram": false
+        },
+        {
+            "word": "REVERBERATED",
+            "score": 12,
+            "pangram": true
+        },
+        {
+            "word": "REVERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVERT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "VEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "VERTEBRA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "VERTEBRAE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "VERTEBRATE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

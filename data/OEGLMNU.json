@@ -1,0 +1,156 @@
+{
+    "letters": "OEGLMNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 64,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MONOLOGUE"
+    ],
+    "word_list": [
+        {
+            "word": "GLOOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GNOME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUNGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MELON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONOLOGUE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

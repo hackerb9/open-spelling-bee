@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 96,
+    "total_score": 183,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DRYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "ERODE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "KEYED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KEYWORD",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "ODDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "ORDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "REDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "REEKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REWORK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "RODEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROOKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEEDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,17 +224,17 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,22 +244,22 @@
         },
         {
             "word": "WORKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WORKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WRYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -269,7 +269,7 @@
         },
         {
             "word": "YOKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

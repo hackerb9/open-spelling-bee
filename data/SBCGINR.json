@@ -1,0 +1,171 @@
+{
+    "letters": "SBCGINR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 113,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INSCRIBING"
+    ],
+    "word_list": [
+        {
+            "word": "BIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRINGS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRIBS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRISIS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICINGS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNINGS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INSCRIBING",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "IRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RINSING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RISING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SICS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIGNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SIGNS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SINGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SIRING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SIRS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 142,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AVERAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AVERAGED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "EVADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "EVERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVERYDAY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,37 +69,37 @@
         },
         {
             "word": "GRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRAVEYARD",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "GRAVY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAVAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAVAGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "RAVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VAGARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "VEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

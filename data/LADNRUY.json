@@ -1,0 +1,156 @@
+{
+    "letters": "LADNRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LAUNDRY"
+    ],
+    "word_list": [
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANNUALLY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRYLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DULY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LADY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANDLADY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUNDRY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDULY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNRULY",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "letters": "BACLORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COLLABORATOR"
+    ],
+    "word_list": [
+        {
+            "word": "ABBOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABORT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACROBAT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOBCAT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COBALT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COBRA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLLABORATOR",
+            "score": 12,
+            "pangram": true
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LABOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROBOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TABOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOBACCO",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

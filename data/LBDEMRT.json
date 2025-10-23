@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 171,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEETLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "BELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "BELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,27 +59,27 @@
         },
         {
             "word": "BLEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "LEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LETTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "LETTERED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LETTERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MEDDLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "MELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REBELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "REELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TREBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TREBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TREMBLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TREMBLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

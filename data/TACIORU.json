@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 103,
+    "total_score": 190,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTRACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "AUTOCRAT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "AUTOCRATIC",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "CACTI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARROT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "CATARACT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CIRCUIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "COURT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CURATOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "TRACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRACTOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -244,12 +244,12 @@
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

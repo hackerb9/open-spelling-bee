@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 149,
+    "total_score": 266,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "DEFER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DEFERRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DEFERRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "DEFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIFFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIFFERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DRIFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIFTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FEEDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRETED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FERRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "FETED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FETID",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FETTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FETTERED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FETID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FETTERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "FIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FITTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "FREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,37 +174,37 @@
         },
         {
             "word": "FRETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRITTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRITTERED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PETRIFIED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PREFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREFERRED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -214,27 +214,27 @@
         },
         {
             "word": "REEFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFEREED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -254,12 +254,12 @@
         },
         {
             "word": "RIFTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERRIFIED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -269,7 +269,7 @@
         },
         {
             "word": "TIFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

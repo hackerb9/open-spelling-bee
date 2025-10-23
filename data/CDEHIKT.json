@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
+    "total_score": 214,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHECK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHECKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "CHICK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "CITED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECEIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DITCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDICT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ETHIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HECTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "HITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HITCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HITCHHIKE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "HITCHHIKED",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "ITCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "KICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THICK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THICKET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "TICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TICKET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TICKETED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

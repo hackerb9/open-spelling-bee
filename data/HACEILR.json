@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 170,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,27 +34,27 @@
         },
         {
             "word": "ARCHAIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ARCHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHALICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,37 +79,37 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHILI",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHILL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHILLER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CHILLI",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CHILLIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CHILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHILLIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CLICHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "EARACHE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "HAIRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "HALER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "HEALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "HIERARCHICAL",
-            "score": 9,
+            "score": 12,
             "pangram": true
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "HILLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,17 +214,17 @@
         },
         {
             "word": "LEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

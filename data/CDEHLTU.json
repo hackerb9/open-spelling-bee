@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 80,
+    "total_score": 146,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "CHUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "CLUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLUTCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLUTCHED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "CULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,37 +99,37 @@
         },
         {
             "word": "CUTLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEDUCT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,27 +154,27 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HUTCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LETTUCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

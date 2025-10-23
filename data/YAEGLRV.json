@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 167,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLERGY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,52 +44,52 @@
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGERLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EARLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELEGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GALLERY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GALLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVELY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "GRAVY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GRAYER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "GREYER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LARGELY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "RALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RARELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REALLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "REVELRY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VAGARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VALLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "YEARLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

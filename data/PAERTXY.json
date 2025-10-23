@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 106,
+    "total_score": 193,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "APART",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "APPEAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXPERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "PAPAYA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PAPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "PARTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "PATTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERPETRATE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "PERTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,27 +154,27 @@
         },
         {
             "word": "PRAYER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREPARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PREPAY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRETEXT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRETTY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,27 +204,27 @@
         },
         {
             "word": "REAPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REAPPEAR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REPAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REPEAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETYPE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,17 +234,17 @@
         },
         {
             "word": "TAPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAXPAYER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "TRAPPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

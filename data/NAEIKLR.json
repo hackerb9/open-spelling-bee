@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 101,
+    "total_score": 185,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AIRLINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AIRLINER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "ALIEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALKALINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "ANKLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,27 +69,27 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INKIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KENNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KERNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "KINKIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "KNEEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "LANKIER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIKEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "LINEAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "LINKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "RAINIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "RANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RANKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

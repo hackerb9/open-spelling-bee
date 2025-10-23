@@ -1,0 +1,201 @@
+{
+    "letters": "LABDIOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BILLBOARD"
+    ],
+    "word_list": [
+        {
+            "word": "ALIBI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLAD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLBOARD",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIDAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BROIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DROLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DROOL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LABOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADIAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAILROAD",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

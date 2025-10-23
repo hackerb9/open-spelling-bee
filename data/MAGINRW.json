@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 173,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "AIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANAGRAM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ARMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "GRAMMAR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "GRIMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IMAGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IMAGINING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "MAIMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,72 +99,72 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MANAGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "MANAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MARGIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MARINA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARRING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIRING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "WARMING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "WIGWAM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

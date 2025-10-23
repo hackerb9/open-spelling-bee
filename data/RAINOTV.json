@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 169,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "AVIATOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INITIATOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVARIANT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -54,32 +54,32 @@
         },
         {
             "word": "IRRITANT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "IRRITATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "NARRATION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "NARRATOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ORATION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RATION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "ROTATION",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "TARTAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "TRAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TRIVIA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "VARIANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VARIATION",
-            "score": 6,
+            "score": 9,
             "pangram": true
         }
     ]

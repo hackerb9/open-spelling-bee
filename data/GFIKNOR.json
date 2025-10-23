@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 132,
+    "total_score": 234,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "FINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIRING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FORGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FORGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FORGOING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FORKING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FRINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GOOFING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "GORGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GORING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,42 +124,42 @@
         },
         {
             "word": "GRINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GROIN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "IGNORING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "IGNORING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INFRINGING",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,42 +169,42 @@
         },
         {
             "word": "KINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KNIFING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OFFING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OKING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ORIGIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,17 +214,17 @@
         },
         {
             "word": "RINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ROOFING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ROOKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

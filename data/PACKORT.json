@@ -1,0 +1,161 @@
+{
+    "letters": "PACKORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRACKPOT"
+    ],
+    "word_list": [
+        {
+            "word": "APART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRACKPOT",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARKA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARROT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARTOOK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROTRACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PROTRACTOR",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "RAPPORT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROOP",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

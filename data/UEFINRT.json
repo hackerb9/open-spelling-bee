@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 195,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,72 +24,72 @@
     "word_list": [
         {
             "word": "FRUIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRUITIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUNNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FURNITURE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "FURRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FUTURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NURTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NUTRIENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NUTTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETURN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REUNITE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUNNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "TENURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "TUNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUREEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "TURNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNFIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,37 +189,37 @@
         },
         {
             "word": "UNITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTRUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNTRUER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "URINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTERI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

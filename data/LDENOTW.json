@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 215,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "DOLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "DOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DWELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DWELT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "LETDOWN",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "LOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,52 +119,52 @@
         },
         {
             "word": "LOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOWDOWN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OLDEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "TODDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TODDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "TOOLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOWEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOWELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TOWELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "WELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "WELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "WELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,12 +259,12 @@
         },
         {
             "word": "WOOLEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOLLEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 149,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ABBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ABORT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARBITRATOR",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "ARBOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BALLOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "BROIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "LABOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORBIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORBITAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "ROBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAILOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "TORTILLA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

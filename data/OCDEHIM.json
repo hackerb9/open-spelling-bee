@@ -1,0 +1,161 @@
+{
+    "letters": "OCDEHIM",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HOMICIDE"
+    ],
+    "word_list": [
+        {
+            "word": "CHOICE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHOED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HOED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOMICIDE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOODED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

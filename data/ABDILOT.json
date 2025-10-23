@@ -1,0 +1,151 @@
+{
+    "letters": "ABDILOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 70,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TABLOID"
+    ],
+    "word_list": [
+        {
+            "word": "ABBOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALIBI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLAD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BALLOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TABLOID",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "TABOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIDAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

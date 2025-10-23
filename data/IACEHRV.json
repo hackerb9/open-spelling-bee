@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 184,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACHIEVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARCHAIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ARCHIVE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "ARRIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AVARICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CARRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CAVIAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,32 +84,32 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIVIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREVICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "HAIRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEAVIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "ICIER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RACIER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECEIVE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RECEIVER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RACIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,22 +184,22 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VICAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

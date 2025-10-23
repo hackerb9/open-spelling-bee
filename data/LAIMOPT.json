@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 71,
+    "total_score": 113,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "LIMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "LOLLIPOP",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MILITIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "OPTIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "PALATIAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "PILOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "POLIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

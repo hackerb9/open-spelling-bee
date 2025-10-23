@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 139,
+    "total_score": 250,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "DEFEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFENDER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,32 +59,32 @@
         },
         {
             "word": "DINED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DINER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DINNER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DINNERED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DINNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINNERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "FENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "FIEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,47 +124,47 @@
         },
         {
             "word": "FINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRENZIED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "FRIEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FRIENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INFER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INFERRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "INFERRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,32 +189,32 @@
         },
         {
             "word": "REDDEN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REDDENED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "REDEFINE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "REDEFINED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "REDDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REDEFINE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REDEFINED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "REFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "REINDEER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,17 +239,17 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RIDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

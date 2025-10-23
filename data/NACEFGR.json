@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 166,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "ANGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARCANE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARRANGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANCER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "CARNAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENRAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FANFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "FENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "FRAGRANCE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "FRANC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "GANGRENE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "GENERA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "RANGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RANGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REARRANGE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "REFERENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

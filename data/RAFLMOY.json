@@ -1,0 +1,201 @@
+{
+    "letters": "RAFLMOY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 134,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORMALLY"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALARM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMORAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARMORY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLORA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLORAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORMALLY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAYOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOLAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MORALLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

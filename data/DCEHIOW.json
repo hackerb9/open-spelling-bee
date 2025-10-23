@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 182,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,32 +29,32 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEWED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHOWED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,42 +64,42 @@
         },
         {
             "word": "CODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COWHIDE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECODE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "ECHOED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "HOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "WIDOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIDOWED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

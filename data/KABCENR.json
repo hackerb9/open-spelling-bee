@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 126,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "BACKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "BANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BAREBACK",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "BEAKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRAKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BREAKNECK",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -99,32 +99,32 @@
         },
         {
             "word": "CANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRACKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRANK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "KNACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNACKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "RANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

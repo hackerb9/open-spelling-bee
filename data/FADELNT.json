@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 132,
+    "total_score": 219,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,37 +34,37 @@
         },
         {
             "word": "DEFEAT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DEFEATED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DEFEND",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DEFENDANT",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "DEFEATED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DEFEND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEFENDANT",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "DEFENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFLATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEFLATED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "FALLEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FATAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "FATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FATTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FATTENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "FELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "FELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "FENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "FETED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLANNEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLANNELED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "FLANNELLED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "FLATTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLATTEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLATTENED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "FLEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLEETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -249,17 +249,17 @@
         },
         {
             "word": "LEAFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEAFLET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEAFLETED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {

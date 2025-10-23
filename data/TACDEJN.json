@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 131,
+    "total_score": 230,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,57 +24,57 @@
     "word_list": [
         {
             "word": "ACCENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ACCENTED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ACTED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ADJACENT",
-            "score": 5,
-            "pangram": true
-        },
-        {
-            "word": "ANTENNA",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ANTENNAE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ATTEND",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTENDANCE",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ATTENDANT",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "ATTENDED",
+            "word": "ACCENTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ACTED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ADJACENT",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ANTENNA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ATTEND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTENDANCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "ATTENDANT",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ATTENDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CADET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "CANTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECADENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DECENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEJECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,47 +134,47 @@
         },
         {
             "word": "DENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EJECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EJECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENACTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "JETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "NETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENANTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "TENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

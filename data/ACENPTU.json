@@ -1,0 +1,236 @@
+{
+    "letters": "ACENPTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 169,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUNCTUATE"
+    ],
+    "word_list": [
+        {
+            "word": "ACCENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACCENTUATE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "ACCEPT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACCEPTANCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACUTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANTEEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATNAP",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUANCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANACEA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEANUT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENANCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENNANT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUNCTUATE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEACUP",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

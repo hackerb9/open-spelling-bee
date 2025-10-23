@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 146,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AGONIZING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,32 +59,32 @@
         },
         {
             "word": "GORGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GORING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROANING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GROIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IGNORING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "IRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,47 +104,47 @@
         },
         {
             "word": "OARING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OOZING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORGAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORGANIZING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "ORIGIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAZOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "ROARING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ZONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

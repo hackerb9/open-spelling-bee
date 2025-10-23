@@ -1,0 +1,151 @@
+{
+    "letters": "NABCERY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRANBERRY"
+    ],
+    "word_list": [
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARREN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARRENER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANCER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRANBERRY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "CRANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARBY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEARN",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

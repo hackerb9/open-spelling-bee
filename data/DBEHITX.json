@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 60,
+    "total_score": 108,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "DEBIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEBITED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "DIETED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EBBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "EDITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXHIBITED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "EXITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIDBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "TIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -1,0 +1,196 @@
+{
+    "letters": "MADLORU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 128,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MODULAR"
+    ],
+    "word_list": [
+        {
+            "word": "ALARM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMORAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARMOUR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALLARD",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MODULAR",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MOLAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOULD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAMROD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUMOUR",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

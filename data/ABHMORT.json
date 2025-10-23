@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 126,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "ABBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ABHOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ABORT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARBOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "BAMBOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "BATHROOM",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "HARBOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMOTH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MORTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TABOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "THROAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 157,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "EVOLVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "FLOOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLYOVER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FOLLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FREELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LORRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "LOVELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "OVERLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,32 +164,32 @@
         },
         {
             "word": "REVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVELRY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOLLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

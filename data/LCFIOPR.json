@@ -1,0 +1,161 @@
+{
+    "letters": "LCFIOPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 84,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROLIFIC"
+    ],
+    "word_list": [
+        {
+            "word": "CLIFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOLPROOF",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "FRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FROLIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICCOLO",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROLIFIC",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 119,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIRCLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLERIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "COLIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "COMELIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "COMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMERCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "COOLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "CRIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "LICORICE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "MIMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECOIL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

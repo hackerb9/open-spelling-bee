@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 211,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "CALLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANCEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARNAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CELERY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "CELLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CEREAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,42 +99,42 @@
         },
         {
             "word": "CLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLEANER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLEANLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLEAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLEARANCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CLEARER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLEARLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CYCLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "EARLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "LANCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "LARCENY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "LAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "NEARLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RARELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,22 +229,22 @@
         },
         {
             "word": "REALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REALLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECYCLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "RELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -264,7 +264,7 @@
         },
         {
             "word": "YEARLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

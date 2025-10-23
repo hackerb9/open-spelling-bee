@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 83,
+    "total_score": 146,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCRUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCURACY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "BARBECUE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BARBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "BARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "BEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "BERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "BUREAU",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUREAUCRACY",
-            "score": 8,
+            "score": 11,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "BUYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "CAREER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "CRABBY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRYBABY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "CURRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "RACER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

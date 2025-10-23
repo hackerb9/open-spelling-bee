@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 192,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELEGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EYEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,37 +54,37 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENUINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GENUINELY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "GLUING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,47 +129,47 @@
         },
         {
             "word": "GULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GULLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "LUNGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEGLIGEE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "YELLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

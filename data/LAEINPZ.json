@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 121,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ALIEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,27 +34,27 @@
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AZALEA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "LAPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "NIPPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "PANEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "PENAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENALIZE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "PINEAPPLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PIPELINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PLAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "PLANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLAZA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

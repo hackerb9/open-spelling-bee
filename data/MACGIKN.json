@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 92,
+    "total_score": 167,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "AIMING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "GAMING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "GAMMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GIMMICK",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "IMAGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "IMAGINING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "GAMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIMMICK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "MACING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAGIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAGICIAN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "MAIMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "MAKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,62 +94,62 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MANAGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "MANAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANIAC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MANIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MANNING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "MIKING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MIMIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MIMICKING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "MANIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIMICKING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "MIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINCING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "NAMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NICKNAMING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         }
     ]

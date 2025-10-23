@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 169,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARROW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FANFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "FEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "FOREWARN",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FROWN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NARROW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NARROWER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OWNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,22 +174,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RENEW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RENOWN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "WAFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WARFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "WARREN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

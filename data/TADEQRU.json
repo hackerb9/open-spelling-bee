@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 134,
+    "total_score": 248,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ADEQUATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "DARTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DETERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,37 +69,37 @@
         },
         {
             "word": "EATER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EQUATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EQUATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUART",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUARTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUARTERED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "QUARTET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,42 +109,42 @@
         },
         {
             "word": "RATED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RATTED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RETARD",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RETARDED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "RETREAT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RETREATED",
+            "word": "RATTED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RETARD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETARDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETREAT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RETREATED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TAUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TEARED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,42 +194,42 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TRADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRADER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TREAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "TREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,27 +249,27 @@
         },
         {
             "word": "TRUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

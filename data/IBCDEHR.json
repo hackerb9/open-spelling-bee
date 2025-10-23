@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 209,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BERRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "BIRCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BIRCHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "BIRDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRIBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "CRIBBED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DERIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DERIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,32 +159,32 @@
         },
         {
             "word": "DIRER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "HIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "RIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -1,0 +1,151 @@
+{
+    "letters": "SCGLMOY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COSMOLOGY"
+    ],
+    "word_list": [
+        {
+            "word": "CLOGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COSMOLOGY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "COSMOS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOSS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLOSSY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GYMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOOMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOSSY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLOGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLYLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SMOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOGGY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SOLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOLOS",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

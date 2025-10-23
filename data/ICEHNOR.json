@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 188,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "CHOICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHOICER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHOIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHRONIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CINCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COERCION",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "CORNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENRICH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "HEREIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEROIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEROIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEROINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "HORNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "INCOHERENCE",
-            "score": 8,
+            "score": 11,
             "pangram": true
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INNOCENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "IRONIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "NICER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NICHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "RHINO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

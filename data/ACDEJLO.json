@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 127,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ACCEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ACCOLADE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAJOLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CAJOLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "CALLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "COALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "DECADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "JADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LACED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "LADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "LEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "LOADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOCALE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

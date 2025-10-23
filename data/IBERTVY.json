@@ -1,0 +1,156 @@
+{
+    "letters": "IBERTVY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 136,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BREVITY"
+    ],
+    "word_list": [
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BITTERER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BREVITY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BRIBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRIBERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETIRE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "REVERIE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIVET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TERRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TITTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRIBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRITER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YETI",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

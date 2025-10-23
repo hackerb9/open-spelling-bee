@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 134,
+    "total_score": 245,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,62 +29,62 @@
         },
         {
             "word": "DETER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DETERRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DETERRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DETERRENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DRYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRYLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELDERLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "LEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "REDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDDENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "REELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELENTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,47 +184,47 @@
         },
         {
             "word": "RENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENDERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENDERLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -234,22 +234,22 @@
         },
         {
             "word": "TREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRENDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRENDY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

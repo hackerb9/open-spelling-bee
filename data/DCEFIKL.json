@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 208,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLICKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFILED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "DIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDIFICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,42 +144,42 @@
         },
         {
             "word": "FELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLECKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "FLEECED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLICKED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FLIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,32 +214,32 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "LIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

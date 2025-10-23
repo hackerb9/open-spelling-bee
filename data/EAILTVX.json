@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 135,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEVIATE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "ELEVATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "EXALT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,32 +79,32 @@
         },
         {
             "word": "LATEX",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LAXATIVE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "LEAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "TEXTILE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "TITILLATE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VALET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "VELVET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

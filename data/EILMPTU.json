@@ -1,0 +1,226 @@
+{
+    "letters": "EILMPTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 125,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MULTIPLE"
+    ],
+    "word_list": [
+        {
+            "word": "ELITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LETUP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LITTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULTIPLE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELLET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMPLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLUME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLUMMET",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUMMEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEMPLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEMPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TITLE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

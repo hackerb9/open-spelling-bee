@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 132,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "BOMBS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOOKS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOOKWORMS",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "BOOMS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOORS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "BORROWS",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOSOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOSOMS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "BROOKS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BROOMS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BROWS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "MOORS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "ROOKS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROOMS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "SORROW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "SORROWS",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "WOMBS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "WORKBOOKS",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "WORKS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WORMS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

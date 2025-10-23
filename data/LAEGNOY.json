@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 89,
+    "total_score": 167,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "ALONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALONG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,32 +74,32 @@
         },
         {
             "word": "ANALOG",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANALOGY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELEGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "GALLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GALLON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GENEALOGY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "GEOLOGY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "GOGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAGOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "LONELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,17 +224,17 @@
         },
         {
             "word": "LOONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOYAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NYLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

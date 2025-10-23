@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 169,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "DWELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DWINDLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DWINDLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "LIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,32 +94,32 @@
         },
         {
             "word": "LINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MIDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIDDLEMEN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "MILDEW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MILDEWED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "MILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "WELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "WELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "WILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WINDMILL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WINDMILLED",
-            "score": 7,
+            "score": 10,
             "pangram": true
         }
     ]

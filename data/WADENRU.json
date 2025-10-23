@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
+    "total_score": 211,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "AWARD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWARDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AWARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DAWNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "DRAWER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRAWN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,52 +79,52 @@
         },
         {
             "word": "NEWER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RAWER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REDRAW",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RENEW",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RENEWED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REWARD",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REWARDED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RAWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDRAW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENEWED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REWARD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REWARDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "UNAWARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNDERWEAR",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "WADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "WADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "WANDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WANDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WANDERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "WANED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WANNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "WARDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WARDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,17 +199,17 @@
         },
         {
             "word": "WARNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WARRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WARREN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "WEANED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 158,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,37 +29,37 @@
         },
         {
             "word": "ARCHAIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ARTHRITIC",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ATTACH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTRACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CACTI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "CATARACT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "CHART",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "CHIRP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,22 +164,22 @@
         },
         {
             "word": "PARCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PATRIARCH",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,17 +199,17 @@
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THATCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

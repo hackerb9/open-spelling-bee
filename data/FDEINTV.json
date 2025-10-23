@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 99,
+    "total_score": 168,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "DEFEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEFINITE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFINITIVE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "FEINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FEINTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "FENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "FETED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FETID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIFTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "FINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FINITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FITTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "IDENTIFIED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INDEFINITE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INFINITE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INFINITIVE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TIFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -1,0 +1,231 @@
+{
+    "letters": "LACEHIM",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 129,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHEMICAL"
+    ],
+    "word_list": [
+        {
+            "word": "ACCLAIM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHALICE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHEMICAL",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CHILI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLI",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLAIM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLICHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLIME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEACH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALICE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

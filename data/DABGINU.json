@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 89,
+    "total_score": 155,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ABIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ADDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "BANDAGING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "BANDANNA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BANDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "BIDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "BINDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DABBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,32 +104,32 @@
         },
         {
             "word": "DAUBING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DUBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DUDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "DUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NUDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

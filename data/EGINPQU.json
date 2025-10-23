@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 144,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EQUINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EQUIP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EQUIPPING",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENUINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,32 +84,32 @@
         },
         {
             "word": "PEEPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENGUIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIGPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,37 +124,37 @@
         },
         {
             "word": "PIQUE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "QUEEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "QUEENING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "QUEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEENING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "QUEUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEUING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUININE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNIQUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

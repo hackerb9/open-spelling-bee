@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 122,
+    "total_score": 227,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "DEGREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DREDGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DREDGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DRUDGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRUDGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DRUGGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "DUNGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,27 +74,27 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EDGER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EGGED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENGENDER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "EDGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENGENDER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ENGENDERED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "GENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,47 +114,47 @@
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRUDGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRUDGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "HEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "HUGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HUGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,42 +194,42 @@
         },
         {
             "word": "HUNGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HUNGERED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "NUDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NUDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENEGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUGGEDER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "URGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

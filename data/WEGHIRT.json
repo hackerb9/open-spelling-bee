@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 139,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "HEREWITH",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REWRITE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THREW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "TWEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "TWITTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "WEIGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEIGHT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEIGHTIER",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "WETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WHERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "WHETHER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "WHIRR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "WIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "WITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WITTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WRIGHT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "WRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WRITHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

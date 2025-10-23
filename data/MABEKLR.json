@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 182,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMBER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,37 +49,37 @@
         },
         {
             "word": "BLAME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLAMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EARMARK",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMBALM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBARK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "LAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "MAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MALLEABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "MARKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "MEEKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEMBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "RAMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAMBLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REALM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "REMAKE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMARK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMARKABLE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "REMEMBER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

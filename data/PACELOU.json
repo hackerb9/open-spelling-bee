@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 60,
+    "total_score": 99,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "COUPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELOPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LAPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "PALACE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "PEOPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "POPULACE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {

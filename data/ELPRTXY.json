@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 159,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "EXERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXPERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXPERTLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "PELLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERPLEX",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "PERTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRETEXT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRETTY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,37 +154,37 @@
         },
         {
             "word": "REPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REPLETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REPLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETYPE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TELETYPE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

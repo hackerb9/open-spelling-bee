@@ -1,0 +1,151 @@
+{
+    "letters": "ADGNOPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROPAGANDA"
+    ],
+    "word_list": [
+        {
+            "word": "ADORN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APRON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARDOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAGON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAGODA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARAGON",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PARDON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PROPAGANDA",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "RADAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

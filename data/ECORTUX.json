@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 111,
+    "total_score": 210,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "word": "CORRECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRECTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRECTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORTEX",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "CURTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,82 +69,82 @@
         },
         {
             "word": "CUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXCRETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXECUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXECUTOR",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "EXERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXTORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REROUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "ROUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TEXTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "TORTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TRUCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

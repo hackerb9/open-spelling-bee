@@ -1,0 +1,151 @@
+{
+    "letters": "LDEGHNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 114,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LENGTHENED"
+    ],
+    "word_list": [
+        {
+            "word": "DELETE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GELDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENTLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEGEND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENGTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LENGTHEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LENGTHENED",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NETTLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

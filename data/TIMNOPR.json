@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 84,
+    "total_score": 144,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "IMPORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPRINT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "MONITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "MOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "OPTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINPOINT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "POINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PONTOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,37 +119,37 @@
         },
         {
             "word": "PORTION",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "POTION",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PRINT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PROMOTION",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "PROMPT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PROPORTION",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "POTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROMOTION",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PROMPT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PROPORTION",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "PROTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TROOP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

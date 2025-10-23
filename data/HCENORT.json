@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 207,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHORE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COHERENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COHERENT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CROCHET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROTCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "ENTRENCH",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "HERON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "HONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "HOOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,67 +119,67 @@
         },
         {
             "word": "HORNET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NORTH",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "NORTHERN",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "NORTHERN",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "NOTCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OTHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,47 +194,47 @@
         },
         {
             "word": "THENCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THEREON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THORN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THRONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TORCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRENCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

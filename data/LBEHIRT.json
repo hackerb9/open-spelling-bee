@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 103,
+    "total_score": 187,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BELITTLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "BLITHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLITHER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BRITTLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRITTLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "HILLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,42 +139,42 @@
         },
         {
             "word": "LITER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,22 +194,22 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERRIBLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "THRILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THRILLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

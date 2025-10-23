@@ -1,0 +1,181 @@
+{
+    "letters": "LEGIMOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GLOOMIER"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLIMMER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLOOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLOOMIER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GOGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRILLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OILIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

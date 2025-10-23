@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 104,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALBINO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMMONIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BALLOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BAMBOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BILLION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BINOMIAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "BLOOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOBBIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "LIMBO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "MILLION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "NOMINAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

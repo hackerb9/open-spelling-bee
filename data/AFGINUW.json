@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 133,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "AGAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "FANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FAUNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "FAWNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "GAINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "GANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GAUGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "GNAWING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUFFAW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUFFAWING",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "IGUANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WAGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "WANING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WANNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

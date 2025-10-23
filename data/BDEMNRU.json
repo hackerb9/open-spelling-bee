@@ -1,0 +1,211 @@
+{
+    "letters": "BDEMNRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 197,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NUMBERED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BRED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BREEDER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BUDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUMMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURRED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "EMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUMBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUMBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUMBERED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "REMEMBER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBERED",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "RUBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNBURDEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "UNBURDENED",
+            "score": 10,
+            "pangram": false
+        }
+    ]
+}

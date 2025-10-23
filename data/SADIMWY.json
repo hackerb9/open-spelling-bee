@@ -1,0 +1,206 @@
+{
+    "letters": "SADIMWY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MIDWAYS"
+    ],
+    "word_list": [
+        {
+            "word": "ADDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMASS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMISS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAISY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DAMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DISMAY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DISMAYS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DISMISS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MADAMS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIDS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAIMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIDWAYS",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SADISM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SASSY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAWS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SWAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWAYS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SWIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SWIMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAMS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "letters": "BACDENU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ABUNDANCE"
+    ],
+    "word_list": [
+        {
+            "word": "ABUNDANCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANDANNA",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BANDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEANED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAUBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NABBED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 172,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AERIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "AWARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,32 +54,32 @@
         },
         {
             "word": "EARLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EARLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAWYER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEEWAY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "RARELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "REALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REALLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "RELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "WARIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "WEARIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEARILY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "WEARY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "WILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "WIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WRYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "YEARLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

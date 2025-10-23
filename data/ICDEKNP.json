@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 108,
+    "total_score": 195,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "INCIDENCE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "INDEED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INDEPENDENCE",
             "score": 9,
             "pangram": false
         },
         {
+            "word": "INDEED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDEPENDENCE",
+            "score": 12,
+            "pangram": false
+        },
+        {
             "word": "INKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "KICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "KINKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "NICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "NIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,27 +184,27 @@
         },
         {
             "word": "PICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PICNIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PICNICKED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIECED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "PIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "PINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "PINKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

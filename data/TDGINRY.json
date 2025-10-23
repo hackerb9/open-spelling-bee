@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 138,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DIGIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIGNITY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,17 +39,17 @@
         },
         {
             "word": "DIRTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIRTYING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "DITTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,32 +59,32 @@
         },
         {
             "word": "GRITTING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRITTY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "IGNITING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INDIGNITY",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "IGNITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INDIGNITY",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RIGIDITY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "TIDYING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "TINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "TINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "TIRING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRINITY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

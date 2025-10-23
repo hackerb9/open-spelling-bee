@@ -1,0 +1,196 @@
+{
+    "letters": "NAELRUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 152,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNRAVEL"
+    ],
+    "word_list": [
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVENUE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ELEVEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LUNAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAVAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEURAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVENUE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNEVEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNNERVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNRAVEL",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "UNREAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENEER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VENUE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

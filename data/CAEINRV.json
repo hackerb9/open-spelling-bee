@@ -1,0 +1,211 @@
+{
+    "letters": "CAEINRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 186,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VARIANCE"
+    ],
+    "word_list": [
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AVARICE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CANCER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CARAVAN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CARVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAVERN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAVIAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRAVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREVICE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRREVERENCE",
+            "score": 11,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REVERENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VACCINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VARIANCE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "VICAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

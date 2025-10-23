@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 163,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOITERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,32 +54,32 @@
         },
         {
             "word": "OILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REROUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "RIOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROULETTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "ROUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "TOILET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "TORTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,17 +224,17 @@
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ULTERIOR",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

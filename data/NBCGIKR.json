@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 173,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,67 +24,67 @@
     "word_list": [
         {
             "word": "BIKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BIKINI",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRIBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRICKING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "BRING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRINK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRIBBING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,32 +94,32 @@
         },
         {
             "word": "GRINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ICING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KICKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "KINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "NICKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RICING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "RINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

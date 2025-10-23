@@ -1,0 +1,171 @@
+{
+    "letters": "NCHILOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LOINCLOTH"
+    ],
+    "word_list": [
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTION",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOINCLOTH",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONIC",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

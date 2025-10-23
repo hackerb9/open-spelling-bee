@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 120,
+    "total_score": 222,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CLOUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,32 +34,32 @@
         },
         {
             "word": "CLUTTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COURT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRUELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "CULTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "CURTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "CUTER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CUTLET",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CUTTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ELECTROCUTE",
-            "score": 8,
-            "pangram": true
-        },
-        {
-            "word": "LECTURE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "LECTURER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CUTLET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ELECTROCUTE",
+            "score": 11,
+            "pangram": true
+        },
+        {
+            "word": "LECTURE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LECTURER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LETTUCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,32 +154,32 @@
         },
         {
             "word": "OCCUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REROUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ROULETTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "ROUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TORTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,32 +239,32 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ULCER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 110,
+    "total_score": 191,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "APPETITE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APPOINT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "APPOINTEE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "INEPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OPPONENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OPTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "PAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "PANTIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "PATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PATIENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "PENITENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PENNANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "PETITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETITION",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PIANO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "PINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINPOINT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "POINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PONTOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "POTATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "TEAPOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIPTOE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

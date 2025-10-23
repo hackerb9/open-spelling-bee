@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 154,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HAMLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAREM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "HELMET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "LAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "MALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "MALTREAT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "MATTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MATTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "METAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,22 +189,22 @@
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REALM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TEAMMATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "THEME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THERMAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 131,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALBINO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALIBI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMMONIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "ANIMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "BALLOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "BAMBOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "BINOMIAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "MAILMAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MAMMALIAN",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "MAMMALIAN",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MINIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "NOMINAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

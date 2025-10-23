@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 119,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "EIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EIGHTH",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "EIGHTIETH",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "EIGHTIETH",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "GIMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEIGHT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "HIGHLIGHT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "LIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,27 +114,27 @@
         },
         {
             "word": "LIMELIGHT",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "LIMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "THIGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

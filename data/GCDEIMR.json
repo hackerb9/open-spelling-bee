@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 92,
+    "total_score": 179,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DEGREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIRGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DREDGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DREDGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDGIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMERGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMERGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "GERMICIDE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "GIDDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIRDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREEDIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,62 +134,62 @@
         },
         {
             "word": "GRIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRIMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRIMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRIMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MERGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGIME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

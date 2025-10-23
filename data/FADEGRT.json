@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 121,
+    "total_score": 220,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AFTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "DEAFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFEAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFEATED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "DEFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRAFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRAFTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "FADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FARED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "FATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FATTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "FEARED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "FEEDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRETED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "FETED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FETTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "FREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "FRETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRAFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAFTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -224,17 +224,17 @@
         },
         {
             "word": "RAFTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDRAFT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -244,27 +244,27 @@
         },
         {
             "word": "REEFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFEREED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 152,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -39,7 +39,7 @@
         },
         {
             "word": "ARCANE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "CAMERA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANCER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "CANNERY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "CAREER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREAMY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENEMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "MANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "MEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MENACE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MERCENARY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "MERCY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "MERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "RACER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "RENAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "YEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

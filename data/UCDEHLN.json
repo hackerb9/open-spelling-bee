@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 161,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "CLUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "ELUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "HULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HUNCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HUNCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LUNCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNCHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "UNCLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

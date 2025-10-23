@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 151,
+    "total_score": 268,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "AGAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALIGN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALIGNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "ANGLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANVIL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "AVAILING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "AVAILING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "GAINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GALLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,52 +94,52 @@
         },
         {
             "word": "GANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GANGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HAILING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HALING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HALVING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -149,37 +149,37 @@
         },
         {
             "word": "HANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HAVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HIVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INHALING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LIVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "NAILING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NAVAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "VAGINA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VAGINAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,22 +239,22 @@
         },
         {
             "word": "VALVING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VANILLA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VILLAIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

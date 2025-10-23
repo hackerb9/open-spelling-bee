@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 79,
+    "total_score": 145,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRINK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRINKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "INKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INKIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "KEENED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "KINDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KINDRED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "KINKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KINKIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "KITED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KITTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "KNEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "KNITTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "REEKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "TINKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TINKERED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TREKKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRINKET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

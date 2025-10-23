@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
+    "total_score": 193,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ABBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANNOTATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "ANOINT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BATON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "BOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "HABIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HABITAT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HABITATION",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "HOBBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "INHABIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INHABITANT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INHIBIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INHIBITION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INITIATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "INTONATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "NATION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NINTH",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "NOTATION",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "NOTATION",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "OBTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "TABOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TITBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 103,
+    "total_score": 190,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CLIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,42 +39,42 @@
         },
         {
             "word": "COILED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COLLIDE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "COLLIDED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "COLLIDE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLLIDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "COLLIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COPIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOCILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,37 +159,37 @@
         },
         {
             "word": "LOLLIPOP",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PICCOLO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIECED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "PILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "PILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,27 +219,27 @@
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "POLICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POLICED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "POLIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -1,0 +1,151 @@
+{
+    "letters": "UBEIKLR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BULKIER"
+    ],
+    "word_list": [
+        {
+            "word": "BLUBBER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BLUER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLURB",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULKIER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURLIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBUKE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUBIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

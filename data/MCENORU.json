@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 64,
+    "total_score": 106,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "COMMENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMERCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMMONER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMUNE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOURN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOURNER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MURMUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,27 +124,27 @@
         },
         {
             "word": "RUMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUMOR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RUMOUR",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "UNCOMMON",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RUMOUR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNCOMMON",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "UNCOMMONER",
-            "score": 7,
+            "score": 10,
             "pangram": true
         }
     ]

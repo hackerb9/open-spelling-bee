@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 237,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,72 +74,72 @@
         },
         {
             "word": "CHINNED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CINCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CINCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CINDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CINDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CREDENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,32 +149,32 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRENCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRENCHED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ENRICH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENRICHED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "INCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INCIDENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -209,27 +209,27 @@
         },
         {
             "word": "NICER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NICHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 117,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "BEHELD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEHOLD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEHOLDER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "HEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "HERDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "HOBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOBBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "HOLDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "HOLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOLLERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "HOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

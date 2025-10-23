@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 132,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMORY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "MARTYR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "MAYOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MOLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,37 +149,37 @@
         },
         {
             "word": "MORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MORALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MORTAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MORTALLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "MORTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "ROOMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

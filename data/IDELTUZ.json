@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 133,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -39,7 +39,7 @@
         },
         {
             "word": "DIETED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "DILUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DILUTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIZZIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "EDITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "LILTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "TIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "TILDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "TILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "TILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "TILTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TITLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UTILIZE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UTILIZED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

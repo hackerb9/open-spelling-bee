@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 209,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "EVILER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVILLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EVOLVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "KILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "LIKELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "LIVELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,37 +144,37 @@
         },
         {
             "word": "LOVELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LOVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OLIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OVERKILL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "OVERLIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OVERLOOK",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,42 +184,42 @@
         },
         {
             "word": "RELIEVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RELIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,12 +254,12 @@
         },
         {
             "word": "VILER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIRILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

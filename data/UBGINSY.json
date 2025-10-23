@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 81,
+    "total_score": 144,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "BUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUGGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BUNNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BUSING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "BUSSING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "BUSYING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "GUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "ISSUING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "SINUS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "SNUBBING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "SNUBS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "SNUGGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "SNUGS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "SUBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "SUING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "SUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "SUNNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "UNSUNG",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "USING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

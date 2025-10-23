@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 79,
+    "total_score": 151,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ABBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "ANNOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BALLOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BALLOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BATON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "BOOBY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "BOOTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOTANY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "LOBBY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "LOONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "LOYAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOYALTY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NOBLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "NOTABLY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "NYLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "TABOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TALON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TONAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

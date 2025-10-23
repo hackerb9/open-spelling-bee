@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 161,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "BERET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BERTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUTCHER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "BUTTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUTCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "CURTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "CUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,37 +124,37 @@
         },
         {
             "word": "HUTCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REBUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "THERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TRUCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

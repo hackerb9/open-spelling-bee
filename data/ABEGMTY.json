@@ -1,0 +1,161 @@
+{
+    "letters": "ABEGMTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 83,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MEGABYTE"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABBEY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAGGAGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BAGGY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAYBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEGABYTE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "TABBY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 166,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,27 +59,27 @@
         },
         {
             "word": "CUPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "DUPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HICCUPED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,32 +184,32 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIECED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PUPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

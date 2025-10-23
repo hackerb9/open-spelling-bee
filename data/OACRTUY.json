@@ -1,0 +1,181 @@
+{
+    "letters": "OACRTUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 130,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUTOCRACY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTOCRACY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "AUTOCRAT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARROT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COURT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CURATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ORATORY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OUTCRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRACTOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROUT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRYOUT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YOUR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

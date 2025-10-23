@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 115,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "DOGGEDLY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DOILY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOLLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "ELEGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,37 +64,37 @@
         },
         {
             "word": "EYELID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GEOLOGY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIDDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GODLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOODY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOOEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDEOLOGY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "ODDLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,32 +124,32 @@
         },
         {
             "word": "YELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "YIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "YODEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YODELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "YODELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

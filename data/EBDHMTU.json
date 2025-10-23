@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 174,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "word": "BUDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUTTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "DEBUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEBUTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "EBBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBEDDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "HUMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "METED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "MUTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,22 +184,22 @@
         },
         {
             "word": "TEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,17 +214,17 @@
         },
         {
             "word": "THEME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THUDDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THUMBED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "TUBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

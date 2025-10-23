@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 119,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ACCORD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "ACRID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CALICO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "CARDIAC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CAROL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "COLIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "CORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,37 +134,37 @@
         },
         {
             "word": "CORDIAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CORRAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORRIDOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RADICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

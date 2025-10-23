@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 127,
+    "total_score": 238,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,37 +39,37 @@
         },
         {
             "word": "ACHED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ACTED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ADDED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "AHEAD",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ATTACHED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ACTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AHEAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CACHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CADET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHATTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DADDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "DEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,27 +144,27 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETACH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETACHED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,22 +189,22 @@
         },
         {
             "word": "HATCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAYED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "HEADACHE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEADY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEATED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEYDAY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,17 +254,17 @@
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THATCHED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "YACHTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

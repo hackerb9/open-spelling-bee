@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 165,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APPETITE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INANE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INEPT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INITIATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "INANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INEPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INITIATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INNATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "PANTIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "PATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PATIENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEANUT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "PENITENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PENNANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PETITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETUNIA",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "PUPPET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "UNITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

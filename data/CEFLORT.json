@@ -1,0 +1,171 @@
+{
+    "letters": "CEFLORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 158,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REFLECTOR"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEFT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COFFEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COFFER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLLECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLLECTOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COLOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORRECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTER",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELECTOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECOLLECT",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "RECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REELECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REFLECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REFLECTOR",
+            "score": 9,
+            "pangram": true
+        }
+    ]
+}

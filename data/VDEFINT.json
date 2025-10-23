@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 162,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "DEFINITIVE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -34,42 +34,42 @@
         },
         {
             "word": "DIVED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DIVIDE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DIVIDED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DIVIDEND",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DIVIDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDEND",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DIVINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIVINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENDIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENVIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "EVENED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVIDENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,32 +99,32 @@
         },
         {
             "word": "INFINITIVE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INVENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INVENTED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INVENTIVE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "INVENTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INVENTIVE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "INVITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVITED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "VEINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "VENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "VENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "VIVID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

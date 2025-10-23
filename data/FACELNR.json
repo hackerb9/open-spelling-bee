@@ -1,0 +1,191 @@
+{
+    "letters": "FACELNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 123,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FREELANCE"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREFREE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FANFARE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FARCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEELER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLANNEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLARE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRANC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREELANCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "FREER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAFFLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REFERENCE",
+            "score": 9,
+            "pangram": false
+        }
+    ]
+}

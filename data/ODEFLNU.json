@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 109,
+    "total_score": 193,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,12 +34,12 @@
         },
         {
             "word": "DOLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOLEFUL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,32 +59,32 @@
         },
         {
             "word": "DOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DUNNO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FELON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOOD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "FOLDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "FONDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FONDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "FOOLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "FOULED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FOUNDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "LOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "NOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "OFFED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "OFFEND",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "OFFENDED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "OFFEND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OFFENDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "OLDEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,22 +239,22 @@
         },
         {
             "word": "UNDONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNFOLD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNFOLDED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "UNFOUNDED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         }
     ]

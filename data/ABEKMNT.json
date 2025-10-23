@@ -1,0 +1,226 @@
+{
+    "letters": "ABEKMNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMBANKMENT"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEATEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMANATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EMBANKMENT",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "ENEMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAKEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

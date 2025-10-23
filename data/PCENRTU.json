@@ -1,0 +1,181 @@
+{
+    "letters": "PCENRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 145,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PUNCTURE"
+    ],
+    "word_list": [
+        {
+            "word": "CREEP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERUPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PERCENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRETENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PRUNE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PUNCTURE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REPENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REPUTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUPTURE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPTURN",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

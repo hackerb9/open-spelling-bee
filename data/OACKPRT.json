@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 148,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ACTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAPTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARROT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "CRACKPOT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CROAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CROCK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CROOK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARROT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARTOOK",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "POTATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "PROTRACT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PROTRACTOR",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "RAPPORT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TRACTOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TROOP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

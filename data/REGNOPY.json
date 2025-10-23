@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 79,
+    "total_score": 148,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ENERGY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GONER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GREENERY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "GREYER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROGGY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROYNE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "OPENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "PROGENY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PRONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRONG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REOPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

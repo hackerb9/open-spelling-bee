@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 120,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ALIBI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BIENNIAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "BIPLANE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -129,47 +129,47 @@
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INALIENABLE",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
             "word": "LABEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LIABLE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "LIBEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "NIBBLE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PALPABLE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LIABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PALPABLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "PEBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLIABLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

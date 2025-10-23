@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 71,
+    "total_score": 131,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACCURACY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ACTUARY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTRACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "CANARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "CATARACT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CURRANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CURRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "RATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUNNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "TARTAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "TRUANCY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "TRUANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "TYRANNY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TYRANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

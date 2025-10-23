@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 117,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "HOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "MELON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEMENTO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "MENTHOL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "MOLTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MONTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "MOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "OMELET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OMELETTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

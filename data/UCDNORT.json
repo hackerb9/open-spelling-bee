@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 124,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "COCONUT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONDUCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONDUCTOR",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CONTOUR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COURT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "DUNNO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "OCCUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ODOUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTDO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTDOOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OUTRUN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTUND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "TURNOUT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNCUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

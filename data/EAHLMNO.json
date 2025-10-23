@@ -1,0 +1,186 @@
+{
+    "letters": "EAHLMNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 67,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MANHOLE"
+    ],
+    "word_list": [
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENAMEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HELM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANHOLE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

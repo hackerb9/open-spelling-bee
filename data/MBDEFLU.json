@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 141,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "BUMBLEBEE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "BUMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "DUMBBELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EMBED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EMBEDDED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "EMBEDDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUMBLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -84,32 +84,32 @@
         },
         {
             "word": "FUMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "MUFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUFFLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "MULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUMBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

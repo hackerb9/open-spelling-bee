@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 138,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "CHEEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEPING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,37 +59,37 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HINGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HIPPIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEIGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEIGHING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "NICHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,42 +119,42 @@
         },
         {
             "word": "PEEPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIECING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIGPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

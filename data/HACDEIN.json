@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 84,
+    "total_score": 159,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,42 +29,42 @@
         },
         {
             "word": "ACHED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AHEAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHAINED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CHANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "CHINA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHINNED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CINCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CINCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "ENHANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENHANCED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "HANDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "HEADACHE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HIDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "INCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NICHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

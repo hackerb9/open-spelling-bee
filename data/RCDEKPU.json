@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 120,
+    "total_score": 231,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "CREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "CURED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEEPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "ERRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KEEPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "PEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -124,32 +124,32 @@
         },
         {
             "word": "PERKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRECEDE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRECEDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PRUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PUCKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUCKERED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "PUREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PUREED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,42 +179,42 @@
         },
         {
             "word": "PURRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECURRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RECURRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "REEKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "RUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -254,12 +254,12 @@
         },
         {
             "word": "UDDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

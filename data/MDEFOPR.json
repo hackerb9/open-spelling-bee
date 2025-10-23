@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 169,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFORM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFORMED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DOMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "DOOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMPEROR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "FORMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FORMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FREEDOM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "MOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "MOORED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "MOPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "PERFORM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PERFORMED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PERFORMER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "REDEEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDEEMED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFORM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFORMED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFORMER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "ROMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "ROOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

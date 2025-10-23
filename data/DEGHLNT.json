@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 165,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "GELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GENTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "LEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "LENGTHENED",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -154,27 +154,27 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "TENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

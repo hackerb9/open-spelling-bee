@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 63,
+    "total_score": 120,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DEVOID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVOTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEVOTEE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "DIVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIVIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIVIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "PEEVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEEVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIVOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIVOTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "VETOED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VIDEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "VIVID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "VOIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOODOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOODOOED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "VOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
+    "total_score": 205,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "CREPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEFECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,47 +44,47 @@
         },
         {
             "word": "DEFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DETERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EFFECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EFFECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRETED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "FETED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FETTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "FRETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PERFECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PERFECTED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PERFECTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -154,27 +154,27 @@
         },
         {
             "word": "PERTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREFECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "TREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

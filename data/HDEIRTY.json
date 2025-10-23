@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 136,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DITHERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "HERDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "HEREDITY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,37 +94,37 @@
         },
         {
             "word": "HIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TETHERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "THEIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "THIRD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THIRTIETH",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "THIRTY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 152,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,52 +24,52 @@
     "word_list": [
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOWER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLOWERY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FLYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FOLLOWER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FOYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FREELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "LORRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WEREWOLF",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -199,17 +199,17 @@
         },
         {
             "word": "WORRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WRYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YELLOWER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

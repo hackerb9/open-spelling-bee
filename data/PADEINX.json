@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 175,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "APPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APPENDIX",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -54,47 +54,47 @@
         },
         {
             "word": "DEEPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEEPENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXPAND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXPANDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EXPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "NAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "PAINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PANDA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "PANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "PINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIXIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

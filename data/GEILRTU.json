@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 112,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "GLITTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "GREET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,27 +84,27 @@
         },
         {
             "word": "GRITTIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUILT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUILTIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "GULLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GURGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,27 +129,27 @@
         },
         {
             "word": "GUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIGGER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UGLIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

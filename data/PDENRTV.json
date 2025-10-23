@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 121,
+    "total_score": 214,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,32 +29,32 @@
         },
         {
             "word": "DEEPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEEPENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEEPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEPENDENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,42 +74,42 @@
         },
         {
             "word": "PEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEEVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEEVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,82 +119,82 @@
         },
         {
             "word": "PERTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERVERT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PERVERTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PETER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PETERED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PETTED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PREEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PREENED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PRETEND",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PRETENDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PRETENDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PREVENT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PREVENTED",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "REPENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REPENTED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "PETERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PETTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PREENED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRETEND",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRETENDED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "PRETENDER",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "PREVENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PREVENTED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "REPENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REPENTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

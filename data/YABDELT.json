@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 131,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABBEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,27 +59,27 @@
         },
         {
             "word": "BADLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BAYED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BEADY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BELATEDLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "BELLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "DADDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEADLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "EYEBALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EYEBALLED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "LATELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TABBY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "YELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

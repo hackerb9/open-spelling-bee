@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 162,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,67 +24,67 @@
     "word_list": [
         {
             "word": "FIGURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIGURING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FUNGI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUNNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FURRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FURRING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GENUINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRUFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRUFFER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNFIRE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "GUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "REFUGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFUGEE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "RUFFING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "RUING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUNNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNERRING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "URGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "URINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

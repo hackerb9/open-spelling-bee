@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 128,
+    "total_score": 227,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEMURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEMURER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "DRUMMED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DRUMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "DUMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "LUMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MEDDLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "MUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,32 +124,32 @@
         },
         {
             "word": "MULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MURDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MURDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MURDERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MURMUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MURMURED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,42 +159,42 @@
         },
         {
             "word": "PLUME",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PLUMED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PLUMP",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PLUMPED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PLUMPER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PUMMEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PUMMELED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "PUMMELLED",
+            "word": "PLUMED",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PLUMP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLUMPED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PLUMPER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUMMEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUMMELED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PUMMELLED",
+            "score": 9,
             "pangram": false
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "PUMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDEEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDEEMED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RUMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "RUMPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUMPLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 136,
+    "total_score": 247,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "CENTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CENTRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,122 +44,122 @@
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRETIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ECCENTRIC",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "EJECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INCITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INTERJECT",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "INTERN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INTERNET",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "JITTERIER",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "INTERNET",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "JITTERIER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECENTER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "RETICENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "RETICENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RETIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "TINIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TINNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

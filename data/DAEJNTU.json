@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 199,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTEND",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTENDANT",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ATTENDANT",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "ATTENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DAUNTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "DEADEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEADENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "DENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "JADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "JAUNTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "JETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "JUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "NUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TAUNTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TENANTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -209,32 +209,32 @@
         },
         {
             "word": "TENDED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TENTED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TUNED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "UNATTENDED",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "UNDAUNTED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "TENTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNATTENDED",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "UNDAUNTED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

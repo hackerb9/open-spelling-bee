@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 159,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AGEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMAZE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,42 +39,42 @@
         },
         {
             "word": "ANAEMIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANEMIA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENGAGE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENGAGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ENGAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENIGMA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,47 +99,47 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IMAGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IMAGINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAGAZINE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "MAIZE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MANGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "MEANING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MEZZANINE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "MINIMIZE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

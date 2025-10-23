@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 123,
+    "total_score": 222,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTRACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANNOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "CARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARROT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "CARTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARTOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CATARACT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,47 +84,47 @@
         },
         {
             "word": "CONCOCT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONTACT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONTORT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONTRACT",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CONTRACTOR",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "CONTACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONTORT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONTRACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONTRACTOR",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "CONTRARY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NARRATOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORATORY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "RATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "ROTARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,22 +189,22 @@
         },
         {
             "word": "TARTAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "TRACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRACTOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,17 +239,17 @@
         },
         {
             "word": "TYCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TYRANNY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TYRANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

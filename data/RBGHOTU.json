@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 112,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "BOROUGH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BROTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BROUGHT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BURRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROTTO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "ROBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,22 +109,22 @@
         },
         {
             "word": "THOROUGH",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "THROB",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THROUGH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THROUGHOUT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "TROUGH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

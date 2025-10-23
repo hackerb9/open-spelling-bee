@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 74,
+    "total_score": 134,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ALTAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "AURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IRRITANT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "LUNAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NATURAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "RITUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARANTULA",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -114,47 +114,47 @@
         },
         {
             "word": "TARTAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "ULTRA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNNATURAL",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "UTILITARIAN",
-            "score": 8,
+            "score": 11,
             "pangram": true
         }
     ]

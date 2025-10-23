@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 146,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CLOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLOTHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLOTHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CLOTTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "CODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "COLLECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLLECTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "COOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "COOLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "ECHOED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

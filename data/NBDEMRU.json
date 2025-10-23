@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 160,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "BENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURDENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "BURNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENDURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDURED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "MENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "NUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,27 +124,27 @@
         },
         {
             "word": "NUMBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NUMBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NUMBERED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "REDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDDENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNBURDEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "UNBURDENED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "UNDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

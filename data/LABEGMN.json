@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 182,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,22 +34,22 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMENABLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "ANGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BAGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BEAGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,37 +114,37 @@
         },
         {
             "word": "BLAME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBALM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENAMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GABLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "GAMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GLEAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "LABEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,17 +214,17 @@
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,22 +239,22 @@
         },
         {
             "word": "MALLEABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANAGEABLE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "MANGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

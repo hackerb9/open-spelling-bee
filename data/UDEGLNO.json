@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 179,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELUGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "DUNGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUNGEON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DUNNO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "GLUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "GULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUNNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "LOUNGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOUNGED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "LUGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "LUNGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "NUDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NUDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "UNDONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

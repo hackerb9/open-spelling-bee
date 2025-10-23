@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 124,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "MARTYR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARTYRDOM",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "MATADOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,32 +79,32 @@
         },
         {
             "word": "MORTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORATORY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "ROTARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "TODAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

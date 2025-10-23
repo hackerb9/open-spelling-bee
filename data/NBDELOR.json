@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 109,
+    "total_score": 202,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,32 +34,32 @@
         },
         {
             "word": "BENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLENDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BLOND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLONDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLONDER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "BONDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "BONED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "BORNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "DONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRONED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENROL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENROLL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENROLLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "NOBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOBLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "NOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,27 +219,27 @@
         },
         {
             "word": "OLDEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REBORN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REDDEN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REDDENED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REBORN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REDONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

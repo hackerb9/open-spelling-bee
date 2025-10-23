@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 79,
+    "total_score": 154,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AIRCRAFT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ANTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,42 +44,42 @@
         },
         {
             "word": "ARTIFACT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACTI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,32 +89,32 @@
         },
         {
             "word": "FANATIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRANTIC",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INFANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTACT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRRITANT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,27 +129,27 @@
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARIFF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "TRAFFIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

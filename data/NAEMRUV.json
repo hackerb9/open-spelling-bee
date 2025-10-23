@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 133,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AVENUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "EVENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "MANEUVER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "MANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "MEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,32 +109,32 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAVEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RENAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVENUE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNEVEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNNERVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "VENEER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VENUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

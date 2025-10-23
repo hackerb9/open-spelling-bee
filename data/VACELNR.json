@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 203,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "CALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARAVAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CARVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "CAVERN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLEAVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLEAVER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLEVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLEVERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "ELEVEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "EVENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "LARVA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LARVAE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,42 +114,42 @@
         },
         {
             "word": "LEAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAVAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,52 +159,52 @@
         },
         {
             "word": "RAVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RAVEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RELEVANCE",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "REVEAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REVELER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "REVERE",
-            "score": 3,
+            "word": "RAVEN",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "REVERENCE",
+            "word": "RELEVANCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "REVEAL",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "REVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVELLER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "VALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "VENEER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -1,0 +1,171 @@
+{
+    "letters": "ECFILNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFLUENCE"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNNEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INFLUENCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFELINE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUCLEI",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNCLE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

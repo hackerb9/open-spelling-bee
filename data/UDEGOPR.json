@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 223,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DOURER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRUDGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRUDGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DRUGGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,47 +69,47 @@
         },
         {
             "word": "DUPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOURD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROUP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROUPED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "GROUPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRUDGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRUDGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "ODOUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,27 +129,27 @@
         },
         {
             "word": "POURED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROUD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PROUDER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PUPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,27 +159,27 @@
         },
         {
             "word": "PUREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PUREED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,27 +189,27 @@
         },
         {
             "word": "PURRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROGUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "RUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,27 +229,27 @@
         },
         {
             "word": "RUGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUGGEDER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "UDDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "URGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 143,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,12 +34,12 @@
         },
         {
             "word": "FALLEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FANFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "FAUNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "FEARFUL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FLANNEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "FLUFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "FULLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUNERAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FUNNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "RAFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFUEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUEFUL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "RUFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNFURL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

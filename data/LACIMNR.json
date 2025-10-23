@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 143,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACCLAIM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AIRMAIL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALMANAC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "ANIMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARNAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLAIM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLINICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRIMINAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "MAILMAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MALARIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "MAMMAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MAMMALIAN",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "MAMMALIAN",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "MANIACAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "MINIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -1,0 +1,161 @@
+{
+    "letters": "IGLMNUZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 182,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MUZZLING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLUING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUZZLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IMMUNIZING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LUNGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MINIMIZING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MUZZLING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "NUZZLING",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

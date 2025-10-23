@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 128,
+    "total_score": 251,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DERIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DERIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "DIRER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIRGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOPIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,57 +79,57 @@
         },
         {
             "word": "DRIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDGIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIDDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIRDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOOIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GORIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GREEDIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "GRIPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRIPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GROGGIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PEDIGREE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PERIOD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "PIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,37 +189,37 @@
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PORRIDGE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PRIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,32 +229,32 @@
         },
         {
             "word": "RIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -264,12 +264,12 @@
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -1,0 +1,151 @@
+{
+    "letters": "CEMORTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 134,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMMUTER"
+    ],
+    "word_list": [
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMERCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "COMMUTE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COMMUTER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORRECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTER",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COURT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COURTROOM",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTCOME",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECTUM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRUCE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

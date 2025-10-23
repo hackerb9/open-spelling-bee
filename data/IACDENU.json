@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 81,
+    "total_score": 147,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,52 +34,52 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AUDIENCE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CADDIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CADDIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANDID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANDIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,27 +129,27 @@
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INCIDENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "UNDECIDED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "UNDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

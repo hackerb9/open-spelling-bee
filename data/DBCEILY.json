@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 178,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "BEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BICYCLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "BLEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,32 +74,32 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CYCLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIBEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECIDEDLY",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "EBBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "EDIBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "EYELID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "IDYLLIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -214,17 +214,17 @@
         },
         {
             "word": "YELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "YIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

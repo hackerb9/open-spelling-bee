@@ -1,0 +1,151 @@
+{
+    "letters": "OFGILRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 72,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GLORIFY"
+    ],
+    "word_list": [
+        {
+            "word": "FLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOGGY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLORIFY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GLORY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOLF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROGGY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

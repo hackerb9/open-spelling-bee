@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 154,
+    "total_score": 265,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,67 +24,67 @@
     "word_list": [
         {
             "word": "AIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANIMATING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "AUTUMN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAMUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUMMING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GUNMAN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "IMAGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "IMAGINING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "IMITATING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "INTIMATING",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "GUNMAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IMITATING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INTIMATING",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "MAGNUM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "MAIMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "MAINTAIN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MAINTAINING",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MANAGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "MANAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MATING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "MATTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINIMUM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "MINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINUTING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MITIGATING",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -194,22 +194,22 @@
         },
         {
             "word": "MUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MUTANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUTATING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "MUTING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,27 +219,27 @@
         },
         {
             "word": "NAMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TAMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNMANNING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         }
     ]

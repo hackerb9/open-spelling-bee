@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 136,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "HIPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HIPPIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "HOPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NIPPIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "OPENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PHONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PHONIER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "PINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIONEER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REOPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "RIPEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

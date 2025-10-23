@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 107,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELITTLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BLITHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "HELMET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "LIMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "THEME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THIMBLE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TITBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

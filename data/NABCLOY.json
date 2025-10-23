@@ -1,0 +1,161 @@
+{
+    "letters": "NABCLOY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BALCONY"
+    ],
+    "word_list": [
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BACON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BALCONY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BALLOON",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BANAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANYON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLONY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOBLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NYLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONLY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

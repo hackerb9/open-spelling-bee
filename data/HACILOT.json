@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 112,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ALCOHOL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALCOHOLIC",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ATTACH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CATHOLIC",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CHAOTIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "CHILI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHILLI",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "HATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "HITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "LOATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "THATCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

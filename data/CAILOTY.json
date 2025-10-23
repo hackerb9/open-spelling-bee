@@ -1,0 +1,191 @@
+{
+    "letters": "CAILOTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 132,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LOCALITY"
+    ],
+    "word_list": [
+        {
+            "word": "ATTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALICO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ILLICIT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ITALIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCALITY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "LOCALLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OCTAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACITLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TACTICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

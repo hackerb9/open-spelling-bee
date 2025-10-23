@@ -1,0 +1,151 @@
+{
+    "letters": "OEGNRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 78,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "YOUNGER"
+    ],
+    "word_list": [
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOEY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROGGY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GROYNE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEURON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROGUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROUGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YOUNG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YOUNGER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "YOUR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

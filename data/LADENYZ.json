@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 159,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,37 +49,37 @@
         },
         {
             "word": "ANALYZE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANALYZED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "AZALEA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DAZZLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAZZLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEADLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "DELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "LADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "LANDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LANDLADY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "LEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEADEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "LEANED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "YELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

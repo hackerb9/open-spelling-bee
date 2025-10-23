@@ -1,0 +1,171 @@
+{
+    "letters": "CGIMNOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 199,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMMITTING"
+    ],
+    "word_list": [
+        {
+            "word": "CITING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMMIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMMITTING",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "COMMON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMMOTION",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTION",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "CONNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONNOTING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COTTON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COTTONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INCOGNITO",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INCOMING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOTICING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ONCOMING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TONIC",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

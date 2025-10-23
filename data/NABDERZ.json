@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 117,
+    "total_score": 210,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "BANDANNA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BANDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "BARREN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARRENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "BEANED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "BENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "BRAND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRANDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRAZEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRAZENED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "DARNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEADEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEADENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -154,37 +154,37 @@
         },
         {
             "word": "EARNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDEAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDEARED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERRAND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NABBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "NEARED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDDENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

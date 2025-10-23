@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 128,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FERVOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOGGIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "FOREGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOREVER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FORGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FORGIVE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FORGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "GOOFIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOOIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GORIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROGGIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GROOVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROOVIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "VIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

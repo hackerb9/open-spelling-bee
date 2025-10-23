@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 125,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "CALMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "CAMEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAMERA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARAMEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "CREAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EARMARK",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "LAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "MACKEREL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "MAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MARKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "MEEKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "REALM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "REMAKE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMARK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

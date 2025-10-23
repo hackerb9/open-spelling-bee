@@ -1,0 +1,171 @@
+{
+    "letters": "IEMOPRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 145,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMPORIUM"
+    ],
+    "word_list": [
+        {
+            "word": "EERIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMPIRE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMPORIUM",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "IMPROPER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IMPURE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPURER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MEMOIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OPIUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREMIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PREMIERE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PREMIUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIMMER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOMIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UMPIRE",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

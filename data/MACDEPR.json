@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 117,
+    "total_score": 219,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AMPERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "CAMERA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "CAMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CAMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "CRAMMED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRAMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRAMPED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CREAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREAMED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DAMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "DAMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DREAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DREAMED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DREAMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,27 +149,27 @@
         },
         {
             "word": "MACED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MADAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MADAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MADCAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MADDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "MARRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "PAMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PAMPERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "RAMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,22 +244,22 @@
         },
         {
             "word": "REAMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDEEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDEEMED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REMADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

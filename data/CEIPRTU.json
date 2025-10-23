@@ -1,0 +1,171 @@
+{
+    "letters": "CEIPRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 143,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PICTURE"
+    ],
+    "word_list": [
+        {
+            "word": "CIRCUIT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREEPIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PICTURE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRECIPICE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "PRICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECEIPT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECIPE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECRUIT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUCE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

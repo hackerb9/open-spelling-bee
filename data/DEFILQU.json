@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 231,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFILED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "FELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,37 +149,37 @@
         },
         {
             "word": "FEUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,37 +189,37 @@
         },
         {
             "word": "FLIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUFFED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLUID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FUELED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FUELLED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FULFILLED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "FUELLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FULFILLED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "FULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,27 +239,27 @@
         },
         {
             "word": "LIQUEFIED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "LIQUID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "QUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUEUED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

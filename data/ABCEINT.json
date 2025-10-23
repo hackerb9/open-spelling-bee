@@ -1,0 +1,216 @@
+{
+    "letters": "ABCEINT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 161,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CABINET"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACCENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANCIENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEATEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CABINET",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CACTI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANTEEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INITIATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INNATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTACT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

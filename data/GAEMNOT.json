@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 162,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "AGENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMONG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGAGEMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "GAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "GNOME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "GOATEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,62 +114,62 @@
         },
         {
             "word": "GOTTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAGENTA",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "MAGGOT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MAGNATE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "MAGNET",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MANAGE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MANAGEMENT",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "MAGGOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAGNATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAGNET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANAGEMENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "MANGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEGATON",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "NEGATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OMEGA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "TANGENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TANGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEENAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "TONNAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

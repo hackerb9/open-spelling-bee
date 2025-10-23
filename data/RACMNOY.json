@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 138,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACORN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ACRONYM",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMORY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "CORNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CORONARY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "CRAYON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAROON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAYOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "RACCOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RANCOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAYON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "ROMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "ROOMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

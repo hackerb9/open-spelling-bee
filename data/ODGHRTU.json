@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 148,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,7 +34,7 @@
         },
         {
             "word": "DOUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "DROUGHT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "DUGOUT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "GOURD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "GROTTO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "ODOUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTDO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTDOOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "THOROUGH",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "THOUGH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THOUGHT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THROUGH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THROUGHOUT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "TROUGH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

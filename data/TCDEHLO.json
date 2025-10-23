@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 194,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,32 +29,32 @@
         },
         {
             "word": "CLOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLOTHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLOTHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CLOTTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLLECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLLECTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "DOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "HOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "TODDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TODDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TOOLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "TOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "TOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

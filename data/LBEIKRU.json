@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 79,
+    "total_score": 136,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "BLUBBER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "BLUEBELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BLUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "BLURB",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUBBLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "BULKIER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "BURBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "KILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "LIKELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "REBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

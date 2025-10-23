@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 145,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DEFEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "DUNKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "FENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLUNK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUNKED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "FUNDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUNNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FUNNELED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FUNNELLED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "KEENED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KENNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KENNELED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "KENNELLED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "KNEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNEEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

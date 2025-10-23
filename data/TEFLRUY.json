@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 146,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,7 +34,7 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLEETER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUTTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "FRETFUL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRETFULLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "FUTURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "LEFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "REFUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUFFLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRULY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTERLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

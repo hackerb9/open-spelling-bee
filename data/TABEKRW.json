@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 146,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "BARRETTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BARTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BATTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BEATER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "BERET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "BETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "BREAKWATER",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "EATER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KARATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "REBATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETREAT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "TAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TREAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TWEAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "TWEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "WATER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "WETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

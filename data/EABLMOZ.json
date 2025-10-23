@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 119,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABLAZE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,32 +34,32 @@
         },
         {
             "word": "AMAZE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMOEBA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMOEBAE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AZALEA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "BAMBOOZLE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "BLAME",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BLAZE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BOOZE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EMBALM",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "EMBEZZLE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "BLAZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOOZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBALM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMBEZZLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LABEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MALLEABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {

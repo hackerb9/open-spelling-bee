@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 204,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DEPOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEVOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVOTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEVOTEE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "DIETED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DITTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DITTOED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "DOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,47 +84,47 @@
         },
         {
             "word": "EDITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IDIOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OPTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PITIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PITTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIVOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIVOTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "POTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEPID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "TIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "TIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIPTOE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIPTOED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "VETOED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "VOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

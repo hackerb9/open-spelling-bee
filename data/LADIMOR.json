@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 137,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ADMIRAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AIRMAIL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMADILLO",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "DOLLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DROOL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "IMMORAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MALARIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "MALLARD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "MODAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "MORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RADIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "RAILROAD",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

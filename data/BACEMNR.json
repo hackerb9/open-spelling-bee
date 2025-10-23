@@ -1,0 +1,171 @@
+{
+    "letters": "BACEMNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 128,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REMEMBRANCE"
+    ],
+    "word_list": [
+        {
+            "word": "AMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARMAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARREN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARRENER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BECAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMBER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBRACE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MACABRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MEMBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEMBRANE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REMEMBRANCE",
+            "score": 11,
+            "pangram": true
+        }
+    ]
+}

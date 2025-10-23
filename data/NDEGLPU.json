@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 149,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DEEPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEEPENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "DUNGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "GUNNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEGEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "LUNGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "NUDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NUDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,42 +144,42 @@
         },
         {
             "word": "PENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLUNGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLUNGED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PUNNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPENDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

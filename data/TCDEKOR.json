@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 143,
+    "total_score": 251,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,57 +24,57 @@
     "word_list": [
         {
             "word": "CORRECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRECTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRECTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRECTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETECTOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DETERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DOCTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOCTORED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,52 +84,52 @@
         },
         {
             "word": "DOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETORTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ROCKET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROCKETED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "ROOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "TOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOTTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "TREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "TREKKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -264,7 +264,7 @@
         },
         {
             "word": "TROTTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -1,0 +1,221 @@
+{
+    "letters": "NACELOW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 129,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ALLOWANCE"
+    ],
+    "word_list": [
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLOWANCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "ALONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANCEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANOE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLEAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLONEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONCEAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCEAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLEN",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "letters": "NADMORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DORMANT"
+    ],
+    "word_list": [
+        {
+            "word": "ADAMANT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ADORN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOORMAN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DORMANT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MADMAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAROON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MATRON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NARRATOR",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NOMAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANDOM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORNADO",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

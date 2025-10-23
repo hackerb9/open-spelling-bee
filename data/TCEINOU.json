@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 137,
+    "total_score": 230,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,67 +34,67 @@
         },
         {
             "word": "COCONUT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCEIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCOCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCOCTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "CONNECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNECTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "CONNOTE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONTENT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONTENTION",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "CONTENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONTENTION",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "CONTINENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CONTINUE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "ENTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INCITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNOCENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENTION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "INTUITION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "NICOTINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "NOTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "TONIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TUITION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TUNIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNCUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,12 +244,12 @@
         },
         {
             "word": "UNITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

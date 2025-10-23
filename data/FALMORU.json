@@ -1,0 +1,156 @@
+{
+    "letters": "FALMORU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 70,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORMULA"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALOOF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLORA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLORAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLOUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORMULA",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FORUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

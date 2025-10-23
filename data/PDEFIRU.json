@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 184,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "DEEPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "DRIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DUPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "PEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PREFER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PREFERRED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PREFERRED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PRIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "PUFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUFFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUFFIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PUPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "PUREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PUREED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURIFIED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "PURRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

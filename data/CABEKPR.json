@@ -1,0 +1,181 @@
+{
+    "letters": "CABEKPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PAPERBACK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BACKPACK",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BAREBACK",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BRACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRACKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREAK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAPERBACK",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PEACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RECAP",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

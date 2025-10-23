@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 224,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,42 +39,42 @@
         },
         {
             "word": "ACHED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AHEAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACKLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CALKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CALLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,27 +84,27 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHALKED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CHECKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEEKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLACKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "DECADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "HACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HALED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "HEADACHE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HECKLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "KEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LACED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "LADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,17 +249,17 @@
         },
         {
             "word": "LEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEECHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

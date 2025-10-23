@@ -1,0 +1,161 @@
+{
+    "letters": "PEFIRTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PETRIFY"
+    ],
+    "word_list": [
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PETRIFY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PETTIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PETTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIETY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREFER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRETTIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PRETTY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETYPE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TYPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYPIFY",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

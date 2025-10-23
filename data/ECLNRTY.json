@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 151,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CELERY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,47 +39,47 @@
         },
         {
             "word": "CENTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CENTRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYCLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LECTERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECENTER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECENTLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "RECYCLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "REELECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RELENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

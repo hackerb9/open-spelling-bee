@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 199,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ADAGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "AGILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLEGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GALLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "GAZED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAZELLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "GELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "GILDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "GLADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLAZE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLAZED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,57 +189,57 @@
         },
         {
             "word": "GLIDE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GLIDED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ILLEGAL",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "LAGGED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "LEDGE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LEGAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LEGALIZE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "LEGALIZED",
+            "word": "GLIDED",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ILLEGAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEGALIZE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LEGALIZED",
+            "score": 9,
             "pangram": true
         },
         {
             "word": "LEGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ZIGZAG",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ZIGZAGGED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         }
     ]

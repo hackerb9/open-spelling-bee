@@ -1,0 +1,186 @@
+{
+    "letters": "OADILMN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MANDOLIN"
+    ],
+    "word_list": [
+        {
+            "word": "ALMOND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AMMONIA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIAMOND",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOMINION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DOMINO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANDOLIN",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MILLION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOMINAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

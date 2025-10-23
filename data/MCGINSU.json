@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 92,
+    "total_score": 158,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CUMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "GUMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,52 +44,52 @@
         },
         {
             "word": "IMMUNISING",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "MIMIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MIMICS",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MIMING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MINCING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "MINIMISING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MINIMUM",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "MINIMUMS",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "MIMICS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINIMISING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUMS",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINUS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "MISSING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MISUSING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MUCUS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "MUSIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUSING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MUSSING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "SCUMMING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "SCUMS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "SUMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

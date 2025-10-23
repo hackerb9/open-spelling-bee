@@ -1,0 +1,151 @@
+{
+    "letters": "HCDELTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 107,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLUTCHED"
+    ],
+    "word_list": [
+        {
+            "word": "CHUTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLUTCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLUTCHED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ETCHED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HUDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HUTCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEECHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THUDDED",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 118,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,67 +34,67 @@
         },
         {
             "word": "OVERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OVERVIEW",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OVERWRITE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "RETRIEVE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RETRIEVER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIEW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIEWER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "VIEWER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "VOTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

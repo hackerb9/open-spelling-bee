@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 120,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AMMONIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANIMATION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "IMITATION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INTIMATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "MAINTAIN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "MOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTIVATION",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOMINATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VITAMIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VOMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

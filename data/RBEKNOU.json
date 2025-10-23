@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 123,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -44,37 +44,37 @@
         },
         {
             "word": "BORNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOURBON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BROKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BROKEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BROKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BROOK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUNKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "BURNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "BURRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "NEURON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBORN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBUKE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "ROBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "RUBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNBORN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNBROKEN",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 152,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "CHECK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHECKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,52 +54,52 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHIEF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIEFER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CREEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FICHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERCER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEIFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "HIKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KERCHIEF",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

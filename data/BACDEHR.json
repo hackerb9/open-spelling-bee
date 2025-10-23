@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 108,
+    "total_score": 201,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "BADDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "BARBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARBERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,27 +69,27 @@
         },
         {
             "word": "BARED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BARRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BEACHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "BEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,32 +109,32 @@
         },
         {
             "word": "BEARD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BEARDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,42 +144,42 @@
         },
         {
             "word": "BEHEAD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEHEADED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRACED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BREACH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BREACHED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "BREAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BREADED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "BREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BREEDER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CABBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "CRABBED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DABBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "DRABBER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EBBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

@@ -1,0 +1,166 @@
+{
+    "letters": "WCDELNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 124,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLOWNED"
+    ],
+    "word_list": [
+        {
+            "word": "CLOWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOWNED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "COWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DWELL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENDOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENDOWED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEWD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWDOWN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOODEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

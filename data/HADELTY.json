@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 166,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AHEAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATHLETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "HALED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "HALTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "HATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAYED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "HEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEADY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "HEALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEALTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEALTHY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "HEATED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEATEDLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "HEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "HEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "HEYDAY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,32 +179,32 @@
         },
         {
             "word": "LATHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LATHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETHAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "THETA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

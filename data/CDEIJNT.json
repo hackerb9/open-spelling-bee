@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 175,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,47 +44,47 @@
         },
         {
             "word": "CITED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECEIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEJECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,32 +94,32 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDICT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EJECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EJECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTICED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,47 +129,47 @@
         },
         {
             "word": "INCIDENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INCIDENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INCITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INCITED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INDECENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INDICT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDICTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INJECTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

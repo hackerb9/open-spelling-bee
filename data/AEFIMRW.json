@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 71,
+    "total_score": 128,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AFFIRM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "AWARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "FAIRER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "FARMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "FIREARM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIRMWARE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "FRAME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "MARIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "WAFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "WARFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WARIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WARMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "WEARIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

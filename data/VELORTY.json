@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 81,
+    "total_score": 153,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "EVERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVOLVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "LOVELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,62 +79,62 @@
         },
         {
             "word": "OVERLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OVERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OVERTLY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "REVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVELRY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVOLT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "VELVET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VELVETY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "VOLLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "VOTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

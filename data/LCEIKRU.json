@@ -1,0 +1,206 @@
+{
+    "letters": "LCEIKRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LUCKIER"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIRCLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLERIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLERK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLUCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRUEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRUELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRUELLER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKELIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LIKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LUCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUCKIER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ULCER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

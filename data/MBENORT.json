@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 175,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BETTERMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "BOMBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "BOTTOM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BROOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "MEMBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEMENTO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "MENTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,27 +94,27 @@
         },
         {
             "word": "METEOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "REMEMBER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REMOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMOTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -214,27 +214,27 @@
         },
         {
             "word": "TORMENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TORMENTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREMOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TROMBONE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

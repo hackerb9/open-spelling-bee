@@ -1,0 +1,201 @@
+{
+    "letters": "ACFILTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 146,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FACILITY"
+    ],
+    "word_list": [
+        {
+            "word": "AFFLICT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACIAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FACILITY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "FACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLACY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FATALITY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FATALLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ITALIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACITLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TACTICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

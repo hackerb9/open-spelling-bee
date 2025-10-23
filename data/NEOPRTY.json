@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 84,
+    "total_score": 153,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTROPY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "ENTRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "OPENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OPPONENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PENNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "PEONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PONTOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,32 +109,32 @@
         },
         {
             "word": "PORTENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "POTENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PREEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PRONE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PROPONENT",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PREEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROPONENT",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PROTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "REOPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTTENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TENOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TORRENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

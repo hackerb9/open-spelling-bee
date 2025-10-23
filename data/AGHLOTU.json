@@ -1,0 +1,151 @@
+{
+    "letters": "AGHLOTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 62,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ALTHOUGH"
+    ],
+    "word_list": [
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALTHOUGH",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOATH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAUGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

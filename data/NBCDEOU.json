@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 101,
+    "total_score": 176,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -39,7 +39,7 @@
         },
         {
             "word": "BONDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "BONED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,52 +59,52 @@
         },
         {
             "word": "BOUNCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOUNCED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BOUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOUNDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COCOONED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CONCEDE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCEDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CONDONE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONDONED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "CONNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENOUNCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DENOUNCED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "DUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "DUNNO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENCODE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENCODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "OUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "UNDONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

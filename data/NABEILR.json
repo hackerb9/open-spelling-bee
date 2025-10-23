@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 217,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AIRLINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AIRLINER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ALIEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BALLERINA",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "BANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARBARIAN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "BARREN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARRENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "BIENNIAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRAINIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "BRINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRINIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,32 +139,32 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INALIENABLE",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIBRARIAN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "LINEAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NIBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "RAINIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

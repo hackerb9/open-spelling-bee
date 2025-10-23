@@ -1,0 +1,151 @@
+{
+    "letters": "IACHRTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHARITY"
+    ],
+    "word_list": [
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCHAIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARTHRITIC",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHARITY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HAIRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITCHY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RARITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THIRTY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

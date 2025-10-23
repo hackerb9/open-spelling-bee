@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 130,
+    "total_score": 211,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,37 +29,37 @@
         },
         {
             "word": "ANNOTATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ATONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTENTION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ATTENTIVE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,77 +74,77 @@
         },
         {
             "word": "EVENT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INANE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INITIATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "INANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INITIATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INITIATIVE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INNATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNOVATIVE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENTION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVENTION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVENTIVE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAIVETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NATIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TENTATIVE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

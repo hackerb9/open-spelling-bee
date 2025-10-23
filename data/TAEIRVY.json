@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 221,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "ARTERY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTIRE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "AVERT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EATER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "IRATE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "IRRITATE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ITERATE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ITERATIVE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ATTIRE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AVERT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EATER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRRITATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ITERATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ITERATIVE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RARITY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,42 +74,42 @@
         },
         {
             "word": "RATTY",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REITERATE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RETIRE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RETREAT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RETRIEVE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "RETRIEVER",
+            "word": "REITERATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "RETIRE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RETREAT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "RIVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "TREAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREATY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRIVIA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "VARIETY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 178,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,42 +29,42 @@
         },
         {
             "word": "CITED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMMITTED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "COMMITTEE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DECEIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "DIETED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "DIMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DITTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DITTOED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDICT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "EDITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "EMITTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "IDIOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDIOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDIOTIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "MIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "OMITTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "TIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIMID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

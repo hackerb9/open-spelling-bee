@@ -1,0 +1,196 @@
+{
+    "letters": "AEHNRWY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANYWHERE"
+    ],
+    "word_list": [
+        {
+            "word": "ANEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANYWAY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANYWHERE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARENA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AWARE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AWAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AWRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYENA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WANNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARREN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEARY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YAWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEARN",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

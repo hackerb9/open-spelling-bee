@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 184,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "FAIRER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "FLAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "FLAKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAKIER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FLARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "FLIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRAILER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "LEAFIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "LIFELIKE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RAFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,22 +229,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIEF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,12 +254,12 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIFLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

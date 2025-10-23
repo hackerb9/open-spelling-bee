@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 162,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CIRCLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,77 +39,77 @@
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLERIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLERK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLICK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRICKET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ECLECTIC",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ELECTRIC",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ELECTRIC",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ELICIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ILLICIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "RECITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REELECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RELIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "RICKETIER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -159,27 +159,27 @@
         },
         {
             "word": "TICKET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TICKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRICK",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TRICKIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "TRICKIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TRICKLE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

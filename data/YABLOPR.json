@@ -1,0 +1,151 @@
+{
+    "letters": "YABLOPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROBABLY"
+    ],
+    "word_list": [
+        {
+            "word": "ABLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APPLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOBBY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PALPABLY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAYROLL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLYP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POORLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROBABLY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

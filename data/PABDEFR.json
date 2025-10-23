@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 220,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "APPEAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEARED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BEEPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAPPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "DEEPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRAPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRAPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "PAPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAPERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PARADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARADED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "PARED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PARRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,52 +139,52 @@
         },
         {
             "word": "PEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PREFAB",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREFABBED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PREFER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PREFERRED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PREFERRED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PREPARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PREPARED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "RAPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,22 +209,22 @@
         },
         {
             "word": "REAPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REAPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REAPPEAR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REAPPEARED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         }
     ]

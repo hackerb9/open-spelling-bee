@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 111,
+    "total_score": 207,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "CRUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "CURED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CURRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,32 +89,32 @@
         },
         {
             "word": "ENDURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDURED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INCUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INCURRED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "INDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,42 +124,42 @@
         },
         {
             "word": "NUDER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECUR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECURRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RECUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECURRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "RECURRENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "REDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUDDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "RUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "RUINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,42 +194,42 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RUNNIER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "UDDER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "UNDECIDED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RUNNIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDECIDED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "UNDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "URINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

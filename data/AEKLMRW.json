@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 79,
+    "total_score": 142,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "AWAKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "EARMARK",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "LAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "LAWMAKER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "MAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "MARKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "REALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REALM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "REMAKE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMARK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "WALKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "WARMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "WEAKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "WREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

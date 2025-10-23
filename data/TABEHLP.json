@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 102,
+    "total_score": 186,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "ALPHABET",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ATHLETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "BATHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "BLEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "HEALTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "HEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,32 +129,32 @@
         },
         {
             "word": "LATHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEAPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LETHAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PALATABLE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PALATABLE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PALATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PALETTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "PELLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,27 +184,27 @@
         },
         {
             "word": "PETAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -269,7 +269,7 @@
         },
         {
             "word": "THETA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

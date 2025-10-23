@@ -1,0 +1,211 @@
+{
+    "letters": "AEGIMRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 136,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMAGERY"
+    ],
+    "word_list": [
+        {
+            "word": "AGREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAGERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GARAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAYER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAMMAR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAYER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMAGERY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARRIAGE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEAGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAGRE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIRAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

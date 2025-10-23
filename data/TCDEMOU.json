@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 168,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "COMET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COMMUTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "DEDUCT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEMOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEMOTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "DOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "METED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "MOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "MUTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "OUTCOME",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OUTDO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTMODED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "TOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "TOUTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

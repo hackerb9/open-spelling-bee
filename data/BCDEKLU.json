@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 112,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "BELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BLEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "BLUEBELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BLUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUBBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "BUCKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUCKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUCKLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BUDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "BULKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "BULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "CLUBBED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "CUBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DUBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EBBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

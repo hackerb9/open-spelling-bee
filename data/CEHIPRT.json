@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 203,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "CHEEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "CHIPPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHIRP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIPHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,32 +74,32 @@
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CREEP",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CREEPIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CREEPIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CREPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "ETHIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HECTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HERETIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,62 +149,62 @@
         },
         {
             "word": "ITCHIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PERCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIERCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PITCH",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PITCHER",
-            "score": 4,
-            "pangram": true
-        },
-        {
-            "word": "PRECIPICE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PITCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PITCHER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PRECIPICE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PRICE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECEIPT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RECIPE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THRICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

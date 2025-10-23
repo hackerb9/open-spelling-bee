@@ -1,0 +1,186 @@
+{
+    "letters": "OACILNV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 122,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VOLCANIC"
+    ],
+    "word_list": [
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALICO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANONICAL",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLONIAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONICAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIOLA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIOLIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VOCAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOLCANIC",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "VOLCANO",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

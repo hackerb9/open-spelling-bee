@@ -1,0 +1,171 @@
+{
+    "letters": "MAILPRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRIMARILY"
+    ],
+    "word_list": [
+        {
+            "word": "AIRMAIL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALARM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMPLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPAIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALARIA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMPLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRIMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIMARILY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PRIMARY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRIMLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIMP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

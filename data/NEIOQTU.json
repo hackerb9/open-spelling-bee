@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 129,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "EQUINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENTION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "INTUITION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "QUEEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUININE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUINTET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUOTIENT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUITION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "UNION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNIQUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "UNITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

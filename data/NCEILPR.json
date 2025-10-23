@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 138,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENCIRCLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INCLINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LICENCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "NICER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,32 +84,32 @@
         },
         {
             "word": "NIPPIER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "NIPPLE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PENCE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PENCIL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PENICILLIN",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "NIPPLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENCIL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PENICILLIN",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "PICNIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "PIPELINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRINCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRINCIPLE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "RECLINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "RIPEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

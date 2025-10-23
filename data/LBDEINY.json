@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 206,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BELIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "BELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BELLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "BILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,32 +79,32 @@
         },
         {
             "word": "BLEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLENDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BLIND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLINDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BLINDLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "EDIBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EYELID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "INDELIBLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INDELIBLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "INEDIBLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIBELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,32 +194,32 @@
         },
         {
             "word": "LINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NIBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NIBBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "YELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "YIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

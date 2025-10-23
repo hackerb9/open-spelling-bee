@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 109,
+    "total_score": 205,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "AERIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AGILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "EARLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "FAIRER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "FILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,52 +104,52 @@
         },
         {
             "word": "FLAIL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLAIR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLIER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRAGILE",
-            "score": 4,
-            "pangram": true
-        },
-        {
-            "word": "FRAIL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRAILER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FRIAR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRILL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRILLIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FLAIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRAGILE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FRAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRAILER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRILLIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "GIRAFFE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "GRIEF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ILLEGAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "LEAFIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "REFILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGALIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RELIEF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIFLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

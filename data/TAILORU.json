@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 81,
+    "total_score": 150,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALTAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "RITUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "TAILOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "TORTILLA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,27 +189,27 @@
         },
         {
             "word": "TRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRIAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,22 +229,22 @@
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTORIAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ULTRA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -1,0 +1,196 @@
+{
+    "letters": "RACILPT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 140,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRACTICAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALTAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLAPTRAP",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRITICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARTIAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PILLAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRACTICAL",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "RACIAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIARA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRIP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

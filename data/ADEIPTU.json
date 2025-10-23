@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 117,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ADAPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ADAPTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ADEPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,27 +59,27 @@
         },
         {
             "word": "APPETITE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APTITUDE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ATTITUDE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "AUDIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AUDITED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "PATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "TAPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "UPDATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPDATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

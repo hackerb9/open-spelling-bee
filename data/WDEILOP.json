@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 138,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "DWELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "LOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "PILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PILLOWED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "PLOWED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POWWOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POWWOWED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "WELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "WELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "WIDOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIDOWED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "WILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "WIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

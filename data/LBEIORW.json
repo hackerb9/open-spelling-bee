@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 155,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "BELLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "BILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "BOILER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOWEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "BOWLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BROIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BROILER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELBOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "LOWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOWLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "WILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "WILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOBBLIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "WOOLLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

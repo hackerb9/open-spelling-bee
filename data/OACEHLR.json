@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 155,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "ALCOHOL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CAROL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CELLO",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHARCOAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CAROL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CELLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHARCOAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CHOLERA",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CHORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHORE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "COOLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "CORRAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "HOLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOCALE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "ORACLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "ROACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 155,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,22 +34,22 @@
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEDUCT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "INDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INDUCT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDUCTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "NUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,42 +119,42 @@
         },
         {
             "word": "TUNED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUNIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNCUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDECIDED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "UNDETECTED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "UNDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNINTENDED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -164,22 +164,22 @@
         },
         {
             "word": "UNITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNTIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -1,0 +1,151 @@
+{
+    "letters": "ABDGLUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 71,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LADYBUG"
+    ],
+    "word_list": [
+        {
+            "word": "ABLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BAGGY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BALD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLAD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DAUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUDY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLADLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LADY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LADYBUG",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLABY",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

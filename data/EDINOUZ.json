@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 146,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIZZIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "DOZED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOZEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INDEED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INNUENDO",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "INDEED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNUENDO",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "IODINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,32 +169,32 @@
         },
         {
             "word": "OOZED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "OZONE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "UNDONE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "UNDUE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "UNIONIZE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "UNIONIZED",
+            "word": "OZONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDONE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNIONIZE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "UNIONIZED",
+            "score": 9,
             "pangram": true
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "ZONED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

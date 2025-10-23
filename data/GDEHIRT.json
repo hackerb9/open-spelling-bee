@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 133,
+    "total_score": 256,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "DEGREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIGIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIRGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DREDGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DREDGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,37 +54,37 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDGIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EIGHTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EIGHTIETH",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -94,42 +94,42 @@
         },
         {
             "word": "GIDDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIRDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIRTH",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GREED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GREEDIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREEDIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GREET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,27 +144,27 @@
         },
         {
             "word": "GRITTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRITTIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEIGHT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,82 +174,82 @@
         },
         {
             "word": "HIGHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGRETTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "RIDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGHTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "RIGHTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIGID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THIGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGHTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRIGGER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRIGGERED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         }
     ]

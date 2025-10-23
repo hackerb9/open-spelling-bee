@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 203,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMITTING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,97 +64,97 @@
         },
         {
             "word": "GETTING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GIMME",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "IGNITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "IGNITING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INNING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ITEMIZING",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "MEETING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "METING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MIMING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MINIMIZING",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IGNITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ITEMIZING",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "MEETING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "METING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINIMIZING",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NETTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEEMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "TINGE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TINGEING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "TINGEING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

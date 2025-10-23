@@ -1,0 +1,161 @@
+{
+    "letters": "UCEIPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 121,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PICTURE"
+    ],
+    "word_list": [
+        {
+            "word": "CIRCUIT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CUTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERUPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PICTURE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PUPPET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECRUIT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPUTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUPTURE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TRUCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UPPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

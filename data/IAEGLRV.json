@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 237,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "AERIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AGILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "ARRIVAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ARRIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AVAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EARLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "EVILER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVILLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "GRIEVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ILLEGAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "LIVELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,37 +169,37 @@
         },
         {
             "word": "REGALIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RELIEVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RELIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIVAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "RIVAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "VIGIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,32 +244,32 @@
         },
         {
             "word": "VILER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILLA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILLAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VILLAGER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "VIRAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIRILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

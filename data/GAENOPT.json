@@ -1,0 +1,166 @@
+{
+    "letters": "GAENOPT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PENTAGON"
+    ],
+    "word_list": [
+        {
+            "word": "AGENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOATEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEGATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGEANT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENTAGON",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TANGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEENAGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONNAGE",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

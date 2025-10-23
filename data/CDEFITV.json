@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 170,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,77 +39,77 @@
         },
         {
             "word": "CITED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIVIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECEIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECEIVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECEIVED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEFECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFECTIVE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "DEFICIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DETECTED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DETECTIVE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "DETECTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DETECTIVE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "DEVICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,42 +119,42 @@
         },
         {
             "word": "DICED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EDICT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EDIFICE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "EFFECT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "EFFECTED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "EFFECTIVE",
+            "word": "EDICT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EDIFICE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EFFECT",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "EFFECTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "EFFECTIVE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "EVICT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVICTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "VICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

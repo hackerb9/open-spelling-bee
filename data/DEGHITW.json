@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 178,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "DIETED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIGIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "EDITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "TIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,32 +159,32 @@
         },
         {
             "word": "TWEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWEETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TWIGGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,22 +194,22 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEIGHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEIGHTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "WHETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "WIDTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

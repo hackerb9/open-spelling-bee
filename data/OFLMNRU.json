@@ -1,0 +1,161 @@
+{
+    "letters": "OFLMNRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 73,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOURNFUL"
+    ],
+    "word_list": [
+        {
+            "word": "FLOOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLOUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORLORN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOURN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOURNFUL",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUMOUR",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

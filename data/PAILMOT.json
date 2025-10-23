@@ -1,0 +1,161 @@
+{
+    "letters": "PAILMOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OPTIMAL"
+    ],
+    "word_list": [
+        {
+            "word": "APPAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPTIMA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OPTIMAL",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALATIAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PATIO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

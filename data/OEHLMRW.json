@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 103,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "HOLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOLLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOLLOWER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "LOWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MELLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MELLOWER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MOWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "WHOLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "WHORE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "WORMHOLE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

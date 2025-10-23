@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 123,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "ARCANE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "BARREN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARRENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "BREAKNECK",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CANCER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "CANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CRANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRANK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KNACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNACKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "RANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

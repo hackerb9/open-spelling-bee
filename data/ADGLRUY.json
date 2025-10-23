@@ -1,0 +1,161 @@
+{
+    "letters": "ADGLRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 92,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GRADUALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DADDY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUDY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLADLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRADUAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GRADUALLY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "GRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUARD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LADY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAGGARD",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YARD",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

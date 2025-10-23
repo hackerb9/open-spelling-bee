@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 131,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ACCRUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "ACREAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AGREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "ARGUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "CAREER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "COURAGE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "EAGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GARAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROCER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "RACER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROGUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

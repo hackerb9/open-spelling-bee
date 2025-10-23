@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 182,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,42 +29,42 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALIEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALIENED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DALLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DANDELION",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "DEADLINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "DENIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "DIALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIALLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "IDEAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,27 +154,27 @@
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INLAID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INLAND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IODINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "LINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "LOONIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "NAILED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "OILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

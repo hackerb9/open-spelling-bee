@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 173,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AGILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGILITY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELEGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAILY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "GALLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "ILLEGAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ILLEGALLY",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "LATELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGALITY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "LEGALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TAILGATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TITILLATE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

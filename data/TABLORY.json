@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 163,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ABBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ABORT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALTAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BALLOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "BOOTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "LABORATORY",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "LOYALTY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORATORY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,27 +129,27 @@
         },
         {
             "word": "ROTARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROYALTY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TABBY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

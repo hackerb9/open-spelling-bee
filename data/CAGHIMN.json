@@ -1,0 +1,166 @@
+{
+    "letters": "CAGHIMN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 165,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MACHINING"
+    ],
+    "word_list": [
+        {
+            "word": "ACHING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACHING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAINING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CHANCING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CHANGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHINNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MACHINING",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "MACING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAGIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAGICIAN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MANIAC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

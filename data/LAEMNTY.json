@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 196,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "ELEMENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELEMENTAL",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ENAMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "LAMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "LATELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAYMAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAYMEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANTEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "MEALY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,37 +174,37 @@
         },
         {
             "word": "MENTAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MENTALLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "METAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAMELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEATLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TALENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,17 +224,17 @@
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAMELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

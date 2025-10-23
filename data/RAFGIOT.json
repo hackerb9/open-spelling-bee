@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 127,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AGITATOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "FORGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FORGOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "GRAFFITI",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRAFFITO",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "GRAFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "GROTTO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARIFF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,22 +164,22 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 154,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,37 +54,37 @@
         },
         {
             "word": "LITER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LOITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOITERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "OILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OUTLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROULETTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "TOILET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,22 +219,22 @@
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TURTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ULTERIOR",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

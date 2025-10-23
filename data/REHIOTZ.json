@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 109,
+    "total_score": 202,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,47 +69,47 @@
         },
         {
             "word": "HITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HITHERTO",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HOOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OTHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "RIOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,57 +144,57 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERRORIZE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "THEIR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "THEORIZE",
-            "score": 5,
-            "pangram": true
-        },
-        {
-            "word": "THERE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "THIRTIETH",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "THEIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THEORIZE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "THERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THIRTIETH",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

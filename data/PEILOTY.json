@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 121,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ELOPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOLLIPOP",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "PELLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "PEOPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PETTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIETY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "PILOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "POLIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "POLITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POLITELY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "POLYP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "POPPY",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TELETYPE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "TELETYPE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIPTOE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOPPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

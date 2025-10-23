@@ -1,0 +1,156 @@
+{
+    "letters": "REHLMOW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORMHOLE"
+    ],
+    "word_list": [
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOLLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HOLLOWER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MELLOWER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WHORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORMHOLE",
+            "score": 8,
+            "pangram": true
+        }
+    ]
+}

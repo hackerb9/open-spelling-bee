@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 109,
+    "total_score": 190,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "ANKLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "FALLEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "FELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,37 +69,37 @@
         },
         {
             "word": "FLAKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAKED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FLANK",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLANKED",
-            "score": 4,
-            "pangram": true
-        },
-        {
-            "word": "FLANNEL",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FLANNELED",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "FLANNELLED",
+            "word": "FLANK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLANKED",
             "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FLANNEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLANNELED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "FLANNELLED",
+            "score": 10,
             "pangram": false
         },
         {
@@ -124,27 +124,27 @@
         },
         {
             "word": "KEELED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "KENNEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "KENNELED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "KENNELLED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "KENNEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KENNELED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "KENNELLED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "KNEEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "LADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "LANDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "LEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEADEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "LEAFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "LEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "LEANED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 123,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ALTAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APART",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMPIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPART",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPARTIAL",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "LIMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "MARITAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "MARTIAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "MILITIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "PALATIAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "PARTIAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "TRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "TRIAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

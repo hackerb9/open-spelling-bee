@@ -1,0 +1,221 @@
+{
+    "letters": "ABCDETU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 156,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ABDUCTED"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ABDUCT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ABDUCTED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABETTED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACUTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BAUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CADET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DAUB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAUBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEBATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEBATED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EDUCATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EDUCATED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUBA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

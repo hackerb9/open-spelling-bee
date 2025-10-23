@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 188,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "LOWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOWLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "POWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "PROPEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PROPELLER",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PROPELLER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "PROWL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PROWLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "REPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIPPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "WILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WILLPOWER",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "WIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "WIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOLLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

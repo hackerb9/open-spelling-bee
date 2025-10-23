@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 92,
+    "total_score": 164,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FAIRER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FARMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "FIREARM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIRMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOAMIER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "FOREARM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FORMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FRAME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MEMOIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFORM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFORMER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROOMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

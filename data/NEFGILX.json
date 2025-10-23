@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 192,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,52 +24,52 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXILING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FEELING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FEIGN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FEIGNING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FEIGNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FELINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FELLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FILLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,37 +79,37 @@
         },
         {
             "word": "FINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIXING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLEEING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLEXING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FLING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLINGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GIGGLING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GENII",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "INFIX",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIFELINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEGLIGEE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

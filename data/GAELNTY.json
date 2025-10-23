@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 146,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AGENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,52 +34,52 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELEGANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELEGANTLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "ELEGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTANGLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "GALLANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GALLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "GENTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GENTLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NEGATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "TANGENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TANGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEENAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

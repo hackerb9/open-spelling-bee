@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 121,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "ALONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "AMENABLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BALLOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "BEMOAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENAMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LEMON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MELON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "MOONBEAM",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "NOBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOBLEMAN",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "NOBLEMEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

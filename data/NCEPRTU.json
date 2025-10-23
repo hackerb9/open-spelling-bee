@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 109,
+    "total_score": 199,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,67 +29,67 @@
         },
         {
             "word": "CENTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CENTRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CURRENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NURTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PERCENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRETENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PRUNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PUNCTURE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "PUNTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECENTER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECURRENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "RECURRENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "REPENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETURN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TENURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TUNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUREEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,27 +194,27 @@
         },
         {
             "word": "TURNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNCUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTRUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNTRUER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UPTURN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

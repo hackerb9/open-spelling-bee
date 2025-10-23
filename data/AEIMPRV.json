@@ -1,0 +1,211 @@
+{
+    "letters": "AEIMPRV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 128,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VAMPIRE"
+    ],
+    "word_list": [
+        {
+            "word": "AIRIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AMPERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPEAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMPAIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAIRIE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PREPARE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REAPPEAR",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REPAIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVAMP",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VAMPIRE",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

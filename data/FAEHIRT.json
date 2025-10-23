@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 222,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AFTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "FAIRER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FAITH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "FARTHER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "FATHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FATTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FATTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "FEATHER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FEATHERIER",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIFTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIFTIETH",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "FITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRITTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEFTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEIFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEREAFTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "RAFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,32 +229,32 @@
         },
         {
             "word": "TARIFF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THEFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THEREAFTER",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "THIEF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THRIFT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THRIFTIER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {

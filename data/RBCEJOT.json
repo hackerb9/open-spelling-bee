@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 77,
+    "total_score": 140,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "BERET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BETTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "CORRECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRECTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRECTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,32 +94,32 @@
         },
         {
             "word": "OBJECTOR",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "ROBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

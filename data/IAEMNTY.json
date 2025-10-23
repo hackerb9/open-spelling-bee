@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 203,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "AMENITY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "ANAEMIA",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ANEMIA",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ANIMATE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ATTAIN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTAINMENT",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "ANEMIA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANIMATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTAINMENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "EMINENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,57 +64,57 @@
         },
         {
             "word": "ENMITY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENTITY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "IMITATE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "IMMINENT",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INANE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INANIMATE",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "INITIATE",
+            "word": "ENTITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMITATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMMINENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INANIMATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INITIATE",
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INMATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTIMATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "MAINTAIN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MATINEE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MEANTIME",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "MITTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,22 +194,22 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NINETY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

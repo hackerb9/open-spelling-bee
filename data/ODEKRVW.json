@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 202,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -44,37 +44,37 @@
         },
         {
             "word": "DROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERODE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVOKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVOKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ODDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "ORDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "OVERDO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OVERDREW",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OVERRODE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OVERWORK",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OVERWORKED",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "REVOKE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVOKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REWORK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "RODEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "ROOKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROWED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "VOODOO",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "VOODOOED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "VOODOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "VOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOODWORK",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "WORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "WORKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WORKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

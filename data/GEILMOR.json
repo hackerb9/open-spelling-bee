@@ -1,0 +1,191 @@
+{
+    "letters": "GEILMOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 146,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GLOOMIER"
+    ],
+    "word_list": [
+        {
+            "word": "EMERGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLIMMER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLOOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLOOMIER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GOGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOOIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GORIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRILLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIMIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GRIMMER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GROGGIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GROOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOGGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MERGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REGIME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

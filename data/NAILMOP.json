@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 124,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AMMONIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "ANIMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "LAMPOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "MAILMAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,27 +84,27 @@
         },
         {
             "word": "MAMMALIAN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MILLION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "NAPALM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOMINAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "PALOMINO",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PIANO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

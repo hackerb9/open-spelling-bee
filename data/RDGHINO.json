@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 181,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "DONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "DRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GORGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GORING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "GRIDIRON",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -64,42 +64,42 @@
         },
         {
             "word": "GRIND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRINDING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GROIN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "HIRING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "HONOR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "HONORING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "HIRING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HONOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HONORING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "HORDING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -109,22 +109,22 @@
         },
         {
             "word": "HORRID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IGNORING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INDOOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "IRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,42 +144,42 @@
         },
         {
             "word": "ORIGIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RHINO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIGID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "RINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

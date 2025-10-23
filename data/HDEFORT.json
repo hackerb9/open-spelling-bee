@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 163,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FORTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FROTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FROTHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "HERDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "HOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "HOOFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,62 +104,62 @@
         },
         {
             "word": "HOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OTHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TETHERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,32 +169,32 @@
         },
         {
             "word": "THEFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THEREFORE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "THEREOF",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

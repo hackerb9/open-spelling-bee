@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 191,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "ABLER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "BARREL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEARABLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,42 +79,42 @@
         },
         {
             "word": "BLACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLACKER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BLARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLEAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLEAKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BREAKABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CABLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "CALLABLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CALLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,42 +144,42 @@
         },
         {
             "word": "CELLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CEREAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CEREBRAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLEAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLEARER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLERK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRACKLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "LABEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "RABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,17 +244,17 @@
         },
         {
             "word": "REALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

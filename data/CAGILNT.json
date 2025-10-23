@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 129,
+    "total_score": 234,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ACING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ACTING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACTI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "CALLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "CATCALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CATCALLING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "CITING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,102 +104,102 @@
         },
         {
             "word": "CLANG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLANGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLINIC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CLINICAL",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GALACTIC",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGANTIC",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GLACIAL",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GLANCING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ICING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ILLICIT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "INCITING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INCLINING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "CLINICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GALACTIC",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GIGANTIC",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GLACIAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLANCING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ILLICIT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INCITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INCLINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "INTACT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ITALIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LACING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LANCING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TACTICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

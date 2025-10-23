@@ -1,0 +1,206 @@
+{
+    "letters": "MAEINRX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 135,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXAMINER"
+    ],
+    "word_list": [
+        {
+            "word": "AMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAEMIA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANEMIA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENEMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXAMINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EXAMINER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARINA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARINER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAXIM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAXIMA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEANER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIXER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REMAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENAME",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

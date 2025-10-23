@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 193,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "GOUGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "GOWNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IGNITION",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "INTUITION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "NOTING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,32 +114,32 @@
         },
         {
             "word": "OUTGOING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OUTING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OUTWIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OUTWITTING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "OWING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OWNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "TONGUING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "TOOTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TOTING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOTTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "TOUTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TOWING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TUITION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "WOOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOWING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 131,
+    "total_score": 236,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "CITED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECEIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DIETED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDICT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "EDITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTICED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,77 +129,77 @@
         },
         {
             "word": "INCIDENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INCIDENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INCITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INCITED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INDECENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDENTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INDICT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDICTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INJECTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "INTEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "TINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "TINTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 240,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "DERIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DERIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -59,57 +59,57 @@
         },
         {
             "word": "DIRER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDURED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ERRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INJURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INJURED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,37 +119,37 @@
         },
         {
             "word": "JEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NUDER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REDDEN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REDDENED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "REINDEER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RIDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "RIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "RUDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUDDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "RUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RUINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,27 +249,27 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUNNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UDDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "URINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

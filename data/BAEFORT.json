@@ -1,0 +1,241 @@
+{
+    "letters": "BAEFORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 167,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BAREFOOT"
+    ],
+    "word_list": [
+        {
+            "word": "ABATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABBOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABORT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAREFOOT",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "BARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARRETTE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BARTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BATTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEATER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEFORE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEREFT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BERET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BETTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOTEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORBEAR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORBORE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFBEAT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REBATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROBOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TABOO",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

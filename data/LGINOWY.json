@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 148,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "GLOWING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IGLOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "LINGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "LOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "LOLLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "LONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,37 +109,37 @@
         },
         {
             "word": "LOONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOWING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOWLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NYLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OGLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "WIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "WILLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WILLINGLY",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "WILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WOOLLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "YOWLING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

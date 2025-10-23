@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 163,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "FOOTNOTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FOREFRONT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "FOREGONE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FORGONE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FORGOTTEN",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "FRONT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "GONER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "GOTTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "OFTEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFTENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "REGENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "ROTTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTTENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TENOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "TORRENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

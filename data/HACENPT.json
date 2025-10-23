@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 181,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,32 +29,32 @@
         },
         {
             "word": "ATTACH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTACHE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CACHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,27 +69,27 @@
         },
         {
             "word": "CHEAP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEAPEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEETAH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "ENCHANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENHANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "HAPPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HATCHET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "HEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEATHEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,32 +169,32 @@
         },
         {
             "word": "PEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENCHANT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "TEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "THATCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "THENCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THETA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 154,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ACING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "CALLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANDID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANDLING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CANING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,77 +84,77 @@
         },
         {
             "word": "CLANG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLANGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLINGING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLINIC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CLINICAL",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DANCING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DICING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "GLACIAL",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GLANCING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ICING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INCLINING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "CLINICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DANCING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DICING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLACIAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLANCING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCLINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "LACING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LANCING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

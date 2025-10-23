@@ -1,0 +1,171 @@
+{
+    "letters": "CEIORTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 158,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CORRECTIVE"
+    ],
+    "word_list": [
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITRIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CIVIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORRECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTER",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "CORRECTIVE",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "CORRECTOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COVERT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COVET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREVICE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EROTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EVICT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RECITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECOVER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VECTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VICTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VOICE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

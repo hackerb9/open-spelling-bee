@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 142,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "ANYPLACE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANCEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "CLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLEANLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CYCLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LANCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "LAPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "PALACE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "PANEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "PENAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "PLANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "PLAYPEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

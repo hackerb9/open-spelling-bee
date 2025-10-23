@@ -1,0 +1,161 @@
+{
+    "letters": "SABDRUZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUZZARDS"
+    ],
+    "word_list": [
+        {
+            "word": "ABSURD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ADDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARBS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARDS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAZAARS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BRAS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRASS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURRS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BURSAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUZZARDS",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DABS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DADS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAUBS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRABS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RADARS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUBS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUBURB",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SUBURBS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SUDS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

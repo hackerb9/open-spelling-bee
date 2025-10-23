@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 129,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "ALONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "BABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "BALLOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BALONEY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "BELLBOY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BELLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EYEBALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LABEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "LOBBY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "LONELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "LOONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOYAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOBLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NYLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

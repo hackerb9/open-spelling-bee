@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 119,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,52 +34,52 @@
         },
         {
             "word": "CODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COUCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COUCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COUGHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "DECODE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DODGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DODGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "DOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "ECHOED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "GOUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEDGEHOG",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "HOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "HOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

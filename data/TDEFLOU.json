@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 101,
+    "total_score": 185,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "DOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,37 +79,37 @@
         },
         {
             "word": "FETED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLEETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLOUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOUTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FLUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "FOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LOFTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "LOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "OUTDO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TODDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TODDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TOFFEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TOOLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "TOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "TOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "TOUTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -264,7 +264,7 @@
         },
         {
             "word": "TUFTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

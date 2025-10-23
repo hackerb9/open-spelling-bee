@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 157,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ABANDON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ABANDONING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -39,32 +39,32 @@
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BINGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOBBIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BODING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "BONDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "DOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "GOADING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "INDIGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

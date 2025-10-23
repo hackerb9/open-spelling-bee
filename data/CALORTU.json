@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 96,
+    "total_score": 177,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ACTOR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ACTUAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTRACT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "AUTOCRAT",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ACTUAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AUTOCRAT",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CALCULATOR",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "CARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAROL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARROT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "CATARACT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CATCALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "CLOUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,22 +109,22 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "CORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CORRAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COURT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "CULTURAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CURATOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,22 +184,22 @@
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OCCUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OCTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OCULAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "TRACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRACTOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

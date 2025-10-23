@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 131,
+    "total_score": 230,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "GLUING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "GRINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "GULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GURGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,32 +99,32 @@
         },
         {
             "word": "INKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INKLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KILLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KILNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,32 +134,32 @@
         },
         {
             "word": "KINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "LUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LURING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LURKING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "RIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "RINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RULING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "RUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "URGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

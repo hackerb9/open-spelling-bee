@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 131,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "DADDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DAILY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEADLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "EYELID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IDEALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "KAYAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KAYAKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KEYED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "LADYLIKE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "LEAKY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIKELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "YAKKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "YELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "YIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

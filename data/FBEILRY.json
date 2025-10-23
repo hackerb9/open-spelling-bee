@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 108,
+    "total_score": 210,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,52 +29,52 @@
         },
         {
             "word": "BEEFIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEEFY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BEFELL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELFRY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELIEF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRIEF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRIEFER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRIEFLY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FEEBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FEEBLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,37 +94,37 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIBER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIBRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "FILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FILLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "FIREFLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "FLIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "FREELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRILL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRILLIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRILLIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FRILLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIEF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIFLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

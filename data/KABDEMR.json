@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 151,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "BAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BARKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "BEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEAKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRAKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "DARKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EARMARK",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EARMARKED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "EMBARK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBARKED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "KERBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "MARKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MEEKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,22 +174,22 @@
         },
         {
             "word": "REEKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMAKE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMARK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMARKED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

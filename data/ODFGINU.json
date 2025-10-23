@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 124,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "DODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "word": "DOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DUNNO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "FOUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FOUNDING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GOOFING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "GOUGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INDIGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "NODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "OFFING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "UNDOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

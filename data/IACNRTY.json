@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 65,
+    "total_score": 131,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "ANTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACTI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CITRIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,32 +69,32 @@
         },
         {
             "word": "CRITIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYNIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INTACT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INTRICACY",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "IRRITANT",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "INTACT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTRICACY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "IRRITANT",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "RAINY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RARITY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "TRAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRINITY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 65,
+    "total_score": 122,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AHEAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "HANDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "HATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HAUNTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "HEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "HEATED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEATHEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "HUNTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "THETA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "THUDDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

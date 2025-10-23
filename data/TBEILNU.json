@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 168,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELITTLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "BITTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUILT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BULLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BULLETIN",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -84,37 +84,37 @@
         },
         {
             "word": "BUTTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTITLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INBUILT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INLET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LENIENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LENTIL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TITBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TUNNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "UNITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

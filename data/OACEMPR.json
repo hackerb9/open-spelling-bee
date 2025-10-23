@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 123,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAMEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "COMMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COMMERCE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "COMMERCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "COMPARE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "COOPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "COPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "EMPEROR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "OPERA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

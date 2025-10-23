@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 152,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "EVILER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVILLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "FIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,67 +79,67 @@
         },
         {
             "word": "LIVELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIVER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REFLEXIVE",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "RELIEVE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RELIVE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REVELER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REFLEXIVE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "RELIEVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RELIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVELLER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "VILER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIRILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

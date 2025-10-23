@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 172,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DEFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "FEEDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "FEUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FODDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "FOREWORD",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,52 +104,52 @@
         },
         {
             "word": "FREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FUROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FURORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FURRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FURROW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FURROWED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "OFFED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFFERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,27 +159,27 @@
         },
         {
             "word": "REEFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFEREED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "ROOFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "RUFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "WOOFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

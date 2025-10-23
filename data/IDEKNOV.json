@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 165,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVOID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "DIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,77 +69,77 @@
         },
         {
             "word": "DIVED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DIVIDE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DIVIDED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DIVIDEND",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DIVIDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIVIDEND",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DIVINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIVINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENVIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INVOKE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVOKED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "IODINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "KINKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "VEINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VIDEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "VIVID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "VOIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

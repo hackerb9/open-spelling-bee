@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 205,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "BEGUILE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEGUILED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "BEIGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BELIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "BILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUILD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BULLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDIBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELIGIBLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "GIBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "GILDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,37 +164,37 @@
         },
         {
             "word": "GLIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUILD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GULLIBLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,32 +204,32 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ILLEGIBLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "LEGIBLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIBELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

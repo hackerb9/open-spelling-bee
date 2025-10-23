@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 103,
+    "total_score": 199,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "CHEEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CHIPPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHIRP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIPHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EPITHET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ETHIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HECTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "HERETIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HIPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HIPPIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "HITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "ITCHIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PERCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PITCHER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PITHIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,27 +204,27 @@
         },
         {
             "word": "THEIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THIRTIETH",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THRICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

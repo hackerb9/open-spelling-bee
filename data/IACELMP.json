@@ -1,0 +1,176 @@
+{
+    "letters": "IACELMP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PIECEMEAL"
+    ],
+    "word_list": [
+        {
+            "word": "ACCLAIM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "APIECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLAIM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLIME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPALE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILAC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALICE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIECEMEAL",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIMPLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLAICE",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

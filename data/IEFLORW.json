@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 129,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "FILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "FLIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOWERIER",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "FRILL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRILLIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FRILLIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "LOWLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIEF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIFLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "WILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "WILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "WIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOLLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

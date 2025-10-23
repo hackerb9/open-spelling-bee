@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 74,
+    "total_score": 137,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -39,12 +39,12 @@
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "LOLLIPOP",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "PILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "PILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PILLOWED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "POLIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "WIDOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIDOWED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "WILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WILLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

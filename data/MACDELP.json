@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 158,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AMPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "CALMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "CAMEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "CAMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "CLAMMED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLAMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLAMPED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "DAMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DAMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "LAMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "MACED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MADAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MADAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MADCAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "MEDAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "PALMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

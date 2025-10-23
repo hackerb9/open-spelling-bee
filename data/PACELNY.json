@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 145,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ANYPLACE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "LAPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "NAPPY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "PALACE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "PANACEA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "PANEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "PAPACY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAPAYA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "PECAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "PENAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "PLANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "PLAYPEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

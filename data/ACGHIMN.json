@@ -1,0 +1,241 @@
+{
+    "letters": "ACGHIMN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 246,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MACHINING"
+    ],
+    "word_list": [
+        {
+            "word": "ACHING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CACHING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAINING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CHANCING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CHANGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CHINA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GINGHAM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HAMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "MACHINING",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "MACING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAGIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAGICIAN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANIAC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAMING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

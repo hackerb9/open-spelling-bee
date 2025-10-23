@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 89,
+    "total_score": 164,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,52 +24,52 @@
     "word_list": [
         {
             "word": "ACING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AXING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CANNONING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COAXING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "COCOONING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "COINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "GAINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ICING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 109,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,12 +34,12 @@
         },
         {
             "word": "BELLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "BOWEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELBOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "MELLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MELON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "NOBLE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "NOBLEMEN",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "NOBLEMEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "NOBLEWOMEN",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "WOBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOMEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WOOLEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOLLEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

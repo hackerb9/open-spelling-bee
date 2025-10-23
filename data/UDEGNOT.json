@@ -1,0 +1,196 @@
+{
+    "letters": "UDEGNOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 144,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TONGUED"
+    ],
+    "word_list": [
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUGOUT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUNGEON",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOUGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOUGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUTTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUGGET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUTTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTDONE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OUTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TONGUE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TONGUED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDONE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 161,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ACTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AROMATIC",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "ATOMIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CARROT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "COMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMITATOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "MORTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOMCAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TRACTOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

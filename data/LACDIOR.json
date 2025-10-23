@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 124,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CALICO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "CAROL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "COLIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "CORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CORDIAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CORRAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "DOLLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DROOL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RADIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RADICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "RAILROAD",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

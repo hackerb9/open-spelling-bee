@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 171,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ACORN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "ANCHOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,57 +44,57 @@
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANNON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CANOE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CANON",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHORE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COACH",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COCOA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COCOON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COERCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COHERENCE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "CANOE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COACH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COHERENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "CORNEA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENCROACH",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "HERON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "HONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "OCEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "RACCOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RANCOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

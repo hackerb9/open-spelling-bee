@@ -1,0 +1,151 @@
+{
+    "letters": "UEGILRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GUILTIER"
+    ],
+    "word_list": [
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUILE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUILT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUILTIER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULLET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GURGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIEU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TURTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UGLIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "URGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UTERI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

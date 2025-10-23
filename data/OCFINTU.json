@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 132,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "COCONUT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COFFIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "CONCOCT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONCOCTION",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "CONCOCTION",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FICTION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "FOUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FUNCTION",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "INTUITION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "NONFICTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "OUTFIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TONIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "TUITION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

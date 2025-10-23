@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 128,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DODGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DODGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUGOUT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "DUNGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUNGEON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GONGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "GOTTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,27 +134,27 @@
         },
         {
             "word": "GUNNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NUDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NUDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NUGGET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "TONGUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TONGUED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "TUGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

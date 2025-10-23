@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 98,
+    "total_score": 176,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "BLUEBELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BLUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUBBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,32 +64,32 @@
         },
         {
             "word": "BULLED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BUMBLEBEE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "BUMBLEBEE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "BUMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DUBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,27 +134,27 @@
         },
         {
             "word": "DUMBBELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ELUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "JUMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "JUMBLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "MULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUMBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

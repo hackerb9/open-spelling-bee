@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 188,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,42 +34,42 @@
         },
         {
             "word": "CLEFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEFLECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEFLECTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "FLEECE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLEECED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLEETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLEETER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "LEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "LEFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "REELECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REELECTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "REELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFLECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFLECTED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

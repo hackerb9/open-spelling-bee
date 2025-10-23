@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 86,
+    "total_score": 149,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "FEELING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FEIGN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FEIGNING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FEIGNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FELINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "FELLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FELON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FLEEING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "GOGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "LEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEGION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "LIFELINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIFELONG",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "LOONIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEGLIGEE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

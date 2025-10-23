@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 162,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "CIVIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CORRECTIVE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "COVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREVICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "EVICT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,67 +74,67 @@
         },
         {
             "word": "OVERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECEIVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RECEIVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECOVER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETRIEVE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RETRIEVER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VECTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "VICTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOICE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "VOTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

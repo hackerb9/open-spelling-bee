@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 107,
+    "total_score": 176,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMMENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMMONER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMUNE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONCURRENCE",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOURN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOURNER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "NEURON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "OCCURRENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "OUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECURRENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "RENOUNCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNCOMMON",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "UNCOMMONER",
-            "score": 7,
+            "score": 10,
             "pangram": true
         }
     ]

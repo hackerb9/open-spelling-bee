@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 129,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ABDUCT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ABDUCTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ACUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BUDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "BUTTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "CUBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,42 +89,42 @@
         },
         {
             "word": "DAUBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEBUT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DEBUTED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DEDUCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DEDUCED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DEDUCT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DEDUCTED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DEBUTED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DUBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "EDUCATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDUCATED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TUBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

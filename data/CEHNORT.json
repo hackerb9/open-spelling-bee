@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 157,
+    "total_score": 280,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,67 +29,67 @@
         },
         {
             "word": "CENTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CENTRE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CHEER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHORE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COCOON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COERCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COHERENCE",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "COHERENT",
+            "word": "CENTRE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COHERENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COHERENT",
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCERT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCERTO",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CONCOCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCRETE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "CONNECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNECTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CONNOTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTORT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,52 +134,52 @@
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORNET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRECTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRECTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CROCHET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CROTCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTRENCH",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOTCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,42 +224,42 @@
         },
         {
             "word": "RECENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECENTER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RECONNECT",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RECENTER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RECONNECT",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RECTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THENCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TORCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRENCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

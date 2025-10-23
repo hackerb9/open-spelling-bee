@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 178,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "HEREIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "HEROIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEROINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HERON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HIPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "HONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "HORNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "NIPPIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OPENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PHONIER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "PIONEER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "REOPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RHINO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "RIPEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

@@ -1,0 +1,156 @@
+{
+    "letters": "OEFLRVY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLYOVER"
+    ],
+    "word_list": [
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FERVOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLOOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLYOVER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FOLLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREVER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOYER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOVELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVOLVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVOLVER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOLLEY",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

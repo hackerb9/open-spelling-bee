@@ -1,0 +1,181 @@
+{
+    "letters": "GEFNORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 131,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORGOTTEN"
+    ],
+    "word_list": [
+        {
+            "word": "ERGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREGO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOREGONE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FORGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORGET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORGONE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORGOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORGOTTEN",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "FROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENRE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GREEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREENER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GREET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROTTO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OGRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REGENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REGRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENEGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

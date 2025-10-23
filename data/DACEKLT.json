@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 232,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,47 +39,47 @@
         },
         {
             "word": "ACTED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ADDED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ATTACKED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATTACKED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CACKLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CADET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CALKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CALLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CATCALLED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLACKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "DEALT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,32 +154,32 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,22 +189,22 @@
         },
         {
             "word": "ELECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LACED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,17 +214,17 @@
         },
         {
             "word": "LADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,32 +234,32 @@
         },
         {
             "word": "LEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TACKLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "TALKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

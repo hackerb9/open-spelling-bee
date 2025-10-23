@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 200,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENGINE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "EQUINE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ETIQUETTE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EQUINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ETIQUETTE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,27 +69,27 @@
         },
         {
             "word": "GENUINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GETTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IGNITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,62 +99,62 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NUGGET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "QUEEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEENING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "QUEUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEUING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUIET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUIETING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "QUININE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUINTET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "TENTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TINGEING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "UNIQUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNTIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

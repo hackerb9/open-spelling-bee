@@ -1,0 +1,181 @@
+{
+    "letters": "KDEINRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 137,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNKINDER"
+    ],
+    "word_list": [
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRINK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRINKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DRUNK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRUNKEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DRUNKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INKIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IRKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KINDRED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KINKIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNKIND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNKINDER",
+            "score": 8,
+            "pangram": true
+        }
+    ]
+}

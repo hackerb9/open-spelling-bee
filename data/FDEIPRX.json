@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 158,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "DEFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIFFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIFFERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "FEEDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "FIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIXED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,37 +94,37 @@
         },
         {
             "word": "FREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PREFER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PREFERRED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PREFERRED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PREFIX",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREFIXED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -134,27 +134,27 @@
         },
         {
             "word": "REEFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFEREED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

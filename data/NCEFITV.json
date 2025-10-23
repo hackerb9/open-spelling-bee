@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 103,
+    "total_score": 169,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "EFFICIENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ENTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "EVENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FEINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIFTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,67 +69,67 @@
         },
         {
             "word": "FINITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INCENTIVE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INCITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INEFFECTIVE",
-            "score": 8,
+            "score": 11,
             "pangram": true
         },
         {
             "word": "INEFFICIENT",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
             "word": "INFECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INFINITE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INFINITIVE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVECTIVE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVENT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INVENTIVE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "INVENTIVE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "INVITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

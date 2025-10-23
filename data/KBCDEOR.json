@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 92,
+    "total_score": 167,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BEDROCK",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -34,32 +34,32 @@
         },
         {
             "word": "BOOKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BROKE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BROKER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BROKERED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "BROKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BROKERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "BROOK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BROOKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "COCKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "COKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "COOKBOOK",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COOKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COOKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,32 +109,32 @@
         },
         {
             "word": "CORKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CREEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CROCK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CROOK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CROOKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROOKEDER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "DOCKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "KERBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "REEKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "ROCKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROCKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "ROOKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

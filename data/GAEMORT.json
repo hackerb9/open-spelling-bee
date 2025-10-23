@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 99,
+    "total_score": 189,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "AGGREGATE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "AGREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMERGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,27 +59,27 @@
         },
         {
             "word": "GAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GARAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GARRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GARTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "GOATEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,72 +124,72 @@
         },
         {
             "word": "GRAMMAR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRATER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GREAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREATER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GREET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROTTO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAGGOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEAGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEAGRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MORTGAGE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "OMEGA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "REGATTA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REGRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TARGET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

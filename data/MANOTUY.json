@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 109,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AMOUNT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANATOMY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTONYM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "AUTONOMY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "AUTUMN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "MONOTONY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUMMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUTANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,27 +124,27 @@
         },
         {
             "word": "MUTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TANTAMOUNT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TUMMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

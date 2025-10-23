@@ -1,0 +1,216 @@
+{
+    "letters": "BACEKRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 149,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BRACKET"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BACKTRACK",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAREBACK",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARRETTE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BARTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BATTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEATER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BERET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BETA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BRACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRACKET",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BRAKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREAK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CABARET",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBATE",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

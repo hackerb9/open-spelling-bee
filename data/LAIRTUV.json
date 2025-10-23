@@ -1,0 +1,171 @@
+{
+    "letters": "LAIRTUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 108,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VIRTUAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALTAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARRIVAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RITUAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIVAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRIAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRIVIAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ULTRA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VAULT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIRAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VIRTUAL",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "VITAL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

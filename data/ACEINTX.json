@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 149,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ACCENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,42 +34,42 @@
         },
         {
             "word": "ANCIENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANNEX",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ANTENNA",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ANTENNAE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ANTENNA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ANTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACTI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CANINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,52 +89,52 @@
         },
         {
             "word": "CANTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENACT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EXACT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EXTANT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INANE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INEXACT",
-            "score": 4,
-            "pangram": true
-        },
-        {
-            "word": "INITIATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ENACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXTANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INEXACT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "INITIATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INNATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTACT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

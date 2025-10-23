@@ -1,0 +1,216 @@
+{
+    "letters": "ADEMOTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 147,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUTOMATED"
+    ],
+    "word_list": [
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTOMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "AUTOMATED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DATA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DATUM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUTATED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OUTDATED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTOOED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMATO",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

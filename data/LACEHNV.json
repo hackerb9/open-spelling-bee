@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 119,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AVALANCHE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -39,17 +39,17 @@
         },
         {
             "word": "CALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANCEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "CHANNEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "CLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLEAVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLENCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELEVEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "HALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LANCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,37 +149,37 @@
         },
         {
             "word": "LEAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAVAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

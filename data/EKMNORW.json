@@ -1,0 +1,181 @@
+{
+    "letters": "EKMNORW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORKMEN"
+    ],
+    "word_list": [
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEEKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENEW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RENOWN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOMEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORKMEN",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "WREN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

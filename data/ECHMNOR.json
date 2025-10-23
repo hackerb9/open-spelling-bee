@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 82,
+    "total_score": 136,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHORE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHROME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COHERENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "COMMENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMERCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMONER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HENCHMEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "HERON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "HORMONE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "MONOCHROME",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {

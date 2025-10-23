@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 111,
+    "total_score": 192,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AMONG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "ATONEMENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "EMANATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENGAGEMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -64,32 +64,32 @@
         },
         {
             "word": "GAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GNOME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAGENTA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MAGGOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAGNATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MAGNET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANAGEMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "MANGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "MATTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MEANT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "MEGATON",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "MEMENTO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "MOMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "OMEGA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "TEAMMATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -264,7 +264,7 @@
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

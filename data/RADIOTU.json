@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 138,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ADROIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARDOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARDOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "AUDITOR",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "ODOUR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ORATOR",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "OUTDOOR",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RADAR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RADIATOR",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUTDOOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RADIATOR",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "RADII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RADIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "TARTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TORRID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

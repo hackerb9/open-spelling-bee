@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 152,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEWING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,27 +74,27 @@
         },
         {
             "word": "HINGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEIGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEIGHING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "WEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEIGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEIGHING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WHEEZING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "WHINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WHIZZING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "WINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

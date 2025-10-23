@@ -1,0 +1,156 @@
+{
+    "letters": "AEILTVX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LAXATIVE"
+    ],
+    "word_list": [
+        {
+            "word": "ALIVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLEVIATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AXLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EXALT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATEX",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAXATIVE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "LEAVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAXI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TITILLATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "VALET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VITAL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

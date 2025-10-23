@@ -1,0 +1,156 @@
+{
+    "letters": "RAKMNOW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 76,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORKMAN"
+    ],
+    "word_list": [
+        {
+            "word": "ANORAK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARROW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAROON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARROW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NARROW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKMAN",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "WORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

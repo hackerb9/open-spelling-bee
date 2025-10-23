@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 146,
+    "total_score": 260,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,57 +24,57 @@
     "word_list": [
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOLLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOODLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "GILDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GLIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "HIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,72 +144,72 @@
         },
         {
             "word": "HINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HOLDING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "HOLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOODING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IDLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IGLOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INDIGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LINGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "LOLLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "LONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,27 +239,27 @@
         },
         {
             "word": "NODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NOODLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OGLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

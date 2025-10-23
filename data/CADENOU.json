@@ -1,0 +1,276 @@
+{
+    "letters": "CADENOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 276,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANNOUNCED"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOUNCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANNOUNCED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CADENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNONED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CANOE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANOED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOONED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CODDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONDONE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONDONED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DANCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DANCED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEACON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECADENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DECODE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECODED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DENOUNCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DENOUNCED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DUNCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENCODE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENCODED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NUANCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OCEAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUNCE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

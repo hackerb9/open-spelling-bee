@@ -1,0 +1,161 @@
+{
+    "letters": "OBDFILN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 69,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLINDFOLD"
+    ],
+    "word_list": [
+        {
+            "word": "BILLFOLD",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BILLION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BLINDFOLD",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOOD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

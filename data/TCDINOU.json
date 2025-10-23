@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 152,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "COCONUT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONCOCT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONCOCTION",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "CONCOCT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONCOCTION",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "CONDITION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CONDUCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DICTION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DITTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,27 +74,27 @@
         },
         {
             "word": "IDIOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDIOTIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INDICT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDUCT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDUCTION",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "INTUITION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "OUTDID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OUTDO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "TONIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "TUITION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TUNIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNCUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

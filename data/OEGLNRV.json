@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 146,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ENROL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENROLL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVOLVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GLOVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "GONER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,37 +84,37 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GOVERN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "GOVERNOR",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GOVERN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOVERNOR",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GROOVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROVEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOGGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LONGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "LOVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "NOVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "OVERLONG",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "REVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

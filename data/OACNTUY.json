@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 138,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACCOUNT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ACCOUNTANCY",
-            "score": 8,
-            "pangram": true
-        },
-        {
-            "word": "ACCOUNTANT",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "ACCOUNTANCY",
+            "score": 11,
+            "pangram": true
+        },
+        {
+            "word": "ACCOUNTANT",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "ANNOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANNON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANYON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,42 +84,42 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COCONUT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONCOCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COUNTY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "TOUCAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "TYCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

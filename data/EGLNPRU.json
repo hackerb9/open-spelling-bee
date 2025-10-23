@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 142,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GURGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "LEPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLUNGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLUNGER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRUNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,27 +139,27 @@
         },
         {
             "word": "PUREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURPLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

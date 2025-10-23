@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 162,
+    "total_score": 285,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,52 +29,52 @@
         },
         {
             "word": "DENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPENDENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DETER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DETERRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DETERRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DETERRENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ENTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENTERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,57 +84,57 @@
         },
         {
             "word": "PERTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERVERT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PERVERTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRETEND",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRETENDED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PRETENDER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PREVENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PREVENTED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "RENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPENTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVERENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -199,27 +199,27 @@
         },
         {
             "word": "TENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENDERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,17 +244,17 @@
         },
         {
             "word": "TREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRENDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -264,12 +264,12 @@
         },
         {
             "word": "VENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

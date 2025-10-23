@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 110,
+    "total_score": 206,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "ADORE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ADORED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARDOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARDOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMORED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ARMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMOURED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "DOMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DOOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,22 +109,22 @@
         },
         {
             "word": "DOURER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERODE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MOORED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "OARED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ODDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "ODOUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RAMROD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAMRODDED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "ROAMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "ROARED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RODEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,27 +249,27 @@
         },
         {
             "word": "ROOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUMORED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUMOURED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

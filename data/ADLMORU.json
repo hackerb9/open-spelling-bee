@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 71,
+    "total_score": 143,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALOUD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARDOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARDOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "AURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOLLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "MADAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "MALLARD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,27 +149,27 @@
         },
         {
             "word": "MODAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MODULAR",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "MOLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "RADAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAMROD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

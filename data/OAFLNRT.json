@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 148,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "AFFRONT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AFLOAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AFOOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALOFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALOOF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLORA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "FORLORN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "FRONT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRONTAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "NARRATOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TALON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "TONAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,12 +244,12 @@
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

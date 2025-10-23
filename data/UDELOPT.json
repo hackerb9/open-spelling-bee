@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 102,
+    "total_score": 189,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "DUPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETUP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,37 +119,37 @@
         },
         {
             "word": "OUTDO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTLET",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "OUTPUT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "OUTPUTTED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "OUTPUT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUTPUTTED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "POLLUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "POLLUTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "POUTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "PULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "PULPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUPPET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "PUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOUPEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "TOUTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

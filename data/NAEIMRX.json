@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 143,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "ANAEMIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANEMIA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANNEX",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,37 +54,37 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXAMINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXAMINER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARINA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MARINER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "MEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "RAINIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "REMAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

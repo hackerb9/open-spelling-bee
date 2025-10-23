@@ -1,0 +1,166 @@
+{
+    "letters": "PAEINTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PETUNIA"
+    ],
+    "word_list": [
+        {
+            "word": "APPETITE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INEPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INPUT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANTIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PATIENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEANUT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENITENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PENNANT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PETUNIA",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPPET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

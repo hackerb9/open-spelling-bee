@@ -1,0 +1,171 @@
+{
+    "letters": "ODEGIKL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GODLIKE"
+    ],
+    "word_list": [
+        {
+            "word": "DODGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GODLIKE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GOGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KILO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LODGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LODGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OILED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OKED",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

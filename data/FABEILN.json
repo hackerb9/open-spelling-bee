@@ -1,0 +1,171 @@
+{
+    "letters": "FABEILN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 123,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFALLIBLE"
+    ],
+    "word_list": [
+        {
+            "word": "AFFABLE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BAFFLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEFALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEFALLEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BEFELL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BELIEF",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FALLIBLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FEEBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FELINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FINAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FINALE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLANNEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFALLIBLE",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIFELINE",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

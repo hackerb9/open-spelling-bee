@@ -1,0 +1,191 @@
+{
+    "letters": "ODFNPRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROFOUND"
+    ],
+    "word_list": [
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DROOP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROFOUND",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PRONOUN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PROOF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROUD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UPON",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 172,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AVERAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "EVERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,42 +49,42 @@
         },
         {
             "word": "GAVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRAVELY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "GRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRAVY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LARVA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LARVAE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,27 +94,27 @@
         },
         {
             "word": "LEAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVERAGE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "RAVAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,52 +134,52 @@
         },
         {
             "word": "RAVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REVEAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REVELER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REVEAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVELLER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVELRY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VAGARY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VALLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

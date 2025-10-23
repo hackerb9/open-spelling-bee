@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 108,
+    "total_score": 186,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONCURRENCE",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "CONVENE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "EVENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "NERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEURON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "OCCURRENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "OUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,27 +144,27 @@
         },
         {
             "word": "OVERRUN",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RECURRENCE",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "RECURRENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "RENOUNCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVENUE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -174,32 +174,32 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNCOVER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "UNEVEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNNERVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VENEER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VENUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

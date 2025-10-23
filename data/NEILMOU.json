@@ -1,0 +1,166 @@
+{
+    "letters": "NEILMOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 88,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LINOLEUM"
+    ],
+    "word_list": [
+        {
+            "word": "IMMUNE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINOLEUM",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MELON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MENU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MILLION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMINEE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

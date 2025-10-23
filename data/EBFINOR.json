@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 111,
+    "total_score": 207,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "BEEFIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BEFORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "BONFIRE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BONIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,47 +69,47 @@
         },
         {
             "word": "BORNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRIEF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRIEFER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRINIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "FIBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIBER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIBRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "FINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "FORBORE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FORBORNE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -174,27 +174,27 @@
         },
         {
             "word": "FREER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INFER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INFERIOR",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "INFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFERIOR",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INFERNO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REBORN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,17 +234,17 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,12 +259,12 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -1,0 +1,276 @@
+{
+    "letters": "BAEGLRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 217,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AGREEABLY"
+    ],
+    "word_list": [
+        {
+            "word": "ABBEY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ABLER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGREEABLE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "AGREEABLY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "ALGEBRA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARABLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BABBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAGEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BAGGAGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BAGGY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARLEY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARRAGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BARREL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEARABLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEGGAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BERRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLARE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLEARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EYEBALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GABLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GARBAGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GARBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRABBER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GYBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LABEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RABBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "letters": "OALPRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 118,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POPULARLY"
+    ],
+    "word_list": [
+        {
+            "word": "ALLOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OPAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARLOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARLOUR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PAYROLL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLYP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POORLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POPLAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POPPY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POPULAR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POPULARLY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "POUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UPROAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YOUR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

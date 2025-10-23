@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 140,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "INTUITION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "LOLLIPOP",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "LOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,32 +99,32 @@
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OPTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OUTPUT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PILOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINPOINT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "POINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "POLIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "POLLUTION",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "PONTOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "POTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TUITION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

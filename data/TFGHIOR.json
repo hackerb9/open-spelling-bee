@@ -1,0 +1,161 @@
+{
+    "letters": "TFGHIOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 96,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORTHRIGHT"
+    ],
+    "word_list": [
+        {
+            "word": "FIFTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FIGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORGOT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORTHRIGHT",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "FRIGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FROTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROTTO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THRIFT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

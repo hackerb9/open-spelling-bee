@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 203,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "AGENT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ANTENNA",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ANTENNAE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ANTENNA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "AUGMENT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "AUTUMN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMANATE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ENGAGEMENT",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "ENGAGEMENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "GAMUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "GAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "MAGENTA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MAGNATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MAGNET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANAGEMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "MATTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEANT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "MUTANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUTATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "NEGATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NUGGET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NUTMEG",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TANGENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TEAMMATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -239,22 +239,22 @@
         },
         {
             "word": "TEENAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

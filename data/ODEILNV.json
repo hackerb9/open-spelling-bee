@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 189,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "DEVOID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEVOLVED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DOLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "DOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "EVOLVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVOLVED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "INVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INVOLVED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "IODINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "LOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "LOONIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "LOVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "NOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,27 +194,27 @@
         },
         {
             "word": "NOVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OLDEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OLIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "VIDEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIOLIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,17 +239,17 @@
         },
         {
             "word": "VOIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOODOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOODOOED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

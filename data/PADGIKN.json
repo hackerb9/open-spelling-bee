@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 75,
+    "total_score": 135,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,57 +24,57 @@
     "word_list": [
         {
             "word": "APING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GAPING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDNAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDNAPPING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "NAPKIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NIPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PADDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PAGAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "PAINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PANDA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "PANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "PIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "PINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIPING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

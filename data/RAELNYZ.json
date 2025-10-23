@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 63,
+    "total_score": 120,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ANALYZER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "EARLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEARLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "RARELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "REALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REALLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "RELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "YEARLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "YEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 137,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,32 +34,32 @@
         },
         {
             "word": "ANVIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANNON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CANON",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CANONICAL",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "CIVILIAN",
+            "word": "CANON",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANONICAL",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "CIVILIAN",
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLINICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "COLON",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COLONIAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "COLONIAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CONICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "NAVAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "VANILLA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VILLAIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VIOLIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOLCANIC",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "VOLCANO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

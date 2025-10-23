@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 181,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,97 +24,97 @@
     "word_list": [
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUMMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUTTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IGNITING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINUTING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MUGGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUTING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUTINYING",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "NUTTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,42 +124,42 @@
         },
         {
             "word": "TINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TUNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNITING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNTYING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -1,0 +1,211 @@
+{
+    "letters": "MACEOPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 109,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMPARE"
+    ],
+    "word_list": [
+        {
+            "word": "AMPERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMEO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAMERA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMERCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "COMPARE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAMP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMPEROR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAMPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

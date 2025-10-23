@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 108,
+    "total_score": 201,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "AIRMAIL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMMONIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AMORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANIMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IMMORAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "MAILMAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "MALARIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,42 +114,42 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MAMMALIAN",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "MAMMALIAN",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MARIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MARINA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAROON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,27 +159,27 @@
         },
         {
             "word": "MILLION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "MOLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MONORAIL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "MORAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOMINAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "NORMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "ROMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

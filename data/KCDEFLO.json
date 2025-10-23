@@ -1,0 +1,156 @@
+{
+    "letters": "KCDEFLO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLOCKED"
+    ],
+    "word_list": [
+        {
+            "word": "CLOCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOCKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLECK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLECKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLOCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLOCKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FOLK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OKED",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

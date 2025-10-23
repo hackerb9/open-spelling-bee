@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 128,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "DAWDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAWDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DWELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DWELT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,32 +59,32 @@
         },
         {
             "word": "TWEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWEETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WADDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WADDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "WADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "WALLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WALTZ",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WALTZED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "WELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "WELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "WELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

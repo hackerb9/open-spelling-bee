@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 143,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DARED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "DEADER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "DEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DREAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DREADED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DREARIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "QUARRIED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "RADAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RADII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "RAIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAIDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RARED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "READER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "READIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "READIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "REARED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REREAD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

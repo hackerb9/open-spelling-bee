@@ -1,0 +1,161 @@
+{
+    "letters": "CEIKLNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 122,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRINKLE"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CIRCLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLERIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLERK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLINK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRINKLE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ENCIRCLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ICIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICENCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NECKLINE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECLINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RELIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RICE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

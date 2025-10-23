@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 140,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATHLETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "HEALTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEALTHY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "HEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "LATELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LATHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEEWAY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETHAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "THETA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "TWEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEALTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEALTHY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "WHALE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHEEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

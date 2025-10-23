@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 132,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "AEROPLANE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "ALONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "APRON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENROL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENROLL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "OPENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "PANEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,37 +179,37 @@
         },
         {
             "word": "PLANAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLANNER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "POLLEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REOPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

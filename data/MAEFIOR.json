@@ -1,0 +1,211 @@
+{
+    "letters": "MAEFIOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 129,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOAMIER"
+    ],
+    "word_list": [
+        {
+            "word": "AFFIRM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIREARM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FIRM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAMIER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FOREARM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRAME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMOIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REFORMER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOMIER",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

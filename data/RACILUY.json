@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 122,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCURACY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ACRYLIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,32 +54,32 @@
         },
         {
             "word": "AURAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CARRY",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CIRCA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CIRCULAR",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRCULAR",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CRUCIAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRUCIALLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "CURLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CURRICULA",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CURRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "LYRIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LYRICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RACIALLY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "RALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

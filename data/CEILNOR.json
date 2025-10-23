@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 123,
+    "total_score": 225,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,42 +29,42 @@
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIRCLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLERIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COERCION",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,32 +79,32 @@
         },
         {
             "word": "COLIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLONEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "COOLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,42 +134,42 @@
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORNIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENCIRCLE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ENCIRCLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "INCLINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNOCENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "IRONIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "LICENCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LICORICE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "NICER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,22 +229,22 @@
         },
         {
             "word": "RECLINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RECOIL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECONCILE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "RELIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

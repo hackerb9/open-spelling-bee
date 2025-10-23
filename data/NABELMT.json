@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 108,
+    "total_score": 189,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AMENABLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "BEATEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,52 +79,52 @@
         },
         {
             "word": "BLATANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELEMENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELEMENTAL",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "EMANATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENAMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LAMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LAMENTABLE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "MANTEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "MEANT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MENTAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TALENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "TENABLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

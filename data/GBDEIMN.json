@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 157,
+    "total_score": 295,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,117 +24,117 @@
     "word_list": [
         {
             "word": "BEDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEGGED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BEGGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "BEGIN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BEGINNING",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "BEIGE",
-            "score": 2,
+            "word": "BEGGING",
+            "score": 7,
             "pangram": false
         },
         {
-            "word": "BEING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BENDING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "BENIGN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BIDDING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "BIDING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BINDING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DEEDING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DEEMING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DEIGN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DEIGNED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DEIGNING",
+            "word": "BEGIN",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "BEGINNING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "BEIGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BEING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BENDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BENIGN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BIDDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BIDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BINDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEEDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEEMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEIGN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEIGNED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEIGNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EBBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,37 +144,37 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBEDDING",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "ENDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,67 +209,67 @@
         },
         {
             "word": "GIBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MENDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -1,0 +1,226 @@
+{
+    "letters": "ADILMNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 151,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MANDOLIN"
+    ],
+    "word_list": [
+        {
+            "word": "ALMOND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMMONIA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANIMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIAMOND",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOMAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INLAID",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INLAND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MADMAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAILMAN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAINLAND",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAMMALIAN",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "MANDOLIN",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MANIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MINIMAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOMAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOMINAL",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

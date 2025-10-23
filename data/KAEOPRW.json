@@ -1,0 +1,156 @@
+{
+    "letters": "KAEOPRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 74,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PAPERWORK"
+    ],
+    "word_list": [
+        {
+            "word": "AWAKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AWOKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPERWORK",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARKA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEAKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WREAK",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

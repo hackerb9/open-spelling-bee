@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 135,
+    "total_score": 240,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "CLOUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "CLUTTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COERCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COLLECT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "COLLECTOR",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "COLLECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLLECTOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "COOLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,37 +99,37 @@
         },
         {
             "word": "CORRECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRECTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRECTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COURT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRUELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "CULTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "CURTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,87 +174,87 @@
         },
         {
             "word": "CUTER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CUTLET",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CUTTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ELECT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ELECTOR",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ELECTROCUTE",
-            "score": 8,
-            "pangram": true
-        },
-        {
-            "word": "ERECT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LECTURE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "LECTURER",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "LETTUCE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "OCCUR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECOLLECT",
+            "word": "CUTLET",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "CUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELECTOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ELECTROCUTE",
+            "score": 11,
+            "pangram": true
+        },
+        {
+            "word": "ERECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LECTURE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LECTURER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LETTUCE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECOLLECT",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RECTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REELECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRUCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ULCER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

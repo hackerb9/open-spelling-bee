@@ -1,0 +1,196 @@
+{
+    "letters": "LBEGNRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 120,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BUNGLER"
+    ],
+    "word_list": [
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUBBER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BLUER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLURB",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUGLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUGLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUNGLER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BURBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GURGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

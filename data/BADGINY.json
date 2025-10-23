@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 154,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "word": "BABYING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BAGGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,27 +59,27 @@
         },
         {
             "word": "BANDAGING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "BANDANNA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BANDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BANDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANDYING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "BANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "BANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BAYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BIDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,37 +124,37 @@
         },
         {
             "word": "BINDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DABBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GABBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GYBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NABBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

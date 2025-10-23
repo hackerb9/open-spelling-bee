@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 101,
+    "total_score": 188,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ARROW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWARD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AWARDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AWARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DRAWER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "HARDWARE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HARDWOOD",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HARROW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HARROWED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "HEWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,32 +94,32 @@
         },
         {
             "word": "RAWER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REDRAW",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REWARD",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REWARDED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REDRAW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REWARD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REWARDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ROWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "WADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "WARDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WARHEAD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WARRED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WHERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "WHORE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "WORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

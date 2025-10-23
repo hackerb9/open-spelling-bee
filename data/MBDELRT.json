@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 89,
+    "total_score": 161,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,47 +29,47 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EMBEDDED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "EMBEDDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "EMBER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MEDDLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "MELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEMBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,47 +104,47 @@
         },
         {
             "word": "METED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDEEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDEEMED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REMEMBER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REMEMBERED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "TEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "TERMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TREMBLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TREMBLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

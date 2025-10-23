@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 145,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,92 +29,92 @@
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARTERY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTIRETY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ENTITY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTREATY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ENTRY",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ETERNITY",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ETERNITY",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ITINERARY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "NATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NINETY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAINY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RARITY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "TREATY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRINITY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TYRANNY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TYRANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "YEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

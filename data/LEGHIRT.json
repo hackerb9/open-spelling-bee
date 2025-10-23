@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 156,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "GLITTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "HIGHLIGHT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "HILLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIGHTER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -129,37 +129,37 @@
         },
         {
             "word": "LITER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THRILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THRILLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

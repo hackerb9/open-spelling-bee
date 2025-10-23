@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 157,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,7 +34,7 @@
         },
         {
             "word": "DOLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "DOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "DOMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOODLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOODLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "DOOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLOOD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "FOILED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FOLDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "FOOLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IDIOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LOLLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "LOOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,22 +164,22 @@
         },
         {
             "word": "MODEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MODELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MODELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MODIFIED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "MOLDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "MOLLIFIED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "MOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFFED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

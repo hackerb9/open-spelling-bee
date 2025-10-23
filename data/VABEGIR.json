@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 123,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "ARRIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AVERAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEREAVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEVERAGE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "GRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRIEVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAVAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "VERBIAGE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

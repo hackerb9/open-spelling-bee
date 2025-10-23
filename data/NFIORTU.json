@@ -1,0 +1,156 @@
+{
+    "letters": "NFIORTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 91,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRUITION"
+    ],
+    "word_list": [
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRONT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRUITION",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTUITION",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTRITION",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTRUN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUITION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURNOUT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNFIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

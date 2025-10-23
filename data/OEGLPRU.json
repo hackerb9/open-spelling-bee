@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 137,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ELOPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROUP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GROUPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LOGGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "PEOPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "PROLOGUE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -184,27 +184,27 @@
         },
         {
             "word": "PROPEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PROPELLER",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PROPELLER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ROGUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "ROUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

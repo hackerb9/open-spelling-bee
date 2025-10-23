@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 110,
+    "total_score": 200,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "CLICK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLICKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLINK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLINKED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "INKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "KEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "KEENED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KENNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KENNELED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "KENNELLED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "KICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "KILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "KILNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "KINDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KINDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "KINKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "KNEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNEEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "LICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "LIKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIKEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIKENED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "LINKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "NECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NECKLINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "NICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NICKEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

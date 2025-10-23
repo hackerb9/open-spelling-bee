@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 176,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ACCRUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "ALLURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "CALLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "CAREER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "CELLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CELLULAR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CEREAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLEAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLEARER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "CRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUELER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRUELLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "EQUAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "LACQUER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "LAUREL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,27 +149,27 @@
         },
         {
             "word": "QUARREL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "RACER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "REALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "RECALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ULCER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

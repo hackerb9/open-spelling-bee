@@ -1,0 +1,151 @@
+{
+    "letters": "KCDEFIL",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLICKED"
+    ],
+    "word_list": [
+        {
+            "word": "CLICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLICKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FICKLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLECK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLECKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLICKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KILLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LICKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIFELIKE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIKED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

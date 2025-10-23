@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 230,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "CAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COCKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "CODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COOKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COOPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "DECADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "DOCKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "DOPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,72 +204,72 @@
         },
         {
             "word": "PACED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDOCK",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PADDOCKED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEEKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "POOPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

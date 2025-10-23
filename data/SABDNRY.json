@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 71,
+    "total_score": 134,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABYSS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "word": "ARRAYS",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BANANAS",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "BANDANNAS",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "BANANAS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BANDANNAS",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "BANDS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "BARBS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BARDS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BARNS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BARNYARDS",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "BRANDS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "BRASS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRASSY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRAYS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "DARNS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "DRABS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "RADARS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "SANDS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "SANDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "SASSY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "YARDS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YARNS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

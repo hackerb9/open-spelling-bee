@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 99,
+    "total_score": 186,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,37 +29,37 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUCIFIED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CRUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRUDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "CUFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,47 +89,47 @@
         },
         {
             "word": "CURED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CURRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDIFICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERCER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,37 +164,37 @@
         },
         {
             "word": "ICIER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECEDE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECEDED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RECUR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECURRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RECEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECURRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

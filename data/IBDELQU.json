@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 113,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BELIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "BILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUILD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BULLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDIBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIBELED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "LIQUID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "QUIBBLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUIBBLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "QUILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

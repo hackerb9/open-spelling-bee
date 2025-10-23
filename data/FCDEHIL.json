@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 130,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CHIEF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,32 +39,32 @@
         },
         {
             "word": "CLIFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFILED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDIFICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,42 +84,42 @@
         },
         {
             "word": "FELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FICHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIELD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIELDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FILCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FILCHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "FILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "FILLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "FLEECE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLEECED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

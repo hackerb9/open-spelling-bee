@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 146,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "CAMEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAMERA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "COMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMERCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMMONER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "CREAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "MANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "MAROON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "MENACE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "MORON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "RENAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "ROMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROMANCE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 160,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "BELLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BELLOWED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BELOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOWEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,32 +64,32 @@
         },
         {
             "word": "BOWLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOWLEGGED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "DOGWOOD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DWELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELBOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELBOWED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GLOWED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "LOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "WEBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "WELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "WELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOBBLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

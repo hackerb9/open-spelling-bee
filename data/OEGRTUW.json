@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 157,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GOUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "GROTTO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "GROWER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,42 +74,42 @@
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OUTGREW",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "OUTGROW",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REROUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REWROTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ROGUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "ROUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TORTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TOWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "WROTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

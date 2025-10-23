@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 149,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AFFLICT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALTAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARTIFICIAL",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "CATCALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLIFF",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CRITICAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CRITICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FATAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FLAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FLIRT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,27 +114,27 @@
         },
         {
             "word": "FRACTAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ILLICIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ITALIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TACTICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "TRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

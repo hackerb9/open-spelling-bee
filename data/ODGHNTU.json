@@ -1,0 +1,171 @@
+{
+    "letters": "ODGHNTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 89,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DOUGHNUT"
+    ],
+    "word_list": [
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOUGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOUGHNUT",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DUGOUT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HOUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OUTDO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THONG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THOU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THOUGH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THOUGHT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOUGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

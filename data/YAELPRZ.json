@@ -1,0 +1,186 @@
+{
+    "letters": "YAELPRZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 127,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PARALYZE"
+    ],
+    "word_list": [
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLEY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APPLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EARLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAYER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAZY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAYA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARALYZE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PAYER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLAYER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PRAYER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREPAY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RARELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REALLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RELAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REPAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPLAY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REPLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEARLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

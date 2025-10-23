@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 64,
+    "total_score": 121,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,7 +34,7 @@
         },
         {
             "word": "CAMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "CAPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHAMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHAMPED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "CHAPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEAP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "DAMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "HEAPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "MADCAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "PACED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "PEACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

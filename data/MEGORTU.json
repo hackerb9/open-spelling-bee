@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 155,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "EMERGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "GOURMET",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "GROOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "MERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "METEOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "MORGUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUGGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MURMUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "MUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "MUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMOTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "RUMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREMOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TUMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

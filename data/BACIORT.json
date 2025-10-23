@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 60,
+    "total_score": 108,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ABBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ABORT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ACROBAT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ACROBATIC",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "ARBITRATOR",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "ACROBATIC",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "ARBITRATOR",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "ARBOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "BARBARIC",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "BOBCAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "COBRA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,37 +114,37 @@
         },
         {
             "word": "ORBIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RABBI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RABBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROBOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABOO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TITBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOBACCO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

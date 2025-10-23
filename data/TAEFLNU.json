@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 170,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AFFLUENT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FATAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "FATEFUL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FATTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FAULT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "FLATTEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FLAUNT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "LATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEAFLET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TALENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,12 +244,12 @@
         },
         {
             "word": "TUNEFUL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TUNNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

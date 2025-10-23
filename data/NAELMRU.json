@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 127,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,17 +34,17 @@
         },
         {
             "word": "ANNUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANNUL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENAMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "MANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "MEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEURAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "NUMERAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "RENAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNMAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNREAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

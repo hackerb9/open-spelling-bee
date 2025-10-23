@@ -1,0 +1,196 @@
+{
+    "letters": "ODEMNUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 106,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UNMOVED"
+    ],
+    "word_list": [
+        {
+            "word": "DEMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOUNDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDONE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNMOVED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "VENOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VOODOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

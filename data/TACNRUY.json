@@ -1,0 +1,181 @@
+{
+    "letters": "TACNRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 124,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRUANCY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTUARY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CURRANT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CURT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUTTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUANCY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "TRUANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRANNY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TYRANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNCUT",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

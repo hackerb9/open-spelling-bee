@@ -1,0 +1,241 @@
+{
+    "letters": "AELORVY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 170,
+    "word_count": 43,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERLAY"
+    ],
+    "word_list": [
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLEY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EARLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LARVAE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAYER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOYALER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVARY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OVERLAY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REALLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVEAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROYALLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VALLEY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VALOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VARY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YEARLY",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 128,
+    "total_score": 236,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DEFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DETERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FERRETED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "FETED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FETTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "FRETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FURTHER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FURTHERED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "FUTURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "REFUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFUTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,37 +139,37 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TETHERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "THEFT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "THUDDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "TRUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "TUFTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,22 +249,22 @@
         },
         {
             "word": "TURFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 168,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "CHEER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CHEERED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CREDENCE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CHEERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CREDENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "CREWED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "DRENCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRENCHED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "ERRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "HERDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,32 +104,32 @@
         },
         {
             "word": "NEWER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECEDE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECEDED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REDDEN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REDDENED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RECEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,27 +144,27 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RENEW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RENEWED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "WHERE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "WRENCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WRENCHED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

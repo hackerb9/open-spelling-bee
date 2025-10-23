@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 102,
+    "total_score": 195,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BOBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "BODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BORDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BORDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -64,32 +64,32 @@
         },
         {
             "word": "BORED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BORROW",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BORROWED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "BORROW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BORROWED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "BOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BROOD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BROODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "BURRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BURROW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURROWED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "DOURER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERODE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "ODDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "ODOUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "ROBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "ROBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "RODEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "WORDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

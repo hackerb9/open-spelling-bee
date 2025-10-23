@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 111,
+    "total_score": 201,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRIBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BRINGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "BRINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "BRINY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "BUNNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,37 +69,37 @@
         },
         {
             "word": "BURNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BURRING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BURYING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,47 +109,47 @@
         },
         {
             "word": "GRINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRUBBING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GYBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "RINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "RUING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "RUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUNNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "URGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

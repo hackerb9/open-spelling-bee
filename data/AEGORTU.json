@@ -1,0 +1,246 @@
+{
+    "letters": "AEGORTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 182,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTRAGE"
+    ],
+    "word_list": [
+        {
+            "word": "AGGREGATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "AGREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARGUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AUTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EAGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAGERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EATER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GARAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GARRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GARTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOATEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRATER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GREAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GREATER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUTRAGE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "RAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REGATTA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RETREAT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TARGET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TARTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAUTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TREAT",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

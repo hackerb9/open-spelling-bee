@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 156,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AMBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "AMENABLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "AMOEBA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMOEBAE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BAMBOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "BEMOAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLAME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLOOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "EMBALM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENAMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEMON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MALLEABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "MELON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "MOONBEAM",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "NOBLEMAN",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "NOBLEMEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

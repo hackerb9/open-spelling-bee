@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 206,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AGENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,52 +34,52 @@
         },
         {
             "word": "ANGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGPLANT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ELEGANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTANGLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GALLANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "GENTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "NEGATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PAGAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAGEANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "PANEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "PATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENNANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,22 +209,22 @@
         },
         {
             "word": "PLANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLANET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLANT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TALENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "TANGENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TANGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,17 +249,17 @@
         },
         {
             "word": "TEENAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

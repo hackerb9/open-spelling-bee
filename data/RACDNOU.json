@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 132,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ACCORD",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACORN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ADORN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARDOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARDOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AROUND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "CANDOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANDOUR",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "CONCORD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONDOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "CORDON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "DONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "OCCUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,27 +144,27 @@
         },
         {
             "word": "ODOUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RACCOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RADAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RANCOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RANCOUR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "ROUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

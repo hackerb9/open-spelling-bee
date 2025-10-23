@@ -1,0 +1,151 @@
+{
+    "letters": "OABEJMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JAMBOREE"
+    ],
+    "word_list": [
+        {
+            "word": "AMOEBA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AMOEBAE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARBOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BAMBOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOMBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "JAMBOREE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MAJOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

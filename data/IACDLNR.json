@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 65,
+    "total_score": 116,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "ACRID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "CANDID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CARDIAC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CARDINAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLINICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "DRAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INLAID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INLAND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RADIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RADICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RADII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "RANCID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -1,0 +1,191 @@
+{
+    "letters": "LINOPTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "POLLUTION"
+    ],
+    "word_list": [
+        {
+            "word": "LILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLIPOP",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUPIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLIO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLLUTION",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PULPIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUPIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TULIP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNTIL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

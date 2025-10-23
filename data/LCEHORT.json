@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 84,
+    "total_score": 147,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHORTLE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "CLOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLOTHE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COLLECT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "COLLECTOR",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "COLLECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLLECTOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "COLOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "COOLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECTOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "HOLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "RECOLLECT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "REELECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THROTTLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

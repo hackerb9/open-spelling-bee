@@ -1,0 +1,171 @@
+{
+    "letters": "MACEORV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERCAME"
+    ],
+    "word_list": [
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMEO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAMERA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMERCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CREAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVERMORE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOREOVER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MOVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERCAME",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "OVERCOME",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REMOVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 166,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,127 +29,127 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXCEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXCEEDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EXCEPT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXCEPTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EXCERPT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXCERPTED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "EXCRETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXCRETED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EXPECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXPECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PRECEDE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRECEDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

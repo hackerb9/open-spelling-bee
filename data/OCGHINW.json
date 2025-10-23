@@ -1,0 +1,151 @@
+{
+    "letters": "OCGHINW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 122,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHOWING"
+    ],
+    "word_list": [
+        {
+            "word": "CHOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHOWING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

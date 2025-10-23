@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 80,
+    "total_score": 149,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AVOWED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "DROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "EVADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "OVERDO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OVERDRAW",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "OVERDREW",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OVERRODE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "RAVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "VEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "VOODOO",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "VOODOOED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "VOODOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VOODOOED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "VOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,32 +149,32 @@
         },
         {
             "word": "WAVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WAVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WAVERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WEAVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

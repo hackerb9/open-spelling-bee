@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 175,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "BOBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "BODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOOTEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOYCOTTED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "CODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COYOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "DECODE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECODED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DECOYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "DOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "EBBED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "OBEYED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,17 +224,17 @@
         },
         {
             "word": "TOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOYED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 65,
+    "total_score": 116,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AFFIRM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "FAIRER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FIREARM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "FIRMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIRMWARE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "MARIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "WARIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEARIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "WIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

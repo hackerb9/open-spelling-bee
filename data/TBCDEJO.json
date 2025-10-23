@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 63,
+    "total_score": 114,
     "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,12 +34,12 @@
         },
         {
             "word": "BOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOOTEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "DEJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEJECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,42 +74,42 @@
         },
         {
             "word": "DOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EJECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EJECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "JETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "JOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OBJECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OBJECTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "TOOTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "TOTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

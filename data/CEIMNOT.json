@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 185,
+    "total_score": 302,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CEMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,67 +54,67 @@
         },
         {
             "word": "COMET",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COMIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COMMENCE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "COMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMENCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "COMMENCEMENT",
-            "score": 9,
+            "score": 12,
             "pangram": false
         },
         {
             "word": "COMMENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COMMIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMMITMENT",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "COMMITTEE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COMMON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COMMOTION",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "COMMOTION",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CONCEIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCOCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCOCTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -124,62 +124,62 @@
         },
         {
             "word": "CONNECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNECTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "CONNOTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTENTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "CONTENTMENT",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
             "word": "CONTINENT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ECONOMIC",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EMINENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ENTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTICEMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -189,27 +189,27 @@
         },
         {
             "word": "INCITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INCITEMENT",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "INCOME",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INNOCENCE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "INCITEMENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "INCOME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNOCENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "INNOCENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "MIMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MINCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MNEMONIC",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -239,17 +239,17 @@
         },
         {
             "word": "NICOTINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "TONIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

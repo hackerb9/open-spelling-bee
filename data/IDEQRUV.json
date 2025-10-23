@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 100,
+    "total_score": 193,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DERIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DERIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DERIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DERIVED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DIRER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,102 +64,102 @@
         },
         {
             "word": "DIVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIVIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIVIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "QUERIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUIVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "QUIVERED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "REDID",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REQUIRE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REQUIRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REQUIRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIVED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "RIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUDDIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "VIVID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIVIDER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

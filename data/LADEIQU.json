@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 108,
+    "total_score": 201,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "AILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DALLIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "DIALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIALLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,37 +114,37 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELUDE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ELUDED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "EQUAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EQUALED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "EQUALLED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ELUDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EQUAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EQUALED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EQUALLED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "IDEAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "LADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "LAUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "LEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "LIQUID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,32 +224,32 @@
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "QUAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUAILED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "QUELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

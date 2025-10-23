@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 103,
+    "total_score": 181,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "DEODORIZE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DEODORIZED",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DOMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DOOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,27 +74,27 @@
         },
         {
             "word": "DOZED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERODE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDIOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "MEMOIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEMORIZE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MEMORIZED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIRRORED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "MOODIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MOORED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "ODDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "OOZED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ORDERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "RODEO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "ROOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROOMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "ZEROED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "ZOOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

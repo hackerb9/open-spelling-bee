@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 135,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ANNOTATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "ANOINT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INITIAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INITIALIZATION",
-            "score": 11,
+            "score": 14,
             "pangram": true
         },
         {
             "word": "INITIATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "INTONATION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "LOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,32 +104,32 @@
         },
         {
             "word": "NATION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NATIONAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NOTATION",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOTIONAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "ZILLION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

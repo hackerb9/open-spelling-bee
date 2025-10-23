@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 168,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALCOHOL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLOCATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHOCOLATE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "CLOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLOTHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLLECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,32 +139,32 @@
         },
         {
             "word": "HOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOATHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOCALE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOCATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "OCTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETOTAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "TOOTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOOTHACHE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

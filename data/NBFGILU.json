@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 140,
+    "total_score": 245,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,52 +24,52 @@
     "word_list": [
         {
             "word": "BILLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BLUFFING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "BLUING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUBBLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BUFFING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BUGLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BULGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,117 +79,117 @@
         },
         {
             "word": "BUNGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FIBBING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FILING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FILLING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FINING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FLING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLINGING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FLUFFING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FLUNG",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FULFILLING",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "FULLING",
-            "score": 4,
+            "word": "FILING",
+            "score": 6,
             "pangram": false
         },
         {
-            "word": "FUNGI",
-            "score": 2,
+            "word": "FILLING",
+            "score": 7,
             "pangram": false
         },
         {
-            "word": "GIBING",
-            "score": 3,
+            "word": "FINING",
+            "score": 6,
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GIGGLING",
+            "word": "FLING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FLUNG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FULFILLING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "FULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GLUING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "LUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NIBBLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

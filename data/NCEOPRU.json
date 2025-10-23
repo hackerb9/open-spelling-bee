@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 102,
+    "total_score": 177,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONCERN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONCUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONCURRENCE",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CORNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CORONER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COUPON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CROON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENCORE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "NEURON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "OCCURRENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "OPENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OUNCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,52 +139,52 @@
         },
         {
             "word": "POPCORN",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "POUNCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PREEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PRONE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PRONOUN",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PRONOUNCE",
-            "score": 6,
-            "pangram": true
-        },
-        {
-            "word": "PRUNE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECURRENCE",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "RENOUNCE",
+            "word": "POUNCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "PRONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRONOUN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRONOUNCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PRUNE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "RENOUNCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REOPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

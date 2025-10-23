@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 123,
+    "total_score": 222,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EQUINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EQUIPPING",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,37 +54,37 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENUINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,42 +94,42 @@
         },
         {
             "word": "NIPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEEPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENGUIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PEPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIGPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,67 +139,67 @@
         },
         {
             "word": "PINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIPING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIQUING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PUPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUEEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEENING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "QUEUING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUININE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUIPPING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "UNIQUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

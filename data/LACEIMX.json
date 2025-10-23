@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 112,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ACCLAIM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "CAMEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "CLAIM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,37 +64,37 @@
         },
         {
             "word": "CLIMAX",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXCEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXCLAIM",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "EXILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEXICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MALICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAXIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

@@ -1,0 +1,161 @@
+{
+    "letters": "YACILOS",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 110,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SOCIALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLAYS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLOYS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLASSY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COSILY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COSY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYCLIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCALLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SASSY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAYS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SCALY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SILLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SISSY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SLAYS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SLYLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SOCIALLY",
+            "score": 8,
+            "pangram": true
+        }
+    ]
+}

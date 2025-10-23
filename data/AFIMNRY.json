@@ -1,0 +1,156 @@
+{
+    "letters": "AFIMNRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 86,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INFIRMARY"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AFFIRM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARMY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFAMY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INFIRMARY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARINA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAINY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "YARN",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

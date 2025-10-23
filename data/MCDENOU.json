@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 146,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,52 +29,52 @@
         },
         {
             "word": "COMMENCE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COMMENCED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COMMEND",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COMMENDED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COMMON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COMMUNE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "COMMUNED",
-            "score": 5,
-            "pangram": true
-        },
-        {
-            "word": "CONDEMN",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONDEMNED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "COMMUNE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COMMUNED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CONDEMN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONDEMNED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CONDOM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEMON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "DOMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "DOOMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "MENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "MOONED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOUNDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "UNCOMMON",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
+    "total_score": 199,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ABANDON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ABANDONED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "AGENDA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "BANDAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BANDAGED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BANDANNA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BANDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "BANGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "BEANED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "BEGAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "BONDAGE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BONDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "BONED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "DEADEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEADENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGAGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "GANGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "GONGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "NABBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

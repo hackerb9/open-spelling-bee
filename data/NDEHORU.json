@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 122,
+    "total_score": 224,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRONED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "DUNNO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENDURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDURED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HERON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,27 +79,27 @@
         },
         {
             "word": "HONED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HONORED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HONOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HONOURED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -109,22 +109,22 @@
         },
         {
             "word": "HORNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOUNDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HUNDRED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "NEURON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "NUDER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REDDEN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REDDENED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REDONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,32 +204,32 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RHODODENDRON",
-            "score": 9,
+            "score": 12,
             "pangram": false
         },
         {
             "word": "ROUND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUNDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ROUNDER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,12 +239,12 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -254,12 +254,12 @@
         },
         {
             "word": "UNDONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

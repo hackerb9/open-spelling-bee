@@ -1,0 +1,181 @@
+{
+    "letters": "OACDKLP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 71,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PADLOCK"
+    ],
+    "word_list": [
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOAK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOCK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KOALA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOCAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PADDOCK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PADLOCK",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLKA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

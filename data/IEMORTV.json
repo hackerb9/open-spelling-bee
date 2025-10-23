@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 203,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "EMOTIVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "MEMOIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MERIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "METEORITE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "MOTIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOVIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,37 +114,37 @@
         },
         {
             "word": "OVERTIME",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "REMIT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RETIRE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RETRIEVE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "RETRIEVER",
+            "word": "RETIRE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RETRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "RIOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,27 +164,27 @@
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROOMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TERMITE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TIMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TRIMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,22 +229,22 @@
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

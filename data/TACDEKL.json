@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 96,
+    "total_score": 171,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "ACTED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ATTACK",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTACKED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "CADET",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CATCALL",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CATCALLED",
+            "word": "ATTACK",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ATTACKED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CADET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CATCALLED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,52 +74,52 @@
         },
         {
             "word": "DATED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DEALT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DELETE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DELETED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DELTA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DETECT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "DETECTED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DEALT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DELTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DETECT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DETECTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KETTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "TACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TACKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TACKLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TALKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

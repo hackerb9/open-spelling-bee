@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 74,
+    "total_score": 137,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "DEEPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "DRIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXPIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXPIRED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "PEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,47 +104,47 @@
         },
         {
             "word": "PIPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIXIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PREFER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PREFERRED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PREFERRED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PREFIX",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREFIXED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PRIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

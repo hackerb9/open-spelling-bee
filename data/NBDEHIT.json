@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 130,
+    "total_score": 229,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "BEHIND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BIDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "BINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BITTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HIDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,52 +114,52 @@
         },
         {
             "word": "HINTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDEBTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDENTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INHIBIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INHIBITED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "INTEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,22 +184,22 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NINETEENTH",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "NINETIETH",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "NINTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,12 +249,12 @@
         },
         {
             "word": "THINNED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -264,7 +264,7 @@
         },
         {
             "word": "TINTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

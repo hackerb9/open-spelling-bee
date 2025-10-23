@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 159,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "COOPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "COPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CORRECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRECTER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRECTOR",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CORRUPT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CORRUPTER",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "COURT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "CURTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,57 +129,57 @@
         },
         {
             "word": "CUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CUTTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ERECT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "OCCUR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PROCURE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PROTECT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PROTECTOR",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ERECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROCURE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PROTECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PROTECTOR",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RECOUP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECTOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

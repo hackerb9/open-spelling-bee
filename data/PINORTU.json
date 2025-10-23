@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 146,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "INPUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OPTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OUTPUT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINPOINT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "POINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PONTOON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "PORTION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "POTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "PRINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRINTOUT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRONOUN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "PROPORTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "PROTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "PURPORT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "TROOP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TURNIP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "UPROOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPTURN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

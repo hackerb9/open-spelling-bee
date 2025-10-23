@@ -1,0 +1,156 @@
+{
+    "letters": "DGINRTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 143,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DIRTYING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIGNITY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DINGY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIRT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIRTYING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DITTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIDDY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRINDING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INDIGNITY",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "RIDDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIGIDITY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIDY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDYING",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

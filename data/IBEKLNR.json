@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 78,
+    "total_score": 150,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "BELIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "BIKINI",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,52 +54,52 @@
         },
         {
             "word": "BLINK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLINKER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRINIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRINK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INKIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "KILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "KINKIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "LIKELIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "LIKEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LIKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "LINKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NIBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

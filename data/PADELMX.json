@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 229,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AMPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,32 +39,32 @@
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPALLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEALED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DAMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "EXAMPLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXAMPLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "EXPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXPELLED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "LAPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,32 +124,32 @@
         },
         {
             "word": "LEAPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "PALED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "PALLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "PALMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,32 +199,32 @@
         },
         {
             "word": "PEALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEDAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PEDALED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PEDALLED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "PEDALED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEDALLED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "PEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "PEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,12 +244,12 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,12 +259,12 @@
         },
         {
             "word": "PLEAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLEADED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 63,
+    "total_score": 117,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMAZED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "DAMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DAZED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "DIMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIZZIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "MADAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MADAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,27 +154,27 @@
         },
         {
             "word": "MAIMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAXIMIZED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "MEDIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIXED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

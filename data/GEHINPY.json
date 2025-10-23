@@ -1,0 +1,171 @@
+{
+    "letters": "GEHINPY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 172,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HYPHENING"
+    ],
+    "word_list": [
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EYEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HYGIENE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HYPHENING",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEIGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEIGHING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEEPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIGPEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

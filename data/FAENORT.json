@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 87,
+    "total_score": 153,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,32 +29,32 @@
         },
         {
             "word": "AFFRONT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AFOOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AFTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AFTERNOON",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "EFFORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FANFARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "FATTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FATTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "FOOTNOTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "FOREFRONT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "FORTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,22 +164,22 @@
         },
         {
             "word": "FRONT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFTEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFTENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "RAFTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TOFFEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 123,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "BOROUGH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOUGHT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BROUGHT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BURRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "HUBBUB",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "OUGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "THOROUGH",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "THOUGH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THOUGHT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THROUGH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THROUGHOUT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "TOUGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "TROUGH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TROUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 99,
+    "total_score": 186,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALLURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARGUABLE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ARGUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "AURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLUBBER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "BLUEBELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BLUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,27 +74,27 @@
         },
         {
             "word": "BLURB",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUGGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUGLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "BULGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,27 +114,27 @@
         },
         {
             "word": "BURBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUREAU",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURGLAR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BURGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "GAUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "GRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "GURGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "LAUREL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEAGUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LUGGAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "REGULAR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RUBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

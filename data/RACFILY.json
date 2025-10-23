@@ -1,0 +1,161 @@
+{
+    "letters": "RACFILY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 112,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLARIFY"
+    ],
+    "word_list": [
+        {
+            "word": "ACRYLIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AIRY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CIRCA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLARIFY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FAIRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRAY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRILLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYRIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LYRICAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RACIAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RACIALLY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

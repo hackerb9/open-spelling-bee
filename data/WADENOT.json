@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 89,
+    "total_score": 164,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -39,7 +39,7 @@
         },
         {
             "word": "DAWNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "DOWNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DOWNTOWN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ENDOW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENDOWED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "NEWTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "OWNED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "TWEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWEETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "WADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "WANED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WANNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "WANTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WANTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WANTONED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "WEANED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,22 +219,22 @@
         },
         {
             "word": "WOODED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOODEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WOWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

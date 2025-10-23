@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 65,
+    "total_score": 116,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CALICO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "COLIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "COOLLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "LOCAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOCALITY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "LOCALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "LOYAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LOYALTY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OCTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "TOTAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TOTALITY",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "TOTALITY",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TOTALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

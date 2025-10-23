@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 129,
+    "total_score": 243,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DERIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DERIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "DIFFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIFFERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "DIMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,32 +84,32 @@
         },
         {
             "word": "DIRER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "FERRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "FIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,37 +144,37 @@
         },
         {
             "word": "FIRMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIRMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDIOM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEMOIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MIDRIFF",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "MIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,42 +194,42 @@
         },
         {
             "word": "MIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIRRORED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MODIFIED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MODIFIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "MOODIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REMEDIED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -249,17 +249,17 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROOMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

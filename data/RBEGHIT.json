@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 243,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,87 +29,87 @@
         },
         {
             "word": "BERET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BERTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BIGGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BIRTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BITTERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRIGHT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRIGHTER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIRTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "GRITTIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "HIGHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,32 +149,32 @@
         },
         {
             "word": "HITHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBIRTH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REGRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGHTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,37 +184,37 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TERRIER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "TETHER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "THEIR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "THERE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "THIRTIETH",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "TERRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THEIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THIRTIETH",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "TIGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGHTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,22 +249,22 @@
         },
         {
             "word": "TRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIGGER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -1,0 +1,156 @@
+{
+    "letters": "GCINRUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 149,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CURVING"
+    ],
+    "word_list": [
+        {
+            "word": "CRINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CURING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CURVING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCURRING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RICING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "URGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VICING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VIRGIN",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

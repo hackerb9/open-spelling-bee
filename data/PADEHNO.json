@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 190,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "APPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "DEEPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEEPENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,22 +69,22 @@
         },
         {
             "word": "DOPED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "HAPPEN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "HAPPENED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "HEADPHONE",
+            "word": "HAPPEN",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HAPPENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "HEADPHONE",
+            "score": 9,
             "pangram": true
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "HEAPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "HOOPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "HOPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "NAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "OPENED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PANDA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "PANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,22 +194,22 @@
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PHONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PHONED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "POOPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "POPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

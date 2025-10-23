@@ -1,0 +1,181 @@
+{
+    "letters": "CABERTX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 163,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXACERBATE"
+    ],
+    "word_list": [
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BRACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CABARET",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CATER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRATER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CREATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXACERBATE",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "EXACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXACTER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EXCRETE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EXTRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECREATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRACE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RETRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERRACE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TRACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

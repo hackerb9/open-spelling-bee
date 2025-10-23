@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 125,
+    "total_score": 230,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "ALLUDE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ALLUDED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "APPLAUD",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "APPLAUDED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ALLUDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "APPLAUD",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "APPLAUDED",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELUGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "DUPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAUGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAUGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "GLUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "GULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "GULPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,27 +169,27 @@
         },
         {
             "word": "LAUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEAGUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEAGUED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LUGGAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LUGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,17 +199,17 @@
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLAGUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLAGUED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "PLUGGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "PULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,17 +249,17 @@
         },
         {
             "word": "PULPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 132,
+    "total_score": 231,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GLINT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GLINTING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GLINTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "HIGHLIGHTING",
-            "score": 9,
+            "score": 12,
             "pangram": false
         },
         {
             "word": "HINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,42 +64,42 @@
         },
         {
             "word": "HINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HITTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IGNITING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "LIGHTING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LIGHTNING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "LIGHTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LIGHTNING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "LILTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "LYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "NIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NIGHTLY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NINTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "THING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "THINLY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "THINNING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "THINLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THINNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TILLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TILTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "TINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "TINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "TITLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

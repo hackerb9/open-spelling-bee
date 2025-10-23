@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 187,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,67 +24,67 @@
     "word_list": [
         {
             "word": "FILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FILLING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "FINING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FLING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLINGING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FLUFFING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FLUNG",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLYING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FULFILLING",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "FINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FLUNG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FULFILLING",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "FULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FUNGI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GLUING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,42 +114,42 @@
         },
         {
             "word": "GULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GULLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,17 +159,17 @@
         },
         {
             "word": "LUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NULLIFYING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "UNIFYING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
+    "total_score": 211,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,27 +34,27 @@
         },
         {
             "word": "DRILL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DRILLED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DRIZZLE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DRIZZLED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DRILLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DRIZZLE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DRIZZLED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ELDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "GELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "GILDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "GIRDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIRDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,47 +114,47 @@
         },
         {
             "word": "GLIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GLIDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRIDDLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRILLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRIZZLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "GRIZZLIER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -164,22 +164,22 @@
         },
         {
             "word": "IDLED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IDLER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEDGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "LEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "REELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RILED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 168,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,87 +24,87 @@
     "word_list": [
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DUDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIDDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUMMING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,47 +114,47 @@
         },
         {
             "word": "MINDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINIMUM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUDDYING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "MUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NUDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDYING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

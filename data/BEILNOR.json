@@ -1,0 +1,216 @@
+{
+    "letters": "BEILNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 149,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REBELLION"
+    ],
+    "word_list": [
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOILER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORNE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRIBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BROIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BROILER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INBORN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOBLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REBELLION",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "REBORN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIBBON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROBIN",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

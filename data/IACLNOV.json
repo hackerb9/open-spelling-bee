@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 74,
+    "total_score": 134,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "ANVIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AVAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CALICO",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CANONICAL",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "CANONICAL",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CIVIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIVIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIVILIAN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLINICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "COLIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "COLONIAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "COLONIAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CONICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "VANILLA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,27 +144,27 @@
         },
         {
             "word": "VILLA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILLAIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VIOLA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIOLIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOLCANIC",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

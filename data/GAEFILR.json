@@ -1,0 +1,196 @@
+{
+    "letters": "GAEFILR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 147,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRAGILE"
+    ],
+    "word_list": [
+        {
+            "word": "AGILE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALGAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EAGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAGERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EAGLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRAGILE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GARAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GARGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIRAFFE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIRL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLARE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIEF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRILLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ILLEGAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LAGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LARGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LARGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REGAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REGALE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REGALIA",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

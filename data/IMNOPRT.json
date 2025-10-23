@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 82,
+    "total_score": 145,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "IMPORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPRINT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "MONITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OPTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINPOINT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "POINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PORTION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "POTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,27 +139,27 @@
         },
         {
             "word": "PRIMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PROMOTION",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PROPORTION",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {

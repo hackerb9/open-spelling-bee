@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 122,
+    "total_score": 230,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "ACTED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ATTACH",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTACHE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ATTACHED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ATTACH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CADET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CATCHY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "CHATTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHATTY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEETAH",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,32 +99,32 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DETACH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETACHED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HATCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HATCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HATCHET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "HATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "HEATED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "THATCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THATCHED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -244,7 +244,7 @@
         },
         {
             "word": "THETA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -254,12 +254,12 @@
         },
         {
             "word": "YACHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "YACHTED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

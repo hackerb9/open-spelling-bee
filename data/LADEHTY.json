@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 209,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "ATHLETE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEADLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,32 +64,32 @@
         },
         {
             "word": "DEALT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELAYED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "HALED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "HALTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "HEALED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEALTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEALTHY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEATEDLY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "HEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "LADED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LADLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "LATELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "LATHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LATHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "LEADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETHAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,17 +239,17 @@
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -269,7 +269,7 @@
         },
         {
             "word": "YELLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

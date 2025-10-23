@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 81,
+    "total_score": 144,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ACCLAIM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AIRMAIL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANIMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLAIM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLINICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRIMINAL",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "MAILMAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,42 +109,42 @@
         },
         {
             "word": "MALARIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MAMMALIAN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "MANIA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MANIAC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MANIACAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "MANIAC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANIACAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MANIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MARIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MARINA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "MIMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MINIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 120,
+    "total_score": 222,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AMATEUR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,17 +34,17 @@
         },
         {
             "word": "DATUM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEMURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEMURER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "DRUMMED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DRUMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,57 +79,57 @@
         },
         {
             "word": "EARDRUM",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MATURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MATURED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "MATURER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MURDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MURDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MURDERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MURMUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MURMURED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MUTATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUTATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "MUTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "MUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUTTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RUDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "RUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "RUMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUTTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TAUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRAUMA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,32 +214,32 @@
         },
         {
             "word": "TRUED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UDDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

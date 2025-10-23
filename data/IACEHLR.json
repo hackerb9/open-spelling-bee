@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 128,
+    "total_score": 230,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AERIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARCHAIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "CARRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHALICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEERIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,77 +69,77 @@
         },
         {
             "word": "CHICER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHILI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHILLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHILLI",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHILLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CIRCA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CIRCLE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CLERIC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CLERICAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CIRCLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLERIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLERICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CLICHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EARLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ECLAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "HAIRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "HIERARCHICAL",
-            "score": 9,
+            "score": 12,
             "pangram": true
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "HILLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LACIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RACIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RELIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "RICHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

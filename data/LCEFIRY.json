@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 195,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CELERY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "CIRCLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "CLERIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLIFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CYCLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERCELY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "FILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FILLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIREFLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,52 +119,52 @@
         },
         {
             "word": "FLEECE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLEECIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FLEECY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLIER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FLYER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FREELY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FRILL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FRILLIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FLYER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FREELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRILLIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FRILLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEERY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "LYRIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECYCLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "REFILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RELIEF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RIFLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

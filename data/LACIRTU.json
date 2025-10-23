@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 88,
+    "total_score": 154,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACTUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALTAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CALCULI",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "CATCALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CIRCULAR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRITICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CRUCIAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CULTURAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "CURRICULA",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CURTAIL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "ILLICIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ITALIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "RITUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TACTICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,22 +184,22 @@
         },
         {
             "word": "TRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ULTRA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

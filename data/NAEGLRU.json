@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 237,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,47 +29,47 @@
         },
         {
             "word": "ANGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANGULAR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANNUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANNUL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARRANGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENLARGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENRAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "GANGRENE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "GENERA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GENERAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,32 +139,32 @@
         },
         {
             "word": "GNARL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GRANULAR",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GRANULAR",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GRANULE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "LANGUAGE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "LUNGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEURAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,22 +234,22 @@
         },
         {
             "word": "RANGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RANGER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REARRANGE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "REARRANGE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -264,12 +264,12 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNREAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

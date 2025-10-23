@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 123,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "AMBLE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "AMENABLE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "AMENABLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "BABBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BAGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BAGGAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "BEAGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "BEGAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,37 +124,37 @@
         },
         {
             "word": "BLAME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMBALM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMBLEM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GABLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LABEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "MALLEABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "MANAGEABLE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         }
     ]

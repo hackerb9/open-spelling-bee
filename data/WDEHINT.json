@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 173,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ENTWINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTWINED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HEWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "NITWIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "TWEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWEET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWEETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TWENTIETH",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "TWINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TWINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TWINNED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEDDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "WEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "WHETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,32 +134,32 @@
         },
         {
             "word": "WHINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WHINNIED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WHITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHITEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WHITENED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "WIDEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WIDENED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WIDTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WINDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "WINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "WITHIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

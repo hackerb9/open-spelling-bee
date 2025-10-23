@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 179,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "AFFLICT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ATTAIN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ATTIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CACTI",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CLIFF",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CLINIC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CLINICAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ATTAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACTI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLIFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLINICAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "FAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FANATIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FANATICAL",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -94,22 +94,22 @@
         },
         {
             "word": "FINAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FINANCIAL",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "FLAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,32 +119,32 @@
         },
         {
             "word": "ILLICIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INFANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INFLICT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INITIAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INTACT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ITALIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "TACIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TACTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TACTICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

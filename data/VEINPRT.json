@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 209,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "EVENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,122 +44,122 @@
         },
         {
             "word": "INTERVENE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVENTIVE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVERT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INVITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "IRREVERENT",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "NERVE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "NEVER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PEEVE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PERVERT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PREVENT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PREVENTIVE",
-            "score": 7,
-            "pangram": true
-        },
-        {
-            "word": "PRIVIER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REPETITIVE",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REPRIEVE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RETRIEVE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RETRIEVER",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "REVERE",
-            "score": 3,
+            "word": "INVITE",
+            "score": 6,
             "pangram": false
         },
         {
-            "word": "REVERENT",
+            "word": "IRREVERENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "NERVE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "NEVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEEVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PERVERT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PREVENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PREVENTIVE",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "PRIVIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REPETITIVE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "REPRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "VENEER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "VIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

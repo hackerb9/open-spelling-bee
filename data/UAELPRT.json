@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 116,
+    "total_score": 212,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ALLURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APERTURE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -39,37 +39,37 @@
         },
         {
             "word": "AURAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EPAULET",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "EPAULETTE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ERUPT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LAUREATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "EPAULET",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EPAULETTE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ERUPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAUREATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LAUREL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LETUP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "PAUPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERPETUAL",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PERPETUATE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "PLATEAU",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PLURAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "PUPPET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "PUREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURPLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "PUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAPTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REPUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUPTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "TAUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,32 +214,32 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ULTRA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 166,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AFLAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALIEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,32 +39,32 @@
         },
         {
             "word": "ANAEMIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANEMIA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENAMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENEMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FALLEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "FAMINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "FELINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "FEMALE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FEMININE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "FINALE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "FLAME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLANNEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INFLAME",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "LIFELINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAILMEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MAINLINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "MENIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

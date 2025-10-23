@@ -1,0 +1,186 @@
+{
+    "letters": "RDEIKQU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 154,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUIRKED"
+    ],
+    "word_list": [
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DERIDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DERIDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUERIED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUIRK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUIRKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUDDIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

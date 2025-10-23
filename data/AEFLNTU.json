@@ -1,0 +1,221 @@
+{
+    "letters": "AEFLNTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 154,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AFFLUENT"
+    ],
+    "word_list": [
+        {
+            "word": "AFFLUENT",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNUAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANNUL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANTENNAE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "AUNT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EATEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATEFUL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FATTEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FAULT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAUNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLANNEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLATTEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLAUNT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAFLET",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELLTALE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TENANT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUNA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

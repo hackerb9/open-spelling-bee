@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 121,
+    "total_score": 232,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "EVILER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVILLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "GRIEVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "GRIPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,27 +84,27 @@
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LEPER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LEVER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LIVELIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LEVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LIVELIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "PRIVIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRIVILEGE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -144,57 +144,57 @@
         },
         {
             "word": "RELIEVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RELIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REPRIEVE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REVEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "REVELER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "REVELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVELLER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIPPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,32 +229,32 @@
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIRILE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 74,
+    "total_score": 137,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "APPEARANCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "ARCANE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANCER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "CHANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHEAPEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENHANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HAPPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PANACEA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -119,42 +119,42 @@
         },
         {
             "word": "PECAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PERCHANCE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PRANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RANCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RANCHER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

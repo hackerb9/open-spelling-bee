@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 144,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BRUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "BUTTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BUTTERCUP",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CURTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "CUTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERUPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PERTURB",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PUPPET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "PUREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,37 +139,37 @@
         },
         {
             "word": "PUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REBUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECUR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REPUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUPTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRUCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

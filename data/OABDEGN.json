@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 136,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ABANDON",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ABANDONED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "ABODE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ADOBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "BODED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "BONDAGE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BONDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,12 +99,12 @@
         },
         {
             "word": "BONED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BOOED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "DODGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DODGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "DOGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "GOADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOBBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "GONGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

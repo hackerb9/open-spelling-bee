@@ -1,0 +1,151 @@
+{
+    "letters": "TIMNORY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 77,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MINORITY"
+    ],
+    "word_list": [
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINORITY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONITOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MONOTONY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TINNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRINITY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TRIO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

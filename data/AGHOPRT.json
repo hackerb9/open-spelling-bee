@@ -1,0 +1,151 @@
+{
+    "letters": "AGHOPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 90,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PHOTOGRAPH"
+    ],
+    "word_list": [
+        {
+            "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAPH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARAGRAPH",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "PARROT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PHOTOGRAPH",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "POTATO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAPPORT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THROAT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

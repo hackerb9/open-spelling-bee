@@ -1,0 +1,181 @@
+{
+    "letters": "UAGINPS",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 137,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PAUSING"
+    ],
+    "word_list": [
+        {
+            "word": "ANUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GNUS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGUANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IGUANAS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ISSUING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAUSING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUPS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SAUNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SAUNAING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "SAUNAS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SINUS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SNUGGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "SNUGS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SPUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SUNS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SUNUP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNSUNG",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UPPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "USING",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

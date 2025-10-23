@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 117,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "word": "CLONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLLEGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COLONEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COLONY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,32 +69,32 @@
         },
         {
             "word": "COOLLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYCLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CYCLONE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ECOLOGY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELEGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GEOLOGY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "GOGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GYNECOLOGY",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LONELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "LOONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NYLON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

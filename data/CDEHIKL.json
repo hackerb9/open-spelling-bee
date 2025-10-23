@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 177,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "CHECK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHECKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,72 +64,72 @@
         },
         {
             "word": "CHICK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHILD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHILDLIKE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CHILI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHILLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHILLI",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLICHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLICK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLICKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HECKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HECKLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "KICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "LICKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

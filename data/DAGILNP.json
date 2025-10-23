@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 93,
+    "total_score": 165,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ADDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DANGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "DIALING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIALLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,17 +64,17 @@
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "GILDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,37 +94,37 @@
         },
         {
             "word": "GLAND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLIDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IDLING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INLAID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INLAND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LADING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LADLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "LANDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PADDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PADDLING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "PALLID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PANDA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PIDDLING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "PIDDLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "PLAID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

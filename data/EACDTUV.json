@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 108,
+    "total_score": 198,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACCEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "ACTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ACUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CADET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "CAVEAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CAVED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "DECADE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEDUCT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEDUCTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "DEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "DUVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,32 +179,32 @@
         },
         {
             "word": "EDUCATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EDUCATED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EVACUATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EVACUATED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "EVADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,22 +219,22 @@
         },
         {
             "word": "VACATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VACATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

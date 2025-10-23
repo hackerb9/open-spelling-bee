@@ -1,0 +1,171 @@
+{
+    "letters": "RELPTXY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 122,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPERTLY"
+    ],
+    "word_list": [
+        {
+            "word": "EXERT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EXPERT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXPERTLY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PERPLEX",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PERT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PERTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PETER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRETEXT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRETTY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REPEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REPLETE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REPLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RETYPE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TYRE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

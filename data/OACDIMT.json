@@ -1,0 +1,166 @@
+{
+    "letters": "OACDIMT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 99,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IDIOMATIC"
+    ],
+    "word_list": [
+        {
+            "word": "ATOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOMIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DITTO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDIOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IDIOMATIC",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "IDIOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IDIOTIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IOTA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOTTO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOMATO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOMCAT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

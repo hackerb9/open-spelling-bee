@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 226,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,87 +44,87 @@
         },
         {
             "word": "CITED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CITRIC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CREDIT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CREDITED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CREED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CRIED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CRITIC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CRITICIZE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "CREDIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CREDITED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRITIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRITICIZE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "CRITICIZED",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "DECEIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DETECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DETECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -134,37 +134,37 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIRECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIRECTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DIRECTER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EDICT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERECTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,37 +174,37 @@
         },
         {
             "word": "ICIER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RECEDE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECEDED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RECITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECITED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REDIRECT",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "REDIRECTED",
+            "word": "RECEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECITED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REDIRECT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REDIRECTED",
+            "score": 10,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "RICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 182,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,52 +24,52 @@
     "word_list": [
         {
             "word": "CEILING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CLING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CLINGING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CLINIC",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "EGGING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENGINE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "EXCELLENCE",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "EXCELLING",
+            "word": "CLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXCELLENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "EXCELLING",
+            "score": 9,
             "pangram": true
         },
         {
             "word": "EXILING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,27 +79,27 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "GIGGLING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GENII",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,32 +109,32 @@
         },
         {
             "word": "ICING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INCLINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INCLINING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LICENCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LINING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "NEGLIGEE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGEE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "NEGLIGENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

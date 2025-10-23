@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 169,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "FLUFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUTTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRETFUL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "FULLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FUTURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "GRUEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRUFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRUFFER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "GULLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GURGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "GUTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "REFUEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFUGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFUGEE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFUTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGRETFUL",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "RUEFUL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "RUFFLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUFFLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "TURRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TURTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

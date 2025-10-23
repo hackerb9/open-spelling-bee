@@ -1,0 +1,171 @@
+{
+    "letters": "SCFMNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 130,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONFORMS"
+    ],
+    "word_list": [
+        {
+            "word": "COCOONS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COMMONS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONFORMS",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORNS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COSMOS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CROONS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CROSS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MONSOON",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MONSOONS",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MOONS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOORS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOOS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORNS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MORONS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SCOFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SCOFFS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SCORN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SCORNS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SONS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOON",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

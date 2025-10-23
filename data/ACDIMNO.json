@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 69,
+    "total_score": 129,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,7 +34,7 @@
         },
         {
             "word": "AMMONIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,32 +44,32 @@
         },
         {
             "word": "CACAO",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CANDID",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CANNON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "CANON",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CINNAMON",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CANDID",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINNAMON",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "COMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMMAND",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COMMANDO",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,22 +99,22 @@
         },
         {
             "word": "DIAMOND",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOMAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MADAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MADMAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,22 +139,22 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANIAC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "NOMAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NOMADIC",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

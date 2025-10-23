@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 161,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ARBOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BELABOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "ELOPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LABOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LABORER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "OPERA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "word": "PALLOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARLOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PAROLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEOPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "POLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "POPLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "PROBABLE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PROBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "PROPEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PROPELLER",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PROPELLER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "ROBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
+    "total_score": 220,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "DERIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DERIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DETER",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DETERRED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DETERRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DEXTERITY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DIRER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,67 +69,67 @@
         },
         {
             "word": "DIRTIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIRTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIRTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DRYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ERRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EXERTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REDDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "RETIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETIRED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "RIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIDIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "TIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIREDER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TITTERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -224,22 +224,22 @@
         },
         {
             "word": "TREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

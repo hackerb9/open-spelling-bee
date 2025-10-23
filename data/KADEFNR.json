@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 133,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "DANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "DARKEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DARKENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DARKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DRANK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,32 +69,32 @@
         },
         {
             "word": "FAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRANK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRANKED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FRANKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FREAKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,22 +104,22 @@
         },
         {
             "word": "KEENED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KEENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KNEAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNEADED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "KNEED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "RAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RANKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RANKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "REEKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

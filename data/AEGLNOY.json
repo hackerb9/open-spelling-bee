@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 79,
+    "total_score": 154,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "AGONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "ALONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALONG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,27 +84,27 @@
         },
         {
             "word": "ANALOG",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANALOGY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANNOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,17 +114,17 @@
         },
         {
             "word": "ANYONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "GALLEY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GALLON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "GENEALOGY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "GLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LAGOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "LOYAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

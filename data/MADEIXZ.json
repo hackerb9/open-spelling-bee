@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
+    "total_score": 115,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "AIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMAZE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMAZED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "DAMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "DIMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "MADAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MADAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "MAIMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MAIZE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,27 +119,27 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MAXIM",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MAXIMA",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MAXIMIZE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "MAXIMIZED",
+            "word": "MAXIM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAXIMA",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAXIMIZE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MAXIMIZED",
+            "score": 9,
             "pangram": true
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MEDIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "MIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIXED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

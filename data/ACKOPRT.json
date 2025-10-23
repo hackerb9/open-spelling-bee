@@ -1,0 +1,256 @@
+{
+    "letters": "ACKOPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 188,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRACKPOT"
+    ],
+    "word_list": [
+        {
+            "word": "ACTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATTACK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTRACT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARROT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATARACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRACKPOT",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CRAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROAK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KARAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OKRA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARKA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARROT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARTOOK",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POTATO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PROTRACT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PROTRACTOR",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPPORT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RAPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRACTOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TRAP",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "letters": "OBELMNW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 117,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "NOBLEWOMEN"
+    ],
+    "word_list": [
+        {
+            "word": "BELLOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BELOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOOM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELBOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEMON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELLOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MELON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEMO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOBLEMEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NOBLEWOMEN",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OMEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOMEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLEN",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

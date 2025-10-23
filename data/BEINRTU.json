@@ -1,0 +1,181 @@
+{
+    "letters": "BEINRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 139,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TURBINE"
+    ],
+    "word_list": [
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BERET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BITTEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BITTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BITTERER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BRIBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BRUNETTE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BRUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRUTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BURN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUTTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REBUT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUBIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TITBIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRIBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRIBUTE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TUBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURBINE",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

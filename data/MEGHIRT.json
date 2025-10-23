@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 139,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "EMERGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "GIMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "GRIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRIMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRIMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HERMIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "MERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MERIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIGHTIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MIRTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "REGIME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "TERMITE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "THEME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TIMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TRIMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

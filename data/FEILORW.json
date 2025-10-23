@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 91,
+    "total_score": 160,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "FEELER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "FELLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FELLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "FILLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FLIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLOOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "FLOWER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLOWERIER",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "FOLLOW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOLLOWER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFILL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIEF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIFLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "WEREWOLF",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

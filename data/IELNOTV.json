@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 197,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENLIVEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENTITLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "INLET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENTION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -64,37 +64,37 @@
         },
         {
             "word": "INVENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVENTION",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVENTIVE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INVITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LENIENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LENTIL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LIVEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "LOONIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NOTION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OLIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TOILET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,22 +234,22 @@
         },
         {
             "word": "VIOLENT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "VIOLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VIOLIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOLITION",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

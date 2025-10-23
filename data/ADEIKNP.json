@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 74,
+    "total_score": 134,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ADDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "APPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "DEADEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEADENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,37 +89,37 @@
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KIDNAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KIDNAPPED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "KINDA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNEAD",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KNEADED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "NAPKIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PADDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "PAINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PANDA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "PANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "PEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

@@ -1,0 +1,276 @@
+{
+    "letters": "CAEHLOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 218,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHOCOLATE"
+    ],
+    "word_list": [
+        {
+            "word": "ACHE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALCOHOL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALLOCATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ATTACH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATTACHE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CATCALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CATTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHALET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHEAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHEETAH",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHOCOLATE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "CLEAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOTHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COACH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLLATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLLECT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EACH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECHO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELECT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ETCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HATCHET",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEACH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEECH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOCALE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOCATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OCTAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEACH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THATCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOTHACHE",
+            "score": 9,
+            "pangram": false
+        }
+    ]
+}

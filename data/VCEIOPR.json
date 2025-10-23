@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 75,
+    "total_score": 138,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CIVIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "COVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREVICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -54,72 +54,72 @@
         },
         {
             "word": "OVERPRICE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PEEVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PERCEIVE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PRIVIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECEIVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RECEIVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECOVER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REPRIEVE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REPROVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "VIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VOICE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

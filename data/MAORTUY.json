@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 73,
+    "total_score": 145,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ARMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARMORY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ARMOURY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "AROMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "MAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "MARTYR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "MAYOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,32 +109,32 @@
         },
         {
             "word": "MORTAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MORTUARY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MUMMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MURMUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,47 +154,47 @@
         },
         {
             "word": "ROOMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUMMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOMATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRAUMA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TUMMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUMOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUMOUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

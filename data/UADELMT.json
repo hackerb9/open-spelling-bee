@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 173,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,37 +24,37 @@
     "word_list": [
         {
             "word": "ADULT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AMULET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DATUM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DELUDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELUDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "DUDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "DUELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DUELLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,27 +99,27 @@
         },
         {
             "word": "DULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELUDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ELUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMULATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMULATED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "LAUDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,17 +154,17 @@
         },
         {
             "word": "MAULED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,17 +179,17 @@
         },
         {
             "word": "MULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUTATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MUTATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "MUTED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "MUTUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "TUMULT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

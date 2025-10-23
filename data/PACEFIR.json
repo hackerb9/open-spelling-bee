@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 99,
+    "total_score": 177,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "APIECE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "CAPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CAPRICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "CREEP",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CREEPIER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CREEPIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CREPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "PACIFIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PACIFIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "PAPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "PEACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "PIERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,32 +159,32 @@
         },
         {
             "word": "PRAIRIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRECIPICE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "PREFACE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PREFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREPARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRICE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,27 +199,27 @@
         },
         {
             "word": "REAPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REAPPEAR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RECAP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RECIPE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,7 +229,7 @@
         },
         {
             "word": "RIPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

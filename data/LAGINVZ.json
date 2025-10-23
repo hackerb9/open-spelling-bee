@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 94,
+    "total_score": 163,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AILING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "ALIGN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALIGNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "ANGLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANVIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AVAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AVAILING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "GALLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GALVANIZING",
-            "score": 8,
+            "score": 11,
             "pangram": true
         },
         {
             "word": "GANGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "GLAZING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LIVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,27 +139,27 @@
         },
         {
             "word": "NAILING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NAVAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VAGINAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VALVING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VANILLA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "VIGIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILLA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILLAIN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

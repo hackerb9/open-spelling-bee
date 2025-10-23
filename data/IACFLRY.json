@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 129,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ACRYLIC",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "CIRCA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLARIFY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CLIFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "FAIRLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FAIRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,37 +94,37 @@
         },
         {
             "word": "FILLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAIR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRILLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "LYRIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LYRICAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RACIALLY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {

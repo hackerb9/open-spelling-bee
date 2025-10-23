@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 199,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,17 +44,17 @@
         },
         {
             "word": "EVERGREEN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GONER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,27 +64,27 @@
         },
         {
             "word": "GORGE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GOVERN",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "GOVERNOR",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GOVERN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOVERNOR",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "GROOVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,27 +109,27 @@
         },
         {
             "word": "GROWER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GROWN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,47 +144,47 @@
         },
         {
             "word": "OVERGREW",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OVERGROW",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "OVERGROWN",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "OWNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENEW",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RENOWN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVENGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "VENEER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "WRONG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WRONGER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

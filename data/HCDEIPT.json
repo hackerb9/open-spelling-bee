@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 149,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "CHEEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEEPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "CHIDE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHIDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CHIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEPTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DITCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EPITHET",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,17 +84,17 @@
         },
         {
             "word": "ETCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ETHIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HECTIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,27 +114,27 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HIPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HIPPIE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HITCHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "ITCHED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PITCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PITCHED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

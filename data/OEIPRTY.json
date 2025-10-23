@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 211,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "POETRY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "POPPY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,27 +79,27 @@
         },
         {
             "word": "PORTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POTTERY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PRIOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRIORITY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -109,52 +109,52 @@
         },
         {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PROPERTY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PROPRIETOR",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "PROPRIETY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "PROTOTYPE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "REPERTOIRE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "REPORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPORTER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "RIOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,22 +189,22 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TERRITORY",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIPTOE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,12 +234,12 @@
         },
         {
             "word": "TROOP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TROOPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

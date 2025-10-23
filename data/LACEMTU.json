@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 96,
+    "total_score": 162,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ACCUMULATE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "ACTUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMULET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CALCULATE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "CAMEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CATCALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CLEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "CUTLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EMULATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LETTUCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "MALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "MAMMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "METAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "MUTUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -244,12 +244,12 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TUMULT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

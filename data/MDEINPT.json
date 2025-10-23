@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 182,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "DEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEMENTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DENIM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "DIMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMINENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -64,42 +64,42 @@
         },
         {
             "word": "EMITTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMPTIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IMMINENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "IMPEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IMPEDIMENT",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "IMPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "MENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "METED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "MIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "MINDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "MINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "MINTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "MITTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "TEEMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEMPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEMPTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "TIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIMID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

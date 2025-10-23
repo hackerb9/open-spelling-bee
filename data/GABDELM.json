@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 188,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ADAGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,62 +39,62 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ALLEGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BADGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BAGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BAGGAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BAGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEAGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAMAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DAMAGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GABBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GABLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "GALLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAMBLED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "GAMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GAMMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "GELDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,17 +194,17 @@
         },
         {
             "word": "GLADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLEAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GLEAMED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,22 +214,22 @@
         },
         {
             "word": "LAGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

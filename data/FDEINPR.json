@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 152,
+    "total_score": 272,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,57 +24,57 @@
     "word_list": [
         {
             "word": "DEFEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFENDER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIFFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIFFERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "FEEDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "FENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "FERRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "FINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "FIRED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,62 +159,62 @@
         },
         {
             "word": "FREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRIEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FRIENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PREDEFINED",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "PREFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PREFERRED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "REDEFINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REDEFINED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -224,37 +224,37 @@
         },
         {
             "word": "REEFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFEREED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFERRED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REFINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -264,7 +264,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

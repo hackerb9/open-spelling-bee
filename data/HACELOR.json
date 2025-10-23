@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 68,
+    "total_score": 125,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "ALCOHOL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -39,12 +39,12 @@
         },
         {
             "word": "ARCHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,32 +54,32 @@
         },
         {
             "word": "CHARCOAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHOLERA",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CHORAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHORE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "EARACHE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "HALER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "HEALER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "HELLO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,32 +169,32 @@
         },
         {
             "word": "HOLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HORROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ROACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 139,
+    "total_score": 250,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "COCKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COCOONING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -39,67 +39,67 @@
         },
         {
             "word": "COINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COOKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIMMICK",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ICING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "INCOMING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "KICKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KIMONO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,47 +149,47 @@
         },
         {
             "word": "KINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KNOCKING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MIKING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MIMIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MIMICKING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "MIMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIMICKING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "MIMING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINCING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,17 +199,17 @@
         },
         {
             "word": "MOCKING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "MOOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,27 +219,27 @@
         },
         {
             "word": "NICKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OKING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ONCOMING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ONCOMING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

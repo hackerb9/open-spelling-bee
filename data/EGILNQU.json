@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 135,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EQUINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENUINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "GUILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEGLIGEE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -124,42 +124,42 @@
         },
         {
             "word": "QUEEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEENING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "QUELL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUELLING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "QUEUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "QUEUING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "QUININE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UNIQUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

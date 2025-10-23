@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 71,
+    "total_score": 137,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DEFIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEIFIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEIFY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEITY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,22 +54,22 @@
         },
         {
             "word": "DIETED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DIGIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DITTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,47 +79,47 @@
         },
         {
             "word": "EDITED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EFFIGY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FETID",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FIDGET",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "FIDGETED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FIDGET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIDGETED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FIDGETY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FIFTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FITTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIDDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "GIFTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "TIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "TIFFED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

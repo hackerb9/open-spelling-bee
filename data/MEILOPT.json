@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 111,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "EPITOME",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "IMPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IMPOLITE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "LIMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "METTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,22 +144,22 @@
         },
         {
             "word": "MOTEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OMELET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OMELETTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "PIMPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "TEMPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEMPO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEMPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -214,7 +214,7 @@
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

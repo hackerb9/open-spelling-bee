@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 64,
+    "total_score": 118,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ABACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "BACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "BAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "BALKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,32 +64,32 @@
         },
         {
             "word": "BEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLACKED",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BLEAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACKLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACKLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "CAKED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "CALKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLACKED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "DECKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "KEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "LACKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "LEAKED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

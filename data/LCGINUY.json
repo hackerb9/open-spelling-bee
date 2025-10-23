@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 77,
+    "total_score": 134,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "CLING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CLINGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CLINIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLUING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CLUNG",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,27 +54,27 @@
         },
         {
             "word": "CULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CUNNINGLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYCLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIGGLING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "GLUING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "GULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GULLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INCLINING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "LINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LUGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "LULLING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "LUNGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

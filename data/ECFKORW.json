@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 65,
+    "total_score": 122,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "COERCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COFFEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COFFER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "COOKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,12 +54,12 @@
         },
         {
             "word": "COWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,17 +69,17 @@
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FEWER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FORCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REWORK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROCKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "WORKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WORKFORCE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "WRECK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WRECKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 129,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ANNOUNCING",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -34,42 +34,42 @@
         },
         {
             "word": "CACAO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANNON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNONING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CANON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COCOA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "COCOON",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "COCOONING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "COCOONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "COGNAC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "COINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GONNA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "GOUGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

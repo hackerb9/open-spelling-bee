@@ -1,0 +1,191 @@
+{
+    "letters": "OABEKNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BANKNOTE"
+    ],
+    "word_list": [
+        {
+            "word": "ABBOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOTATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANKNOTE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "BATON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONNET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOTEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTEBOOK",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TABOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOKEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONNE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

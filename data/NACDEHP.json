@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 136,
+    "total_score": 244,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "APPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CADENCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,52 +49,52 @@
         },
         {
             "word": "CANED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANCED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEAPEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CHEAPENED",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "DANCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DANCED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEADEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEADENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -104,47 +104,47 @@
         },
         {
             "word": "DECADENCE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DEEPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEEPENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEPENDENCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENHANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENHANCED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -154,22 +154,22 @@
         },
         {
             "word": "HANDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAPPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HAPPENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "NAPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PANACEA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PANDA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,32 +209,32 @@
         },
         {
             "word": "PANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PECAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

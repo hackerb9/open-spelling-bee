@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 119,
+    "total_score": 224,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "CEDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,22 +39,22 @@
         },
         {
             "word": "CIDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CIRCLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CIRCLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLERIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,67 +64,67 @@
         },
         {
             "word": "CLIPPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CREED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEPIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CREPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRIED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRIPPLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CRIPPLED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "DECIDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECIDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECREE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DECREED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DECRIED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "DICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,12 +149,12 @@
         },
         {
             "word": "ICICLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICIER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,67 +164,67 @@
         },
         {
             "word": "PIECE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PIECED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PIERCE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PIERCED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PRECEDE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "PRECEDED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "PRECIPICE",
+            "word": "PIECED",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PIERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIERCED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PRECIPICE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PRICE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PRICED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECEDE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RECEDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RECIPE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RELIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "RICED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

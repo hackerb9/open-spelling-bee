@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 84,
+    "total_score": 156,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,27 +34,27 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANGEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ANGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CACHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "CANCEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,32 +79,32 @@
         },
         {
             "word": "CHALLENGE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "CHANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHANNEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CLENCH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "EAGLE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ELEGANCE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "ELEGANCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ENGAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENHANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "GLANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GLEAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "HAGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "HENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "LANCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "LEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,12 +219,12 @@
         },
         {
             "word": "LEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 205,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "ARRIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AVARICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CARAVAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CARVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "CAVERN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CAVIAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CIVIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREVICE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "EVENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,27 +94,27 @@
         },
         {
             "word": "IRREVERENCE",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
             "word": "NAIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NAIVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,52 +124,52 @@
         },
         {
             "word": "RAVEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RAVINE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RECEIVE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "RECEIVER",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "REVERE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "REVERENCE",
+            "word": "RAVINE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RECEIVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECEIVER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VACCINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "VAINER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "VARIANCE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -204,22 +204,22 @@
         },
         {
             "word": "VENEER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VICAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

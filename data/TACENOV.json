@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
+    "total_score": 197,
     "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "ACCENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANNOTATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ATONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CANNOT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "CANTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CAVEAT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,67 +79,67 @@
         },
         {
             "word": "CONCATENATE",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
             "word": "CONCOCT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNECT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNOTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTACT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONTENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONVENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COTTON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COVENANT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "COVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVENT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "OCTAVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "TATTOO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,12 +189,12 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "VACANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VACATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

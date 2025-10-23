@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 84,
+    "total_score": 153,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "EMPEROR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMPTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "MEMORY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "MERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,22 +64,22 @@
         },
         {
             "word": "METEOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "METER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "METRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEREMPTORY",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "PREEMPT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,27 +139,27 @@
         },
         {
             "word": "PROMOTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PROMPT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROMPTER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REMOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMOTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "ROOMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "TEMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEMPO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEMPT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -209,12 +209,12 @@
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TREMOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

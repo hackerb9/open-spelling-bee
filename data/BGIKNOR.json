@@ -1,0 +1,176 @@
+{
+    "letters": "BGIKNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 162,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BROOKING"
+    ],
+    "word_list": [
+        {
+            "word": "BIKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BIKINI",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOBBIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOKING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRIBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BRING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BRINK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BROOK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BROOKING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GIBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INBORN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIBBON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ROBIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROBING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

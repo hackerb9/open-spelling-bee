@@ -1,0 +1,166 @@
+{
+    "letters": "HDEGITW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 131,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WEIGHTED"
+    ],
+    "word_list": [
+        {
+            "word": "EIGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EIGHTIETH",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "HEDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEIGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIGHT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEIGH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEIGHTED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "WHET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHETTED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WHEW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WHITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WIDTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WITH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

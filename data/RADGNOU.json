@@ -1,0 +1,166 @@
+{
+    "letters": "RADGNOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AGROUND"
+    ],
+    "word_list": [
+        {
+            "word": "ADORN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGROUND",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ARDOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARDOUR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AROUND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AURA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAGON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRUG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOURD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROUND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUARD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GURU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ODOUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RADAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

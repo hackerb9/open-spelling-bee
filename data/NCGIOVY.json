@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 157,
     "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COCOONING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -39,57 +39,57 @@
         },
         {
             "word": "COINING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONNING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CONVINCING",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "CONNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONVINCING",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "CONVOY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CONVOYING",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "COOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CYNIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GIVING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "ICING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "INNING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INVOICING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "INVOICING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,27 +139,27 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VICING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VOICING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

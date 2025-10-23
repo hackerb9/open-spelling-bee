@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 72,
+    "total_score": 129,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "ANNOTATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ANNOY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,42 +44,42 @@
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ANYONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATONE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BABOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BATON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BAYONET",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "BEATEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "BONNET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,22 +124,22 @@
         },
         {
             "word": "BOTANY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EBONY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,12 +179,12 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

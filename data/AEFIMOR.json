@@ -1,0 +1,186 @@
+{
+    "letters": "AEFIMOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 103,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOAMIER"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFAIR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AFFIRM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AIRIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARIA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAIRER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIREARM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAMIER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FOREARM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FRAME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRIAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

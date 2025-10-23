@@ -1,0 +1,161 @@
+{
+    "letters": "KADEFLN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 111,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FLANKED"
+    ],
+    "word_list": [
+        {
+            "word": "ANKLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLANK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLANKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "KEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KENNEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KENNELED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "KENNELLED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "KNEAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KNEADED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KNEEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAKED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

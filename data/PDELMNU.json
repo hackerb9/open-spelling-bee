@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 116,
+    "total_score": 212,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,22 +29,22 @@
         },
         {
             "word": "DEEPEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEEPENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEPEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEPENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "DUMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,7 +64,7 @@
         },
         {
             "word": "DUPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "LUMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "PEELED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "PEEPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PENDULUM",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PENNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,32 +134,32 @@
         },
         {
             "word": "PLUME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLUMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PLUMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLUMPED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PUDDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUDDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "PULLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "PULPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUMMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUMMELED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PUMMELLED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -204,32 +204,32 @@
         },
         {
             "word": "PUMPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUNNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PUPPED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UPENDED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UPPED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

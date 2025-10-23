@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 109,
+    "total_score": 196,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "DEFEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFINED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENIM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,27 +59,27 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FELINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FEMININE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "FENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIEND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,22 +109,22 @@
         },
         {
             "word": "FINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INFIDEL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INFIELD",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "LIFELINE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "LINED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LINEFEED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LINEFEED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LINEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "MENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MIDDLEMEN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "MINDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,12 +194,12 @@
         },
         {
             "word": "MINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MINEFIELD",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -209,17 +209,17 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEEDLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

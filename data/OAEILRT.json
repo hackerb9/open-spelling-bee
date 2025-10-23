@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 122,
+    "total_score": 209,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ALLOT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "AORTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "LOITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LOITERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "OILIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "ORATOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RATIO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "RIOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROTATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,42 +154,42 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "TAILOR",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TATTOO",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TEETOTAL",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "TAILOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEETOTAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "TEETOTALER",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "TEETOTALLER",
-            "score": 8,
+            "score": 11,
             "pangram": false
         },
         {
             "word": "TERRITORIAL",
-            "score": 8,
+            "score": 11,
             "pangram": true
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "TOILET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TOLERATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -229,12 +229,12 @@
         },
         {
             "word": "TORTILLA",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TOTAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -244,12 +244,12 @@
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRAITOR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "TROLL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 110,
+    "total_score": 191,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "APPROVAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "APPROVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ELOPE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVOLVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "LOVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "OPERA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,32 +104,32 @@
         },
         {
             "word": "OVERALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OVERLAP",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PALLOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARLOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PAROLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEOPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "POLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "POPLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,42 +199,42 @@
         },
         {
             "word": "PROPEL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PROPELLER",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PROPELLER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PROPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PROPERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "PROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REPROVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVOLVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "ROLLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -264,12 +264,12 @@
         },
         {
             "word": "VALOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VAPOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 85,
+    "total_score": 151,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DODGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "DOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DONOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "DRONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "FINDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,17 +99,17 @@
         },
         {
             "word": "FORDING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "FRIGID",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FROND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,32 +124,32 @@
         },
         {
             "word": "GRIDIRON",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRIND",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "GRINDING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "GRINDING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INDIGO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDOOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NODDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -159,22 +159,22 @@
         },
         {
             "word": "RIDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

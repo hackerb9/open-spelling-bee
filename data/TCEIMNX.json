@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 84,
+    "total_score": 132,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "CEMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "EMINENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "ENTICE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENTICEMENT",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "EXCITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXCITEMENT",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
@@ -74,32 +74,32 @@
         },
         {
             "word": "EXTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXTINCT",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "IMMINENT",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INCITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INCITEMENT",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "IMMINENT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INCITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCITEMENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "MITTEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

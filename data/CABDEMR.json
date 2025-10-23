@@ -1,0 +1,231 @@
+{
+    "letters": "CABDEMR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 198,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EMBRACED"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCADE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ARCED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BECAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BRACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRACED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMERA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CARED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAREERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CEDAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRABBED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAMMED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CREAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREAMED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECREE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EMBRACE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EMBRACED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MACABRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 169,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,12 +29,12 @@
         },
         {
             "word": "AIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,22 +44,22 @@
         },
         {
             "word": "ANAEMIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANEMIA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENIM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "DIMMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,27 +84,27 @@
         },
         {
             "word": "DINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXAMINE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EXAMINED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -114,22 +114,22 @@
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INDEED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INDEX",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INDEXED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "MAIDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "MAIMED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,27 +159,27 @@
         },
         {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAXIM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAXIMA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEDIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEDIAN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "MIMED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,7 +204,7 @@
         },
         {
             "word": "MINDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -214,12 +214,12 @@
         },
         {
             "word": "MINED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIXED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

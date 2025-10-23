@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 70,
+    "total_score": 142,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,7 +29,7 @@
         },
         {
             "word": "BALLS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,7 +39,7 @@
         },
         {
             "word": "BASHFUL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -49,32 +49,32 @@
         },
         {
             "word": "BLABS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLUFFS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BLUSH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUFFS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BULBS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BULLS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -89,27 +89,27 @@
         },
         {
             "word": "FALLS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLASH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLUFFS",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FLUSH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FULLS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "HALLS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,12 +129,12 @@
         },
         {
             "word": "HAULS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HUBBUBS",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,12 +144,12 @@
         },
         {
             "word": "HUFFS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HULLS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,7 +174,7 @@
         },
         {
             "word": "LULLS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "SHALL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,17 +199,17 @@
         },
         {
             "word": "SLABS",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "SLASH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "SLUSH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "USUAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

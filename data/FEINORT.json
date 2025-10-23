@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 122,
+    "total_score": 215,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "EFFORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "FEINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -44,7 +44,7 @@
         },
         {
             "word": "FERRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,17 +54,17 @@
         },
         {
             "word": "FETTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FIERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FIFTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "FINER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FINITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "FITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "FOOTNOTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "FOREFRONT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "FORFEIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "FORTE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "FREER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,37 +149,37 @@
         },
         {
             "word": "FRITTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FRONT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRONTIER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "INFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INFERIOR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "INFERNO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INFINITE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -189,27 +189,27 @@
         },
         {
             "word": "INTERFERE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "NIFTIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OFFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFTEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OFTENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -219,17 +219,17 @@
         },
         {
             "word": "REFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REFEREE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REFINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RIFER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "TOFFEE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

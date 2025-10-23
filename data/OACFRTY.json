@@ -1,0 +1,151 @@
+{
+    "letters": "OACFRTY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 100,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FACTORY"
+    ],
+    "word_list": [
+        {
+            "word": "ACTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AFOOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARROT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FACTOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FACTORY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ORATORY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TACO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRACTOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

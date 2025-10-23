@@ -1,0 +1,161 @@
+{
+    "letters": "HACIPRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 95,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PATRIARCH"
+    ],
+    "word_list": [
+        {
+            "word": "ARCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCHAIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARTHRITIC",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ATTACH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIRP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PATCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PATRIARCH",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PITCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RICH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THATCH",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

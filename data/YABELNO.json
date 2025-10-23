@@ -1,0 +1,151 @@
+{
+    "letters": "YABELNO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 105,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BALONEY"
+    ],
+    "word_list": [
+        {
+            "word": "ABBEY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLEY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANNOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANYONE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BABY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALONEY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BELLBOY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BELLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BONY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOBY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EBONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EYEBALL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOBBY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LONELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOYAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOBLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NYLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OBEY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YELL",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

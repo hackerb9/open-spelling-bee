@@ -1,0 +1,181 @@
+{
+    "letters": "HDEIRTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 146,
+    "word_count": 31,
+    "pangram_count": 1,
+    "pangram_list": [
+        "THRIVED"
+    ],
+    "word_list": [
+        {
+            "word": "DITHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DITHERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "EITHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ETHER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HITHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEETHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TETHERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEIR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THIEVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THIRD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THIRTIETH",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THRIVE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THRIVED",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

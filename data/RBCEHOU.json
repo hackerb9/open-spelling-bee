@@ -1,0 +1,161 @@
+{
+    "letters": "RBCEHOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BROCHURE"
+    ],
+    "word_list": [
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BROCHURE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "BROOCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BURR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BURRO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHEER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHERUB",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CHORE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHURCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROUCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CURB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HERB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HORROR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUBBER",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "letters": "GADEIMT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 132,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MITIGATED"
+    ],
+    "word_list": [
+        {
+            "word": "ADAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGITATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AGITATED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DAMAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAMAGED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIGIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GADGET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMAGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIDGET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MITIGATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MITIGATED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "TAGGED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

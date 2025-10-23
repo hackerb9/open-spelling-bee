@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 92,
+    "total_score": 170,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,37 +29,37 @@
         },
         {
             "word": "ANNUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANNUL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ARENA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AUBURN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BANANA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BANNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "BARREN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BARRENER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "BURNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "EARNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "LEANER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEARN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LUNAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,22 +149,22 @@
         },
         {
             "word": "NEARER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEBULA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEBULAE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NEURAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,37 +179,37 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNABLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNBEARABLE",
-            "score": 7,
+            "score": 10,
             "pangram": true
         },
         {
             "word": "UNREAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "URBAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "URBANE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "URBANER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

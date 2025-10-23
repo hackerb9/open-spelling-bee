@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 203,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "ACCENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,27 +34,27 @@
         },
         {
             "word": "ANCIENT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ANTIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "CANINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CANTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,62 +89,62 @@
         },
         {
             "word": "CYNIC",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "EATEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENACT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENTICE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENTITY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INANE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "INCITE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "INITIATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "EATEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENACT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENTICE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENTITY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INITIATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "INNATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTACT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INTENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "NICETY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NIECE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,22 +174,22 @@
         },
         {
             "word": "NINETEEN",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NINETY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "TENACITY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "TENANCY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,7 +224,7 @@
         },
         {
             "word": "TINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

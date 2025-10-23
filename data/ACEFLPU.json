@@ -1,0 +1,166 @@
+{
+    "letters": "ACEFLPU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 74,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PEACEFUL"
+    ],
+    "word_list": [
+        {
+            "word": "APPAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPEAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAFE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAPEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALACE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEACEFUL",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLEA",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

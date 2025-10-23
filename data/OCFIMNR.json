@@ -1,0 +1,171 @@
+{
+    "letters": "OCFIMNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 102,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONFIRM"
+    ],
+    "word_list": [
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COFFIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONFIRM",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CONFORM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CROON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIRROR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MORON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MORONIC",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

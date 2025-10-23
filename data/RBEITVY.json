@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 184,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,52 +29,52 @@
         },
         {
             "word": "BERET",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BERRY",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BETTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BITTER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "BITTERER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "BERRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BITTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BITTERER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "BREVITY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRIBERY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,47 +84,47 @@
         },
         {
             "word": "EVERY",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RETIRE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "RETRIEVE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "RETRIEVER",
+            "word": "RETIRE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "RETRIEVE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RETRIEVER",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "RETRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERIE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVERT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "RIVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIVET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "TRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,12 +204,12 @@
         },
         {
             "word": "VERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

@@ -1,0 +1,196 @@
+{
+    "letters": "EADIMXZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 131,
+    "word_count": 34,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MAXIMIZED"
+    ],
+    "word_list": [
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMAZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMAZED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AXED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAZED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIZZIED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IDEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAIZE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAXIMIZE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MAXIMIZED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "MAZE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEDIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIXED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

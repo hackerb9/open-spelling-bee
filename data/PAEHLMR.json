@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 192,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,62 +24,62 @@
     "word_list": [
         {
             "word": "ALPHA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMPERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AMPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AMPLER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPAREL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "APPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPEAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EPHEMERAL",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "HAMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "HELPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "LAPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,17 +124,17 @@
         },
         {
             "word": "LEPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAPLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MAPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "PALER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "PAMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PARALLEL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "PEARL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -219,7 +219,7 @@
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -234,7 +234,7 @@
         },
         {
             "word": "PREPARE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -254,22 +254,22 @@
         },
         {
             "word": "REAPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REAPPEAR",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REPEAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

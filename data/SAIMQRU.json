@@ -1,0 +1,156 @@
+{
+    "letters": "SAIMQRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 79,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AQUARIUMS"
+    ],
+    "word_list": [
+        {
+            "word": "AIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AMASS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMISS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AQUARIUMS",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "ARIAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IRIS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMAS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MASS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MISS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURMURS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SARI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SARIS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SQUIRM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SQUIRMS",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "SUMS",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 135,
+    "total_score": 249,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "AVENGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AVENGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AVERAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AVERAGED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -49,27 +49,27 @@
         },
         {
             "word": "ENGRAVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ENGRAVED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ENGRAVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "EVADE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVADED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,12 +79,12 @@
         },
         {
             "word": "EVENED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EVENER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "EVERGREEN",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -104,47 +104,47 @@
         },
         {
             "word": "GRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRAVEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NERVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RAVAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RAVAGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,42 +154,42 @@
         },
         {
             "word": "RAVED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RAVEN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "RAVENED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REVENGE",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "REVENGED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "RAVEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAVENED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVENGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVENGED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "REVERE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REVERED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REVVED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "VANNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,7 +209,7 @@
         },
         {
             "word": "VEERED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -219,37 +219,37 @@
         },
         {
             "word": "VENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VENEER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VENEERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "VERANDA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VERGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "VERVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

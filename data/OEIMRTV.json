@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 205,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "EMOTIVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EVERMORE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,27 +44,27 @@
         },
         {
             "word": "MEMOIR",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "METEOR",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "METEORITE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "METEOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "METEORITE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "METRO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIRROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,22 +84,22 @@
         },
         {
             "word": "MOREOVER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MOTIVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOTTO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "MOVER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MOVIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "OTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,32 +134,32 @@
         },
         {
             "word": "OVERT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OVERTIME",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "REMOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REMOTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REMOVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RETORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "RIOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "ROOMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "ROOTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,12 +199,12 @@
         },
         {
             "word": "ROTOR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TERROR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -229,17 +229,17 @@
         },
         {
             "word": "TOTEM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TOTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TREMOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "VOMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -269,7 +269,7 @@
         },
         {
             "word": "VOTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 131,
+    "total_score": 236,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,62 +24,62 @@
     "word_list": [
         {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIGIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DIGNITY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DINGY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIRTYING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "DRYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIDDY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,17 +94,17 @@
         },
         {
             "word": "GRIND",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRINDING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -114,57 +114,57 @@
         },
         {
             "word": "GRITTING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "GRITTY",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "IGNITING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "INDIGNITY",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "IGNITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INDIGNITY",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIDGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RIGID",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGIDITY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "RINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIDYING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -194,32 +194,32 @@
         },
         {
             "word": "TINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TINTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TIRING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRYING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TYING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

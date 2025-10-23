@@ -1,0 +1,156 @@
+{
+    "letters": "FAEMNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOREMAN"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FANFARE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FARMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FERN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOREARM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOREMAN",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FOREMEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FORMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRAME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FROM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REFORM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REFORMER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ROOF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

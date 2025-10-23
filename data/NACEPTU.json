@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 91,
+    "total_score": 157,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ACCENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ACCENTUATE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "ACCEPTANCE",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "ANTENNA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ANTENNAE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "CANTEEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CATNAP",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "EATEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENACT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "NUANCE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PANACEA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,37 +124,37 @@
         },
         {
             "word": "PATENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PEANUT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PECAN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENANCE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PENCE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PENNANT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PUNCTUATE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "TAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "TENANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "UNCUT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

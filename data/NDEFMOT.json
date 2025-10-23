@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 122,
+    "total_score": 215,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,32 +24,32 @@
     "word_list": [
         {
             "word": "DEFEND",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEFENDED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEMENTED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "DEMON",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DENOTE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DENOTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,7 +59,7 @@
         },
         {
             "word": "DENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "ENDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,17 +79,17 @@
         },
         {
             "word": "FENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FOMENTED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "FOOTNOTE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "FOOTNOTED",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "MEMENTO",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -124,12 +124,12 @@
         },
         {
             "word": "MENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MOMENT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "MOONED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "NETTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NODDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,22 +189,22 @@
         },
         {
             "word": "NOTED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "OFFEND",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "OFFENDED",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "OFFEND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OFFENDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "OFTEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -229,22 +229,22 @@
         },
         {
             "word": "TENDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENDON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENEMENT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TENET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "TENTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -264,12 +264,12 @@
         },
         {
             "word": "TONED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TONNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

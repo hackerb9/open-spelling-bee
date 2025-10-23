@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 118,
+    "total_score": 220,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "AGGREGATE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "AGITATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "AGREE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "AIRTIGHT",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "AIRTIGHT",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "EAGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EIGHTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EIGHTIETH",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "GARAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GARRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GARTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "GATHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,32 +104,32 @@
         },
         {
             "word": "GIRTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRATER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GREAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREATER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GREET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,17 +139,17 @@
         },
         {
             "word": "GRITTIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "HEIGHT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HERITAGE",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "HIGHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IRRIGATE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -174,52 +174,52 @@
         },
         {
             "word": "REGATTA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REGRET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RIGHTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TARGET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "THIGH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGHT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TIGHTER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRIGGER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 66,
+    "total_score": 126,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -39,37 +39,37 @@
         },
         {
             "word": "ARCHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BECAME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEECH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRACE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BREACH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CACHE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "CAMERA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,12 +89,12 @@
         },
         {
             "word": "CAREER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CHAMBER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -104,12 +104,12 @@
         },
         {
             "word": "CHARM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CHEER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,7 +124,7 @@
         },
         {
             "word": "CREAM",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,17 +134,17 @@
         },
         {
             "word": "EARACHE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EMBRACE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MACABRE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "MARCH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MARCHER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "RACER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REACH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

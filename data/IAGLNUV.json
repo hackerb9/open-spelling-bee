@@ -1,0 +1,266 @@
+{
+    "letters": "IAGLNUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 284,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VALUING"
+    ],
+    "word_list": [
+        {
+            "word": "AGAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALIGN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALIGNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANGLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANNULLING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ANVIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVAILING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GALLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GANGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GAUGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLUING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IGUANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LUNGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VAGINA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VAGINAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VALUING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "VALVING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VANILLA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VIAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIGIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VILLA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VILLAIN",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

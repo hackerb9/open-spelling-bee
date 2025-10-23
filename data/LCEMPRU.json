@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 64,
+    "total_score": 115,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,27 +34,27 @@
         },
         {
             "word": "CLUMP",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CRUEL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CRUELER",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "CRUELLER",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CRUEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRUELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRUELLER",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "CRUMPLE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "LEMME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,17 +119,17 @@
         },
         {
             "word": "PLUME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLUMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLUMPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,17 +144,17 @@
         },
         {
             "word": "PUMMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURPLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "REPEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUMPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ULCER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

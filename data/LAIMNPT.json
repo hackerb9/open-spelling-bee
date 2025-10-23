@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 88,
+    "total_score": 148,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,27 +29,27 @@
         },
         {
             "word": "ANIMAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "IMPLANT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "INITIAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "LIMIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "LLAMA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -94,7 +94,7 @@
         },
         {
             "word": "MAILMAN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,22 +109,22 @@
         },
         {
             "word": "MAMMAL",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "MAMMALIAN",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "MAMMALIAN",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "MILITANT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "MILITIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,7 +134,7 @@
         },
         {
             "word": "MINIMAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "NAPALM",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -154,7 +154,7 @@
         },
         {
             "word": "PALATIAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,7 +169,7 @@
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "word": "PLAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,17 +189,17 @@
         },
         {
             "word": "PLANT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "PLANTAIN",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "PLANTAIN",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "PLIANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

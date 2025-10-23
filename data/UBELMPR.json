@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 194,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BLUBBER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,12 +34,12 @@
         },
         {
             "word": "BLUEBELL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BLUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,12 +49,12 @@
         },
         {
             "word": "BLURB",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,12 +69,12 @@
         },
         {
             "word": "BUMBLEBEE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "BUMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "BUMPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BURBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "LUMBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -134,12 +134,12 @@
         },
         {
             "word": "MUMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MURMUR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,27 +149,27 @@
         },
         {
             "word": "PLUMB",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLUMBER",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PLUME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLUMP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PLUMPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "PUMMEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -199,22 +199,22 @@
         },
         {
             "word": "PUREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PURPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PURPLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -224,12 +224,12 @@
         },
         {
             "word": "RUBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUBBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,17 +239,17 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RUMBLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RUMMER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -259,12 +259,12 @@
         },
         {
             "word": "RUMPLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UPPER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 74,
+    "total_score": 143,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AFFAIR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AFFINITY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,47 +59,47 @@
         },
         {
             "word": "FAIRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FIFTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FRIAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INFANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INFANTRY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "INFINITY",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "IRRITANT",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NIFTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,17 +109,17 @@
         },
         {
             "word": "RAINY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "RARITY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATIFY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,17 +129,17 @@
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARIFF",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TIARA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "TINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "TRAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRAIT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRINITY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

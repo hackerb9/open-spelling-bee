@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 182,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "APART",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APPALL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "APPLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "APTLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,12 +64,12 @@
         },
         {
             "word": "PALLOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PALTRY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "PAPAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAPAYA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARLOR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARROT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -104,27 +104,27 @@
         },
         {
             "word": "PARTLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PARTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PATROL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PAYROLL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "POLAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "POLYP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,17 +184,17 @@
         },
         {
             "word": "POORLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POPLAR",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POPPY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,27 +204,27 @@
         },
         {
             "word": "PORTAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PORTLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PORTRAY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PORTRAYAL",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
             "word": "POTATO",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -239,7 +239,7 @@
         },
         {
             "word": "RAPPORT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -254,7 +254,7 @@
         },
         {
             "word": "TROOP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

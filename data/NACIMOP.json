@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 121,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "AMMONIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -34,22 +34,22 @@
         },
         {
             "word": "CANNON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "CANON",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "CINNAMON",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "CINNAMON",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "COCOON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "COMMON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COMPANION",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "MANIA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MANIAC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MANIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "NINCOMPOOP",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,22 +134,22 @@
         },
         {
             "word": "PANIC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PIANO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PICNIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PINION",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

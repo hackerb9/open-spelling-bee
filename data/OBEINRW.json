@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 62,
+    "total_score": 113,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,7 +24,7 @@
     "word_list": [
         {
             "word": "BOBBIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "word": "BONIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "BORNE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BORROW",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,27 +74,27 @@
         },
         {
             "word": "BROWN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BROWNER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BROWNIE",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "ERROR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INBORN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "NEWBORN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,32 +129,32 @@
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OWNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REBORN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENOWN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RIBBON",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ROBBER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,7 +164,7 @@
         },
         {
             "word": "ROBIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

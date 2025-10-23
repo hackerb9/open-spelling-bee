@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 99,
+    "total_score": 177,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,12 +34,12 @@
         },
         {
             "word": "PEEVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PEPPER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,22 +49,22 @@
         },
         {
             "word": "PERTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PERVERT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PETER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "PETTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "word": "POETRY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "POORER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "POPPY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -114,27 +114,27 @@
         },
         {
             "word": "PORTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POTTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POTTERY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "POVERTY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "PRETTY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,27 +149,27 @@
         },
         {
             "word": "PROPER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PROPERTY",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PROTOTYPE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PROPERER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PROPERTY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PROTOTYPE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PROVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -179,22 +179,22 @@
         },
         {
             "word": "REPORT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REPORTER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "REPROVE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETYPE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TROOP",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TROOPER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {

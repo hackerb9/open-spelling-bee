@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 121,
+    "total_score": 220,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "ABATE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ABATED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -39,27 +39,27 @@
         },
         {
             "word": "ABETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BALLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BATTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BATTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,22 +74,22 @@
         },
         {
             "word": "BEETLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BEETLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BELATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BELATEDLY",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "BELTED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "BLEAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BLEATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -134,27 +134,27 @@
         },
         {
             "word": "DATED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEALT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "DEBATABLE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "DEBATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DEBATED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -164,17 +164,17 @@
         },
         {
             "word": "DELETE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DELETED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DELTA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -184,32 +184,32 @@
         },
         {
             "word": "LATELY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TABBED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TABBY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TABLED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TABLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,22 +224,22 @@
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TATTLED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TATTY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -259,7 +259,7 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         }
     ]

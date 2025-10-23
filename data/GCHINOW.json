@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 121,
+    "total_score": 214,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,57 +24,57 @@
     "word_list": [
         {
             "word": "CHINNING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "CHOWING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "CINCHING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "COCOONING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "COINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CONNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "COOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "COWING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,7 +84,7 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GOWNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,32 +109,32 @@
         },
         {
             "word": "HINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ICING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INCHING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,37 +144,37 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "OWING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "OWNING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "WHINING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "WINCHING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "OWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WHINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WINCHING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "WINCING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,27 +184,27 @@
         },
         {
             "word": "WINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WOOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WOWING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

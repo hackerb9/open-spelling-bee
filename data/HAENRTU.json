@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 171,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "EARTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ETHER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "HAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -59,17 +59,17 @@
         },
         {
             "word": "HEART",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEARTEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEARTH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "HEATER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEATH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HEATHEN",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HEATHER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -109,12 +109,12 @@
         },
         {
             "word": "HUNTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HURRAH",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -124,32 +124,32 @@
         },
         {
             "word": "NETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RATHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TETHER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -164,12 +164,12 @@
         },
         {
             "word": "THEATER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "THEATRE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -184,37 +184,37 @@
         },
         {
             "word": "THERE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "THETA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "THREAT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "THREATEN",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "THETA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THREAT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THREATEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "THREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRUTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNEARTH",
-            "score": 4,
+            "score": 7,
             "pangram": true
         }
     ]

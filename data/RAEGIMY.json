@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 200,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AGREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AIRIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -54,32 +54,32 @@
         },
         {
             "word": "ARRAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EMERGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -89,17 +89,17 @@
         },
         {
             "word": "GAMER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GARAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAYER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "GRAMMAR",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "GRAYER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "GREYER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,27 +149,27 @@
         },
         {
             "word": "GRIME",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRIMIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRIMMER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GRIMY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "IMAGERY",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -179,27 +179,27 @@
         },
         {
             "word": "MARIA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "MARRIAGE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "MARRIAGE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MARRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MEAGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MEAGRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -209,27 +209,27 @@
         },
         {
             "word": "MERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MERGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "MERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "MERRY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "MIRAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "word": "RARER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -264,7 +264,7 @@
         },
         {
             "word": "REGIME",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {

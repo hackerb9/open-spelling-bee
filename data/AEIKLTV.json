@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 63,
+    "total_score": 108,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,27 +24,27 @@
     "word_list": [
         {
             "word": "ALIKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALIVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALKALI",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ALLEVIATE",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ALLEVIATE",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "AVAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,7 +54,7 @@
         },
         {
             "word": "ELEVATE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -79,7 +79,7 @@
         },
         {
             "word": "LEAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "word": "TALKATIVE",
-            "score": 6,
+            "score": 9,
             "pangram": true
         },
         {
@@ -114,7 +114,7 @@
         },
         {
             "word": "TATTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,22 +129,22 @@
         },
         {
             "word": "TELLTALE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TITILLATE",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "VALET",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VALVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -159,12 +159,12 @@
         },
         {
             "word": "VILLA",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VITAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

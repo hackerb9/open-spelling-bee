@@ -7,7 +7,7 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 97,
+    "total_score": 181,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,47 +24,47 @@
     "word_list": [
         {
             "word": "AGAIN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "AGEING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "AGING",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "AGONIZE",
-            "score": 4,
-            "pangram": true
-        },
-        {
-            "word": "AGONIZING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "EGGING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENGAGING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "AGEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGONIZE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "AGONIZING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -74,67 +74,67 @@
         },
         {
             "word": "GAINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GAZING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INANE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -144,32 +144,32 @@
         },
         {
             "word": "ONGOING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ONION",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "OOZING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ZIGZAG",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ZIGZAGGING",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OOZING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ZIGZAG",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ZIGZAGGING",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "ZONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

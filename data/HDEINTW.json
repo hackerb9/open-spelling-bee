@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 89,
+    "total_score": 158,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,17 +29,17 @@
         },
         {
             "word": "HEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HEWED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HIDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "HIDED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -64,42 +64,42 @@
         },
         {
             "word": "HINTED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "NINETEENTH",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "NINETIETH",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "NINETEENTH",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "NINETIETH",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "NINTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TEETHE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TEETHED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TENTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "THINNED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TWENTIETH",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "WHETTED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,37 +149,37 @@
         },
         {
             "word": "WHINE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHINED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WHINNIED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "WHITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "WHITEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WHITENED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "WIDTH",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "WITHIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         }
     ]

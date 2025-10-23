@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 193,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,37 +34,37 @@
         },
         {
             "word": "DUNGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENDED",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ENDURE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ENDURED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "ENGENDER",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "ENGENDERED",
+            "word": "ENDURE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "ENGENDER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ENGENDERED",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "GENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,37 +74,37 @@
         },
         {
             "word": "GENRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREEN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GREENED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GREENER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GUNNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HUNDRED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "HUNGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HUNGERED",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "NEEDED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,27 +139,27 @@
         },
         {
             "word": "NUDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NUDGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NUDGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDDEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REDDENED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,22 +169,22 @@
         },
         {
             "word": "RENDER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENDERED",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "RENEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RENEGED",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -199,17 +199,17 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNDER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "UNDUE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

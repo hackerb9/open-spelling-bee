@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 67,
+    "total_score": 118,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -29,42 +29,42 @@
         },
         {
             "word": "ECLECTIC",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "ELECT",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ELICIT",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ELITE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "ELLIPTIC",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "EPILEPTIC",
+            "word": "ELICIT",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "ELITE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELLIPTIC",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "EPILEPTIC",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "EXCEPT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXCITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -74,17 +74,17 @@
         },
         {
             "word": "EXPECT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EXPLICIT",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "ILLICIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -94,12 +94,12 @@
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "PELLET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "PETITE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "word": "TEPEE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "TEXTILE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -149,7 +149,7 @@
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

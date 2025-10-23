@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 197,
     "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,92 +24,92 @@
     "word_list": [
         {
             "word": "BEGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BEGIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BEGINNING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "BEIGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BEING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BENIGN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BINGO",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BOOING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BYGONE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EBBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EYEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,12 +119,12 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -134,27 +134,27 @@
         },
         {
             "word": "GIBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOBBING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOOEY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -189,22 +189,22 @@
         },
         {
             "word": "GYBING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "OBEYING",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

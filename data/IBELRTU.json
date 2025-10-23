@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 120,
+    "total_score": 225,
     "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "BELIE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "BELITTLE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "BELITTLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "BIBLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -54,67 +54,67 @@
         },
         {
             "word": "BITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BITTERER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BRITTLE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "BRITTLER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BUBBLIER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "BUILT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BURLIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EERIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EERIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ELITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEERIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LIBEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,37 +129,37 @@
         },
         {
             "word": "LITER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITRE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LITTLER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "REBUILT",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "RETIRE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -174,17 +174,17 @@
         },
         {
             "word": "RUBIER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TERRIBLE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "TERRIER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -214,47 +214,47 @@
         },
         {
             "word": "TITBIT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TITLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TITTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRIBE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRIBUTE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TRITER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UTERI",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

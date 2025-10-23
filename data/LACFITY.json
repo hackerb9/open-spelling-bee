@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 143,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AFFLICT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ALLAY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,7 +49,7 @@
         },
         {
             "word": "CATCALL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -59,22 +59,22 @@
         },
         {
             "word": "CLIFF",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CYCLIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FACIAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "FACILITY",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
@@ -89,22 +89,22 @@
         },
         {
             "word": "FALLACY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "FATAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "FATALITY",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "FATALITY",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "FATALLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "FILLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "FLAIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "FLATLY",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -139,12 +139,12 @@
         },
         {
             "word": "ILLICIT",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ITALIC",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "word": "LILAC",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -174,12 +174,12 @@
         },
         {
             "word": "TACITLY",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TACTICAL",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -199,7 +199,7 @@
         },
         {
             "word": "TALLY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

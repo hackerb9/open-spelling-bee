@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 121,
+    "total_score": 226,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ALLURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANNUAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ANNUL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -49,17 +49,17 @@
         },
         {
             "word": "AURAL",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "LAUREATE",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "LAUREATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LAUREL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -69,7 +69,7 @@
         },
         {
             "word": "LUNAR",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,27 +84,27 @@
         },
         {
             "word": "NATURAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NATURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEURAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "NEUTRAL",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
@@ -114,12 +114,12 @@
         },
         {
             "word": "NURTURE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "RETURN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "RULER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,7 +139,7 @@
         },
         {
             "word": "RUNNER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -149,17 +149,17 @@
         },
         {
             "word": "RURAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TARANTULA",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "TAUNT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -169,17 +169,17 @@
         },
         {
             "word": "TAUTER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TENURE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TRUANT",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -189,7 +189,7 @@
         },
         {
             "word": "TRUER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -204,17 +204,17 @@
         },
         {
             "word": "TUNER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TUNNEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "TUREEN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -224,47 +224,47 @@
         },
         {
             "word": "TURNER",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TURRET",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "TURTLE",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "ULTRA",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "UNNATURAL",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "TURRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TURTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ULTRA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNNATURAL",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "UNREAL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNTRUE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "UNTRUER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "UTTER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         }
     ]

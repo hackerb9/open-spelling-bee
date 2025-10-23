@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 203,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,12 +24,12 @@
     "word_list": [
         {
             "word": "AGILE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGREE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -39,32 +39,32 @@
         },
         {
             "word": "ALGAE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ALLEGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "AVERAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EAGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EAGERER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "EAGLE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -84,12 +84,12 @@
         },
         {
             "word": "GARAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GARGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,7 +99,7 @@
         },
         {
             "word": "GAVEL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "GIGGLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -129,7 +129,7 @@
         },
         {
             "word": "GLARE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -139,62 +139,62 @@
         },
         {
             "word": "GRAVE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRAVEL",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRAVER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRIEVE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GRILL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GRILLE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ILLEGAL",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "LAGER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LARGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LARGER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "LEGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "LEVERAGE",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -204,42 +204,42 @@
         },
         {
             "word": "RAVAGE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGAL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "REGALE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "REGALIA",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VERGE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VIGIL",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "VILLAGE",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VILLAGER",
-            "score": 5,
+            "score": 8,
             "pangram": true
         }
     ]

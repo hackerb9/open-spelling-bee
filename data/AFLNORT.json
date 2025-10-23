@@ -1,0 +1,206 @@
+{
+    "letters": "AFLNORT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 133,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRONTAL"
+    ],
+    "word_list": [
+        {
+            "word": "AFAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AFFRONT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AFLOAT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AFOOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALOFT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALOOF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALTAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FATAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLOAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLORA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLORAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRONTAL",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "LOAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NARRATOR",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ORAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORATOR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAFT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TARTAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TARTAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TONAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

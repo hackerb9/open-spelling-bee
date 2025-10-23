@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 116,
+    "total_score": 194,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "ADDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ADVANTAGING",
-            "score": 8,
+            "score": 11,
             "pangram": true
         },
         {
             "word": "AGAIN",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "AGITATING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "AIDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTAIN",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTAINING",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -74,12 +74,12 @@
         },
         {
             "word": "DATING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "word": "GAINING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,17 +104,17 @@
         },
         {
             "word": "GANGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GATING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIANT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -124,42 +124,42 @@
         },
         {
             "word": "INDIGNANT",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "INITIATING",
-            "score": 7,
+            "score": 10,
             "pangram": false
         },
         {
             "word": "INVADING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
             "word": "NAGGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "NAVIGATING",
             "score": 7,
             "pangram": false
         },
         {
+            "word": "NAVIGATING",
+            "score": 10,
+            "pangram": false
+        },
+        {
             "word": "TAGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "TAINT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "TAINTING",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -169,12 +169,12 @@
         },
         {
             "word": "TANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VAGINA",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -184,12 +184,12 @@
         },
         {
             "word": "VANNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "VATTING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

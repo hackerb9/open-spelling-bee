@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 90,
+    "total_score": 159,
     "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,17 +24,17 @@
     "word_list": [
         {
             "word": "ABACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ATTACK",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ATTACKER",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -44,12 +44,12 @@
         },
         {
             "word": "BACKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BACKTRACK",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -59,12 +59,12 @@
         },
         {
             "word": "BAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BAREBACK",
-            "score": 5,
+            "score": 8,
             "pangram": false
         },
         {
@@ -79,22 +79,22 @@
         },
         {
             "word": "BEAKER",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "BRACKET",
-            "score": 4,
+            "score": 7,
             "pangram": true
         },
         {
             "word": "BRAKE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "BREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -104,37 +104,37 @@
         },
         {
             "word": "CARETAKER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
             "word": "CRACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CRACKER",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "CREAK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "CREEK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KARAT",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "KARATE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -144,7 +144,7 @@
         },
         {
             "word": "RACETRACK",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -154,12 +154,12 @@
         },
         {
             "word": "RACKET",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "RACKETEER",
-            "score": 6,
+            "score": 9,
             "pangram": false
         },
         {
@@ -184,7 +184,7 @@
         },
         {
             "word": "TAKER",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
@@ -194,7 +194,7 @@
         },
         {
             "word": "TRACK",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {

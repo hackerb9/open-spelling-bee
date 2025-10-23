@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 160,
+    "total_score": 295,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,42 +24,42 @@
     "word_list": [
         {
             "word": "DEEDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DEIGN",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "DEIGNED",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "DEIGNING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "DEIGNED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEIGNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "DIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "DIKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "DINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -69,37 +69,37 @@
         },
         {
             "word": "EDGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EDGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EGGED",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "EGGING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "EKING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ENDING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "ENGINE",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "word": "GEEING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -119,52 +119,52 @@
         },
         {
             "word": "GENIE",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GENII",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INKING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "KEENING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KIDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -174,72 +174,72 @@
         },
         {
             "word": "KINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "KNEEING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NEEDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEDDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WEDGE",
-            "score": 2,
-            "pangram": false
-        },
-        {
-            "word": "WEDGED",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "WEDGING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "WEEDING",
-            "score": 4,
-            "pangram": false
-        },
-        {
-            "word": "WEEING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "WEEKENDING",
-            "score": 7,
-            "pangram": true
-        },
-        {
-            "word": "WIDENING",
             "score": 5,
             "pangram": false
         },
         {
+            "word": "WEDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WEEDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WEEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEEKENDING",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "WIDENING",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "WIGGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WINDING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -249,27 +249,27 @@
         },
         {
             "word": "WINGED",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WINING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "WINKING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "WINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

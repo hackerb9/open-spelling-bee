@@ -7,15 +7,15 @@
         "min_word_count": 25,
         "max_word_count": 50,
         "min_total_score": 60,
-        "max_total_score": 240,
+        "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 105,
+    "total_score": 192,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,22 +24,22 @@
     "word_list": [
         {
             "word": "GIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "GOING",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "GONGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
@@ -49,47 +49,47 @@
         },
         {
             "word": "HINGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HIPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HIPPY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "HOGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HONING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOOPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "HOPING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "HOPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "INNING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
@@ -99,82 +99,82 @@
         },
         {
             "word": "NINNY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "NIPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "NIPPY",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "ONGOING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "ONION",
-            "score": 2,
+            "score": 5,
             "pangram": false
         },
         {
             "word": "OPINION",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PHONING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PHONYING",
-            "score": 5,
+            "score": 8,
             "pangram": true
         },
         {
             "word": "PIGGING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PINING",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PINION",
-            "score": 3,
-            "pangram": false
-        },
-        {
-            "word": "PINIONING",
             "score": 6,
             "pangram": false
         },
         {
+            "word": "PINION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "PINNING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "PIPING",
-            "score": 3,
+            "score": 6,
             "pangram": false
         },
         {
             "word": "POOPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         },
         {
             "word": "POPPING",
-            "score": 4,
+            "score": 7,
             "pangram": false
         }
     ]

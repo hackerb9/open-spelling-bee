@@ -1,0 +1,156 @@
+{
+    "letters": "PCEIKOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 82,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PICKPOCKET"
+    ],
+    "word_list": [
+        {
+            "word": "COCKPIT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEPT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PICKET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PICKPOCKET",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "PIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POCKET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POETIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TIPTOE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOPIC",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

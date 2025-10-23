@@ -1,0 +1,191 @@
+{
+    "letters": "BACEKNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BREAKNECK"
+    ],
+    "word_list": [
+        {
+            "word": "ABACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BACKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAKER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAREBACK",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BARREN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BARRENER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BRACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAKE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BREAK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BREAKNECK",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "CRAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KERB",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

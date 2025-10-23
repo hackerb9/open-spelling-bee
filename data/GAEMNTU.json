@@ -1,0 +1,171 @@
+{
+    "letters": "GAEMNTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 146,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AUGMENT"
+    ],
+    "word_list": [
+        {
+            "word": "AGENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AUGMENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "ENGAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGEMENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAMUT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAUGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GUNMAN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUNMEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAGENTA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAGNATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAGNET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAGNUM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANAGEMENT",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "MANGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEGATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUGGET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUTMEG",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TEENAGE",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}
