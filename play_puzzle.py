@@ -10,6 +10,7 @@ from textwrap import fill
 import os
 import sys
 import random
+import re
 from dataclasses import dataclass, asdict
 
 @dataclass
@@ -24,6 +25,14 @@ class PlayerState:
     hint_penalty = 0
     hints_given = {}
     lastguess = 'anomia'
+
+
+def splitwords(s, x='!"#$%&''()*+,-./0123456789:;<=>?@[\\]^_` '):
+    '''Split string to array of alphabetic by non-alpha without using regexp'''
+    y=' '*len(x)
+    t=str.maketrans(x,y)
+    return s.translate(t).split()
+
 
 def play(puzzle):
     # "puzzle" is a Puzzle dataclass, see utils.py.
@@ -57,91 +66,92 @@ def play(puzzle):
             command(guess, puzzle, player)
             continue
 
-        player.lastguess = guess       # Save for future ! commands like !ok
-        # Is word easily dismissable?
-        if guess in player.found:
-            print ('You already found:',guess,'\n')
-            continue
-        if len(guess) < puzzle.generation_info.get("min_word_length", 0):
-            print (f'Guessed word is too short. Minimum length: {puzzle.generation_info.get("min_word_length", 0)}\n')
-            continue
-        if any([x for x in guess if x not in puzzle.letters]):
-            print ('Invalid letter(s)','\n')
-            continue
-        if puzzle.letters[0] not in guess:
-            print ('Must include center letter:',puzzle.letters[0],'\n')
-            continue
+        for g in re.findall(r'\w+', guess):
+                player.lastguess = g       # Save for later ! commands
+                # Is word easily dismissable?
+                if g in player.found:
+                    print ('You already found:',g,'\n')
+                    continue
+                if len(g) < puzzle.generation_info.get("min_word_length", 0):
+                    print (f'Guessed word is too short. Minimum length: {puzzle.generation_info.get("min_word_length", 0)}\n')
+                    continue
+                if any([x for x in g if x not in puzzle.letters]):
+                    print ('Invalid letter(s)','\n')
+                    continue
+                if puzzle.letters[0] not in g:
+                    print ('Must include center letter:',puzzle.letters[0],'\n')
+                    continue
 
-        # find index of array for matching word, if any
-        # https://stackoverflow.com/a/4391722/2327328
-        word_index = next((index for (index, d) in enumerate(puzzle.word_list) if d['word'] == guess), None)
+                # find index of array for matching word, if any
+                # https://stackoverflow.com/a/4391722/2327328
+                word_index = next((index for (index, d) in enumerate(puzzle.word_list) if d['word'] == g), None)
 
-        if word_index is None:
-            print (f'Sorry, "{guess}" is not a valid word','\n')
-            continue
+                if word_index is None:
+                    print (f'Sorry, "{g}" is not a valid word','\n')
+                    continue
 
-        else:
-            # word is valid and found
-            player.words += 1
+                else:
+                    # word is valid and found
+                    player.words += 1
 
-            # add good guess to the list, so it can't be reused
-            player.found.append(guess)
+                    # add good guess to the list, so it can't be reused
+                    player.found.append(g)
 
-            word_dict = puzzle.word_list[word_index]
-            word_score = word_dict.get('score')
-            if word_dict.get('word') in puzzle.pangram_list:
-                # pangrams are worth +7 extra
-                word_score += 7
-                player.pangram = True
-                print ('\nPANGRAM!!!')
-                #guess += '*'
+                    word_dict = puzzle.word_list[word_index]
+                    word_score = word_dict.get('score')
+                    if word_dict.get('word') in puzzle.pangram_list:
+                        # pangrams are worth +7 extra
+                        word_score += 7
+                        player.pangram = True
+                        print ('\nPANGRAM!!!')
+                        #g += '*'
 
-            player.score += word_score
+                    player.score += word_score
 
-            print_list = [
-                '✓ '+guess, \
-                f'+{word_score} points', \
-                f'{player.words}/{puzzle.word_count} words', \
-                f'{player.score}/{puzzle.total_score} score', \
-            ]
+                    print_list = [
+                        '✓ '+g, \
+                        f'+{word_score} points', \
+                        f'{player.words}/{puzzle.word_count} words', \
+                        f'{player.score}/{puzzle.total_score} score', \
+                    ]
 
-            if word_dict.get('word') in puzzle.pangram_list:
-                print_list[0] += ' ***'
+                    if word_dict.get('word') in puzzle.pangram_list:
+                        print_list[0] += ' ***'
 
-            # print success and running stats
-            c = len(print_list)
-            w = int(get_terminal_size().columns / c)
-            utils.print_table(print_list, c, w)
-            print()
-
-            word_percent=round(player.words*100.0/puzzle.word_count,1)
-            score_percent=round(player.score*100.0/puzzle.total_score,1)
-            # Did they make it to 50% of words or score?
-            if not player.achievements['50']:
-                if word_percent >= 50 or score_percent >= 50:
-                    player.achievements['50'] = True
-                    print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
-                                width=get_terminal_size().columns) )
+                    # print success and running stats
+                    c = len(print_list)
+                    w = int(get_terminal_size().columns / c)
+                    utils.print_table(print_list, c, w)
                     print()
 
-            # Did they make it to 70% of words or score?
-            if not player.achievements['70']:
-                if word_percent >= 70 or score_percent >= 70:
-                    player.achievements['70'] = True
-                    print( fill("“AMAZING: You've reached 70%! You'll get a bonus at 85%.”" ) )
-                    if player.hints_available>0:
-                        offer_hint(player.hints_used, player.hints_available)
-                    print()
+                    word_percent=round(player.words*100.0/puzzle.word_count,1)
+                    score_percent=round(player.score*100.0/puzzle.total_score,1)
+                    # Did they make it to 50% of words or score?
+                    if not player.achievements['50']:
+                        if word_percent >= 50 or score_percent >= 50:
+                            player.achievements['50'] = True
+                            print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
+                                        width=get_terminal_size().columns) )
+                            print()
 
-            # Did they make it to 85% of words or score?
-            if not player.achievements['85']:
-                if word_percent >= 85 or score_percent >= 85:
-                    player.achievements['85'] = True
-                    print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”', width=get_terminal_size().columns ) )
-                    player.hints_available += 1
-                    print( fill('You get one free hint.' ) )
-                    offer_hint(player.hints_used, player.hints_available)
-                    print()
+                    # Did they make it to 70% of words or score?
+                    if not player.achievements['70']:
+                        if word_percent >= 70 or score_percent >= 70:
+                            player.achievements['70'] = True
+                            print( fill("“AMAZING: You've reached 70%! You'll get a bonus at 85%.”" ) )
+                            if player.hints_available>0:
+                                offer_hint(player.hints_used, player.hints_available)
+                            print()
+
+                    # Did they make it to 85% of words or score?
+                    if not player.achievements['85']:
+                        if word_percent >= 85 or score_percent >= 85:
+                            player.achievements['85'] = True
+                            print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”', width=get_terminal_size().columns ) )
+                            player.hints_available += 1
+                            print( fill('You get one free hint.' ) )
+                            offer_hint(player.hints_used, player.hints_available)
+                            print()
 
         # all words found (somehow this could be possible)
         if player.words == puzzle.word_count:
@@ -203,7 +213,7 @@ def print_status(puzzle, player):
     print (f'''\
     player words: {player.words} / {puzzle.word_count} ({round(player.words*100.0/puzzle.word_count,1)}%)
     player score: {player.score} / {puzzle.total_score} ({round(player.score*100.0/puzzle.total_score,1)}%)
-    hints used: {player.hints_used}, hints available: {player.hints_available}, hint penalty: {2**player.hint_penalty-1}
+    hints used: {player.hints_used}, hint penalty: {2**player.hint_penalty-1}, hints available: {player.hints_available}
     pangram found: {player.pangram}''')
 
     if len(player.found) > 0:
