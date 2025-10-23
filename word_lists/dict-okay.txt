@@ -385,3 +385,6 @@ paean
 oeuvre
 vervet
 verdure
+abattoir
+baccarat
+
