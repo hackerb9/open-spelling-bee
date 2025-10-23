@@ -185,6 +185,7 @@ biotic
 bricabrac			# Hyphenation optional
 bract, bracts
 baobab, baobabs
+boba
 boob, boobs
 carob
 abracadabra
@@ -376,11 +377,11 @@ preorder, preordered
 popeyed
 preop
 preppy
-carob
-boba
 robotic
-baobab, baobabs
 bocci, bocce
 ribbit
 trove, troves
-
+paean
+oeuvre
+vervet
+verdure
