@@ -2,9 +2,11 @@
 
 ### Update scoring to be like NYT
 
-Words five-letters or more are worth as many points as they are long. 4-letter
-words are worth only 1 point. 
+[x] Words five-letters or more are worth as many points as they are
+long. 4-letter words are worth only 1 point.
 
+
+### Update rank to be like NYT
 
 | NYT Rank   | Score | 
 |------------|------:|
@@ -22,9 +24,9 @@ words are worth only 1 point.
 
 ### Consider banning the letter 'S'
 
-NYT never allows puzzles with the letter S in order to prevent
-plurals with one exception: March 12, 2025 `FLOSUAB`
-
+NYT never allows puzzles with the letter S in order to prevent plurals
+with one exception: March 12, 2025 `FLOSUAB`. (We already attempt to
+cut out puzzles that have lots of plurals. See generate_puzzles.py.)
 
 
 ### Deal with too many rejected words
