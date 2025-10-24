@@ -130,7 +130,7 @@ def play(puzzle):
                     if not player.achievements['50']:
                         if word_percent >= 50 or score_percent >= 50:
                             player.achievements['50'] = True
-                            print( fill('“GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
+                            print( fill('“AMAZING: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
                                         width=get_terminal_size().columns) )
                             print()
 
@@ -138,7 +138,7 @@ def play(puzzle):
                     if not player.achievements['70']:
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
-                            print( fill("“AMAZING: You've reached 70%! You'll get a bonus at 85%.”" ) )
+                            print( fill("“GENIUS LEVEL ACHIEVED: You've reached 70%!”" ) )
                             if player.hints_available>0:
                                 offer_hint(player.hints_used, player.hints_available)
                             print()
@@ -207,6 +207,32 @@ def ask_user(prompt='Your guess: '):
     except (EOFError):
         return ""
 
+def ranking(score, maxscore):
+    p = 100 * score / maxscore
+    if p == 100:
+        return "Queen Bee"
+    elif p >= 85:
+        return "Super-Brain"    # Not official NYT, but useful for usa
+    elif p >= 70:
+        return "Genius"
+    elif p >= 50:
+        return "Amazing"
+    elif p >= 40:
+        return "Great"
+    elif p >= 25:
+        return "Nice"
+    elif p >= 15:
+        return "Solid"
+    elif p >= 8:
+        return "Good"
+    elif p >= 5:
+        return "Moving Up"
+    elif p >= 2:
+        return "Good Start"
+    elif p >= 0:
+        return "Beginner"
+    else:
+        return "Uh-oh"
 
 def print_status(puzzle, player):
     width=get_terminal_size().columns
@@ -215,11 +241,10 @@ def print_status(puzzle, player):
     player score: {player.score} / {puzzle.total_score} ({round(player.score*100.0/puzzle.total_score,1)}%)
     hints used: {player.hints_used}, hint penalty: {2**player.hint_penalty-1}, hints available: {player.hints_available}
     pangram found: {player.pangram}''')
-
+    print(f'    ranking: {ranking(player.score, puzzle.total_score)}')
     if len(player.found) > 0:
         print (fill('found: ' + ', '.join(player.found[::-1]), width=width-8,
                     initial_indent=' '*4, subsequent_indent=' '*11))
-
 
 def get_not_found(word_list, player_found):
     a=set( x['word'] for x in word_list )
@@ -350,7 +375,7 @@ def print_instructions():
     The pangram is worth 7 extra points.
                        *** KEYWORD : 4 points + 7 points
 
-    To reach "genius" level, you'll need to solve 50% of the words.
+    To reach "AMAZING" level, you'll need to solve 50% of the words.
     Type "!h" to see game commands.
 
     Have fun!
