@@ -33,7 +33,7 @@ where `R` is the center letter that must be used at least once in each word. If 
 
 The word list used is from [SCOWL](http://wordlist.aspell.net/). The default setting contains 40,000 words, which seems comparable to the New York Times dictionary. (See below on changing the size parameter to include more erudite words.)
 
-To reach "genius" level, you'll need to solve 50% of the words.
+To reach "AMAZING" level, you'll need to solve 50% of the words.
 
 To solve a game (aka cheat-mode):
 
