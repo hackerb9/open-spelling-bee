@@ -168,6 +168,42 @@ Your guess: !h
 
 [Polygon]: https://www.thetimes.com/article/how-to-play-polygon-gw30jlb39h2
 
+--
+
+## Scoring Levels
+
+| Rank       | Score |
+|------------|------:|
+| BEGINNER   |    0% |
+| GOOD START |    2% |
+| MOVING UP  |    5% |
+| GOOD       |    8% |
+| SOLID      |   15% |
+| NICE       |   25% |
+| GREAT      |   40% |
+| AMAZING    |   50% |
+| GENIUS     |   70% |
+| SUPERBRAIN |   85% |
+| QUEEN BEE  |  100% |
+
+Note, the original NYT ranking does not include 85%, but we added it
+because it is a common place for players to bog down.
+
+
+| Percent words or score | Effect                                                  |
+|-----------------------:|---------------------------------------------------------|
+|                     0% |                                                         |
+|                     2% |                                                         |
+|                     5% |                                                         |
+|                     8% |                                                         |
+|                    15% |                                                         |
+|                    25% |                                                         |
+|                    40% |                                                         |
+|                    50% | List of unfound words will be shown upon quitting       |
+|                    70% | (Earned hints become available? -- not implemented yet) |
+|                    85% | One free hint                                           |
+|                   100% | Game Over: You Win!                                     |
+
 
 ## To do
 
