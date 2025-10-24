@@ -1,32 +1,12 @@
 ## To do
 
-### Update scoring to be like NYT
-
-[x] Words five-letters or more are worth as many points as they are
-long. 4-letter words are worth only 1 point.
-
-
-### Update rank to be like NYT
-
-| NYT Rank   | Score | 
-|------------|------:|
-| BEGINNER   |    0% |
-| GOOD START |    2% |
-| MOVING UP  |    5% |
-| GOOD       |    8% |
-| SOLID      |   15% |
-| NICE       |   25% |
-| GREAT      |   40% |
-| AMAZING    |   50% |
-| GENIUS     |   70% |
-| QUEEN BEE  |  100% |
-
-
 ### Consider banning the letter 'S'
 
-NYT never allows puzzles with the letter S in order to prevent plurals
-with one exception: March 12, 2025 `FLOSUAB`. (We already attempt to
-cut out puzzles that have lots of plurals. See generate_puzzles.py.)
+NYT never allows puzzles with the letter S in order to prevent
+plurals. Actually, there was an exception on March 12, 2025 `FLOSUAB`
+and a few others since then. We do not need this restriction since we
+already already attempt to cut out puzzles that have lots of plurals.
+See generate_puzzles.py.a
 
 
 ### Deal with too many rejected words
@@ -83,11 +63,22 @@ We need custom dictionaries, created by everyone who plays the game.
 * [ ] `!ok` should add words to a user dictionary for acceptance, but
       not game creation.
 
-* [x] `!slook` should look up words in SCOWL and show the frequency.
+* [x] `!scowl` should look up words in SCOWL and show the frequency.
 
-* [ ] Give player extra points for words which are not in the
-  generating dictionary but are valid in more recondite sources.
-  (Check user dict, more scowl, TWL, or maybe online dictd).
+* [ ] `!upload` should upload the custom wordlist to github.io so that
+      users can share their dictionaries and our default wordlists
+      will become more sensible over time.
+
+Hackerb9a has noticed that most of the custom words he's adding to
+"dict-okay" are already in scowl.50 or scowl.40. If the game would
+simply accept those word lists, very few words would need to be added
+manually.
+
+* [ ] Give player bonuses for words which are not in the generating
+  dictionary but are valid in more recondite sources. (Check user
+  dict, more scowl, TWL, or maybe even online dictd).
+  
+* [ ] At 70% score, allow players to convert earned bonuses into hints.
 
 * [ ] Super points for a second PANGRAM; volcanic / convivial.
 
@@ -116,13 +107,17 @@ in which more than half of the words end in -ING.
     meanings. (initiation, innovation, intonation, invitation,
     intimation, imitation, annotation, aviation, animation, ...).
 
-  * There are even -ING heavy puzzles that are fun (e.g., `ICGNOTV`, uniq = 0.38).
-
 * [ ] Perhaps what gets players annoyed is when they have to inflect
-      every word: WAGE, WAGED, WAGGLE, WAGGLED, BADGE, BADGED
+      every word: WAGE, WAGED, WAGING, WAGGLE, WAGGLED, WAGGLING, ...
 
-  * [ ] Can we check for that? Is there an easy way to stem a word so
-        we can count the actual number of root words?
+  * [x] generate-puzzles.py: Remove plural (-S) pairs
+
+  * [x] generate-puzzles.py: Remove gerundive (-ING) pairs
+
+  * [ ] generate-puzzles.py: Remove past tense (-ED) pairs
+
+  * [ ] generate-puzzles.py: Count stems and ensure we have a
+        sufficient number: WAGE, WAGED, WAGING == 1 stem. 
 
 ### Place found words to the side of the grid
 
@@ -261,14 +256,17 @@ and correct mistakes.
 
 Cause, why not?
 
-* [x] “GENIUS LEVEL ACHIEVED: You have found 50% of the hidden words! When
+* [ ] “ERUDITION BONUS: We didn't expect people to know that word.
+  You've earned a bonus!”
+
+* [x] “AMAZING LEVEL ACHIEVED: You have found 50% of the hidden words! When
   you quit, any remaining words will be listed.”
+
+* [ ] “GENIUS LEVEL ACHIEVED: You have found 70% of the words. You can
+  now convert your bonus points into hints, if you'd like.
 
 * [x] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
   earned a free HINT. Use '!HINT' when stuck.”
-
-* [ ] “ERUDITION BONUS: We didn't expect people to know that word. You get
-  one free hint. Use !HINT when stuck.”
 
 ### Use "fancy" terminal escape sequences?
 
