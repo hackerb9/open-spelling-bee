@@ -156,9 +156,11 @@ def check_uniqueness(*args):
                         results[puzl_path] = uniqueness(word_list);
                         
         results = dict( sorted(results.items(), key=lambda i: i[1] ))
-        for puzl_path in results:
-                print( f"{results[puzl_path]}\t{puzl_path}" )
-                
+        try:
+                for puzl_path in results:
+                        print( f"{results[puzl_path]}\t{puzl_path}" )
+        except BrokenPipeError:
+                pass
 
 def compare_overlap(f1, f2):
         '''Given two puzzle names, show how much their words overlap.'''
