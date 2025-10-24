@@ -18,6 +18,7 @@ properest
 guying
 phonied
 zincked
+miaow, miaows, miaowed, miaowing
 
 
 # Many common nouns conjugated as less common verbs in SCOWL english-words.35.
