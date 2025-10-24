@@ -395,3 +395,6 @@ ingot, ingots
 plenum
 lumen, lumens
 melee (mêlée)
+winnow, winnows, winnowed, winnowing
+mown
+wino
