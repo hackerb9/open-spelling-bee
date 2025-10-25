@@ -309,7 +309,6 @@ def dict_define(pattern) -> int:
                 pattern = ' '.join(pattern)
 
         cmdline = f'dict "{pattern}" {pipepager}' 
-        print(cmdline)          				# XXX Debugging
         rc = subprocess.run(cmdline, shell=True)
         return rc.returncode
 
