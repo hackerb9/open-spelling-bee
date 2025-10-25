@@ -414,3 +414,5 @@ agee
 egality
 galette
 medic
+decal
+lactate, lactates, lactated
