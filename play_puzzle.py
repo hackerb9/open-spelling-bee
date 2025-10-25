@@ -298,15 +298,13 @@ def get_longest_unfound(word_list, player_found):
 def command(cmd, puzzle, player):
     '''Player gave a !cmd command, so do the action requested'''
     # "!FOO" -> "foo"
-    origcmd = cmd
+    cmdargs = cmd.split()[1:]
     cmd = cmd[1:].lower()
     if cmd == '': cmd = 'h'     # ! by itself shows the game commands
 
     if cmd == 'q' or cmd == 'quit':
         print('Quitting...')
         print_status(puzzle, player)
-
-        # If they got over 50%, then show them the words they missed
         if player.achievements['50']:
             show_not_found(puzzle.word_list, player.found)
         exit(0)
@@ -325,16 +323,10 @@ def command(cmd, puzzle, player):
         print_status(puzzle, player)
     elif cmd == 'hint':
         give_hint(puzzle, player)
-    elif cmd.startswith('slook') or cmd.startswith('scowl'):
-        if len( cmd.split()[1:] ) > 0:
-            utils.scowl_lookup( cmd.split()[1:] )
-        else:
-            utils.scowl_lookup( player.lastguess )
+    elif cmd.startswith('scowl') or cmd.startswith('slook'):
+        utils.scowl_lookup( cmdargs or player.lastguess )
     elif cmd.startswith('dict') or cmd.startswith('wb'):
-        if len( cmd.split()[1:] ) > 0:
-            utils.dict_lookup( origcmd.split()[1:] )
-        else:
-            utils.dict_lookup( player.lastguess )
+        utils.dict_lookup( cmdargs or  player.lastguess )
     else:
         print(f'Unknown command "!{cmd}"')
         print_short_commands()
