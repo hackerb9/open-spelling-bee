@@ -324,7 +324,7 @@ def command(command, puzzle, player):
         print_status(puzzle, player)
     elif cmd == 'hint':
         give_hint(puzzle, player)
-    elif cmd == 'dict' or cmd == 'wb':
+    elif cmd == 'dict' or cmd == 'define' or cmd == 'wb':
         utils.dict_define( cmdargs or player.lastguess )
     elif cmd == 'match' or cmd == 'm':
         utils.match_any( cmdargs or player.lastguess )
