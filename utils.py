@@ -253,6 +253,7 @@ To see possible inflections of a word, append .* like so:
 def scowl_lookup(pattern):
         '''Grep the SCOWL word_lists for ^pattern$
         If a list is given, then each word will be looked up.
+        Allows regular expressions.
 
         NOTA BENE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
         '''
@@ -307,7 +308,7 @@ def dict_define(pattern) -> int:
         if type(pattern) is list:
                 pattern = ' '.join(pattern)
 
-        cmdline = f'dict {pattern} {pipepager}' 
+        cmdline = f'dict "{pattern}" {pipepager}' 
         print(cmdline)          				# XXX Debugging
         rc = subprocess.run(cmdline, shell=True)
         return rc.returncode
@@ -336,8 +337,9 @@ def get_pager() -> str:
         else:
                 return ''
 
-def dict_match(pattern):
+def dict_lookup(pattern, showerrors=True):
         '''Show matching headwords in the dictionary.
+        Allows regular expressions.
         Note: uses the external 'dict' command.
         '''
         if type(pattern) is list:
@@ -346,7 +348,8 @@ def dict_match(pattern):
         dictcmd='dict'
         (rc, output) = subprocess.getstatusoutput(f'type {dictcmd}')
         if rc == 127:
-                print(f'Error: Is the "{dictcmd}" command installed?')
+                if showerrors:
+                        print(f'Error: Is the "{dictcmd}" command installed?')
                 return rc
 
         if type(pattern) is list:
@@ -361,12 +364,20 @@ def dict_match(pattern):
                 cmdline = f'dict -m "{pattern}"'     # Allow correction
                 (rc, output) = subprocess.getstatusoutput(cmdline)
                 if rc == 0:
-                        print(f'No headwords found for "{pattern}", perhaps you mean:')
+                        print(f'Headword "{pattern}" not found in dictionary, '
+                              'perhaps you mean:')
                         print(output)
-                else:
-                        print(f'No headwords found for "{pattern}".')
+                elif showerrors:
+                        print(f'Headword "{pattern}" not found in dictionary.')
                 return rc
 
+
+def match_any(pattern):
+        '''Given a word (or regex), show which wordlists contain it using
+        both SCOWL and the dict command.
+        No error is printed if dict is not available on the system.'''
+        scowl_lookup(pattern)
+        dict_lookup(pattern, showerrors=False)
 
 if __name__ == "__main__":
         if len(sys.argv) <= 1:
@@ -383,11 +394,15 @@ where <cmd> can be one of:
                 compare two files from data/*.json and show how many
                 words they have in common.
 		
-  scowl <word>
-                lookup regex ^word$ in all the SCOWL wordlists (common & rare)
+  dict <word>   define word using the 'dict' command, if installed
 
-  dict <word>
-                lookup word using the 'dict' command, if installed
+  scowl <re>    lookup regex ^re$ in all the SCOWL wordlists. The
+                numeric suffix shows how common the word is in English.
+
+  match <re>    lookup regex ^re$ using dict, shows headword only
+
+  lookup <re>   shows output from both scowl and match
+
 ''')
                 exit(1)
         
@@ -420,9 +435,25 @@ Examples:
 
         elif (args[0] == "dict" or args[0] == "wb"):
                 if len(args) > 1:
+                        dict_define(args[1:])
+                else:
+                        dict_define_usage()
+                        exit(1)
+
+        elif (args[0] == "dict-m"):
+                if len(args) > 1:
                         dict_lookup(args[1:])
                 else:
-                        dict_lookup_usage()
+                        print("Usage: ./utils.py dict-m <word>")
+                        print("Shows matching headwords using dict")
+                        exit(1)
+
+        elif (args[0] == "match" or args[0] == "m"):
+                if len(args) > 1:
+                        match_any(args[1:])
+                else:
+                        print("Usage: ./utils.py match <word>")
+                        print("Shows matching headwords using both SCOWL and dict")
                         exit(1)
 
         else:
