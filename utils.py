@@ -293,7 +293,13 @@ def dict_lookup(pattern):
         NB: uses the external 'dict' command.
         '''
 
-        if 'PAGER' in os.environ:
+        dict='dict'
+        rc = subprocess.getstatusoutput(f'type {dict}')[0]
+        if rc == 127:
+                print(f'Error: Is the "{dict}" command installed?')
+                return
+
+        if 'PAGER' in os.environ and os.environ["PAGER"]:
                 pager=os.environ["PAGER"]
                 if pager.upper() in os.environ:
                         pagerargs="-" + os.environ[pager.upper()]
@@ -303,13 +309,18 @@ def dict_lookup(pattern):
                 pager="less"
                 pagerargs="-MeXiF"
 
+        rc = subprocess.getstatusoutput(f'type {pager}')[0]
+        if rc == 0:
+                pipepager=f'| {pager} {pagerargs}'
+        else:
+                pipepager=''
+
         if type(pattern) is list:
                 pattern = ' '.join(pattern)
 
-        cmdline = f'dict {pattern} | {pager} {pagerargs}' 
+        cmdline = f'dict {pattern} {pipepager}' 
         print(cmdline)
         rc = subprocess.run(cmdline, shell=True)
-
                 
 if __name__ == "__main__":
         if len(sys.argv) <= 1:
