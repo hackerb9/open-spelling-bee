@@ -61,7 +61,7 @@ def play(puzzle):
 
         # user need some help
         if guess in ('', '!redraw'): guess="!g"
-        if guess in ('?', '!?', '!help'): guess="!h"
+        if guess in ('?', '!?'): guess="!h"
         if guess.startswith('!'):
             command(guess, puzzle, player)
             continue
@@ -295,11 +295,11 @@ def get_longest_unfound(word_list, player_found):
     c = sorted(c, key=len)
     return c[-1]
 
-def command(cmd, puzzle, player):
+def command(command, puzzle, player):
     '''Player gave a !cmd command, so do the action requested'''
-    temp = cmd.split()
-    cmd = temp[0].lower()[1:]    # "!FOO" -> "foo"
-    cmdargs = temp[1:]
+    command = command.split()
+    cmd = command[0].lower()[1:]    # "!FOO" -> "foo"
+    cmdargs = command[1:]
 
     if cmd == '': cmd = 'h'     # ! by itself shows the game commands
 
@@ -324,12 +324,12 @@ def command(cmd, puzzle, player):
         print_status(puzzle, player)
     elif cmd == 'hint':
         give_hint(puzzle, player)
-    elif cmd == 'scowl' or cmd == 'slook':
-        utils.scowl_lookup( cmdargs or player.lastguess )
     elif cmd == 'dict' or cmd == 'wb':
         utils.dict_define( cmdargs or player.lastguess )
     elif cmd == 'match' or cmd == 'm':
-        utils.dict_match( cmdargs or player.lastguess )
+        utils.match_any( cmdargs or player.lastguess )
+    elif cmd == 'scowl' or cmd == 'slook':
+        utils.scowl_lookup( cmdargs or player.lastguess )
     else:
         print(f'Unknown command "!{cmd}"')
         print_short_commands()
@@ -345,8 +345,8 @@ def print_full_commands():
     print('''\
 Extended commands
     !hint             : Request a hint.
-    !scowl  [word...] : Look up words (regex) in SCOWL word lists.
-    !dict   [word...] : Look up words in dictionary (if available).
+    !dict   [word]    : Define word in dictionary (if available).
+    !match  [word]    : Check for headword (regex) in SCOWL and dict.
     !ok     [word...] : Accept this word in the future as a bonus word.
     !add    [word...] : Add to the wordlist used to generate new puzzles.
     !remove [word...] : Remove from wordlist when generating puzzles.
