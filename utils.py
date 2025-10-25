@@ -12,6 +12,7 @@ import glob
 import sys
 import gzip
 import re
+import subprocess
 from dataclasses import dataclass, asdict
 
 
@@ -230,6 +231,102 @@ def scowl_sort(fullpath):
         return (ext, name)
 
 
+def scowl_lookup_usage():
+        print('''Usage: ./utils.py scowl <pattern>
+
+Shows words matching the exact word (regular expression ^pattern$) and
+which wordlist file it was found in. The number at the end of the
+filename is an indication of how common SCOWL thinks the word is. This
+is useful to see why a word is getting rejected. The default threshold
+for generating puzzles is <=35, so english-words.35 is used but
+english-words.40 is not.
+
+To see possible inflections of a word, append .* like so:
+
+    $ ./utils.py scowl alfalfa.*
+    word_lists/scowl/english-words.40: alfalfa
+    word_lists/scowl/english-words.80: alfalfas
+
+''')
+
+
+def scowl_lookup(pattern):
+        '''Grep the SCOWL word_lists for ^pattern$
+
+        NOTA BENE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
+        '''
+
+        if type(pattern) is not list:
+                pattern = [ pattern ]
+
+        for p in pattern:
+                regex=re.compile(fr'^{p}$', flags=re.IGNORECASE|re.MULTILINE)
+                for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
+                        with open(f, 'r', encoding='ISO-8859-1') as fp:
+                                output=re.findall(regex, fp.read())
+                                for w in output:
+                                        try:
+                                                print(f'{f}: {w}')
+                                        except BrokenPipeError:
+                                                sys.stdout = None
+
+def scowl_sort(fullpath):
+        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
+        name, ext = os.path.splitext(fullpath)
+        try:
+                ext = int(ext[1:])
+        except ValueError:
+                ext = 999
+
+        return (ext, name)
+
+
+def dict_lookup_usage():
+        print('''\
+Usage: ./utils.py dict <word>
+Looks up definitions for <word> in the dictionary, where <word> is a regex.
+''')
+
+
+def dict_lookup(pattern):
+        '''Look up the definition of pattern in the dictionary.
+        NB: uses the external 'dict' command.
+        '''
+
+        if 'PAGER' in os.environ:
+                pager=os.environ["PAGER"]
+                if pager.upper() in os.environ:
+                        pagerargs="-" + os.environ[pager.upper()]
+                else:
+                        pagerargs=""
+        else:
+                pager="less"
+                pagerargs="-MeXiF"
+
+        if type(pattern) is not list:
+                pattern = [ pattern ]
+
+        print (['dict', *pattern, '|', pager, *pagerargs ])
+
+        rc = subprocess.run(['dict', *pattern, '|', pager, *pagerargs ],
+                            shell=True)
+
+        p = ' '.join(pattern)
+        rc = subprocess.run([f'dict {p} | {pager} {pagerargs}' ],
+                            shell=True)
+
+
+def scowl_sort(fullpath):
+        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
+        name, ext = os.path.splitext(fullpath)
+        try:
+                ext = int(ext[1:])
+        except ValueError:
+                ext = 999
+
+        return (ext, name)
+
+
                 
 if __name__ == "__main__":
         if len(sys.argv) <= 1:
@@ -276,6 +373,13 @@ Examples:
                         scowl_lookup(args[1:])
                 else:
                         scowl_lookup_usage()
+                        exit(1)
+
+        elif (args[0] == "dict" or args[0] == "wb"):
+                if len(args) > 1:
+                        dict_lookup(args[1:])
+                else:
+                        dict_lookup_usage()
                         exit(1)
 
         else:
