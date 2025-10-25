@@ -281,7 +281,7 @@ enhanced a bit by
 
 ### Dictionary
 
-* [ ] Add !w to look up a word in a dictionary, if dict is installed.
+* [x] Add !wb to look up a word in a dictionary, if dict is installed.
 
 ### Are Döppelgangers a problem?
 
