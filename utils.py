@@ -284,9 +284,9 @@ def scowl_sort(fullpath):
 def dict_lookup_usage():
         print('''\
 Usage: ./utils.py dict <word>
-Looks up definitions for <word> in the dictionary, where <word> is a regex.
+Looks up definitions for <word> in the dictionary.
+(Runs `dict` as a subprocess.)
 ''')
-
 
 def dict_lookup(pattern):
         '''Look up the definition of pattern in the dictionary.
@@ -316,16 +316,6 @@ def dict_lookup(pattern):
                             shell=True)
 
 
-def scowl_sort(fullpath):
-        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
-        name, ext = os.path.splitext(fullpath)
-        try:
-                ext = int(ext[1:])
-        except ValueError:
-                ext = 999
-
-        return (ext, name)
-
 
                 
 if __name__ == "__main__":
@@ -345,6 +335,9 @@ where <cmd> can be one of:
 		
   scowl <word>
                 lookup regex ^word$ in all the SCOWL wordlists (common & rare)
+
+  dict <word>
+                lookup word using the 'dict' command, if installed
 ''')
                 exit(1)
         
