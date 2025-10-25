@@ -68,6 +68,8 @@ def play(puzzle):
 
         for g in re.findall(r'\w+', guess):
                 player.lastguess = g       # Save for later ! commands
+                g=g.upper()
+
                 # Is word easily dismissable?
                 if g in player.found:
                     print ('You already found:',g,'\n')
@@ -199,7 +201,7 @@ def draw_letters_honeycomb(game_letters):
 def ask_user(prompt='Your guess: '):
     try:
         text = input(prompt)
-        text = text.strip().upper()
+        text = text.strip()
         return text
     except (KeyboardInterrupt):
         print("Exiting...")
@@ -256,7 +258,7 @@ def show_not_found(word_list, player_found):
     c = get_not_found(word_list, player_found)
     if len(c) > 0:
         width=get_terminal_size().columns
-        print( fill('not found: ' +', '.join(c), subsequent_indent=' '*11 , width=width))
+        print( fill('not found: ' + ', '.join(c), subsequent_indent=' '*11 , width=width))
 
 def offer_hint(used, available):
     width=get_terminal_size().columns
@@ -293,13 +295,14 @@ def get_longest_unfound(word_list, player_found):
     c = sorted(c, key=len)
     return c[-1]
 
-def command(msg, puzzle, player):
-    '''Player gave a !msg command, so do the action requested'''
+def command(cmd, puzzle, player):
+    '''Player gave a !cmd command, so do the action requested'''
     # "!FOO" -> "foo"
-    msg = msg[1:].lower()
-    if msg == '': msg = 'h'     # ! by itself shows the game commands
+    origcmd = cmd
+    cmd = cmd[1:].lower()
+    if cmd == '': cmd = 'h'     # ! by itself shows the game commands
 
-    if msg == 'q' or msg == 'quit':
+    if cmd == 'q' or cmd == 'quit':
         print('Quitting...')
         print_status(puzzle, player)
 
@@ -307,28 +310,33 @@ def command(msg, puzzle, player):
         if player.achievements['50']:
             show_not_found(puzzle.word_list, player.found)
         exit(0)
-    elif msg == 'h':
+    elif cmd == 'h':
         print_short_commands()
-    elif msg == 'help':
+    elif cmd == 'help':
         print_full_commands()
-    elif msg == 'i':
+    elif cmd == 'i':
         print_instructions()
-    elif msg == 'g':
+    elif cmd == 'g':
         print(draw_letters_honeycomb(puzzle.letters))
-    elif msg == 'f':
+    elif cmd == 'f':
         puzzle.letters = shuffle_letters(puzzle.letters)
         print(draw_letters_honeycomb(puzzle.letters))
-    elif msg == 's':
+    elif cmd == 's':
         print_status(puzzle, player)
-    elif msg == 'hint':
+    elif cmd == 'hint':
         give_hint(puzzle, player)
-    elif msg.startswith('slook') or msg.startswith('scowl'):
-        if len( msg.split()[1:] ) > 0:
-            utils.scowl_lookup( msg.split()[1:] )
+    elif cmd.startswith('slook') or cmd.startswith('scowl'):
+        if len( cmd.split()[1:] ) > 0:
+            utils.scowl_lookup( cmd.split()[1:] )
         else:
             utils.scowl_lookup( player.lastguess )
+    elif cmd.startswith('dict') or cmd.startswith('wb'):
+        if len( cmd.split()[1:] ) > 0:
+            utils.dict_lookup( origcmd.split()[1:] )
+        else:
+            utils.dict_lookup( player.lastguess )
     else:
-        print(f'Unknown command "!{msg}"')
+        print(f'Unknown command "!{cmd}"')
         print_short_commands()
     return
 
@@ -343,7 +351,7 @@ def print_full_commands():
 Extended commands
     !hint             : Request a hint.
     !scowl  [word...] : Look up words (regex) in SCOWL word lists.
-    !dict   [word...] : Look up words in dictionary (requires dict).
+    !dict   [word...] : Look up words in dictionary (if available).
     !ok     [word...] : Accept this word in the future as a bonus word.
     !add    [word...] : Add to the wordlist used to generate new puzzles.
     !remove [word...] : Remove from wordlist when generating puzzles.
