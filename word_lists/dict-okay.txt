@@ -330,7 +330,7 @@ viand, viands
 cruddy, cruddier, cruddiest
 inure, inured
 okay
-pupa, pupae
+pupa, pupae, pupate
 rapper, rappers
 rupee, rupees
 quipu
@@ -418,3 +418,10 @@ decal
 lactate, lactates, lactated
 opined, opining
 epicene
+contaminant
+mica
+monotonic
+burpee, burpees
+tuber, tubers
+rube, rubes
+urea
