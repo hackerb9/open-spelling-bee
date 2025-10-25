@@ -303,19 +303,12 @@ def dict_lookup(pattern):
                 pager="less"
                 pagerargs="-MeXiF"
 
-        if type(pattern) is not list:
-                pattern = [ pattern ]
+        if type(pattern) is list:
+                pattern = ' '.join(pattern)
 
-        print (['dict', *pattern, '|', pager, *pagerargs ])
-
-        rc = subprocess.run(['dict', *pattern, '|', pager, *pagerargs ],
-                            shell=True)
-
-        p = ' '.join(pattern)
-        rc = subprocess.run([f'dict {p} | {pager} {pagerargs}' ],
-                            shell=True)
-
-
+        cmdline = f'dict {pattern} | {pager} {pagerargs}' 
+        print(cmdline)
+        rc = subprocess.run(cmdline, shell=True)
 
                 
 if __name__ == "__main__":
