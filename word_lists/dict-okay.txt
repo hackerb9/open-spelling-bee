@@ -416,3 +416,4 @@ galette
 medic
 decal
 lactate, lactates, lactated
+opined, opining
