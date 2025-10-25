@@ -417,3 +417,4 @@ medic
 decal
 lactate, lactates, lactated
 opined, opining
+epicene
