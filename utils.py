@@ -252,6 +252,7 @@ To see possible inflections of a word, append .* like so:
 
 def scowl_lookup(pattern):
         '''Grep the SCOWL word_lists for ^pattern$
+        If a list is given, then each word will be looked up.
 
         NOTA BENE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
         '''
@@ -281,47 +282,92 @@ def scowl_sort(fullpath):
         return (ext, name)
 
 
-def dict_lookup_usage():
+def dict_define_usage():
         print('''\
 Usage: ./utils.py dict <word>
 Looks up definitions for <word> in the dictionary.
 (Runs `dict` as a subprocess.)
 ''')
 
-def dict_lookup(pattern):
+def dict_define(pattern) -> int:
         '''Look up the definition of pattern in the dictionary.
-        NB: uses the external 'dict' command.
+        Note: uses the external 'dict' command.
         '''
 
-        dict='dict'
-        rc = subprocess.getstatusoutput(f'type {dict}')[0]
+        dictcmd='dict'
+        (rc, dummy) = subprocess.getstatusoutput(f'type {dictcmd}')
         if rc == 127:
-                print(f'Error: Is the "{dict}" command installed?')
-                return
+                print(f'Error: Is the "{dictcmd}" command installed?')
+                return rc
 
-        if 'PAGER' in os.environ and os.environ["PAGER"]:
-                pager=os.environ["PAGER"]
-                if pager.upper() in os.environ:
-                        pagerargs="-" + os.environ[pager.upper()]
-                else:
-                        pagerargs=""
-        else:
-                pager="less"
-                pagerargs="-MeXiF"
-
-        rc = subprocess.getstatusoutput(f'type {pager}')[0]
-        if rc == 0:
-                pipepager=f'| {pager} {pagerargs}'
-        else:
-                pipepager=''
+        pipepager = get_pager()
+        if pipepager:
+                pipepager = '|' + pipepager
 
         if type(pattern) is list:
                 pattern = ' '.join(pattern)
 
         cmdline = f'dict {pattern} {pipepager}' 
-        print(cmdline)
+        print(cmdline)          				# XXX Debugging
         rc = subprocess.run(cmdline, shell=True)
-                
+        return rc.returncode
+
+def get_pager() -> str:
+        '''Look up the PAGER environment variable and return it.
+        Defaults to "less" + options.'''
+
+        if 'PAGER' in os.environ and os.environ["PAGER"]:
+                pager=os.environ["PAGER"]
+        else:
+                pager="less"
+
+        pagerargs=""
+        if pager == "less":
+                pagerargs+='--prompt="M(Press space for more; q to quit; / to search.)" '
+                pagerargs+='--no-init ' # Do not clear screen
+                pagerargs+='-R '        # Show raw ANSI color sequences
+                pagerargs+='-i '        # Search case insensitively
+                pagerargs+='-F '        # No pager if def'n fits on screen.
+                pagerargs+='-e '        # Exit on space at the end.
+
+        (rc, dummy) = subprocess.getstatusoutput(f'type {pager}')
+        if rc == 0:
+                return f'{pager} {pagerargs}'
+        else:
+                return ''
+
+def dict_match(pattern):
+        '''Show matching headwords in the dictionary.
+        Note: uses the external 'dict' command.
+        '''
+        if type(pattern) is list:
+                pattern = ' '.join(pattern)
+
+        dictcmd='dict'
+        (rc, output) = subprocess.getstatusoutput(f'type {dictcmd}')
+        if rc == 127:
+                print(f'Error: Is the "{dictcmd}" command installed?')
+                return rc
+
+        if type(pattern) is list:
+                pattern = ' '.join(pattern)
+
+        cmdline = f'dict -m -s re "^{pattern}$"'     # Exact, but allow regex
+        (rc, output) = subprocess.getstatusoutput(cmdline)
+        if rc == 0:
+                print(output)
+                return 0
+        else:
+                cmdline = f'dict -m "{pattern}"'     # Allow correction
+                (rc, output) = subprocess.getstatusoutput(cmdline)
+                if rc == 0:
+                        print(f'No headwords found for "{pattern}", perhaps you mean:')
+                        print(output)
+                else:
+                        print(f'No headwords found for "{pattern}".')
+                return rc
+
+
 if __name__ == "__main__":
         if len(sys.argv) <= 1:
                 print(f'''\
