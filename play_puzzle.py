@@ -24,6 +24,7 @@ class PlayerState:
     hints_used = 0
     hint_penalty = 0
     hints_given = {}
+    last_hint = ""
     lastguess = 'anomia'
 
 
@@ -119,6 +120,9 @@ def play(puzzle):
 
                     if word_dict.get('word') in puzzle.pangram_list:
                         print_list[0] += ' ***'
+
+                    if word_dict.get('word') in player.hints_given:
+                        player.last_hint=""
 
                     # print success and running stats
                     c = len(print_list)
@@ -238,15 +242,21 @@ def ranking(score, maxscore):
 
 def print_status(puzzle, player):
     width=get_terminal_size().columns
-    print (f'''\
-    player words: {player.words} / {puzzle.word_count} ({round(player.words*100.0/puzzle.word_count,1)}%)
-    player score: {player.score} / {puzzle.total_score} ({round(player.score*100.0/puzzle.total_score,1)}%)
-    hints used: {player.hints_used}, hint penalty: {2**player.hint_penalty-1}, hints available: {player.hints_available}
-    pangram found: {player.pangram}''')
-    print(f'    ranking: {ranking(player.score, puzzle.total_score)}')
+    temp=(f'score: {player.score:>3} / {puzzle.total_score:>3} ({round(player.score*100.0/puzzle.total_score,1):>5.1f}%)',
+          f'{ranking(player.score, puzzle.total_score).upper():>3}')
+    utils.print_table( temp, 2, 33 )
+    temp = ( f'words: {player.words:>3} / {puzzle.word_count:>3} ({round(player.words*100.0/puzzle.word_count,1):>5.1f}%)',
+             f'pangram found: {player.pangram}')
+    utils.print_table( temp, 2, 33 )
+    temp = ( f'hints used: {player.hints_used}',
+             f'hints available: {player.hints_available}' )
+    utils.print_table( temp, 2, 33 )
+    if player.last_hint:
+        print(f'last hint: {player.last_hint}')
     if len(player.found) > 0:
         print (fill('found: ' + ', '.join(player.found[::-1]), width=width-8,
                     initial_indent=' '*4, subsequent_indent=' '*11))
+    print()
 
 def get_not_found(word_list, player_found):
     a=set( x['word'] for x in word_list )
@@ -269,7 +279,7 @@ def give_hint(puzzle, player):
     '''Show a hint by revealing a letter of the longest unfound word.'''
     if (player.hints_available <= 0):
         reply=ask_user("It'll cost you. Are you sure? ")
-        if len(reply)==0 or reply[0] != 'Y':
+        if len(reply)==0 or reply[0].upper() != 'Y':
             print()
             return
         player.hint_penalty += 1
@@ -287,7 +297,8 @@ def give_hint(puzzle, player):
     player.hints_given[word] += 1
     x=player.hints_given[word]
     y=len(word) - player.hints_given[word]
-    print( word[0:x] + '_'*y, len(word), 'letters' )
+    player.last_hint = word[0:x] + '_'*y + f' ({str(len(word))} letters)'
+    print( player.last_hint )
     print()
 
 def get_longest_unfound(word_list, player_found):
