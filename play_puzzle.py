@@ -22,7 +22,7 @@ class PlayerState:
     achievements =  { '50': False, '70': False, '85': False }
     hints_available = 0
     hints_used = 0
-    hint_penalty = 0
+    hint_penalty = 1
     hints_given = {}
     last_hint = ""
     lastguess = 'anomia'
@@ -137,14 +137,17 @@ def play(puzzle):
                         if word_percent >= 50 or score_percent >= 50:
                             player.achievements['50'] = True
                             print( fill('“AMAZING: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
-                                        width=get_terminal_size().columns) )
+                                        initial_indent=' '*4,
+                                        width=get_terminal_size().columns-8) )
                             print()
 
                     # Did they make it to 70% of words or score?
                     if not player.achievements['70']:
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
-                            print( fill("“GENIUS LEVEL ACHIEVED: You've reached 70%!”" ) )
+                            print( fill("“GENIUS LEVEL ACHIEVED: You've reached 70%!”",
+                                        initial_indent=' '*4,
+                                        width=get_terminal_size().columns-8) )
                             if player.hints_available>0:
                                 offer_hint(player.hints_used, player.hints_available)
                             print()
@@ -153,7 +156,9 @@ def play(puzzle):
                     if not player.achievements['85']:
                         if word_percent >= 85 or score_percent >= 85:
                             player.achievements['85'] = True
-                            print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”', width=get_terminal_size().columns ) )
+                            print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”',
+                                        initial_indent=' '*4,
+                                        width=get_terminal_size().columns-8) )
                             player.hints_available += 1
                             offer_hint(player.hints_used, player.hints_available)
                             print()
@@ -270,30 +275,33 @@ def show_not_found(word_list, player_found):
         print( fill('not found: ' + ', '.join(c), subsequent_indent=' '*11 , width=width))
 
 def offer_hint(used, available):
-    width=get_terminal_size().columns
     free_hints=f'{available} free hint{"s" if available!=1 else ""}'
-    print( fill(f'You have {free_hints}. {"Use !hint." if available>0 else ""}', width=width))
+    print( fill(f'You have {free_hints}. {"Use !hint." if available else ""}',
+                initial_indent=' '*4,
+                width=get_terminal_size().columns-8))
 
 def give_hint(puzzle, player):
     '''Show a hint by revealing a letter of the longest unfound word.'''
+    word = get_longest_unfound(puzzle.word_list, player.found)
+    if word in player.hints_given and player.hints_given[word] == len(word):
+        print(player.last_hint)
+        print()
+        return
     if (player.hints_available <= 0):
-        reply=ask_user("It'll cost you. Are you sure? ")
+        cost = 2**player.hint_penalty - 1
+        reply = ask_user(f"It'll cost you {cost} point{s(cost)}. Are you sure? ")
         if len(reply)==0 or reply[0].upper() != 'Y':
             print()
             return
+        player.score -= cost
         player.hint_penalty += 1
-        player.score -= 2**player.hint_penalty-1
     else:
         player.hints_available -= 1
     player.hints_used += 1
-    word = get_longest_unfound(puzzle.word_list, player.found)
     if not word in player.hints_given:
         player.hints_given[word] = 0
-    if player.hints_given[word] >= len(word):
-        print(word)             # Humph. Need we say more?
-        print()
-        return
-    player.hints_given[word] += 1
+    if player.hints_given[word] < len(word):
+        player.hints_given[word] += 1
     x=player.hints_given[word]
     y=len(word) - player.hints_given[word]
     player.last_hint = word[0:x] + '_'*y + f' ({str(len(word))} letters)'
@@ -305,6 +313,10 @@ def get_longest_unfound(word_list, player_found):
     c = sorted(c, key=len)
     return c[-1]
 
+def s(n:int) -> str:
+    '''An "s" for plural numbers, e.g., "3 points"'''
+    return "" if n == 1 else "s"
+    
 def command(command, puzzle, player):
     '''Player gave a !cmd command, so do the action requested'''
     command = command.split()
