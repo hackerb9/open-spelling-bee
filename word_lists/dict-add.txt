@@ -2,18 +2,22 @@
 # puzzles even though they aren't listed in SCOWL's top 35% of English.
 # See also: scowl/english-words.35
 
+# Note: adding a word with seven different letters may prevent any
+# puzzles from being created with those letters. For example,
+# english-words.35 already has CUNNINGLY which can be used as a
+# pangram to create puzzles. If we added UNICYCLING, there would be
+# two possible solutions, so generate_puzzles.py would reject both.
+
 geek, geeks
 debacle
 macaroon, macaroons
-melee, melees
+melee (mêlée) melees
 deice, deiced, deicing
 impala, impalas
-medic, medics
 nanny, nannies
 falafel
 alfalfa
 linguini
-unicycling
 tarot
 rotator
 aurora
@@ -25,17 +29,12 @@ mage, mages
 manatee, manatees
 ocarina, ocarinas
 peppery
-cyan
-umber
-sienna
-ochre
-ecru
-teal
+cyan, umber, sienna, ochre, ecru, teal
 recruiter
 cognition
 pallet, pallets
 latte, lattes
-elate
+elate, elated
 arugula
 agate, agates
 piper, pipers
