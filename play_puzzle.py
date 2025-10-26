@@ -283,7 +283,7 @@ def offer_hint(used, available):
 def give_hint(puzzle, player):
     '''Show a hint by revealing a letter of the longest unfound word.'''
     word = get_longest_unfound(puzzle.word_list, player.found)
-    if word in player.hints_given and player.hints_given[word] == len(word):
+    if player.hints_given.get(word, 0) == len(word):
         print(player.last_hint)
         print()
         return
