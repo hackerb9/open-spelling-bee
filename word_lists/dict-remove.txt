@@ -15,11 +15,12 @@ mes
 verier
 properer
 properest
-guying
+guying, guyed
 zincked
 miaow, miaows, miaowed, miaowing
 alga
 callable
+blacked
 
 
 # Many common nouns conjugated as less common verbs in SCOWL english-words.35.
