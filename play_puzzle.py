@@ -155,7 +155,6 @@ def play(puzzle):
                             player.achievements['85'] = True
                             print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”', width=get_terminal_size().columns ) )
                             player.hints_available += 1
-                            print( fill('You get one free hint.' ) )
                             offer_hint(player.hints_used, player.hints_available)
                             print()
 
@@ -272,8 +271,8 @@ def show_not_found(word_list, player_found):
 
 def offer_hint(used, available):
     width=get_terminal_size().columns
-    used_hints=f'{used} hint{"s" if used!=1 else ""}'
-    print( fill(f'You have used {used_hints} and have {available} remaining. {"Use !hint to get a hint." if available>0 else ""}', width=width))
+    free_hints=f'{available} free hint{"s" if available!=1 else ""}'
+    print( fill(f'You have {free_hints}. {"Use !hint." if available>0 else ""}', width=width))
 
 def give_hint(puzzle, player):
     '''Show a hint by revealing a letter of the longest unfound word.'''
