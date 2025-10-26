@@ -310,7 +310,7 @@ imperium
 impeller
 titan
 avian
-tannin
+tannin, tannic
 anatto
 natto
 viand, viands
@@ -419,3 +419,7 @@ dace
 cadre
 meld
 midfield
+tantric
+cairn
+riff
+tactician
