@@ -401,7 +401,7 @@ epicene
 contaminant
 mica
 monotonic
-burpee, burpees
+burpees
 tuber, tubers
 rube, rubes
 urea
@@ -423,3 +423,6 @@ tantric
 cairn
 riff
 tactician
+tiffin, tiffins
+incant, incants, incanting, incanted
+
