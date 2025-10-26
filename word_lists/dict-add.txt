@@ -2,11 +2,21 @@
 # puzzles even though they aren't listed in SCOWL's top 35% of English.
 # See also: scowl/english-words.35
 
-# Note: adding a word with seven different letters may prevent any
+# Note 1: Be careful editing this file. If a word is added, it is
+# important to allow exactly the _common_ forms of a word, no more, no
+# less. If some common forms are allowed and not others the player
+# will be annoyed by the inconsistency. If too many inflections are
+# accepted, players will be annoyed that the required words contain
+# obscure forms. ("alfalfa", yes; "alfalfas", no. "burpee", no;
+# "burpees", yes). If you're not sure, you can always put the word in
+# dict-okay.txt
+
+# Note 2: Adding a word with seven different letters may prevent any
 # puzzles from being created with those letters. For example,
 # english-words.35 already has CUNNINGLY which can be used as a
 # pangram to create puzzles. If we added UNICYCLING, there would be
 # two possible solutions, so generate_puzzles.py would reject both.
+
 
 geek, geeks
 debacle
