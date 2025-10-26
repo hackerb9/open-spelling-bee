@@ -85,16 +85,18 @@ Each word must include the center letter at least once.
 
 Letters may be used as many times as you'd like and in any order.
 
-Scoring: 1 point for a 4 letter word, and 1 more point for each additional letter.
+Scoring: 1 point for a 4 letter word, longer words score as many
+points as they have letters.
 
                 Example:      WORD : 1 point
-                             WORDY : 2 points
-                            WORKED : 3 points
-                          WOODWORK : 5 points
+                             WORDY : 5 points
+                            WORKED : 6 points
+                          WOODWORK : 8 points
 
-Each puzzle has 1 "pangram" that uses each of the 7 letters at least once. The pangram is worth 7 extra points.
+Each puzzle has 1 "pangram" that uses each of the 7 letters at least once.
+The pangram is worth 7 extra points.
 
-                       *** KEYWORD : 4 points + 7 points
+                       *** KEYWORD : 7 points + 7 points
 
 
 ## example play
@@ -132,7 +134,7 @@ Your guess: GROG
 ✓ GROG                word score = 1        words found = 1/37    total score = 1/88    
 
 Your guess: GODHOOD
-✓ GODHOOD             word score = 4        words found = 2/37    total score = 5/88    
+✓ GODHOOD             word score = 7        words found = 2/37    total score = 8/88    
 ```
 
 Use the following commands for more details:
@@ -162,7 +164,8 @@ Your guess: !h
 + Historic: 
   * [ ] on or before 2004 November 1 (The Times of London, [Polygon][Polygon])
   * [ ] 2014 (Will Shortz proposes Spelling Bee based on Polygon)
-  * 2015 February 22 `PADEQUR` (Frank Longo publishes first print Spelling Bee in NYT Magazine)
+  * 2015 February 22 `PADEQUR` (Frank Longo publishes first print
+    Spelling Bee in NYT Magazine) -- minimum length is 5 letters.
   * 2018 May 9: `WAHORTY` May 9, 2018 (Sam Von Ehren releases first digital NYT Spelling Bee online)
   * 2025 March 12: `FLOSUAB` (Sam Ezersky creates first NYT Spelling Bee to include the letter `S`)
 
