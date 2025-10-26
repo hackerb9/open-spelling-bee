@@ -4,6 +4,7 @@
 # Some word pairs dance with hyphenation, joining and unjoining.
 # For this file, we'll be liberal and accept "pompoms", "deepfried", etc.
 
+unicycling
 challah
 anionic
 conic
@@ -19,7 +20,6 @@ monomaniac, monomaniacs
 fecund
 cairn
 corona
-aurora
 ricin
 niacin
 norn, norns
@@ -28,17 +28,14 @@ carcinoma
 arnica
 mutagen, mutagens
 gamete, gametes
-munge
 kludge, kludges
 meme, memes
 magma
 manga
 attunement
 nutmeat, nutmeats
-menage
 metagame
-numen
-emanant
+numen, numinous
 yore
 yecch, yecchy
 phooey
@@ -46,8 +43,6 @@ hooey
 peeper, peepers
 cohere
 creche
-cypher
-cruet, cruets
 crier
 trice
 ricer
@@ -55,10 +50,8 @@ retiree, retirees
 eruct
 quire, quires
 titre, titer
-requite
-critter, critters
+requite, requital, requitals, requited
 curie, curies
-recruiter
 ricture, rictus
 intoning
 conniving
@@ -121,7 +114,6 @@ incel, incels
 enlace, enlaces, enlaced
 elan
 tattletale, tattletales		# Hyphenation optional
-plat
 phthalate, phthalates
 telehealth
 applet, cotlet, applets, cotlets
@@ -151,7 +143,7 @@ vegetive, vegetate
 avers, aver, averred
 variegated, variegate
 veggie, veggies
-vitiate, vitiates
+vitiate, vitiates, vitiating, vitiated, vitiation
 cilia
 rill, rills
 tapir, tapirs
@@ -166,7 +158,6 @@ piratical
 acacia
 licit
 apical
-verdure
 curcumin
 ermine
 murine
@@ -180,7 +171,6 @@ renice
 rime
 uric
 runic
-robotic
 biotic
 bricabrac			# Hyphenation optional
 bract, bracts
@@ -242,7 +232,6 @@ pullup
 peeler
 pullulate
 puerile
-rupee, rupees
 deckled, deckle
 elide, elided
 lipids, lipid
@@ -304,7 +293,7 @@ mung, mungbean
 munge, munges, munging
 modded, modding
 hotrod, hotrodding, hotrods
-opine, opined, opines
+opine, opined, opines, opining
 denizen, denizens
 torpor
 pinup, pinups
@@ -322,10 +311,8 @@ impeller
 titan
 avian
 tannin
-vitiation, vitiate, vitiated, vitiates, vitiating
 anatto
 natto
-anomia
 viand, viands
 cruddy, cruddier, cruddiest
 inure, inured
@@ -368,7 +355,6 @@ inline
 infill
 lignin
 droopy
-peppery
 weepy
 derpy
 dropper
@@ -381,7 +367,6 @@ robotic
 bocci, bocce
 ribbit
 trove, troves
-paean
 oeuvre
 vervet
 verdure
@@ -391,10 +376,8 @@ meaty
 tamp
 maenad
 spam, spammy
-ingot, ingots
 plenum
 lumen, lumens
-melee (mêlée)
 winnow, winnows, winnowed, winnowing
 mown
 wino
@@ -406,17 +389,14 @@ litigate
 algal
 laggy
 liege
-gaggle
 giggly
 tillage
-agate
 agee
 egality
 galette
-medic
+medic, medics
 decal
 lactate, lactates, lactated
-opined, opining
 epicene
 contaminant
 mica
@@ -425,7 +405,6 @@ burpee, burpees
 tuber, tubers
 rube, rubes
 urea
-lariat
 attar
 ambergris
 rattan
@@ -434,4 +413,5 @@ tarnation
 morel
 bilk
 codpiece
-
+cheddar
+whorl
