@@ -281,7 +281,10 @@ enhanced a bit by
 
 ### Dictionary
 
-* [x] Add !wb to look up a word in a dictionary, if dict is installed.
+* [x] Add !dict to define a word in a dictionary, if dict is installed.
+
+* [x] Add !match to look up the headword in a dictionary, using both
+      SCOWL and dict.
 
 ### Are Döppelgangers a problem?
 
