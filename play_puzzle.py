@@ -133,7 +133,8 @@ def play(puzzle):
                         if word_percent >= 50 or score_percent >= 50:
                             player.achievements['50'] = True
                             print( fill('“AMAZING: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
-                                        initial_indent=' '*4,
+                                        initial_indent=' '*3,
+                                        subsequent_indent=' '*4,
                                         width=get_terminal_size().columns-8) )
                             print()
 
@@ -142,7 +143,8 @@ def play(puzzle):
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
                             print( fill("“GENIUS LEVEL ACHIEVED: You've reached 70%!”",
-                                        initial_indent=' '*4,
+                                        initial_indent=' '*3,
+                                        subsequent_indent=' '*4,
                                         width=get_terminal_size().columns-8) )
                             if player.hints_available>0:
                                 offer_hint(player.hints_used, player.hints_available)
@@ -153,7 +155,8 @@ def play(puzzle):
                         if word_percent >= 85 or score_percent >= 85:
                             player.achievements['85'] = True
                             print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”',
-                                        initial_indent=' '*4,
+                                        initial_indent=' '*3,
+                                        subsequent_indent=' '*4,
                                         width=get_terminal_size().columns-8) )
                             player.hints_available += 1
                             offer_hint(player.hints_used, player.hints_available)
@@ -271,7 +274,7 @@ def show_not_found(word_list, player_found):
 def offer_hint(used, available):
     free_hints=f'{available} free hint{"s" if available!=1 else ""}'
     print( fill(f'You have {free_hints}. {"Use !hint." if available else ""}',
-                initial_indent=' '*4,
+                initial_indent=' '*4, subsequent_indent=' '*4,
                 width=get_terminal_size().columns-8))
 
 def give_hint(puzzle, player):
