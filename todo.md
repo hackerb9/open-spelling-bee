@@ -109,6 +109,10 @@ in which more than half of the words end in -ING.
 
 * [ ] Perhaps what gets players annoyed is when they have to inflect
       every word: WAGE, WAGED, WAGING, WAGGLE, WAGGLED, WAGGLING, ...
+  
+  * `VDEIPWR`: view, viewer, viewed, preview, previewer, previewed,
+    review, reviewer, reviewed, dive, diver, dived, peeve, peeved, ...
+	(uniqueness is quite low at 0.36)
 
   * [x] generate-puzzles.py: Remove plural (-S) pairs
 

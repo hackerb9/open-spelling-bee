@@ -251,6 +251,7 @@ def print_status(puzzle, player):
     if player.last_hint:
         print(f'last hint: {player.last_hint}')
     if len(player.found) > 0:
+        width=get_terminal_size().columns
         print (fill('found: ' + ', '.join(player.found[::-1]), width=width-8,
                     initial_indent=' '*4, subsequent_indent=' '*11))
     print()
