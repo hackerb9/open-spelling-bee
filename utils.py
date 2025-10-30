@@ -80,9 +80,17 @@ def read_puzzle(puzl_path):
         puzzles = Puzzle(**json.load(fp))
     return puzzles
 
-def print_table(data, cols, wide=None):
+def print_table(data, cols=None, wide=None):
         '''Prints formatted data on columns of given width.
-           If no width given, then fit columns to terminal.'''
+           data is an array, cols is number of columns, wide is column width.
+           If no width given, then terminal width / cols is used.
+           If cols isn't given, then the fewest rows will be used.
+        '''
+        if not cols:
+                m = max([len(s) for s in data]) + 1
+                cols = int(get_terminal_size().columns / m)
+                if cols > len(data):
+                        cols = len(data)
         if not wide:
                 wide = int(get_terminal_size().columns / cols)
         n, r = divmod(len(data), cols)
@@ -93,7 +101,7 @@ def print_table(data, cols, wide=None):
                 print(line.format(*data[i:i+cols]).rstrip())
         if r:
                 line = pat * r
-                print(line.format(*data[i+cols:]).rstrip())
+                print(line.format(*data[n*cols:]).rstrip())
 
 def uniqueness(word_list) -> float:
         '''
