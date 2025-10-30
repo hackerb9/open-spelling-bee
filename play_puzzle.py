@@ -47,8 +47,7 @@ def play(puzzle):
 
     utils.print_table([f'Max score: {puzzle.total_score}', 
                        f'Total words: {puzzle.word_count}',
-                       f'Uniqueness: {utils.uniqueness(puzzle.word_list)}'],
-                      3)
+                       f'Uniqueness: {utils.uniqueness(puzzle.word_list)}'])
 
     #print(puzzle.word_list) # no cheating!
 
@@ -242,16 +241,13 @@ def ranking(score, maxscore):
         return "Uh-oh"
 
 def print_status(puzzle, player):
-    width=get_terminal_size().columns
-    temp=(f'score: {player.score:>3} / {puzzle.total_score:>3} ({round(player.score*100.0/puzzle.total_score,1):>5.1f}%)',
-          f'{ranking(player.score, puzzle.total_score).upper():>3}')
-    utils.print_table( temp, 2, 33 )
-    temp = ( f'words: {player.words:>3} / {puzzle.word_count:>3} ({round(player.words*100.0/puzzle.word_count,1):>5.1f}%)',
-             f'pangram found: {player.pangram}')
-    utils.print_table( temp, 2, 33 )
-    temp = ( f'hints used: {player.hints_used}',
-             f'hints available: {player.hints_available}' )
-    utils.print_table( temp, 2, 33 )
+    utils.print_table([
+        f'score: {player.score:>3} / {puzzle.total_score:>3} ({round(player.score*100.0/puzzle.total_score,1):>5.1f}%)',
+        f'{ranking(player.score, puzzle.total_score).upper():>3}',
+        f'words: {player.words:>3} / {puzzle.word_count:>3} ({round(player.words*100.0/puzzle.word_count,1):>5.1f}%)',
+        f'pangram found: {player.pangram}',
+        f'hints used: {player.hints_used}',
+        f'hints available: {player.hints_available}'])
     if player.last_hint:
         print(f'last hint: {player.last_hint}')
     if len(player.found) > 0:
@@ -355,11 +351,11 @@ def command(command, puzzle, player):
     return
 
 def print_short_commands():
-    utils.print_table([ '!s : player stats', '!g : show letters', '!f : shuffle letters', '!i : instructions', '!q : quit', '!help: all commands' ], 3, 22)
+    utils.print_table([ '!s : player stats', '!g : show letters', '!f : shuffle letters', '!i : instructions', '!q : quit', '!help: all commands' ])
     print()
 
 def print_full_commands():
-    utils.print_table([ '!s : player stats and found words', '!g : show honeycomb of letters', '!i : game instructions',  '!f : shuffle letters', '!h : short command list', '!q : quit' ], 2, 35)
+    utils.print_table([ '!s : player stats and found words', '!g : show honeycomb of letters', '!i : game instructions',  '!f : shuffle letters', '!h : short command list', '!q : quit' ])
     print()
     print('''\
 Extended commands
