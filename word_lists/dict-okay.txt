@@ -425,4 +425,7 @@ riff
 tactician
 tiffin, tiffins
 incant, incants, incanting, incanted
-
+oratorio
+atoll
+aioli
+monad
