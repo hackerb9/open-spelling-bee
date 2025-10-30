@@ -453,3 +453,5 @@ grommet
 gyrometer
 mote		# A particle of dust; esp. one of the innumerable minute specks seen floating in the sunbeam
 gorget
+lube, lubed
+doula
