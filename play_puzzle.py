@@ -48,8 +48,7 @@ def play(puzzle):
     utils.print_table([f'Max score: {puzzle.total_score}', 
                        f'Total words: {puzzle.word_count}',
                        f'Uniqueness: {utils.uniqueness(puzzle.word_list)}'],
-                      3, 25)
-                      
+                      3)
 
     #print(puzzle.word_list) # no cheating!
 
@@ -125,9 +124,7 @@ def play(puzzle):
                         player.last_hint=""
 
                     # print success and running stats
-                    c = len(print_list)
-                    w = int(get_terminal_size().columns / c)
-                    utils.print_table(print_list, c, w)
+                    utils.print_table(print_list)
                     print()
 
                     word_percent=round(player.words*100.0/puzzle.word_count,1)
