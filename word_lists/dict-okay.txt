@@ -1,7 +1,8 @@
+# 				   -*- truncate-lines: t; eval: (auto-fill-mode -1) -*-
 # Obscure words that should be recognized as valid but not used to
 # generate puzzles. Some sort of bonus may be given, like a free hint.
 
-# Some word pairs dance with hyphenation, joining and unjoining.
+# Note: Some word pairs dance with hyphenation, joining and unjoining.
 # For this file, we'll be liberal and accept "pompoms", "deepfried", etc.
 
 unicycling
@@ -404,22 +405,22 @@ monotonic
 burpees
 tuber, tubers
 rube, rubes
-urea
-attar
-ambergris
+urea			# The chief solid component of mammalian urine. CO(NH₂)₂
+attar			#  (ˈɶtər) Also atar, and otto, q.v.[a. Pers. aṭar perfume essence, aṭar-gul essence of roses, ad. Arab. , iṭr, pl. , uṭūr, oṭōr, aroma, f. aṭara to breathe perfume.] Fragrant essence of roses.
+ambergris		# A wax-like substance of marbled ashy colour, found floating in tropical seas, and as a morbid secretion in the intestines of the sperm-whale. It is odoriferous and used in perfumery; formerly in cookery.  “Praise is like ambergris; a little whiff of it, by snatches, is very agreeable; but when a man holds a whole lump of it to his nose, it is a stink and strikes you down.”
 rattan
 turntail
 tarnation
 morel
 bilk
-codpiece
+codpiece		# A bagged appendage to the front of the close-fitting hose or breeches worn by men from the 15th to the 17th c.: often conspicuous and ornamented.
 cheddar
 whorl
-dace
+dace			# 1. A small fresh-water cyprinoid fish, Leuciscus vulgaris. “Daces or Darts, or Dares, be of a sweet Taste, a soft Flesh and good Nourishment.”
 cadre
 meld
 midfield
-tantric
+tantric			# 1977: Time Out 28 Jan.-3 Feb. 65/2 (Advt.), “Student of energy release, seeks tantric adept, female.”
 cairn
 riff
 tactician
@@ -434,6 +435,21 @@ divvy, divvied
 undead
 unheated
 headhunter
-hoar, hoary
+hoar, hoary		# Of the frost which feathers objects with white, and objects so whitened
 rime
-
+roan
+koan
+nacho, nachos
+achoo
+archon
+thermite
+mitre
+metier
+emigree
+reemerge
+emitter
+trireme
+grommet
+gyrometer
+mote		# A particle of dust; esp. one of the innumerable minute specks seen floating in the sunbeam
+gorget
