@@ -344,11 +344,14 @@ def command(command, puzzle, player):
     elif cmd == 'hint':
         give_hint(puzzle, player)
     elif cmd == 'dict' or cmd == 'define' or cmd == 'wb':
-        utils.dict_define( cmdargs or player.lastguess )
+        if cmdargs: player.lastguess=cmdargs
+        utils.dict_define( player.lastguess )
     elif cmd == 'match' or cmd == 'm':
-        utils.match_any( cmdargs or player.lastguess )
+        if cmdargs: player.lastguess=cmdargs
+        utils.match_any( player.lastguess )
     elif cmd == 'scowl' or cmd == 'slook':
-        utils.scowl_lookup( cmdargs or player.lastguess )
+        if cmdargs: player.lastguess=cmdargs
+        utils.scowl_lookup( player.lastguess )
     else:
         print(f'Unknown command "!{cmd}"')
         print_short_commands()
