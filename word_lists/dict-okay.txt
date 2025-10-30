@@ -429,3 +429,5 @@ oratorio
 atoll
 aioli
 monad
+lapidary
+divvy, divvied
