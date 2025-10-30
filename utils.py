@@ -14,6 +14,7 @@ import gzip
 import re
 import subprocess
 from dataclasses import dataclass, asdict
+from shutil import get_terminal_size
 
 
 # check validity of provided letters
@@ -79,16 +80,20 @@ def read_puzzle(puzl_path):
         puzzles = Puzzle(**json.load(fp))
     return puzzles
 
-def print_table(data, cols, wide):
-    '''Prints formatted data on columns of given width.'''
-    # https://stackoverflow.com/a/50215584/2327328
-    n, r = divmod(len(data), cols)
-    pat = '{{:{}}}'.format(wide)
-    line = '\n'.join(pat * cols for _ in range(n))
-    sys.stdout.reconfigure(encoding="utf-8")
-    print(line.format(*data))
-    #last_line = pat * r
-    #print(last_line.format(*data[n*cols:]))
+def print_table(data, cols, wide=None):
+        '''Prints formatted data on columns of given width.
+           If no width given, then fit columns to terminal.'''
+        if not wide:
+                wide = int(get_terminal_size().columns / cols)
+        n, r = divmod(len(data), cols)
+        pat = f'{{:{wide}}}'
+        line = pat * cols
+        sys.stdout.reconfigure(encoding="utf-8")
+        for i in range(0, n*cols, cols):
+                print(line.format(*data[i:i+cols]).rstrip())
+        if r:
+                line = pat * r
+                print(line.format(*data[i+cols:]).rstrip())
 
 def uniqueness(word_list) -> float:
         '''
