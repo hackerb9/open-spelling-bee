@@ -21,6 +21,7 @@ miaow, miaows, miaowed, miaowing
 alga
 callable
 blacked
+ultra
 
 
 # Many common nouns conjugated as less common verbs in SCOWL english-words.35.
