@@ -32,7 +32,7 @@ kludge, kludges
 meme, memes
 magma
 manga
-attunement
+attune, attuned, attunement
 nutmeat, nutmeats
 metagame
 numen, numinous
@@ -431,3 +431,9 @@ aioli
 monad
 lapidary
 divvy, divvied
+undead
+unheated
+headhunter
+hoar, hoary
+rime
+
