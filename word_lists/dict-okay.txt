@@ -455,3 +455,8 @@ mote		# A particle of dust; esp. one of the innumerable minute specks seen float
 gorget
 lube, lubed
 doula
+blobby
+baldly
+balladry
+loblolly
+
