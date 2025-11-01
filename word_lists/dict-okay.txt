@@ -1,4 +1,4 @@
-# 				   -*- truncate-lines: t; eval: (auto-fill-mode -1) -*-
+# 				   -*- truncate-lines: t ; eval: (auto-fill-mode -1) -*-
 # Obscure words that should be recognized as valid but not used to
 # generate puzzles. Some sort of bonus may be given, like a free hint.
 
@@ -459,4 +459,9 @@ blobby
 baldly
 balladry
 loblolly
+tipple, tipples, tippled
+tootle, tootles, tootled
+pixelated, pixelation
+pixilated			#    1. Mildly insane, fey, whimsical; bewildered, confused; intoxicated, tipsy.  “The word pixilated is an early American expression—derived from the word `pixies' meaning elves. They would say, `The pixies have got him,' as we nowadays would say a man is `balmy'.”  “A ‘pixilated’ man is one whose whimseys are not understood by practical-minded people.”
+prolix
 
