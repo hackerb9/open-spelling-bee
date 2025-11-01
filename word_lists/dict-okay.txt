@@ -466,3 +466,5 @@ pixilated			#    1. Mildly insane, fey, whimsical; bewildered, confused; intoxic
 prolix
 petiole
 polity
+runnel
+luau
