@@ -464,3 +464,5 @@ tootle, tootles, tootled
 pixelated, pixelation
 pixilated			#    1. Mildly insane, fey, whimsical; bewildered, confused; intoxicated, tipsy.  “The word pixilated is an early American expression—derived from the word `pixies' meaning elves. They would say, `The pixies have got him,' as we nowadays would say a man is `balmy'.”  “A ‘pixilated’ man is one whose whimseys are not understood by practical-minded people.”
 prolix
+petiole
+polity
