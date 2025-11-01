@@ -194,6 +194,36 @@ def compare_overlap(f1, f2):
         print(f"{'Words in both':>30}: {both:>2}")
         print(f"{'Overlap':>30}: {100*both/min(len1,len2):>5.2f}%")
 
+
+def custom_lookup(pattern):
+        '''Grep the custom word lists for ^(pattern)$
+        Custom words are kept in word_lists/dict-{add,okay,remove,*}.txt. 
+        If 'pattern' is an array, then each word will be looked up.
+        Allows regular expressions.
+        '''
+
+        if type(pattern) is not list:
+                pattern = [ pattern ]
+
+        for p in pattern:
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                for f in glob.glob("word_lists/dict-*.txt"):
+                        with open(f, 'r') as fp:
+                                output=re.findall(rx, custom_parse(fp.read()))
+                                for w in output:
+                                        try:
+                                                print(f'{f}: {w}')
+                                        except BrokenPipeError:
+                                                sys.stdout = None
+
+def custom_parse(s: str) -> str:
+        '''Given an entire custom word list file as a string,
+        return just newline separated words, omitting comments,
+        whitespace, and punctuation.
+        Input example:	"foo, bar (quux) # this is a comment"
+        '''
+        return re.sub(r'(\W*(#.*)?\n)+|\W+', '\n', s)
+
 def scowl_lookup_usage():
         print('''Usage: ./utils.py scowl <pattern>
 
@@ -214,7 +244,7 @@ To see possible inflections of a word, append .* like so:
 
 
 def scowl_lookup(pattern):
-        '''Grep the SCOWL word_lists for ^pattern$
+        '''Grep the SCOWL word_lists for ^(pattern)$
 
         NOTA BENE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
         '''
@@ -223,7 +253,7 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                regex=re.compile(fr'^{p}$', flags=re.IGNORECASE|re.MULTILINE)
+                regex=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
                         with open(f, 'r', encoding='ISO-8859-1') as fp:
                                 output=re.findall(regex, fp.read())
@@ -275,7 +305,7 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                regex=re.compile(fr'^{p}$', flags=re.IGNORECASE|re.MULTILINE)
+                regex=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
                         with open(f, 'r', encoding='ISO-8859-1') as fp:
                                 output=re.findall(regex, fp.read())
@@ -367,7 +397,7 @@ def dict_lookup(pattern, showerrors=True):
         if type(pattern) is list:
                 pattern = ' '.join(pattern)
 
-        cmdline = f'dict -m -s re "^{pattern}$"'     # Exact, but allow regex
+        cmdline = f'dict -m -s re "^({pattern})$"'   # Exact, but allow regex
         (rc, output) = subprocess.getstatusoutput(cmdline)
         if rc == 0:
                 print(output)
@@ -386,10 +416,12 @@ def dict_lookup(pattern, showerrors=True):
 
 def match_any(pattern):
         '''Given a word (or regex), show which wordlists contain it using
-        both SCOWL and the dict command.
+        the custom dictionaries, SCOWL wordlists, and the 'dict' command.
         No error is printed if dict is not available on the system.'''
+        custom_lookup(pattern)
         scowl_lookup(pattern)
         dict_lookup(pattern, showerrors=False)
+
 
 if __name__ == "__main__":
         if len(sys.argv) <= 1:
