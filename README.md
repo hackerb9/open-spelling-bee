@@ -157,17 +157,21 @@ Your guess: !h
 
 + `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
 
-+ Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`, `VAEGIRT`, `IACLPRT`
++ Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`,
+  `VAEGIRT`, `IACLPRT`, `LEIOPTX`
 
 + Especially challenging: `RCEIMNP`, `TACHIMR`, `VAEGIRT`
 
 + Historic: 
-  * [ ] on or before 2004 November 1 (The Times of London, [Polygon][Polygon])
-  * [ ] 2014 (Will Shortz proposes Spelling Bee based on Polygon)
-  * 2015 February 22 `PADEQUR` (Frank Longo publishes first print
-    Spelling Bee in NYT Magazine) -- minimum length is 5 letters.
-  * 2018 May 9: `WAHORTY` May 9, 2018 (Sam Von Ehren releases first digital NYT Spelling Bee online)
-  * 2025 March 12: `FLOSUAB` (Sam Ezersky creates first NYT Spelling Bee to include the letter `S`)
+  | Date               | Puzzle     | Title                        | Note                                                              |
+  |--------------------|:----------:|------------------------------|-------------------------------------------------------------------|
+  | <= 2004 November 1 | ?          | First Polygon                | The Times of London, [Polygon][Polygon]                           |
+  | 2014               | ?          | First Will Shortz            | Will Shortz proposes Spelling Bee based on Polygon                |
+  | 2015 February 22   | `PADEQUR`¹ | First Spelling Bee (Print)   | First print Spelling Bee, Frank Longo, published in NYT Magazine. |
+  | 2018 May 9         | `WAHORTY`  | First Spelling Bee (Digital) | Sam Von Ehren releases first digital Spelling Bee, online.        |
+  | 2025 March 12      | `FLOSUAB`  | First with `S`               | Sam Ezersky creates first to include the letter `S`.              |
+
+  ¹ Note: Before the digital Spelling Bee, the minimum length was 5 letters. 
 
 [Polygon]: https://www.thetimes.com/article/how-to-play-polygon-gw30jlb39h2
 
