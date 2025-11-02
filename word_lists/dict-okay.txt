@@ -468,3 +468,6 @@ petiole
 polity
 runnel
 luau
+tuppence
+pent				# Confined as in a pen. Usually "pent up".
+teepee
