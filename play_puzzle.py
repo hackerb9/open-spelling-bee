@@ -65,8 +65,9 @@ def play(puzzle):
             command(guess, puzzle, player)
             continue
 
+        player.lastguess = guess 		# Save for later ! commands
+
         for g in re.findall(r'\w+', guess):
-                player.lastguess = g       # Save for later ! commands
                 g=g.upper()
 
                 # Is word easily dismissable?
