@@ -378,3 +378,9 @@ puzzles? If they are too similar, which one should be kept?
         should be discarded regardless of whether it has a unique
         pangram?
 
+### Hapax Legomena
+
+Nonce words should be accepted
+
+[hapax]: https://archive.examiningtheoed.com/oed.hertford.ox.ac.uk/main/content/view/402/450/ "Discussion of Hapax Legomena in the Oxfored English Dictionary"
+				  
