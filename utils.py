@@ -196,7 +196,8 @@ def compare_overlap(f1, f2):
 
 
 def custom_lookup(pattern):
-        '''Grep the custom word lists for ^(pattern)$
+        '''Grep the custom word lists for ^(pattern)$ and prints results.
+
         Custom words are kept in word_lists/dict-{add,okay,remove,*}.txt. 
         If 'pattern' is an array, then each word will be looked up.
         Allows regular expressions.
@@ -224,8 +225,27 @@ def custom_parse(s: str) -> str:
         '''
         return re.sub(r'(\W*(#.*)?\n)+|\W+', '\n', s)
 
+def is_bonus_word(w:str) -> [str]:
+        '''If w is found in the bonus dictionaries (`dict` or custom
+        words in word_lists/dict-{add,okay,remove,*}.txt, return an
+        array of strings indicating which dictionaries it was found in.
+        If it is found in none, an empty list is returned.
+        '''
+        
+        w=w.casefold()
+        results=[]
+        # xxx TODO dict lookup
+        for f in glob.glob("word_lists/dict-*.txt"):
+                with open(f, 'r') as fp:
+                        customwords=custom_parse(fp.read()).casefold().split()
+                        if w in customwords:
+                                results.append(w)
+x        return results
+
 def scowl_lookup_usage():
-        print('''Usage: ./utils.py scowl <pattern>
+        print(
+
+        '''Usage: ./utils.py scowl <pattern>
 
 Shows words matching the exact word (regular expression ^pattern$) and
 which wordlist file it was found in. The number at the end of the
