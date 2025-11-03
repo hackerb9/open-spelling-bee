@@ -475,3 +475,7 @@ begat
 deuce
 creel
 beerbellied			# Hyphenation optional
+gaol
+loamy
+loopy
+coppery
