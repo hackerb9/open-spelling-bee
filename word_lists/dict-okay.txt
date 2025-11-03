@@ -471,3 +471,7 @@ luau
 tuppence
 pent				# Confined as in a pen. Usually "pent up".
 teepee
+begat
+deuce
+creel
+beerbellied			# Hyphenation optional
