@@ -20,6 +20,7 @@ class PlayerState:
     found = []
     pangram = False
     achievements =  { '50': False, '70': False, '85': False }
+    bonus_found = []
     hints_available = 0
     hints_used = 0
     hint_penalty = 1
@@ -89,7 +90,14 @@ def play(puzzle):
                 word_index = next((index for (index, d) in enumerate(puzzle.word_list) if d['word'] == g), None)
 
                 if word_index is None:
-                    print (f'Sorry, "{g}" is not a valid word','\n')
+                    if utils.is_bonus_word(g):
+                        if g not in player.bonus_found:
+                            print (f'Oh! I was not expecting anyone to guess "{g}". Kudos to you!\n')
+                            player.bonus_found.append(g)
+                        else:
+                            print (f'You already found: {g}\n')
+                    else:
+                        print (f'Sorry, "{g}" is not a valid word\n')
                     continue
 
                 else:
@@ -254,9 +262,13 @@ def print_status(puzzle, player):
         f'hints available: {player.hints_available}'])
     if player.last_hint:
         print(f'last hint: {player.last_hint}')
-    if len(player.found) > 0:
+    if player.found:
         width=get_terminal_size().columns
         print (fill('found: ' + ', '.join(player.found[::-1]), width=width-8,
+                    initial_indent=' '*4, subsequent_indent=' '*11))
+    if player.bonus_found:
+        width=get_terminal_size().columns
+        print (fill('bonus: ' + ', '.join(player.bonus_found[::-1]), width=width-8,
                     initial_indent=' '*4, subsequent_indent=' '*11))
     print()
 
