@@ -75,8 +75,12 @@ simply accept those word lists, very few words would need to be added
 manually.
 
 * [ ] Give player bonuses for words which are not in the generating
-  dictionary but are valid in more recondite sources. (Check user
-  dict, more scowl, TWL, or maybe even online dictd).
+  dictionary but are valid in more recondite sources. 
+  * [x] Check custom user dict-*.txt, 
+  * [ ] more scowl, 
+  * [ ] TWL
+  * [ ] local dictd
+  * [ ] online dictd
   
 * [ ] At 70% score, allow players to convert earned bonuses into hints.
 
