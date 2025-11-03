@@ -240,7 +240,7 @@ def is_bonus_word(w:str) -> [str]:
                         customwords=custom_parse(fp.read()).casefold().split()
                         if w in customwords:
                                 results.append(w)
-x        return results
+        return results
 
 def scowl_lookup_usage():
         print(
