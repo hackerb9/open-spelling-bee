@@ -21,6 +21,7 @@ class PlayerState:
     pangram = False
     achievements =  { '50': False, '70': False, '85': False }
     bonus_found = []
+    bonus_used = []
     hints_available = 0
     hints_used = 0
     hint_penalty = 1
@@ -91,11 +92,11 @@ def play(puzzle):
 
                 if word_index is None:
                     if utils.is_bonus_word(g):
-                        if g not in player.bonus_found:
+                        if g in player.bonus_found or g in player.bonus_used:
+                            print (f'You already found: {g}\n')
+                        else:
                             print (f'Oh! I was not expecting anyone to guess "{g}". Kudos to you!\n')
                             player.bonus_found.append(g)
-                        else:
-                            print (f'You already found: {g}\n')
                     else:
                         print (f'Sorry, "{g}" is not a valid word\n')
                     continue
@@ -306,7 +307,9 @@ def give_hint(puzzle, player):
                 print()
                 return
             else:
-                print(f'forfeited "{player.bonus_found.pop()}"')
+                player.bonus_used.append( player.bonus_found.pop() )
+                print(f'forfeited "{player.bonus_used[-1]}"')
+                player.hints_used += 1
         else:
             cost = 2**player.hint_penalty - 1
             reply = ask_user(f"It'll cost you {cost} point{s(cost)}. Are you sure? ")

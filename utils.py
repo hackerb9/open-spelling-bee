@@ -232,9 +232,9 @@ def is_bonus_word(w:str) -> [str]:
         If it is found in none, an empty list is returned.
         '''
         
-        w=w.casefold()
         results=[]
-        # xxx TODO dict lookup
+        w=w.casefold()
+        # xxx TODO dict lookup, scowl <=50
         for f in glob.glob("word_lists/dict-*.txt"):
                 with open(f, 'r') as fp:
                         customwords=custom_parse(fp.read()).casefold().split()
