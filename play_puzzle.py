@@ -297,17 +297,25 @@ def give_hint(puzzle, player):
         print(player.last_hint)
         print()
         return
-    if (player.hints_available <= 0):
-        cost = 2**player.hint_penalty - 1
-        reply = ask_user(f"It'll cost you {cost} point{s(cost)}. Are you sure? ")
-        if len(reply)==0 or reply[0].upper() != 'Y':
-            print()
-            return
-        player.score -= cost
-        player.hint_penalty += 1
-    else:
+    if (player.hints_available > 0):
         player.hints_available -= 1
-    player.hints_used += 1
+    else:
+        if player.bonus_found:
+            reply = ask_user(f"It'll cost you a bonus word. Are you sure? ")
+            if len(reply)==0 or reply[0].upper() != 'Y':
+                print()
+                return
+            else:
+                print(f'forfeited "{player.bonus_found.pop()}"')
+        else:
+            cost = 2**player.hint_penalty - 1
+            reply = ask_user(f"It'll cost you {cost} point{s(cost)}. Are you sure? ")
+            if len(reply)==0 or reply[0].upper() != 'Y':
+                print()
+                return
+            player.score -= cost
+            player.hint_penalty += 1
+            player.hints_used += 1
     if not word in player.hints_given:
         player.hints_given[word] = 0
     if player.hints_given[word] < len(word):
