@@ -87,7 +87,7 @@ def print_table(data, cols=None, wide=None):
            If cols isn't given, then the fewest rows will be used.
         '''
         if not cols:
-                m = max([len(s) for s in data]) + 1
+                m = max([len(s) for s in data]) + 2
                 cols = int(get_terminal_size().columns / m)
                 if cols > len(data):
                         cols = len(data)
