@@ -229,13 +229,15 @@ def is_bonus_word(w:str) -> [str]:
         '''If w is found in the bonus dictionaries (`dict` or custom
         words in word_lists/dict-{add,okay,remove,*}.txt, return an
         array of strings indicating which dictionaries it was found in.
-        If it is found in none, an empty list is returned.
+        If it is not found, an empty list is returned.
         '''
         
-        results=[]
         w=w.casefold()
+        results=[]
         # xxx TODO dict lookup, scowl <=50
-        for f in glob.glob("word_lists/dict-*.txt"):
+        bonus_dicts=[]
+        bonus_dicts += glob.glob("word_lists/dict-*.txt")
+        for f in bonus_dicts:
                 with open(f, 'r') as fp:
                         customwords=custom_parse(fp.read()).casefold().split()
                         if w in customwords:
