@@ -497,3 +497,5 @@ laze
 zipline
 pineal
 gravelly
+gyre
+regally
