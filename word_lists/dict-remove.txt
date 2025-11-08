@@ -22,9 +22,10 @@ alga
 callable
 blacked
 ultra
+dissatisfy, dissatisfies
 
 
-# Many common nouns conjugated as less common verbs in SCOWL english-words.35.
+# Many common nouns conjugated as less common verbs in SCOWL scowl/english-words.35
 abscessing
 absents, absented, absenting
 advantaging
@@ -121,7 +122,6 @@ discoursed, discoursing
 disjointing
 disordering
 disrespecting
-dissatisfy, dissatisfies, dissatisfying
 disuses, disusing
 dittoed, dittoing
 domiciled, domiciling
@@ -162,6 +162,7 @@ viced, vicing, vised, vising
 
 #acquaints, acquainting
 #autopsied, autopsying
+#batching
 #barraged, barraging
 #beggared, beggaring
 #belled, belling
@@ -172,6 +173,7 @@ viced, vicing, vised, vising
 #botches, botching
 #brained, braining
 #brandied, brandying
+#buffaloing
 #bugled, bugling
 #bunked, bunking
 #butterflied, butterflying
