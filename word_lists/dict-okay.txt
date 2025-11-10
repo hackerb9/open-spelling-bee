@@ -509,3 +509,5 @@ iffier
 fixer
 refit
 retrofit
+kidder
+quid
