@@ -419,7 +419,10 @@ def dict_lookup(pattern, showerrors=True):
         if type(pattern) is list:
                 pattern = ' '.join(pattern)
 
-        cmdline = f'dict -m -s re "^({pattern})$"'   # Exact, but allow regex
+        # We always anchor to the head and tail using ^{pattern}$.
+        # That would cause pattern='kona|koan' to fail, so we add parens: ^({pattern})$.
+        # But that triggers a bug in dict, so we add more parens: (^({pattern})$)
+        cmdline = f'dict -m -s re "(^({pattern})$)"'   # Exact, but allow regex
         (rc, output) = subprocess.getstatusoutput(cmdline)
         if rc == 0:
                 print(output)
