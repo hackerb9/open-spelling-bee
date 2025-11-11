@@ -152,12 +152,12 @@ def play(puzzle):
                     if not player.achievements['70']:
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
-                            print( fill("“GENIUS LEVEL ACHIEVED: You've reached 70%!”",
+                            print( fill("“GENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”",
                                         initial_indent=' '*3,
                                         subsequent_indent=' '*4,
                                         width=get_terminal_size().columns-8) )
-                            if player.hints_available>0:
-                                offer_hint(player.hints_used, player.hints_available)
+                            print()
+                            offer_hint_bonus(len(player.bonus_found))
                             print()
 
                     # Did they make it to 85% of words or score?
@@ -169,7 +169,7 @@ def play(puzzle):
                                         subsequent_indent=' '*4,
                                         width=get_terminal_size().columns-8) )
                             player.hints_available += 1
-                            offer_hint(player.hints_used, player.hints_available)
+                            offer_hint(player.hints_available)
                             print()
 
         # all words found (somehow this could be possible)
@@ -285,9 +285,15 @@ def show_not_found(word_list, player_found):
         width=get_terminal_size().columns
         print( fill('not found: ' + ', '.join(c), subsequent_indent=' '*11 , width=width))
 
-def offer_hint(used, available):
+def offer_hint(available):
     free_hints=f'{available} free hint{"s" if available!=1 else ""}'
     print( fill(f'You have {free_hints}. {"Use !hint." if available else ""}',
+                initial_indent=' '*4, subsequent_indent=' '*4,
+                width=get_terminal_size().columns-8))
+
+def offer_hint_bonus(n):
+    bonus_hints=f'{n} bonus word{"s" if n!=1 else ""}'
+    print( fill(f'You have {bonus_hints}. {"Use !hint." if n else ""}',
                 initial_indent=' '*4, subsequent_indent=' '*4,
                 width=get_terminal_size().columns-8))
 
@@ -301,7 +307,7 @@ def give_hint(puzzle, player):
     if (player.hints_available > 0):
         player.hints_available -= 1
     else:
-        if player.bonus_found:
+        if player.bonus_found and player.achievements['70']:
             reply = ask_user(f"It'll cost you a bonus word. Are you sure? ")
             if len(reply)==0 or reply[0].upper() != 'Y':
                 print()
