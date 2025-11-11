@@ -517,3 +517,5 @@ chonky, chonkier, chonkiest
 ramie
 mailroom
 armorer
+lahar, lahars
+
