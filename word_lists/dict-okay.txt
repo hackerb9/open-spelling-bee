@@ -507,7 +507,10 @@ muon, muons
 effete
 iffier
 fixer
-refit
+refit, refits, refitted
 retrofit
 kidder
 quid
+bougie
+bupkis
+chonky, chonkier, chonkiest
