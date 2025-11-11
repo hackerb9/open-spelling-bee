@@ -77,12 +77,12 @@ manually.
 * [ ] Give player bonuses for words which are not in the generating
   dictionary but are valid in more recondite sources. 
   * [x] Check custom user dict-*.txt, 
-  * [ ] more scowl, 
+  * [ ] more scowl, upto and including english-words.50
   * [ ] TWL
   * [ ] local dictd
   * [ ] online dictd
   
-* [ ] At 70% score, allow players to convert earned bonuses into hints.
+* [x] At 70% score, allow players to convert earned bonuses into hints.
 
 * [ ] Super points for a second PANGRAM; volcanic / convivial.
 
