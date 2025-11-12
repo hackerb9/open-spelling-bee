@@ -234,14 +234,16 @@ def is_bonus_word(w:str) -> [str]:
         
         w=w.casefold()
         results=[]
-        # xxx TODO dict lookup, scowl <=50
+        # xxx TODO dict lookup; 35< scowl <=50
         bonus_dicts=[]
         bonus_dicts += glob.glob("word_lists/dict-*.txt")
+        bonus_dicts += [ x for x in glob.glob("word_lists/scowl/english-words.*")
+                         if 35 < scowl_rank(x) <= 50 ]
         for f in bonus_dicts:
                 with open(f, 'r') as fp:
                         customwords=custom_parse(fp.read()).casefold().split()
                         if w in customwords:
-                                results.append(w)
+                                results.append(f)
         return results
 
 def scowl_lookup_usage():
@@ -337,14 +339,24 @@ def scowl_lookup(pattern):
                                         except BrokenPipeError:
                                                 sys.stdout = None
 
-def scowl_sort(fullpath):
+def scowl_rank(fullpath: str) -> int:
+        '''Given a filename of the form "english-words.35",
+        return the integer which is the filename's extension.
+        If the extension is not an integer, then return 999.'''
+        name, ext = os.path.splitext(fullpath)
+        try:
+                ext = int(ext[1:])
+        except ValueError:
+                ext = 999
+        return ext
+
+def scowl_sort(fullpath: str) -> ():
         '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
         name, ext = os.path.splitext(fullpath)
         try:
                 ext = int(ext[1:])
         except ValueError:
                 ext = 999
-
         return (ext, name)
 
 
