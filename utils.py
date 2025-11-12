@@ -237,7 +237,7 @@ def is_bonus_word(w:str) -> [str]:
         # xxx TODO dict lookup; 35< scowl <=50
         bonus_dicts=[]
         bonus_dicts += glob.glob("word_lists/dict-*.txt")
-        bonus_dicts += [ x for x in glob.glob("word_lists/scowl/english-words.*")
+        bonus_dicts += [ x for x in glob.glob("word_lists/scowl-2020.12.07/final-u8/english-words.*")
                          if 35 < scowl_rank(x) <= 50 ]
         for f in bonus_dicts:
                 with open(f, 'r') as fp:
