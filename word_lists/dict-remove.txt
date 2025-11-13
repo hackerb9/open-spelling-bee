@@ -24,7 +24,6 @@ blacked
 ultra
 dissatisfy, dissatisfies
 
-
 # Many common nouns conjugated as less common verbs in SCOWL scowl/english-words.35
 abscessing
 absents, absented, absenting
@@ -114,6 +113,8 @@ crooking
 crumbed, crumbing
 curtained, curtaining
 deeded, deeding
+defenced, defencing
+defensed, defensing
 diked, diking
 dinned, dinning
 dinnered, dinnering
