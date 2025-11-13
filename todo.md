@@ -9,6 +9,10 @@ already already attempt to cut out puzzles that have lots of plurals.
 See generate_puzzles.py.a
 
 
+### Remove Britishisms
+
+People don't like having to do both "defense" and "defence". 
+
 ### Deal with too many rejected words
 
 Ever since we switched from TWL06.txt to SCOWL's english-words.35, too
