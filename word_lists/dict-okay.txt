@@ -529,4 +529,5 @@ moray
 marmot
 arroyo
 doormat
-
+macula
+oracular
