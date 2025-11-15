@@ -23,6 +23,9 @@ callable
 blacked
 ultra
 dissatisfy, dissatisfies
+mys
+sangs
+
 
 # Many common nouns conjugated as less common verbs in SCOWL scowl/english-words.35
 abscessing
