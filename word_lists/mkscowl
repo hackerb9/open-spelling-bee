@@ -1,81 +1,123 @@
-#!/bin/bash
+#!/bin/bash -e
 # mkscowl
-# Concatenate, CAPITALIZE, and sort the scowl word lists of a specific size and smaller.
-# After running this script, delete the old data directory and rerun generate_puzzles.py
+
+# Concatenate, CAPITALIZE, convert to ASCII, and sort the scowl word
+# lists of a specific frequency rank and higher. Output to scowl.txt.
+# After running this script, delete the old ../data directory and
+# rerun generate_puzzles.py
+
+# Directory of original scowl files, relative to this script.
+scowl_dir=scowl-2020.12.07/final
 
 # You may pick the spelling categories, sub-categories, and list size.
 #
-# For spelling categories, pick "english" and then add in "american" or "british" or both.
-# For sub-categories, pick "words" and optionally add in "proper-names" or "abbreviations".
-# For list size, pick 35 for a reasonable, but small dictionary. Or try 50, 70, 80, or 95.
+# For spelling categories, pick "english" and then add in "american"
+# or "british" (or both). For sub-categories, pick "words" and
+# optionally add in "proper-names" or "abbreviations". For list size,
+# 35 is a reasonable, medium-sized dictionary. (See end of file).
 
-spelling_categories={english,american,british}
+#spelling_categories={english,american,british,canadian,australian}
+spelling_categories={english,american}
 #sub_categories={words,proper-names,abbreviations}
-sub_categories=words		# No brace expansion for a single item.
+sub_categories=words		# No {brace} expansion for a single item.
 size=${1:-35}			# Default to 35 if no command line arg given.
 
 ###
 
-cd $(dirname $0)
+main() {
+    wordlist_dir=$(realpath $(dirname $0))
+    cd ${wordlist_dir}
 
-if [[ ! -d scowl ]]; then
-    echo "Error: Scowl files not found in $(dirname $0)" >&2
-    exit 1
-fi
-
-outputfile=${spelling_categories}-${sub_categories}.${size}
-outputfile=$(echo $outputfile | tr -d '{}')
-
-possiblelists=$(eval echo scowl/$spelling_categories-$sub_categories.*)
-
-for f in $possiblelists; do
-    s=${f##*.}
-    if [[ -e $f && $s -le $size ]]; then
-	wordlists+=($f)
+    # First, make sure we have a UTF-8 version of scowl, not Latin-1.
+    if [ ! -d scowl-u8 ]; then
+	echo "Notice. UTF-8 version of scowl not found. Attempting to recreate.">&2
+	l1tou8 scowl-2020.12.07/final
     fi
-done
 
-if [[ ${#wordlists} -eq 0 ]]; then
-    echo "Error: No word lists matched scowl/$spelling_categories-$sub_categories.*" >&2
-    echo "Please edit $0." >&2
-    exit 1
-fi
+    if [[ ! -d scowl-u8 ]]; then
+	echo "Error: Scowl files not found in $(dirname $0)/scowl-u8" >&2
+	exit 1
+    fi
 
-echo "Creating $outputfile from these wordlists:"
-for f in ${wordlists[@]}; do
-    echo "    $f"
-done
+    outputfile=${spelling_categories}-${sub_categories}.${size}
+    outputfile=$(echo $outputfile | tr -d '{}')
 
-cat ${wordlists[@]} |
-    LANG=C grep -v "'" |			# Skip words with apostrophes
-    iconv -f latin1 -t ASCII//TRANSLIT |	# Remove accents (café -> cafe)
-    tr '[a-z]' '[A-Z]' |
-    sort -u > $outputfile
+    possiblelists=$(eval echo scowl-u8/$spelling_categories-$sub_categories.*)
 
-echo "Done."
+    for f in $possiblelists; do
+	s=${f##*.}
+	if [[ -e $f && $s -le $size ]]; then
+	    wordlists+=($f)
+	fi
+    done
 
-if ln -sf $outputfile scowl.txt; then
-    echo "Linked $outputfile to scowl.txt"
-fi
+    if [[ ${#wordlists} -eq 0 ]]; then
+	echo "Error: No word lists matched scowl-u8/$spelling_categories-$sub_categories.*" >&2
+	echo "Please edit $0." >&2
+	exit 1
+    fi
 
-echo "You may now remove the 'data' directory and run generate_puzzles.py"
+    echo "Creating $outputfile from these wordlists:"
+    for f in ${wordlists[@]}; do
+	echo "    $f"
+    done
 
-#####################################################################################
-# Scowl file naming convention:							    #
-#   <spelling category>-<sub category>.<size>					    #
-# 										    #
-# Where the spelling category is one of						    #
-#   english, american, british, british_z, canadian, australian			    #
-#   variant_1, variant_2, variant_3,						    #
-#   british_variant_1, british_variant_2,					    #
-#   canadian_variant_1, canadian_variant_2,					    #
-#   australian_variant_1, australian_variant_2					    #
-# 										    #
-# Sub-category is one of							    #
-#   abbreviations, contractions, proper-names, upper, words			    #
-# 										    #
-# And size is one of								    #
-#   10, 20, 35 (small), 40, 50 (medium), 55, 60, 70 (large), 80 (huge), 95 (insane) #
-#####################################################################################
+    cat ${wordlists[@]} |
+	LANG=C grep -v "'" |			# Skip words with apostrophes
+	iconv -f utf-8 -t ASCII//TRANSLIT |	# Remove accents (café -> cafe)
+	tr '[a-z]' '[A-Z]' |
+	sort -u > $outputfile
+
+    echo "Done."
+
+    if ln -sf $outputfile scowl.txt; then
+	echo "Linked $outputfile to scowl.txt"
+    fi
+
+    echo "Next step: remove old 'data' directory and rerun generate_puzzles.py"
+    exit
+}
+
+l1tou8() {
+    scowl_orig="${1:-scowl-2020.12.07/final}"
+    if [ ! -d ${scowl_orig} ]; then
+	echo >&2
+	echo "ERROR. Could not find ${scowl_orig}. Please get and unpack scowl.tar.gz." >&2
+	exit 1
+    else
+	mkdir scowl-u8
+	cd ${scowl_orig}
+	for f in *; do
+	    iconv -f latin1 -t utf-8 "$f" >${wordlist_dir}/scowl-u8/"$f" && echo -n "." >&2
+	done
+	echo Done. >&2
+	cd -
+    fi
+}
+
+
+main "$@"
+
+
+
+#################################################################
+# Scowl file naming convention:				        #
+#   <spelling category>-<sub category>.<size>		        #
+# 							        #
+# Where the spelling category is one of			        #
+#   english, american, british, british_z, canadian, australian #
+#   variant_1, variant_2, variant_3,			        #
+#   british_variant_1, british_variant_2,		        #
+#   canadian_variant_1, canadian_variant_2,		        #
+#   australian_variant_1, australian_variant_2		        #
+# 							        #
+# Sub-category is one of				        #
+#   abbreviations, contractions, proper-names, upper, words     #
+# 							        #
+# And size is one of					        #
+#   10, 20, 35 (small), 40, 50 (medium), 		        #
+#   55, 60, 70 (large), 80 (huge), 95 (insane)		        #
+#################################################################
+
 
 
