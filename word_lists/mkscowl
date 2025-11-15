@@ -35,7 +35,7 @@ main() {
     fi
 
     if [[ ! -d scowl-u8 ]]; then
-	echo "Error: Scowl files not found in $(dirname $0)/scowl-u8" >&2
+	echo "Error: Scowl files not found in ${wordlist_dir}/scowl-u8" >&2
 	exit 1
     fi
 
@@ -58,9 +58,7 @@ main() {
     fi
 
     echo "Creating $outputfile from these wordlists:"
-    for f in ${wordlists[@]}; do
-	echo "    $f"
-    done
+    printf "    %s\n"  "${wordlists[@]}"
 
     cat ${wordlists[@]} |
 	LANG=C grep -v "'" |			# Skip words with apostrophes
@@ -74,7 +72,7 @@ main() {
 	echo "Linked $outputfile to scowl.txt"
     fi
 
-    echo "Next step: remove old 'data' directory and rerun generate_puzzles.py"
+    echo "Next: remove old 'data' directory and rerun 'generate_puzzles.py'"
     exit
 }
 
