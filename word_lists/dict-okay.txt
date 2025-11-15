@@ -535,4 +535,9 @@ doormat
 macula
 oracular
 anode, cathode
+minx
+zing, zinging
+angina
+naga
+zinia
 
