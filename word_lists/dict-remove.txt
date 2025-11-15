@@ -25,6 +25,7 @@ ultra
 dissatisfy, dissatisfies
 mys
 sangs
+lain
 
 
 # Many common nouns conjugated as less common verbs in SCOWL scowl/english-words.35
