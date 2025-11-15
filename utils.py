@@ -261,25 +261,23 @@ english-words.40 is not.
 To see possible inflections of a word, append .* like so:
 
     $ ./utils.py scowl alfalfa.*
-    word_lists/scowl/english-words.40: alfalfa
-    word_lists/scowl/english-words.80: alfalfas
+    word_lists/scowl-u8/english-words.40: alfalfa
+    word_lists/scowl-u8/english-words.40: alfalfa's
+    word_lists/scowl-u8/english-words.80: alfalfas
 
 ''')
 
 
 def scowl_lookup(pattern):
-        '''Grep the SCOWL word_lists for ^(pattern)$
-
-        NOTA BENE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
-        '''
+        '''Grep the SCOWL word_lists for ^(pattern)$'''
 
         if type(pattern) is not list:
                 pattern = [ pattern ]
 
         for p in pattern:
                 regex=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
-                for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
-                        with open(f, 'r', encoding='ISO-8859-1') as fp:
+                for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
+                        with open(f, 'r') as fp:
                                 output=re.findall(regex, fp.read())
                                 for w in output:
                                         try:
@@ -311,8 +309,8 @@ english-words.40 is not.
 To see possible inflections of a word, append .* like so:
 
     $ ./utils.py scowl alfalfa.*
-    word_lists/scowl/english-words.40: alfalfa
-    word_lists/scowl/english-words.80: alfalfas
+    word_lists/scowl-u8/english-words.40: alfalfa
+    word_lists/scowl-u8/english-words.80: alfalfas
 
 ''')
 
@@ -330,8 +328,8 @@ def scowl_lookup(pattern):
 
         for p in pattern:
                 regex=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
-                for f in sorted(glob.glob("word_lists/scowl/*"), key=scowl_sort):
-                        with open(f, 'r', encoding='ISO-8859-1') as fp:
+                for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
+                        with open(f, 'r') as fp:
                                 output=re.findall(regex, fp.read())
                                 for w in output:
                                         try:
