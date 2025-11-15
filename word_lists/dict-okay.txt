@@ -540,4 +540,5 @@ zing, zinging
 angina
 naga
 zinia
+bane
 
