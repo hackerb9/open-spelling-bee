@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 111,
-    "word_count": 25,
+    "total_score": 105,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "BENEFITED"
@@ -139,11 +139,6 @@
         },
         {
             "word": "TIDBIT",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
             "score": 6,
             "pangram": false
         }

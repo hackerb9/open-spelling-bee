@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 98,
-    "word_count": 25,
+    "total_score": 92,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "EXHIBITED"
@@ -140,11 +140,6 @@
         {
             "word": "TIED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
             "pangram": false
         }
     ]

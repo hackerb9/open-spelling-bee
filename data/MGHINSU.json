@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 125,
-    "word_count": 26,
+    "total_score": 104,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "MUSHING"
@@ -48,18 +48,8 @@
             "pangram": false
         },
         {
-            "word": "IMMUNISING",
-            "score": 10,
-            "pangram": false
-        },
-        {
             "word": "MIMING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MINIMISING",
-            "score": 10,
             "pangram": false
         },
         {
@@ -104,11 +94,6 @@
         },
         {
             "word": "MUGS",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MUMS",
             "score": 1,
             "pangram": false
         },

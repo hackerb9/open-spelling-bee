@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 91,
-    "word_count": 25,
+    "total_score": 83,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "ETYMOLOGY"
@@ -105,11 +105,6 @@
         {
             "word": "OMELET",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "OMELETTE",
-            "score": 8,
             "pangram": false
         },
         {

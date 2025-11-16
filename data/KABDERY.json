@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 112,
-    "word_count": 26,
+    "total_score": 105,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "DAYBREAK"
@@ -110,16 +110,6 @@
         {
             "word": "KAYAKED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "KERB",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "KERBED",
-            "score": 6,
             "pangram": false
         },
         {

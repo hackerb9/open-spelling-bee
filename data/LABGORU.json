@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 64,
-    "word_count": 25,
+    "total_score": 58,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "GLOBULAR"
@@ -110,11 +110,6 @@
         {
             "word": "LABOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LABOUR",
-            "score": 6,
             "pangram": false
         },
         {

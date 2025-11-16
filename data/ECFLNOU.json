@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 82,
-    "word_count": 25,
+    "total_score": 75,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "FLOUNCE"
@@ -125,11 +125,6 @@
         {
             "word": "NONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "OFFENCE",
-            "score": 7,
             "pangram": false
         },
         {

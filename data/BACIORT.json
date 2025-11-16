@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 108,
-    "word_count": 25,
+    "total_score": 102,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "ACROBATIC"
@@ -135,11 +135,6 @@
         {
             "word": "TABOO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
             "pangram": false
         },
         {

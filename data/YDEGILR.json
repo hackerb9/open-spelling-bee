@@ -13,20 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 104,
-    "word_count": 26,
+    "total_score": 86,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "GREEDILY"
     ],
     "word_list": [
-        {
-            "word": "DRILY",
-            "score": 5,
-            "pangram": false
-        },
         {
             "word": "DRYER",
             "score": 5,
@@ -84,21 +79,6 @@
         },
         {
             "word": "GREEDY",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
             "score": 6,
             "pangram": false
         },

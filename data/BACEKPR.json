@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 96,
-    "word_count": 25,
+    "total_score": 95,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "PAPERBACK"
@@ -134,11 +134,6 @@
         },
         {
             "word": "CRAB",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "KERB",
             "score": 1,
             "pangram": false
         },

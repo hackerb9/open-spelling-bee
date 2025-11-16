@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 114,
-    "word_count": 25,
+    "total_score": 106,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "REVERENTLY"
@@ -105,11 +105,6 @@
         {
             "word": "REVELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
-            "score": 8,
             "pangram": false
         },
         {
