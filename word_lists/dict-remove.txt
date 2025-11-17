@@ -17,7 +17,6 @@ properer
 properest
 guying, guyed
 zincked
-miaow, miaows, miaowed, miaowing
 alga
 callable
 blacked
@@ -26,6 +25,7 @@ dissatisfy, dissatisfies
 mys
 sangs
 lain
+OKed
 
 
 # Many common nouns conjugated as less common verbs in SCOWL scowl/english-words.35
@@ -157,12 +157,13 @@ kited, kiting
 phonied, phonying
 pigged, pigging
 pinioning
+quirked, quirking
 satellited, satelliting
 tided, tiding
 tinges, tinging
-viced, vicing, vised, vising
 uteri
-quirked
+viced, vicing, vised, vising
+
 
 
 
