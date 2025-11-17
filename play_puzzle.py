@@ -95,7 +95,11 @@ def play(puzzle):
                         if g in player.bonus_found or g in player.bonus_used:
                             print (f'You already found: {g}\n')
                         else:
-                            print (f'Oh! I was not expecting anyone to guess "{g}". Kudos to you!\n')
+                            print( fill(f'Oh! I was not expecting anyone to guess "{g}". Kudos to you!\n',
+                                        initial_indent=' '*4,
+                                        subsequent_indent=' '*4,
+                                        width=get_terminal_size().columns-8) )
+                            print()
                             player.bonus_found.append(g)
                     else:
                         print (f'Sorry, "{g}" is not a valid word\n')
@@ -175,8 +179,8 @@ def play(puzzle):
         # all words found (somehow this could be possible)
         if player.words == puzzle.word_count:
             print_status(puzzle, player)
-            print()
             print('Congratulations. You found them all!')
+            print()
             exit(0)
 
 def shuffle_letters(game_letters):
