@@ -14,7 +14,7 @@ Requires Python 3.x and nothing but standard Python libraries.
 [screenshot]: README.md.d/screenshot.webp "How many words can you spell from DEKORYW?"
 
 
-## to play
+## Getting started
 
 To download the game:
 
@@ -45,39 +45,7 @@ For a list of the previous NY Times letter selections, see [William Shunn's sbso
 
 [sbsolver]: https://www.sbsolver.com/s/1 "WAHORTY: May 9, 2018"
 
-## to generate new puzzles
-
-Set custom parameters in the `params.py` file, for example how many puzzles you want to create. Then generate by running:
-
-    python3 generate_puzzles.py
-
-Or to save the word stats:
-
-    python3 generate_puzzles.py > stats.csv
-
-Runtime depends on your parameters. For the default parameter settings, the code takes approximately 8 hours to generate 100 7-letter puzzles that meet the criteria (total points, total words, pangram count).
-
-To generate a certain letter combination, use:
-
-    python3 generate_puzzles.py AGFEDCB
-
-which will then be saved to `data/ABCDEFG.json`.
-
-## to change the size of the wordlist
-
-If you find the game overly facile or wish your recondite words were accepted, you can change the wordlist size. Change `size=35` to a larger number in [word_lists/mkscowl](word_lists/mkscowl) and then run `mkscowl` to create a new wordlist. You must run `generate_puzzles.py` (as detailed above) whenever the wordlist changes.
-
-|Description|Scowl size|Num words|Sample word|
-|-|-|-|-|
-|Small|`size=35`|40,198|abacus|
-|Medium|`size=50`|63,375|abeyance|
-|Large|`size=70`|115,332|abecedarian|
-|Huge|`size=80`|251,064|abapical|
-|Insane|`size=95`|435,726|abigailship|
-
----
-
-# Game Play
+## Game Play
 
 To play, build words with a minimum of 4 letters, using the letters provided.
 
@@ -160,7 +128,7 @@ Your guess: !h
 + Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`,
   `VAEGIRT`, `IACLPRT`, `LEIOPTX`
 
-+ Especially challenging: `RCEIMNP`, `TACHIMR`, `VAEGIRT`
++ Especially challenging: `RCEIMNP`, `YAEPRTX`, `TACHIMR`, `VAEGIRT`
 
 + Historic: 
   | Date               | Puzzle     | Title                        | Note                                                              |
@@ -171,7 +139,7 @@ Your guess: !h
   | 2018 May 9         | `WAHORTY`  | First Spelling Bee (Digital) | Sam Von Ehren releases first digital Spelling Bee, online.        |
   | 2025 March 12      | `FLOSUAB`  | First with `S`               | Sam Ezersky creates first to include the letter `S`.              |
 
-  ¹ Note: Before the digital Spelling Bee, the minimum length was 5 letters. 
+  ¹ Before the digital Spelling Bee, the minimum length was 5 letters. 
 
 [Polygon]: https://www.thetimes.com/article/how-to-play-polygon-gw30jlb39h2
 
@@ -194,22 +162,87 @@ Your guess: !h
 | QUEEN BEE  |  100% |
 
 Note, the original NYT ranking does not include 85%, but we added it
-because it is a common place for players to bog down.
+because it is a common place for players to bog down. Also note that
+this program has special features that the NYT lacks which come into
+effect at certain percentages:
 
+| % words or score | Effect                                            |
+|-----------------:|---------------------------------------------------|
+|               0% |                                                   |
+|               2% |                                                   |
+|               5% |                                                   |
+|               8% |                                                   |
+|              15% |                                                   |
+|              25% |                                                   |
+|              40% |                                                   |
+|              50% | List of unfound words will be shown upon quitting |
+|              70% | Bonus words can be exchanged for hints            |
+|              85% | One free hint                                     |
+|             100% | Game Over: You Win!                               |
 
-| Percent words or score | Effect                                                  |
-|-----------------------:|---------------------------------------------------------|
-|                     0% |                                                         |
-|                     2% |                                                         |
-|                     5% |                                                         |
-|                     8% |                                                         |
-|                    15% |                                                         |
-|                    25% |                                                         |
-|                    40% |                                                         |
-|                    50% | List of unfound words will be shown upon quitting       |
-|                    70% | (Earned hints become available? -- not implemented yet) |
-|                    85% | One free hint                                           |
-|                   100% | Game Over: You Win!                                     |
+---
+
+## to generate new puzzles
+
+Set custom parameters in the `params.py` file, for example how many puzzles you want to create. Then generate by running:
+
+    python3 generate_puzzles.py
+
+Or to save the word stats:
+
+    python3 generate_puzzles.py > stats.csv
+
+Runtime depends on your parameters. For the default parameter settings, the code takes approximately 8 hours to generate 100 7-letter puzzles that meet the criteria (total points, total words, pangram count).
+
+To generate a certain letter combination, use:
+
+    python3 generate_puzzles.py AGFEDCB
+
+which will then be saved to `data/ABCDEFG.json`.
+
+---
+
+## The mkscowl script
+
+Likely this script will go away as the settings get integrated into
+params.py, but for now choosing multiple wordlists is done by using a
+script which first merges them into a single file. 
+
+### to change the regional spelling
+
+The wordlist used to generate puzzles defaults to American English,
+but you can choose from Australian, British, Canadian, or all of the
+above. Change `spelling_categories={english,american}` (for
+example, to `spelling_categories={english,american,british}`) in
+[word_lists/mkscowl](word_lists/mkscowl) and then run `mkscowl` to
+create a new wordlist. You must run `generate_puzzles.py` (as detailed
+above) whenever the wordlist changes. You may wish to remove the old
+`data` directory first or previously generated puzzles will still be
+offered.
+
+| Spelling Category           | Num words (<=35) | Sample word |
+|-----------------------------|-----------------:|-------------|
+| english-words.{10,20,35}    |           48,427 | animal      |
+| american-words.{10,20,35}   |            1,277 | color       |
+| australian-words.{10,20,35} |            1,727 | billabong   |
+| british-words.{10,20,35}    |            1,338 | programme   |
+| canadian-words.{10,20,35}   |            1,312 | yogourt     |
+
+### to change the size of the wordlist
+
+If you find the game overly facile and desire puzzles that require a
+grandiloquent vocabulary, you may change `size=35` to a larger number
+in [word_lists/mkscowl](word_lists/mkscowl). Afterwards, run
+`./mkscowl` to create a new wordlist that will be used when you next
+run `generate_puzzles.py` (as detailed above).
+
+| Description | Scowl size | Num words | Sample word |
+|-------------|------------|-----------|-------------|
+| Small       | `size=35`  | 40,198    | abacus      |
+| Medium      | `size=50`  | 63,375    | abeyance    |
+| Large       | `size=70`  | 115,332   | abecedarian |
+| Huge        | `size=80`  | 251,064   | abapical    |
+| Insane      | `size=95`  | 435,726   | abigailship |
 
 
 ## To do
