@@ -1,0 +1,276 @@
+{
+    "letters": "GAEIKNP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 283,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PEAKING"
+    ],
+    "word_list": [
+        {
+            "word": "AGAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EKING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEENING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KEEPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KNEEING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PAGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEAKING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "PEEKING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEEPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIGPEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIKING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINKING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

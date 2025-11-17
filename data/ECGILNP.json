@@ -1,0 +1,236 @@
+{
+    "letters": "ECGILNP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 200,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PENCILING"
+    ],
+    "word_list": [
+        {
+            "word": "CEILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGEE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIPPLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEELING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENCIL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PENCILING",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PENICILLIN",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "PENNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIECING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIGPEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPELINE",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

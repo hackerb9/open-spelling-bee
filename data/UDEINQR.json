@@ -1,0 +1,216 @@
+{
+    "letters": "UDEINQR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 197,
+    "word_count": 38,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INQUIRED"
+    ],
+    "word_list": [
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDURE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EQUINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INQUIRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INQUIRED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEENED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUEER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUERIED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEUED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "QUININE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REQUIRED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUDDIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUINED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUNNIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNIQUE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNIQUER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "URINE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

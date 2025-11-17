@@ -1,0 +1,176 @@
+{
+    "letters": "CDEILNP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 162,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PENCILED"
+    ],
+    "word_list": [
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIPPED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DECLINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DECLINED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCIDENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INCLINED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INDEPENDENCE",
+            "score": 12,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PENCIL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PENCILED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PENICILLIN",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "PICNIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIECED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

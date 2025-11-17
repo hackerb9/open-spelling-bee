@@ -1,0 +1,276 @@
+{
+    "letters": "DAELMPX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 244,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXAMPLED"
+    ],
+    "word_list": [
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APPALLED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "APPEALED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "AXED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAMP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DAMPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EXAMPLED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "EXPELLED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LADED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LADLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LADLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAMED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEAPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MADAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MADAME",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PADDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PADDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PALED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PALLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PALMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEALED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEDAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEDALED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PLEAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLEADED",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

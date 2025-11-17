@@ -1,0 +1,171 @@
+{
+    "letters": "HABEILT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 97,
+    "word_count": 29,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HABITABLE"
+    ],
+    "word_list": [
+        {
+            "word": "ATHLETE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BATHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLITHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HABIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HABITABLE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "HABITAT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEALTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEATH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LETHAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LITHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THETA",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "letters": "NEGIJLW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 187,
+    "word_count": 33,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JEWELING"
+    ],
+    "word_list": [
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENII",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "JELLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JEWELING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "JIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "JINGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "JINGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGEE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WEEING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WELLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "WILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

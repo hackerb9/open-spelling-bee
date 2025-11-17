@@ -1,0 +1,276 @@
+{
+    "letters": "PACEILT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 195,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ELLIPTICAL"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEPT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APIECE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPEAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPETITE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "APPLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPITAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CLAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELLIPTIC",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ELLIPTICAL",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "EPIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EPILEPTIC",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "LAPEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAPT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALACE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PALATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PALATIAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALETTE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PELLET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PETAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PETITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLACATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PLACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLAICE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PLATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLEAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEPEE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

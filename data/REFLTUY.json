@@ -1,0 +1,276 @@
+{
+    "letters": "REFLTUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 224,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRETFULLY"
+    ],
+    "word_list": [
+        {
+            "word": "FEELER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FELLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FERRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FERRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLEETER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FLURRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLUTTER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FREELY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FREER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FRET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRETFUL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FRETFULLY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "FULLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FURRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUTURE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEFTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REFER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REFEREE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REFUEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REFUTE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUEFUL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUFFLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RULER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRUER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRUFFLE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TRULY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TURRET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TURTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UTTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UTTERLY",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

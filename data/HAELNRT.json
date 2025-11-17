@@ -1,0 +1,271 @@
+{
+    "letters": "HAELNRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 210,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENTHRALL"
+    ],
+    "word_list": [
+        {
+            "word": "ATHLETE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EARTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENTHRALL",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ETHER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ETHEREAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEALER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEALTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEART",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEARTEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HEARTH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEATER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEATH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEATHEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HEATHER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATHE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LATHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEATHER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LETHAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NETHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RATHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEETH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETHE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TENTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TETHER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEATER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "THEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THERE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THETA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THREAT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "THREATEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "THREE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "letters": "UDEHMOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 140,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HUMORED"
+    ],
+    "word_list": [
+        {
+            "word": "DEMURE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEMURER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOURER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRUM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HOUR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HUMDRUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HUMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HUMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HUMORED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "MURDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MURDERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MURDERER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MURMURED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUMMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUMORED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

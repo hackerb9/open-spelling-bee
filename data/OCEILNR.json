@@ -1,0 +1,276 @@
+{
+    "letters": "OCEILNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 209,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "RECONCILE"
+    ],
+    "word_list": [
+        {
+            "word": "CELLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COERCION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLLIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLONEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CONCERN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORNIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CORONER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CROON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENCORE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENROLL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNOCENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LICORICE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONELIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOONIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OILIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECOIL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECONCILE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

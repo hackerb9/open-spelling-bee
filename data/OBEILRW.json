@@ -1,0 +1,206 @@
+{
+    "letters": "OBEILRW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 136,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WOBBLIER"
+    ],
+    "word_list": [
+        {
+            "word": "BELLOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BELOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILLOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLOB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOILER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORROW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOWEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOWLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BROIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BROILER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELBOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOWER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOWLIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OILIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WILLOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOBBLIER",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "WORE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

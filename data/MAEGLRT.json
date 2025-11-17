@@ -1,0 +1,266 @@
+{
+    "letters": "MAEGLRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 175,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TELEGRAM"
+    ],
+    "word_list": [
+        {
+            "word": "ALARM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AMALGAMATE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "EMERGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRAMMAR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LAMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LLAMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALLET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MALT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MALTREAT",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAMMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MERGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "METAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REALM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TELEGRAM",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "letters": "EBILNOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 196,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "REBELLION"
+    ],
+    "word_list": [
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BIBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOILER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BORNE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRIBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BROILER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENROLL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LIBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONELIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LOONIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOONIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOBLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOBLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OILIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REBEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REBELLION",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "REBORN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RILE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROBBER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROBE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "letters": "MAEIRTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 178,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "IMMATURE"
+    ],
+    "word_list": [
+        {
+            "word": "AMATEUR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EMIR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EMIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IMITATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMMATURE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ITEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MARIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MARITIME",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MART",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MATTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MATURE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MATURER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MEAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MERIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MERRIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "METE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "METER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MITT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MURMUR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUTATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MUTT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MUTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REMIT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUMMER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAMMATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TERMITE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TIME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIMER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TRAUMA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TRIMMER",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "letters": "OAEGLNT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 161,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ELONGATE"
+    ],
+    "word_list": [
+        {
+            "word": "ALLOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALONG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ANALOG",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ANNOTATE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELONGATE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GALLON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLOAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOATEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONNA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAGOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TALON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TANGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TATTOO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEETOTAL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TOGA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONNAGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TONNE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TOTE",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

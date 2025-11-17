@@ -1,0 +1,271 @@
+{
+    "letters": "RELOTVY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 208,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OVERTLY"
+    ],
+    "word_list": [
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LETTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LORRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOTTERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LYRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OTTER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVERLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OVERT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OVERTLY",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RELY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RETORT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RETRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVELRY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVOLT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVOLVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVOLVER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ROLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROLLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEETER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TELLER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TERROR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOTTER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TREE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TROLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TROLLEY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TROT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VERY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOTER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

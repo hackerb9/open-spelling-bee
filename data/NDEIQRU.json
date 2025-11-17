@@ -1,0 +1,256 @@
+{
+    "letters": "NDEIQRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 233,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "INQUIRED"
+    ],
+    "word_list": [
+        {
+            "word": "DENIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DINNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINNERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENDURE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENDURED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EQUINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDEED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INQUIRE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INQUIRED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEDIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEENED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUININE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REINDEER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REINED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENDERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RIDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUINED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUNNIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNIQUE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNIQUER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "URINE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

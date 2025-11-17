@@ -1,0 +1,271 @@
+{
+    "letters": "VADELRT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 269,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TRAVELED"
+    ],
+    "word_list": [
+        {
+            "word": "ADVERT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AVERT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AVERTED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DELVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DELVED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ELEVATED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARVA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LARVAE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEAVED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEVEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVELED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEVER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEVERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAVELED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVEAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVEALED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVELED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVELER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVERT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERTED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REVVED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRAVEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TRAVELED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "TRAVELER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "VALET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALETED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VALVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VALVED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VATTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VELVET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VETTED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

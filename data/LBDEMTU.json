@@ -1,0 +1,276 @@
+{
+    "letters": "LBDEMTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 241,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TUMBLED"
+    ],
+    "word_list": [
+        {
+            "word": "BEETLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEETLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BELTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLUEBELL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BLUED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BULLET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUMBLEBEE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DELUDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUMBBELL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMBLEM",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEMME",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LUTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MELT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "METTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MULE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUMBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUMBLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TUMBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUMBLED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "TUMULT",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}
