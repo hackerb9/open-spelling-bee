@@ -190,6 +190,7 @@ ante, antes, anteed
 erinys, erinyes
 neaten
 gnomic
+gneiss
 eocene
 nonce
 moire
@@ -422,7 +423,6 @@ cadre
 meld
 midfield
 tantric			# 1977: Time Out 28 Jan.-3 Feb. 65/2 (Advt.), “Student of energy release, seeks tantric adept, female.”
-cairn
 riff
 tactician
 tiffin, tiffins
@@ -571,4 +571,9 @@ dreck				# Shoddy merchandise
 kook, kooks, kooky, kookier, kookiest, kookaburra
 retook
 corker				# (dated slang) A remarkable or excellent thing or person
+careen, careened, careening
+curare
+nacre, nacreous
+racecar
+arcana
 
