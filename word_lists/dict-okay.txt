@@ -562,4 +562,5 @@ eatery
 peppy
 arity				# the number of arguments a mathematical or algorithmic function can take
 teetery
-eyot				# A small island arising from a river, especially the River Thames.  “In the bottom of the hollow, stood a single copse like an eyot in a broad glade.”
+eyot				# A small island arising from a river, especially the River Thames.  Donald R. Stephenson: “In the bottom of the hollow, stood a single copse like an eyot in a broad glade.”
+aeon
