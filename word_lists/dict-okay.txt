@@ -571,9 +571,9 @@ dreck				# Shoddy merchandise
 kook, kooks, kooky, kookier, kookiest, kookaburra
 retook
 corker				# (dated slang) A remarkable or excellent thing or person
-careen, careened, careening
-curare
-nacre, nacreous
+careen, careened, careening	# [a. F. carène fem., keel, in phrases such as en carène = `on the careen', helped by the use of the verb.]  To turn (a ship) over on one side for cleaning, caulking, or repairing; to clean, caulk, etc. (a ship so turned over).  
+curare				# (kjuːˈrɑːriː) [A corruption of the native name (wuˈrɑli or wuˈrɑri) in the lang. of the Macusi Indians of Guiana, a Carib dialect. The consonant of the last syllable varies between l and r. In F. curare. (The initial c is said to represent a click or catch in the native pronunciation.) See ourali, wourali.]
+nacre, nacreous			# A smooth, shining, iridescent substance forming the inner layer in many shells; mother-of-pearl.
 racecar
 arcana
-
+dicier
