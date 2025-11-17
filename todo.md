@@ -11,7 +11,26 @@ See generate_puzzles.py.a
 
 ### Remove Britishisms
 
-People don't like having to do both "defense" and "defence". 
+* [x] People don't like having to do both "defense" and "defence". 
+
+### Allow variants
+
+"Variants" of words are stored in separate files. It is not clear what
+that means in terms of word frequency since they still have the
+numeric suffixes. For example, "yogurt" is not found in
+`english-words.*`, but it is in `variant_1-words.35`:
+
+``` console
+$ egrep 'y.*g.*rt$' *-words.35
+```
+
+|            | Primary | Variant 1         | Variant 2         |
+|------------|---------|-------------------|-------------------|
+| English    |         | yogurt            | yoghurt, yoghourt |
+| American   | yogurt  |                   |                   |
+| Australian | yoghurt | yogurt            | yoghourt          |
+| British    | yogurt  | yoghurt, yoghourt |                   |
+| Canadian   | yogourt | yogurt, yoghurt   | yoghourt          |
 
 ### Deal with too many rejected words
 
