@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 204,
-    "word_count": 47,
+    "total_score": 188,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CIVILIZED"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "DEVILLED",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "DICE",
             "score": 1,
             "pangram": false
@@ -195,11 +190,6 @@
         {
             "word": "LEVELED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LEVELLED",
-            "score": 8,
             "pangram": false
         },
         {

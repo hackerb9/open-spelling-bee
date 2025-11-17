@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 217,
-    "word_count": 49,
+    "total_score": 211,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "ACROBATIC"
@@ -220,11 +220,6 @@
         {
             "word": "TIARA",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 49,
+    "total_score": 180,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "GEOMETRY"
@@ -68,16 +68,6 @@
             "pangram": false
         },
         {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GROGGY",
             "score": 6,
             "pangram": false
@@ -124,11 +114,6 @@
         },
         {
             "word": "METER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "METRE",
             "score": 5,
             "pangram": false
         },
@@ -259,11 +244,6 @@
         },
         {
             "word": "TROT",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
             "score": 1,
             "pangram": false
         }

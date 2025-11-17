@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 174,
-    "word_count": 45,
+    "total_score": 166,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "CLIMBED"
@@ -170,11 +170,6 @@
         {
             "word": "LIBELED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LIBELLED",
-            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 27,
+    "total_score": 130,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "DEFUNCT"
@@ -89,16 +89,6 @@
         },
         {
             "word": "DEFECTED",
-            "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "DEFENCE",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DEFENCED",
             "score": 8,
             "pangram": false
         },

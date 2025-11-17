@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 244,
-    "word_count": 49,
+    "total_score": 237,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "GREATLY"
@@ -185,16 +185,6 @@
         {
             "word": "GREET",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
-            "score": 6,
             "pangram": false
         },
         {

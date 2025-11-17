@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 48,
+    "total_score": 190,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "BURROWED"
@@ -165,11 +165,6 @@
         {
             "word": "ODOR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ODOUR",
-            "score": 5,
             "pangram": false
         },
         {

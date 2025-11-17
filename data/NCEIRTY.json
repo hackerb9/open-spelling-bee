@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 240,
-    "word_count": 45,
+    "total_score": 234,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "ECCENTRICITY"
@@ -29,11 +29,6 @@
         },
         {
             "word": "CENTER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CENTRE",
             "score": 6,
             "pangram": false
         },

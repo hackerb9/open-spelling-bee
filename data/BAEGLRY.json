@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 217,
-    "word_count": 50,
+    "total_score": 216,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "AGREEABLY"
@@ -250,11 +250,6 @@
         {
             "word": "GRABBER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GYBE",
-            "score": 1,
             "pangram": false
         },
         {

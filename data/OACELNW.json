@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 36,
+    "total_score": 132,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "ALLOWANCE"
     ],
     "word_list": [
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALLOW",
             "score": 5,
@@ -195,11 +190,6 @@
         {
             "word": "WOOLEN",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WOOLLEN",
-            "score": 7,
             "pangram": false
         }
     ]

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 118,
-    "word_count": 30,
+    "total_score": 117,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "DIETARY"
@@ -150,11 +150,6 @@
         {
             "word": "TREATY",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
             "pangram": false
         },
         {

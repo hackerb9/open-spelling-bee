@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 38,
+    "total_score": 147,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "FLOWERY"
@@ -61,11 +61,6 @@
             "word": "FLOWERY",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "FLYER",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "FOLLOWER",

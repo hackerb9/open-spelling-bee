@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
-    "word_count": 33,
+    "total_score": 123,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "MARTYRDOM"
@@ -60,11 +60,6 @@
         {
             "word": "MATADOR",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

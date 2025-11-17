@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 181,
-    "word_count": 30,
+    "total_score": 175,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "AGONIZE"
@@ -25,11 +25,6 @@
         {
             "word": "AGAIN",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "AGEING",
-            "score": 6,
             "pangram": false
         },
         {

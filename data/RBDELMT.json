@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 240,
-    "word_count": 45,
+    "total_score": 235,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "TREMBLED"
@@ -135,11 +135,6 @@
         {
             "word": "METERED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "METRE",
-            "score": 5,
             "pangram": false
         },
         {

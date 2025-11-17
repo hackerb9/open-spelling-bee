@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
-    "word_count": 37,
+    "total_score": 161,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "VENERABLE"
@@ -150,11 +150,6 @@
         {
             "word": "REVELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
-            "score": 8,
             "pangram": false
         },
         {

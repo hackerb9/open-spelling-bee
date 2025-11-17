@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 100,
-    "word_count": 31,
+    "total_score": 99,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "MARATHON"
@@ -85,11 +85,6 @@
         {
             "word": "MATRON",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

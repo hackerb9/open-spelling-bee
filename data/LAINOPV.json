@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 108,
-    "word_count": 36,
+    "total_score": 103,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PAVILION"
@@ -29,11 +29,6 @@
         },
         {
             "word": "ANVIL",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
             "score": 5,
             "pangram": false
         },

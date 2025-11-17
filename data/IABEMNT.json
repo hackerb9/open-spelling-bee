@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 41,
+    "total_score": 175,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "AMBIENT"
@@ -26,11 +26,6 @@
             "word": "AMBIENT",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "ANAEMIA",
-            "score": 7,
-            "pangram": false
         },
         {
             "word": "ANEMIA",
@@ -220,11 +215,6 @@
         {
             "word": "TINT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
             "pangram": false
         }
     ]

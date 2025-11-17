@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 250,
-    "word_count": 50,
+    "total_score": 228,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "CONFOUNDED"
@@ -70,16 +70,6 @@
         {
             "word": "CONNED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DEFENCE",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DEFENCED",
-            "score": 8,
             "pangram": false
         },
         {
@@ -225,11 +215,6 @@
         {
             "word": "NUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "OFFENCE",
-            "score": 7,
             "pangram": false
         },
         {

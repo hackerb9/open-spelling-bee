@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 49,
+    "total_score": 221,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "EFFEMINATE"
@@ -25,11 +25,6 @@
         {
             "word": "AMEN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ANAEMIA",
-            "score": 7,
             "pangram": false
         },
         {
@@ -195,11 +190,6 @@
         {
             "word": "MATINEE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

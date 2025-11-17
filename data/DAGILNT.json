@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 31,
+    "total_score": 157,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "DILATING"
@@ -55,11 +55,6 @@
         {
             "word": "DIALING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DIALLING",
-            "score": 8,
             "pangram": false
         },
         {

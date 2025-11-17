@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 226,
-    "word_count": 50,
+    "total_score": 221,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "READILY"
@@ -110,11 +110,6 @@
         {
             "word": "DREARY",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DRILY",
-            "score": 5,
             "pangram": false
         },
         {

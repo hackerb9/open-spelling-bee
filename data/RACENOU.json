@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 219,
-    "word_count": 46,
+    "total_score": 212,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "ANNOUNCER"
@@ -200,11 +200,6 @@
         {
             "word": "RANCOR",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RANCOUR",
-            "score": 7,
             "pangram": false
         },
         {

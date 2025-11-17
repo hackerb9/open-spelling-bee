@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 164,
-    "word_count": 46,
+    "total_score": 163,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CONGEAL"
     ],
     "word_list": [
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALONE",
             "score": 5,

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 285,
-    "word_count": 50,
+    "total_score": 279,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "LOBBYING"
@@ -160,11 +160,6 @@
         {
             "word": "GONGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GYBING",
-            "score": 6,
             "pangram": false
         },
         {

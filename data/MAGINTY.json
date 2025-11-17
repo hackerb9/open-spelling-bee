@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 33,
+    "total_score": 194,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "MAGNANIMITY"
@@ -130,11 +130,6 @@
         {
             "word": "MATING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

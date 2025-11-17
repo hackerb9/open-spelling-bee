@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 39,
+    "total_score": 143,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "FRACTURE"
@@ -40,11 +40,6 @@
         {
             "word": "AFTEREFFECT",
             "score": 11,
-            "pangram": false
-        },
-        {
-            "word": "ARTEFACT",
-            "score": 8,
             "pangram": false
         },
         {

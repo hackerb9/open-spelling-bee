@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 27,
+    "total_score": 101,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "ADJOINED"
@@ -31,11 +31,6 @@
             "word": "ADJOINED",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "ANON",

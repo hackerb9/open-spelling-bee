@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 30,
+    "total_score": 96,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "BACKBONE"
     ],
     "word_list": [
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ANON",
             "score": 1,

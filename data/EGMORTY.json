@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
-    "word_count": 45,
+    "total_score": 158,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "GEOMETRY"
@@ -68,16 +68,6 @@
             "pangram": false
         },
         {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "MEET",
             "score": 1,
             "pangram": false
@@ -124,11 +114,6 @@
         },
         {
             "word": "METER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "METRE",
             "score": 5,
             "pangram": false
         },
@@ -240,11 +225,6 @@
         {
             "word": "TREMOR",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
             "pangram": false
         }
     ]

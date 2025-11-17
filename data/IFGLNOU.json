@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 299,
-    "word_count": 50,
+    "total_score": 293,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FOULING"
@@ -86,11 +86,6 @@
             "word": "FOULING",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "FULFIL",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "FULFILL",

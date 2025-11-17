@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 31,
+    "total_score": 182,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "BURYING"
@@ -109,11 +109,6 @@
         },
         {
             "word": "GUYING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GYBING",
             "score": 6,
             "pangram": false
         },

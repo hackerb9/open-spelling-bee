@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 141,
-    "word_count": 37,
+    "total_score": 135,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "CELIBATE"
@@ -199,11 +199,6 @@
         },
         {
             "word": "TABLET",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
             "score": 6,
             "pangram": false
         }

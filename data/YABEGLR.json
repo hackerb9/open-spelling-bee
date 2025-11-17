@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 41,
+    "total_score": 178,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "AGREEABLY"
@@ -145,21 +145,6 @@
         {
             "word": "GRAYER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GYBE",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 90,
-    "word_count": 33,
+    "total_score": 85,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PROFOUND"
@@ -105,11 +105,6 @@
         {
             "word": "ODOR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ODOUR",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 42,
+    "total_score": 137,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "BATHROOM"
@@ -109,11 +109,6 @@
         },
         {
             "word": "MATH",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },

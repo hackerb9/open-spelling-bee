@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 37,
+    "total_score": 177,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "BALANCED"
@@ -100,11 +100,6 @@
         {
             "word": "CANCELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "CANCELLED",
-            "score": 9,
             "pangram": false
         },
         {

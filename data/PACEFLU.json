@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 77,
-    "word_count": 26,
+    "total_score": 72,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "PEACEFUL"
     ],
     "word_list": [
-        {
-            "word": "APPAL",
-            "score": 5,
-            "pangram": false
-        },
         {
             "word": "APPALL",
             "score": 6,

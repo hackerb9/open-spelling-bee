@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 46,
+    "total_score": 188,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "PILLAGED"
@@ -70,11 +70,6 @@
         {
             "word": "DIALED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DIALLED",
-            "score": 7,
             "pangram": false
         },
         {

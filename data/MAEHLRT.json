@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 47,
+    "total_score": 148,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "THERMAL"
@@ -138,11 +138,6 @@
             "pangram": false
         },
         {
-            "word": "MATT",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "MATTE",
             "score": 5,
             "pangram": false
@@ -189,11 +184,6 @@
         },
         {
             "word": "METER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "METRE",
             "score": 5,
             "pangram": false
         },

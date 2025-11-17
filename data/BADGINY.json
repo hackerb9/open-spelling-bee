@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 27,
+    "total_score": 148,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "BANDYING"
@@ -144,11 +144,6 @@
         },
         {
             "word": "GIBING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GYBING",
             "score": 6,
             "pangram": false
         },

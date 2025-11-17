@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 245,
-    "word_count": 47,
+    "total_score": 244,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "TENDERLY"
@@ -250,11 +250,6 @@
         {
             "word": "TRENDY",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
             "pangram": false
         }
     ]

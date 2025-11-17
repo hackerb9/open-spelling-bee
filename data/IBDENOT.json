@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 241,
-    "word_count": 48,
+    "total_score": 235,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "OBEDIENT"
@@ -254,11 +254,6 @@
         },
         {
             "word": "TINTED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
             "score": 6,
             "pangram": false
         }

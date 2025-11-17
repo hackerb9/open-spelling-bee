@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 99,
-    "word_count": 33,
+    "total_score": 94,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "AMPLIFY"
@@ -39,11 +39,6 @@
         },
         {
             "word": "AMPLY",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
             "score": 5,
             "pangram": false
         },

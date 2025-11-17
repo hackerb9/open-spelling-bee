@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 41,
+    "total_score": 155,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "FLUNKED"
@@ -40,11 +40,6 @@
         {
             "word": "DUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUELLED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -133,11 +128,6 @@
             "pangram": false
         },
         {
-            "word": "FUELLED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "FULL",
             "score": 1,
             "pangram": false
@@ -158,11 +148,6 @@
             "pangram": false
         },
         {
-            "word": "FUNNELLED",
-            "score": 9,
-            "pangram": false
-        },
-        {
             "word": "KEEL",
             "score": 1,
             "pangram": false
@@ -180,11 +165,6 @@
         {
             "word": "KENNELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "KENNELLED",
-            "score": 9,
             "pangram": false
         },
         {

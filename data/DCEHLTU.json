@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 47,
+    "total_score": 222,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "CLUTCHED"
@@ -145,11 +145,6 @@
         {
             "word": "DUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUELLED",
-            "score": 7,
             "pangram": false
         },
         {

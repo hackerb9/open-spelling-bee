@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 207,
-    "word_count": 47,
+    "total_score": 195,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "RECONCILE"
@@ -103,11 +103,6 @@
             "pangram": false
         },
         {
-            "word": "ENROL",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "ENROLL",
             "score": 6,
             "pangram": false
@@ -140,11 +135,6 @@
         {
             "word": "IRONIC",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LICENCE",
-            "score": 7,
             "pangram": false
         },
         {

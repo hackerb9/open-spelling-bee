@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
-    "word_count": 41,
+    "total_score": 156,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "FLOUTED"
@@ -55,11 +55,6 @@
         {
             "word": "DUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUELLED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -155,11 +150,6 @@
         {
             "word": "FUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "FUELLED",
-            "score": 7,
             "pangram": false
         },
         {

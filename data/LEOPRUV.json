@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 163,
-    "word_count": 43,
+    "total_score": 155,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "PULLOVER"
@@ -190,11 +190,6 @@
         {
             "word": "REVELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
-            "score": 8,
             "pangram": false
         },
         {

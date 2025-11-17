@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
-    "word_count": 41,
+    "total_score": 165,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "ACCEPTABLE"
@@ -31,11 +31,6 @@
             "word": "ACCEPTABLE",
             "score": 10,
             "pangram": true
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "APPALL",

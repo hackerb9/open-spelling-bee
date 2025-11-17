@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
-    "word_count": 47,
+    "total_score": 164,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "VOYAGER"
@@ -124,16 +124,6 @@
         },
         {
             "word": "GRAYER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
             "score": 6,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 196,
-    "word_count": 45,
+    "total_score": 195,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "COUNTENANCE"
@@ -30,11 +30,6 @@
         {
             "word": "ACCOUNTANT",
             "score": 10,
-            "pangram": false
-        },
-        {
-            "word": "AEON",
-            "score": 1,
             "pangram": false
         },
         {

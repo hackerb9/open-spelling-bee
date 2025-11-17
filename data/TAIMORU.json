@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 41,
+    "total_score": 131,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "MORATORIUM"
@@ -49,11 +49,6 @@
         },
         {
             "word": "MART",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },
@@ -215,11 +210,6 @@
         {
             "word": "TUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TUMOUR",
-            "score": 6,
             "pangram": false
         },
         {

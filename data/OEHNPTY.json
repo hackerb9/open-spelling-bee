@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 34,
+    "total_score": 106,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "NEOPHYTE"
@@ -100,11 +100,6 @@
         {
             "word": "PHONE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PHONEY",
-            "score": 6,
             "pangram": false
         },
         {

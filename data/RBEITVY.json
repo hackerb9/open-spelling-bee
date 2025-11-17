@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
-    "word_count": 39,
+    "total_score": 183,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "BREVITY"
@@ -185,11 +185,6 @@
         {
             "word": "TRITER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 49,
+    "total_score": 216,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "EXAMPLED"
@@ -35,11 +35,6 @@
         {
             "word": "APEX",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
             "pangram": false
         },
         {
@@ -210,11 +205,6 @@
         {
             "word": "PEDALED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PEDALLED",
-            "score": 8,
             "pangram": false
         },
         {

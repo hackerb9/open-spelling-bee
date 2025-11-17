@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 47,
+    "total_score": 178,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "FLANKED"
@@ -140,11 +140,6 @@
         {
             "word": "FLANNELED",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "FLANNELLED",
-            "score": 10,
             "pangram": false
         },
         {

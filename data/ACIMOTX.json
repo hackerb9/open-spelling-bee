@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 28,
+    "total_score": 101,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "AXIOMATIC"
@@ -100,11 +100,6 @@
         {
             "word": "MAMMA",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

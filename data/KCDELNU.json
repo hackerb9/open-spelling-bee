@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 113,
-    "word_count": 27,
+    "total_score": 104,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "KNUCKLED"
@@ -100,11 +100,6 @@
         {
             "word": "KENNELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "KENNELLED",
-            "score": 9,
             "pangram": false
         },
         {

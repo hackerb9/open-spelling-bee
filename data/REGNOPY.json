@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 148,
-    "word_count": 36,
+    "total_score": 135,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "PROGENY"
@@ -78,16 +78,6 @@
             "pangram": false
         },
         {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GROGGY",
             "score": 6,
             "pangram": false
@@ -95,11 +85,6 @@
         {
             "word": "GROPE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GROYNE",
-            "score": 6,
             "pangram": false
         },
         {

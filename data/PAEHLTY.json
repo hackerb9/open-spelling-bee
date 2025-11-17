@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 153,
-    "word_count": 42,
+    "total_score": 148,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "TELEPATHY"
@@ -30,11 +30,6 @@
         {
             "word": "APATHY",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
             "pangram": false
         },
         {

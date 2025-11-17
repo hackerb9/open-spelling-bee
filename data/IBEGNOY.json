@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 198,
-    "word_count": 34,
+    "total_score": 192,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "OBEYING"
@@ -155,11 +155,6 @@
         {
             "word": "GONGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GYBING",
-            "score": 6,
             "pangram": false
         },
         {

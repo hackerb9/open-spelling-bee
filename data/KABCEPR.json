@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 32,
+    "total_score": 111,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "PAPERBACK"
@@ -115,11 +115,6 @@
         {
             "word": "KEEPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "KERB",
-            "score": 1,
             "pangram": false
         },
         {

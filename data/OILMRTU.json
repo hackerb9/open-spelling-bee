@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 90,
-    "word_count": 33,
+    "total_score": 73,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "TURMOIL"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "MOULT",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "OMIT",
             "score": 1,
             "pangram": false
@@ -110,11 +105,6 @@
         {
             "word": "RUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMOUR",
-            "score": 6,
             "pangram": false
         },
         {
@@ -170,11 +160,6 @@
         {
             "word": "TUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TUMOUR",
-            "score": 6,
             "pangram": false
         },
         {

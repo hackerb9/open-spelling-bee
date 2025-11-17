@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 119,
-    "word_count": 32,
+    "total_score": 114,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "POLLUTION"
@@ -35,11 +35,6 @@
         {
             "word": "LOOP",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LUPIN",
-            "score": 5,
             "pangram": false
         },
         {

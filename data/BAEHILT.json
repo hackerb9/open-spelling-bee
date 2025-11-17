@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 39,
+    "total_score": 139,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "HABITABLE"
@@ -209,11 +209,6 @@
         },
         {
             "word": "TABLET",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
             "score": 6,
             "pangram": false
         }

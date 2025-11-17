@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 250,
-    "word_count": 40,
+    "total_score": 242,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "PRECEDENT"
@@ -185,11 +185,6 @@
         {
             "word": "PREENED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PRETENCE",
-            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 115,
-    "word_count": 36,
+    "total_score": 109,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "TOUGHEN"
@@ -55,11 +55,6 @@
         {
             "word": "NOTE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "NOUGHT",
-            "score": 6,
             "pangram": false
         },
         {

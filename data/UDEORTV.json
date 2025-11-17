@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 240,
-    "word_count": 47,
+    "total_score": 235,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "DEVOUTER"
@@ -79,11 +79,6 @@
         },
         {
             "word": "DUVET",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ODOUR",
             "score": 5,
             "pangram": false
         },

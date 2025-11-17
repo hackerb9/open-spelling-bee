@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 244,
-    "word_count": 48,
+    "total_score": 237,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "BULLDOGGED"
@@ -180,11 +180,6 @@
         {
             "word": "DUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUELLED",
-            "score": 7,
             "pangram": false
         },
         {

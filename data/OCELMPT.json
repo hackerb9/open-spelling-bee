@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 47,
+    "total_score": 113,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "COMPLETE"
@@ -150,11 +150,6 @@
         {
             "word": "OMELET",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "OMELETTE",
-            "score": 8,
             "pangram": false
         },
         {

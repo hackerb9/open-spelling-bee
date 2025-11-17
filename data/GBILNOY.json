@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 267,
-    "word_count": 46,
+    "total_score": 261,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "LOBBYING"
@@ -155,11 +155,6 @@
         {
             "word": "GOON",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GYBING",
-            "score": 6,
             "pangram": false
         },
         {

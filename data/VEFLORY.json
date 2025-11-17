@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 133,
-    "word_count": 27,
+    "total_score": 125,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "FLYOVER"
@@ -110,11 +110,6 @@
         {
             "word": "REVELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
-            "score": 8,
             "pangram": false
         },
         {

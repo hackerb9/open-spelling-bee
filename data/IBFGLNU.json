@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 254,
-    "word_count": 40,
+    "total_score": 248,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "BLUFFING"
@@ -120,11 +120,6 @@
         {
             "word": "FLUFFING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "FULFIL",
-            "score": 6,
             "pangram": false
         },
         {

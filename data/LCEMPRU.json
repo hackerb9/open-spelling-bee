@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 115,
-    "word_count": 33,
+    "total_score": 107,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "CRUMPLE"
@@ -45,11 +45,6 @@
         {
             "word": "CRUELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CRUELLER",
-            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 35,
+    "total_score": 158,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "CLINKED"
@@ -140,11 +140,6 @@
         {
             "word": "LICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LICENCE",
-            "score": 7,
             "pangram": false
         },
         {

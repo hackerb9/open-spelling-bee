@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 82,
-    "word_count": 33,
+    "total_score": 77,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "POLLUTION"
@@ -75,11 +75,6 @@
         {
             "word": "LULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LUPIN",
-            "score": 5,
             "pangram": false
         },
         {

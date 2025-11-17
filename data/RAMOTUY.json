@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 45,
+    "total_score": 163,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "MORTUARY"
@@ -35,16 +35,6 @@
         {
             "word": "ARMORY",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ARMOUR",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ARMOURY",
-            "score": 7,
             "pangram": false
         },
         {
@@ -178,11 +168,6 @@
             "pangram": false
         },
         {
-            "word": "RUMOUR",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "TARRY",
             "score": 5,
             "pangram": false
@@ -230,11 +215,6 @@
         {
             "word": "TUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TUMOUR",
-            "score": 6,
             "pangram": false
         },
         {

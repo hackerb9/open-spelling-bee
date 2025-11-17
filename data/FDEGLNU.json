@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 142,
-    "word_count": 33,
+    "total_score": 126,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "ENGULFED"
@@ -143,11 +143,6 @@
             "pangram": false
         },
         {
-            "word": "FUELLED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "FULL",
             "score": 1,
             "pangram": false
@@ -175,11 +170,6 @@
         {
             "word": "FUNNELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "FUNNELLED",
-            "score": 9,
             "pangram": false
         },
         {

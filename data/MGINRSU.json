@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 31,
+    "total_score": 141,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "SURMISING"
@@ -43,18 +43,8 @@
             "pangram": false
         },
         {
-            "word": "IMMUNISING",
-            "score": 10,
-            "pangram": false
-        },
-        {
             "word": "MIMING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MINIMISING",
-            "score": 10,
             "pangram": false
         },
         {
@@ -104,11 +94,6 @@
         },
         {
             "word": "MUGS",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MUMS",
             "score": 1,
             "pangram": false
         },

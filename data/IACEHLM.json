@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 26,
+    "total_score": 91,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "CHEMICAL"
@@ -50,11 +50,6 @@
         {
             "word": "CHILL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CHILLI",
-            "score": 6,
             "pangram": false
         },
         {

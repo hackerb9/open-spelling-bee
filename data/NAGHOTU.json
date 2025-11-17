@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 72,
-    "word_count": 27,
+    "total_score": 66,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "HANGOUT"
@@ -99,11 +99,6 @@
         },
         {
             "word": "NOUGAT",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "NOUGHT",
             "score": 6,
             "pangram": false
         },

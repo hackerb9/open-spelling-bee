@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 41,
+    "total_score": 158,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "CRUMBLE"
@@ -105,11 +105,6 @@
         {
             "word": "CRUELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CRUELLER",
-            "score": 8,
             "pangram": false
         },
         {

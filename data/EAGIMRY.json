@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 43,
+    "total_score": 166,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "IMAGERY"
@@ -108,16 +108,6 @@
             "pangram": false
         },
         {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GRIME",
             "score": 5,
             "pangram": false
@@ -154,11 +144,6 @@
         },
         {
             "word": "MEAGER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MEAGRE",
             "score": 6,
             "pangram": false
         },

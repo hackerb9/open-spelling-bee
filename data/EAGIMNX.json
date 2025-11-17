@@ -15,26 +15,16 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 34,
+    "total_score": 139,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "EXAMINING"
     ],
     "word_list": [
         {
-            "word": "AGEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "AMEN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ANAEMIA",
-            "score": 7,
             "pangram": false
         },
         {

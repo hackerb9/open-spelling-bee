@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 41,
+    "total_score": 181,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "TYPEWRITER"
@@ -181,11 +181,6 @@
             "word": "TYPEWRITER",
             "score": 10,
             "pangram": true
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "WEPT",

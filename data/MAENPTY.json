@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
-    "word_count": 26,
+    "total_score": 85,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "PAYMENT"
@@ -74,11 +74,6 @@
         },
         {
             "word": "MATE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },

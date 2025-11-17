@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 125,
-    "word_count": 29,
+    "total_score": 117,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "BLISSFULLY"
@@ -73,11 +73,6 @@
             "pangram": false
         },
         {
-            "word": "BUSS",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "BUSY",
             "score": 1,
             "pangram": false
@@ -105,11 +100,6 @@
         {
             "word": "FULFILLS",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "FULFILS",
-            "score": 7,
             "pangram": false
         },
         {

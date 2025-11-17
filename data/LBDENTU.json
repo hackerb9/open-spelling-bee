@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 230,
-    "word_count": 48,
+    "total_score": 214,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "BLUNTED"
@@ -168,11 +168,6 @@
             "pangram": false
         },
         {
-            "word": "DUELLED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DULL",
             "score": 1,
             "pangram": false
@@ -255,11 +250,6 @@
         {
             "word": "TUNNELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "TUNNELLED",
-            "score": 9,
             "pangram": false
         }
     ]

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 199,
-    "word_count": 45,
+    "total_score": 191,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "BLACKED"
@@ -240,11 +240,6 @@
         {
             "word": "LABELED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LABELLED",
-            "score": 8,
             "pangram": false
         }
     ]

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 244,
-    "word_count": 48,
+    "total_score": 229,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "OVERKILL"
@@ -45,11 +45,6 @@
         {
             "word": "EVILER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "EVILLER",
-            "score": 7,
             "pangram": false
         },
         {
@@ -160,11 +155,6 @@
         {
             "word": "REVELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
-            "score": 8,
             "pangram": false
         },
         {

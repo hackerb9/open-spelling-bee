@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 41,
+    "total_score": 179,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "PLUMMETED"
@@ -180,11 +180,6 @@
         {
             "word": "PUMMELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "PUMMELLED",
-            "score": 9,
             "pangram": false
         },
         {

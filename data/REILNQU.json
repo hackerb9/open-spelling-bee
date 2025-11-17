@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
-    "word_count": 26,
+    "total_score": 116,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "QUEENLIER"
@@ -30,11 +30,6 @@
         {
             "word": "EERIER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ENQUIRE",
-            "score": 7,
             "pangram": false
         },
         {

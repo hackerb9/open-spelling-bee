@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 218,
-    "word_count": 47,
+    "total_score": 202,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CLINKED"
@@ -118,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "KENNELLED",
-            "score": 9,
-            "pangram": false
-        },
-        {
             "word": "KILL",
             "score": 1,
             "pangram": false
@@ -170,11 +165,6 @@
         {
             "word": "LICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LICENCE",
-            "score": 7,
             "pangram": false
         },
         {

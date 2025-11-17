@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
-    "word_count": 31,
+    "total_score": 119,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "CONDUCTOR"
@@ -89,11 +89,6 @@
         },
         {
             "word": "OCCUR",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ODOUR",
             "score": 5,
             "pangram": false
         },

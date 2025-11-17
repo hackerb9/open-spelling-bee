@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 33,
+    "total_score": 132,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "ROUGHEN"
@@ -95,11 +95,6 @@
         {
             "word": "HONOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "HONOUR",
-            "score": 6,
             "pangram": false
         },
         {

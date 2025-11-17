@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 150,
-    "word_count": 40,
+    "total_score": 145,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "REBELLION"
@@ -75,11 +75,6 @@
         {
             "word": "BROILER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ENROL",
-            "score": 5,
             "pangram": false
         },
         {

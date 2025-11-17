@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 150,
-    "word_count": 34,
+    "total_score": 138,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "GOURMET"
@@ -128,11 +128,6 @@
             "pangram": false
         },
         {
-            "word": "RUMOUR",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "TORTURE",
             "score": 7,
             "pangram": false
@@ -165,11 +160,6 @@
         {
             "word": "TUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TUMOUR",
-            "score": 6,
             "pangram": false
         },
         {

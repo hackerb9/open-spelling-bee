@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 192,
-    "word_count": 41,
+    "total_score": 184,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "GREATLY"
@@ -96,16 +96,6 @@
             "word": "GREATLY",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "GREY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GREYER",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "GYRATE",
@@ -205,11 +195,6 @@
         {
             "word": "TREATY",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
             "pangram": false
         },
         {

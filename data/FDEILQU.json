@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 159,
-    "word_count": 36,
+    "total_score": 146,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "LIQUEFIED"
@@ -159,16 +159,6 @@
         },
         {
             "word": "FUELED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "FUELLED",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "FULFIL",
             "score": 6,
             "pangram": false
         },

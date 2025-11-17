@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 39,
+    "total_score": 151,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "LIGHTER"
@@ -140,11 +140,6 @@
         {
             "word": "LITHER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LITRE",
-            "score": 5,
             "pangram": false
         },
         {

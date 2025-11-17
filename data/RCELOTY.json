@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 223,
-    "word_count": 47,
+    "total_score": 222,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "CORRECTLY"
@@ -249,11 +249,6 @@
         },
         {
             "word": "TROT",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
             "score": 1,
             "pangram": false
         }

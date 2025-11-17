@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 47,
+    "total_score": 187,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "OVERHEAT"
@@ -229,11 +229,6 @@
         },
         {
             "word": "THEATER",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "THEATRE",
             "score": 7,
             "pangram": false
         },

@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 176,
-    "word_count": 36,
+    "total_score": 169,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "JUMBLED"
@@ -110,11 +110,6 @@
         {
             "word": "DUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUELLED",
-            "score": 7,
             "pangram": false
         },
         {

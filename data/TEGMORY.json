@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 139,
-    "word_count": 36,
+    "total_score": 133,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "GEOMETRY"
@@ -54,11 +54,6 @@
         },
         {
             "word": "METER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "METRE",
             "score": 5,
             "pangram": false
         },
@@ -194,11 +189,6 @@
         },
         {
             "word": "TROT",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
             "score": 1,
             "pangram": false
         }

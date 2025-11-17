@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 45,
+    "total_score": 188,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "GAMBLER"
@@ -189,11 +189,6 @@
         },
         {
             "word": "MEAGER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MEAGRE",
             "score": 6,
             "pangram": false
         },

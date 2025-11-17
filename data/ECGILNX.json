@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 28,
+    "total_score": 133,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "EXCELLING"
@@ -120,11 +120,6 @@
         {
             "word": "LICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LICENCE",
-            "score": 7,
             "pangram": false
         },
         {

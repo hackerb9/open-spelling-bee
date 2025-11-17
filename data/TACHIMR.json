@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 146,
-    "word_count": 35,
+    "total_score": 145,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "MATRIARCH"
@@ -126,11 +126,6 @@
             "word": "MATRIARCH",
             "score": 9,
             "pangram": true
-        },
-        {
-            "word": "MATT",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "MIRTH",

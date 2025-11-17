@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 210,
-    "word_count": 45,
+    "total_score": 200,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "BRIEFLY"
@@ -113,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "FIBRE",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "FIERIER",
             "score": 7,
             "pangram": false
@@ -164,11 +159,6 @@
         },
         {
             "word": "FLIER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FLYER",
             "score": 5,
             "pangram": false
         },

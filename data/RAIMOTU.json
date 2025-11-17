@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 159,
-    "word_count": 40,
+    "total_score": 141,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "MORATORIUM"
@@ -35,11 +35,6 @@
         {
             "word": "ARMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ARMOUR",
-            "score": 6,
             "pangram": false
         },
         {
@@ -148,11 +143,6 @@
             "pangram": false
         },
         {
-            "word": "RUMOUR",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "TART",
             "score": 1,
             "pangram": false
@@ -210,11 +200,6 @@
         {
             "word": "TUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TUMOUR",
-            "score": 6,
             "pangram": false
         },
         {

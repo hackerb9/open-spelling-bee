@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 26,
+    "total_score": 96,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "CALCULATOR"
@@ -55,11 +55,6 @@
         {
             "word": "CLOUT",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "COLOUR",
-            "score": 6,
             "pangram": false
         },
         {

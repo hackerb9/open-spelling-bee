@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 225,
-    "word_count": 46,
+    "total_score": 219,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "EXTERNAL"
@@ -150,11 +150,6 @@
         {
             "word": "LEARN",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEARNT",
-            "score": 6,
             "pangram": false
         },
         {

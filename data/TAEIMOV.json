@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 101,
-    "word_count": 36,
+    "total_score": 100,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "MOTIVATE"
@@ -59,11 +59,6 @@
         },
         {
             "word": "MATE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },

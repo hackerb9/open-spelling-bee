@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 119,
-    "word_count": 30,
+    "total_score": 114,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "WHIRLED"
@@ -161,11 +161,6 @@
             "word": "WHIRLED",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "WHIRR",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "WHIRRED",

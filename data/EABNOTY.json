@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 117,
-    "word_count": 38,
+    "total_score": 116,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "BAYONET"
@@ -34,11 +34,6 @@
         },
         {
             "word": "ABET",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "AEON",
             "score": 1,
             "pangram": false
         },

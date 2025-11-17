@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 105,
-    "word_count": 28,
+    "total_score": 99,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "CHAPLAIN"
@@ -45,11 +45,6 @@
         {
             "word": "CHILL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CHILLI",
-            "score": 6,
             "pangram": false
         },
         {

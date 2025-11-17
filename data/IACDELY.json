@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
-    "word_count": 40,
+    "total_score": 162,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "DELICACY"
@@ -105,11 +105,6 @@
         {
             "word": "DIALED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DIALLED",
-            "score": 7,
             "pangram": false
         },
         {

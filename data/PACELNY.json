@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 39,
+    "total_score": 140,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "ANYPLACE"
@@ -26,11 +26,6 @@
             "word": "ANYPLACE",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "APPALL",

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 153,
-    "word_count": 33,
+    "total_score": 145,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "OVERTLY"
@@ -100,11 +100,6 @@
         {
             "word": "REVELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
-            "score": 8,
             "pangram": false
         },
         {

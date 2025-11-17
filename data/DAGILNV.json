@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 34,
+    "total_score": 179,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "INVALIDING"
@@ -50,11 +50,6 @@
         {
             "word": "DIALING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DIALLING",
-            "score": 8,
             "pangram": false
         },
         {

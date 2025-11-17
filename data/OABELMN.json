@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
-    "word_count": 37,
+    "total_score": 109,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "NOBLEMAN"
     ],
     "word_list": [
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALONE",
             "score": 5,

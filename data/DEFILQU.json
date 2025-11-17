@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 231,
-    "word_count": 48,
+    "total_score": 217,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "LIQUEFIED"
@@ -95,11 +95,6 @@
         {
             "word": "DUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUELLED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -205,11 +200,6 @@
         {
             "word": "FUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "FUELLED",
-            "score": 7,
             "pangram": false
         },
         {

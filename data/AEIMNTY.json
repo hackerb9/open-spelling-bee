@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 211,
-    "word_count": 45,
+    "total_score": 203,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "AMENITY"
@@ -31,11 +31,6 @@
             "word": "AMENITY",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "ANAEMIA",
-            "score": 7,
-            "pangram": false
         },
         {
             "word": "ANEMIA",
@@ -165,11 +160,6 @@
         {
             "word": "MATINEE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

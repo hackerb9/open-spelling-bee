@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 135,
-    "word_count": 36,
+    "total_score": 130,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PROBABLY"
@@ -40,11 +40,6 @@
         {
             "word": "ALLY",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
             "pangram": false
         },
         {

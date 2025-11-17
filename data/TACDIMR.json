@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 108,
-    "word_count": 27,
+    "total_score": 107,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "DRAMATIC"
@@ -94,11 +94,6 @@
         },
         {
             "word": "MART",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },

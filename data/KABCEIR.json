@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
-    "word_count": 27,
+    "total_score": 109,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "ICEBREAKER"
@@ -126,11 +126,6 @@
             "word": "ICEBREAKER",
             "score": 10,
             "pangram": true
-        },
-        {
-            "word": "KERB",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "KICK",

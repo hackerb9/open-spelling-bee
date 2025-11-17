@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 29,
+    "total_score": 105,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "FLUNKED"
@@ -128,11 +128,6 @@
             "pangram": false
         },
         {
-            "word": "FUELLED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "FULL",
             "score": 1,
             "pangram": false
@@ -160,11 +155,6 @@
         {
             "word": "FUNNELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "FUNNELLED",
-            "score": 9,
             "pangram": false
         }
     ]

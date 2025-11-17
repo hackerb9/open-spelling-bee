@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 259,
-    "word_count": 48,
+    "total_score": 253,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "ANTIBIOTIC"
@@ -240,11 +240,6 @@
         {
             "word": "TINT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
             "pangram": false
         },
         {

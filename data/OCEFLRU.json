@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 31,
+    "total_score": 108,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "FORCEFUL"
@@ -50,16 +50,6 @@
         {
             "word": "COLORFUL",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "COLOUR",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "COLOURFUL",
-            "score": 9,
             "pangram": false
         },
         {
@@ -130,11 +120,6 @@
         {
             "word": "FUROR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FURORE",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 141,
-    "word_count": 38,
+    "total_score": 140,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "DORMANT"
@@ -110,11 +110,6 @@
         {
             "word": "MATRON",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

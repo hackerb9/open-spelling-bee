@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 37,
+    "total_score": 204,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "MOTIVATION"
@@ -95,11 +95,6 @@
         {
             "word": "MAINTAIN",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

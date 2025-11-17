@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 163,
-    "word_count": 39,
+    "total_score": 157,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "EMPORIUM"
@@ -200,11 +200,6 @@
         {
             "word": "RUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMOUR",
-            "score": 6,
             "pangram": false
         },
         {

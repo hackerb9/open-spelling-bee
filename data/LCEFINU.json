@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 118,
-    "word_count": 34,
+    "total_score": 105,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "INFLUENCE"
@@ -103,11 +103,6 @@
             "pangram": false
         },
         {
-            "word": "FULFIL",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "FULFILL",
             "score": 7,
             "pangram": false
@@ -140,11 +135,6 @@
         {
             "word": "LICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LICENCE",
-            "score": 7,
             "pangram": false
         },
         {

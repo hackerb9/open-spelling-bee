@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 87,
-    "word_count": 31,
+    "total_score": 81,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "THIMBLE"
@@ -165,11 +165,6 @@
         {
             "word": "TIME",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
             "pangram": false
         },
         {

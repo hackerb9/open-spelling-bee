@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 31,
+    "total_score": 137,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "PUNCTURE"
@@ -85,11 +85,6 @@
         {
             "word": "PREEN",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PRETENCE",
-            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 178,
-    "word_count": 41,
+    "total_score": 170,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "BICYCLED"
@@ -200,11 +200,6 @@
         {
             "word": "LIBELED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LIBELLED",
-            "score": 8,
             "pangram": false
         },
         {

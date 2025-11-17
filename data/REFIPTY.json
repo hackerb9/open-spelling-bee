@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 208,
-    "word_count": 50,
+    "total_score": 207,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "PETRIFY"
@@ -265,11 +265,6 @@
         {
             "word": "TRITER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
             "pangram": false
         }
     ]

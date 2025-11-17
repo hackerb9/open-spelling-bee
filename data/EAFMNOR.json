@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 47,
+    "total_score": 155,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "FOREMAN"
     ],
     "word_list": [
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "AMEN",
             "score": 1,

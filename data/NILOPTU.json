@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 122,
-    "word_count": 32,
+    "total_score": 117,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "POLLUTION"
@@ -60,11 +60,6 @@
         {
             "word": "LOTION",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LUPIN",
-            "score": 5,
             "pangram": false
         },
         {

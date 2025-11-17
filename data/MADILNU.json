@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
-    "word_count": 30,
+    "total_score": 115,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "MAUDLIN"
     ],
     "word_list": [
-        {
-            "word": "ALUMINIUM",
-            "score": 9,
-            "pangram": false
-        },
         {
             "word": "ALUMINUM",
             "score": 8,

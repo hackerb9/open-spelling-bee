@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 39,
+    "total_score": 153,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "GENEALOGY"
     ],
     "word_list": [
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "AGONY",
             "score": 5,

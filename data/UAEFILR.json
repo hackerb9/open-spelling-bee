@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 108,
-    "word_count": 26,
+    "total_score": 102,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "FAILURE"
@@ -65,11 +65,6 @@
         {
             "word": "FUEL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "FULFIL",
-            "score": 6,
             "pangram": false
         },
         {

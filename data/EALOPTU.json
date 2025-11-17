@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 47,
+    "total_score": 177,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "POPULATE"
@@ -40,11 +40,6 @@
         {
             "word": "EPAULET",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "EPAULETTE",
-            "score": 9,
             "pangram": false
         },
         {

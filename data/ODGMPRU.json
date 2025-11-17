@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 66,
-    "word_count": 27,
+    "total_score": 55,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "GUMDROP"
@@ -93,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "ODOUR",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "POMP",
             "score": 1,
             "pangram": false
@@ -150,11 +145,6 @@
         {
             "word": "RUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMOUR",
-            "score": 6,
             "pangram": false
         }
     ]

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
-    "word_count": 40,
+    "total_score": 170,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "COUNTENANCE"
@@ -40,11 +40,6 @@
         {
             "word": "ACUTE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "AEON",
-            "score": 1,
             "pangram": false
         },
         {

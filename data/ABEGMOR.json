@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 190,
-    "word_count": 50,
+    "total_score": 184,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "EMBARGO"
@@ -224,11 +224,6 @@
         },
         {
             "word": "MEAGER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MEAGRE",
             "score": 6,
             "pangram": false
         },

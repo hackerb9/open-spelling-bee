@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 310,
-    "word_count": 48,
+    "total_score": 305,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "PUDDLING"
@@ -155,11 +155,6 @@
         {
             "word": "LUNGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LUPIN",
-            "score": 5,
             "pangram": false
         },
         {

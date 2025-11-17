@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 226,
-    "word_count": 47,
+    "total_score": 209,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "ELEVATOR"
@@ -158,11 +158,6 @@
             "pangram": false
         },
         {
-            "word": "REVELLER",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "REVERE",
             "score": 6,
             "pangram": false
@@ -195,11 +190,6 @@
         {
             "word": "TRAVELER",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "TRAVELLER",
-            "score": 9,
             "pangram": false
         },
         {

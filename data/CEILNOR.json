@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 225,
-    "word_count": 46,
+    "total_score": 218,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "RECONCILE"
@@ -195,11 +195,6 @@
         {
             "word": "LICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LICENCE",
-            "score": 7,
             "pangram": false
         },
         {

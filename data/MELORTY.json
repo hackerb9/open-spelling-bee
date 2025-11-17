@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 142,
-    "word_count": 37,
+    "total_score": 129,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "REMOTELY"
@@ -83,11 +83,6 @@
             "pangram": false
         },
         {
-            "word": "METRE",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "METRO",
             "score": 5,
             "pangram": false
@@ -145,11 +140,6 @@
         {
             "word": "OMELET",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "OMELETTE",
-            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 261,
-    "word_count": 44,
+    "total_score": 237,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "OVERRULED"
@@ -93,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "LEVELLED",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "LEVER",
             "score": 5,
             "pangram": false
@@ -165,16 +160,6 @@
         {
             "word": "REVELER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVELLED",
-            "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "REVELLER",
-            "score": 8,
             "pangram": false
         },
         {

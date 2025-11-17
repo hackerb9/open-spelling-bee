@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 31,
+    "total_score": 95,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "FORMULA"
@@ -35,11 +35,6 @@
         {
             "word": "ARMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ARMOUR",
-            "score": 6,
             "pangram": false
         },
         {
@@ -170,11 +165,6 @@
         {
             "word": "RUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMOUR",
-            "score": 6,
             "pangram": false
         }
     ]

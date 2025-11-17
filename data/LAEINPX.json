@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 119,
-    "word_count": 35,
+    "total_score": 114,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "EXPLAIN"
@@ -30,11 +30,6 @@
         {
             "word": "ANAL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
             "pangram": false
         },
         {

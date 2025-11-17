@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 100,
-    "word_count": 34,
+    "total_score": 95,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "DOWNPOUR"
@@ -85,11 +85,6 @@
         {
             "word": "ODOR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ODOUR",
-            "score": 5,
             "pangram": false
         },
         {

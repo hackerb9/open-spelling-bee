@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 185,
-    "word_count": 45,
+    "total_score": 184,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "BLACKER"
@@ -224,11 +224,6 @@
         },
         {
             "word": "CRAB",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "KERB",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 199,
-    "word_count": 39,
+    "total_score": 185,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "PUNCTURE"
@@ -29,11 +29,6 @@
         },
         {
             "word": "CENTER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CENTRE",
             "score": 6,
             "pangram": false
         },
@@ -75,11 +70,6 @@
         {
             "word": "PREEN",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PRETENCE",
-            "score": 8,
             "pangram": false
         },
         {

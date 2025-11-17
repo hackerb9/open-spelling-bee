@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 100,
-    "word_count": 27,
+    "total_score": 94,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "DUTIFULLY"
@@ -90,11 +90,6 @@
         {
             "word": "FLUID",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FULFIL",
-            "score": 6,
             "pangram": false
         },
         {

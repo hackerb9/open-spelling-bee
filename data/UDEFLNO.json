@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 201,
-    "word_count": 46,
+    "total_score": 178,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "UNFOLDED"
@@ -55,11 +55,6 @@
         {
             "word": "DUELED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUELLED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -153,11 +148,6 @@
             "pangram": false
         },
         {
-            "word": "FUELLED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "FULL",
             "score": 1,
             "pangram": false
@@ -185,11 +175,6 @@
         {
             "word": "FUNNELED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "FUNNELLED",
-            "score": 9,
             "pangram": false
         },
         {

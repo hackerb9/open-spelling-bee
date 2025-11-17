@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
-    "word_count": 39,
+    "total_score": 172,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "COMMUTER"
@@ -153,11 +153,6 @@
             "pangram": false
         },
         {
-            "word": "RUMOUR",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "TORTURE",
             "score": 7,
             "pangram": false
@@ -195,11 +190,6 @@
         {
             "word": "TUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TUMOUR",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 230,
-    "word_count": 48,
+    "total_score": 224,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "HIERARCHICAL"
@@ -85,11 +85,6 @@
         {
             "word": "CHILLER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CHILLI",
-            "score": 6,
             "pangram": false
         },
         {

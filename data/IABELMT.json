@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 141,
-    "word_count": 41,
+    "total_score": 135,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "TIMETABLE"
@@ -211,11 +211,6 @@
             "word": "TIMETABLE",
             "score": 9,
             "pangram": true
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "TITILLATE",

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
-    "word_count": 45,
+    "total_score": 168,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "IMMORTAL"
@@ -145,11 +145,6 @@
         {
             "word": "MARTIAL",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
-            "score": 1,
             "pangram": false
         },
         {

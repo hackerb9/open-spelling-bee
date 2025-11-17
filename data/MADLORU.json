@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 128,
-    "word_count": 34,
+    "total_score": 111,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "MODULAR"
@@ -35,11 +35,6 @@
         {
             "word": "ARMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ARMOUR",
-            "score": 6,
             "pangram": false
         },
         {
@@ -148,11 +143,6 @@
             "pangram": false
         },
         {
-            "word": "MOULD",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "MULL",
             "score": 1,
             "pangram": false
@@ -185,11 +175,6 @@
         {
             "word": "RUMOR",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMOUR",
-            "score": 6,
             "pangram": false
         }
     ]

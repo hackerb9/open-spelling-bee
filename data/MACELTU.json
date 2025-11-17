@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 40,
+    "total_score": 120,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "ACCUMULATE"
@@ -114,11 +114,6 @@
         },
         {
             "word": "MATE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },

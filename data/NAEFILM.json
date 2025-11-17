@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 168,
-    "word_count": 39,
+    "total_score": 161,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "INFLAME"
@@ -30,11 +30,6 @@
         {
             "word": "AMEN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ANAEMIA",
-            "score": 7,
             "pangram": false
         },
         {

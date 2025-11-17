@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 206,
-    "word_count": 50,
+    "total_score": 205,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "AROMATIC"
@@ -164,11 +164,6 @@
         },
         {
             "word": "MART",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },

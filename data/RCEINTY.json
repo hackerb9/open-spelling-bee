@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 250,
-    "word_count": 46,
+    "total_score": 243,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "ECCENTRICITY"
@@ -24,11 +24,6 @@
     "word_list": [
         {
             "word": "CENTER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CENTRE",
             "score": 6,
             "pangram": false
         },
@@ -245,11 +240,6 @@
         {
             "word": "TRITER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TYRE",
-            "score": 1,
             "pangram": false
         }
     ]

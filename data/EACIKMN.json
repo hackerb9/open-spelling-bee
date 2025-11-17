@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 101,
-    "word_count": 34,
+    "total_score": 87,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "NICKNAME"
@@ -30,16 +30,6 @@
         {
             "word": "AMEN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ANAEMIA",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ANAEMIC",
-            "score": 7,
             "pangram": false
         },
         {

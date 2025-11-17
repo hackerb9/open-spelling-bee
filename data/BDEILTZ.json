@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 158,
-    "word_count": 33,
+    "total_score": 144,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "BLITZED"
@@ -173,17 +173,7 @@
             "pangram": false
         },
         {
-            "word": "LIBELLED",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "TIDBIT",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
             "score": 6,
             "pangram": false
         }

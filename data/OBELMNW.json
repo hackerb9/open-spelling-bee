@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 117,
-    "word_count": 39,
+    "total_score": 110,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "NOBLEWOMEN"
@@ -210,11 +210,6 @@
         {
             "word": "WOOLEN",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WOOLLEN",
-            "score": 7,
             "pangram": false
         }
     ]

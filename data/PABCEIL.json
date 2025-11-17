@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 130,
-    "word_count": 36,
+    "total_score": 125,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "APPLICABLE"
@@ -25,11 +25,6 @@
         {
             "word": "APIECE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
             "pangram": false
         },
         {

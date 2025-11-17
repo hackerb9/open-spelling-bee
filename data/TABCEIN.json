@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 185,
-    "word_count": 44,
+    "total_score": 179,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "CABINET"
@@ -235,11 +235,6 @@
         {
             "word": "TINT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TITBIT",
-            "score": 6,
             "pangram": false
         }
     ]

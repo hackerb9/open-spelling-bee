@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 33,
+    "total_score": 101,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "OBNOXIOUS"
@@ -74,11 +74,6 @@
         },
         {
             "word": "BUNS",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BUSS",
             "score": 1,
             "pangram": false
         },

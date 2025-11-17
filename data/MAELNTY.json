@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 189,
-    "word_count": 48,
+    "total_score": 188,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "MENTALLY"
@@ -149,11 +149,6 @@
         },
         {
             "word": "MATE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MATT",
             "score": 1,
             "pangram": false
         },

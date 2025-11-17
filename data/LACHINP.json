@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 29,
+    "total_score": 91,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "CHAPLAIN"
@@ -30,11 +30,6 @@
         {
             "word": "ANAL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "APPAL",
-            "score": 5,
             "pangram": false
         },
         {
@@ -65,11 +60,6 @@
         {
             "word": "CHILL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CHILLI",
-            "score": 6,
             "pangram": false
         },
         {

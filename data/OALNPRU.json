@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 84,
-    "word_count": 30,
+    "total_score": 77,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "UNPOPULAR"
@@ -80,11 +80,6 @@
         {
             "word": "PARLOR",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PARLOUR",
-            "score": 7,
             "pangram": false
         },
         {

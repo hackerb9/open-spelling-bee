@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 96,
-    "word_count": 31,
+    "total_score": 95,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "PROFANE"
     ],
     "word_list": [
-        {
-            "word": "AEON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "AFAR",
             "score": 1,
