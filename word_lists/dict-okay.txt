@@ -562,5 +562,13 @@ eatery
 peppy
 arity				# the number of arguments a mathematical or algorithmic function can take
 teetery
-eyot				# A small island arising from a river, especially the River Thames.  Donald R. Stephenson: “In the bottom of the hollow, stood a single copse like an eyot in a broad glade.”
-aeon
+eyot, eyots			# A small island arising from a river, especially the River Thames.  Donald R. Stephenson: “In the bottom of the hollow, stood a single copse like an eyot in a broad glade.”
+aeon (æon), aeons
+donned, donning
+docket
+burdock
+dreck				# Shoddy merchandise
+kook, kooks, kooky, kookier, kookiest, kookaburra
+retook
+corker				# (dated slang) A remarkable or excellent thing or person
+
