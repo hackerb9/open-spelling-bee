@@ -306,6 +306,7 @@ def give_hint(puzzle, player):
         return
     if (player.hints_available > 0):
         player.hints_available -= 1
+        player.hints_used += 1
     else:
         if player.bonus_found and player.achievements['70']:
             reply = ask_user(f"It'll cost you a bonus word. Are you sure? ")
