@@ -501,12 +501,11 @@ gravelly
 gyre
 regally
 paella
-palp, palpus, palpi
-plie (plié)
+palp, palpus, palpi			# palp, n. Zool. A feeler: = palpus. 1842: Brande Dict. Sci. etc., s.v. Palpators, “A family of Clavicorn beetles, including those which have very long maxillary feelers, or palps.”
+plie (plié)				# In ballet, a smooth and continuous bending of the knees.
 cumin
 muon, muons
 effete
-iffier
 fixer
 refit, refits, refitted
 retrofit
@@ -579,7 +578,9 @@ arcana
 dicier
 fritillary, fritillaria
 frittata
-iffy
+iffy, iffier, iffiest
 flirty
 ifrit, efreet, afrit, afreet
 friary
+phial
+caliph
