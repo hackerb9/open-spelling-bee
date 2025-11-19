@@ -271,7 +271,7 @@ To see possible inflections of a word, append .* like so:
 
 
 def scowl_lookup(pattern):
-        '''Grep the SCOWL word_lists for ^(pattern)$'''
+        '''Grep the SCOWL word_lists for ^(pattern)$ and print results'''
 
         if type(pattern) is not list:
                 pattern = [ pattern ]
