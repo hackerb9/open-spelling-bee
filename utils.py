@@ -248,6 +248,36 @@ def is_bonus_word(w:str) -> [str]:
                                 results.append(f)
         return results
 
+class ScowlFile:
+        def __init__(self, filename=""):
+                self.filename = filename
+                self.name, ext = os.path.splitext(os.path.basename(filename))
+                try:
+                        ext = int(ext[1:])
+                except ValueError:
+                        ext = 999
+                self.rank = ext
+
+def is_in_scowl(w:str) -> []:
+        '''If w is found in the scowl dictionaries, return an array of
+        ScowlFile items indicating which wordlists matched and at what
+        rank.
+
+        Returns an empty list if no match was found.
+        '''
+        w=w.casefold()
+        results=[]
+        bonus_dicts=[]
+        bonus_dicts += ('word_lists/dict-add.txt','word_lists/dict-okay.txt','word_lists/dict-remove.txt')
+        bonus_dicts += [ x for x in glob.glob("word_lists/scowl-u8/english-words.*")
+                         if 35 < scowl_rank(x) <= 50 ]
+        for f in bonus_dicts:
+                with open(f, 'r') as fp:
+                        customwords=custom_parse(fp.read()).casefold().split()
+                        if w in customwords:
+                                results.append(ScowlFile(f))
+        return results
+
 def scowl_lookup_usage():
         print(
 
@@ -322,7 +352,8 @@ def scowl_lookup(pattern):
         If a list is given, then each word will be looked up.
         Allows regular expressions.
 
-        NOTA BENE: the SCOWL files we have are encoded as Latin-1, not UTF-8!
+        NOTA BENE: we have re-encoded our SCOWL files to UTF-8, so we
+        don't have to do deal with the Latin-1 encoding here.
         '''
 
         if type(pattern) is not list:
@@ -338,6 +369,13 @@ def scowl_lookup(pattern):
                                                 print(f'{f}: {w}')
                                         except BrokenPipeError:
                                                 sys.stdout = None
+
+def scowl_category(fullpath: str) -> str:
+        '''Given a filename ("wordlists/scowl-u8/english-words.35"),
+        return the basename without the extension. ("english-words").'''
+
+        name, ext = os.path.splitext(os.path.basename(fullpath))
+        return name
 
 def scowl_rank(fullpath: str) -> int:
         '''Given a filename of the form "english-words.35",
