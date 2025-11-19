@@ -584,3 +584,5 @@ ifrit, efreet, afrit, afreet
 friary
 phial
 caliph
+halal
+
