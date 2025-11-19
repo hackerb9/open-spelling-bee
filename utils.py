@@ -226,17 +226,19 @@ def custom_parse(s: str) -> str:
         return re.sub(r'(\W*(#.*)?\n)+|\W+', '\n', s)
 
 def is_bonus_word(w:str) -> [str]:
-        '''If w is found in the bonus dictionaries (`dict` or custom
-        words in word_lists/dict-{add,okay,remove,*}.txt, return an
+        '''If w is found in the bonus dictionaries, return an
         array of strings indicating which dictionaries it was found in.
         If it is not found, an empty list is returned.
+
+        The bonus dictionaries are: 
+	        word_lists/dict-{add,okay,remove}.txt,
+		scowl-u8/english-words.{40,50)
+        	dict lookup [not yet implemented]
         '''
-        
         w=w.casefold()
         results=[]
-        # xxx TODO dict lookup; 35< scowl <=50
         bonus_dicts=[]
-        bonus_dicts += glob.glob("word_lists/dict-*.txt")
+        bonus_dicts += ('word_lists/dict-add.txt','word_lists/dict-okay.txt','word_lists/dict-remove.txt')
         bonus_dicts += [ x for x in glob.glob("word_lists/scowl-u8/english-words.*")
                          if 35 < scowl_rank(x) <= 50 ]
         for f in bonus_dicts:
