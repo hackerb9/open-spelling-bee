@@ -590,3 +590,6 @@ loch
 octant
 natch
 conch
+vegetal
+vagal
+gavotte
