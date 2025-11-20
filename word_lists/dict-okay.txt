@@ -593,3 +593,7 @@ conch
 vegetal
 vagal
 gavotte
+aloe
+vole
+vale
+elate
