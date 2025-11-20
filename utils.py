@@ -16,6 +16,25 @@ import subprocess
 from dataclasses import dataclass, asdict
 from shutil import get_terminal_size
 
+class ScowlFile:
+        '''A representation of a single subcorpus from the SCOWL wordlists.
+        For example, the file "english-words.35"'''
+        def __init__(self, filename=""):
+                self.filename = filename
+                self.category, ext = os.path.splitext(os.path.basename(filename))
+                try:
+                        ext = int(ext[1:])
+                except ValueError:
+                        ext = 999
+                self.rank = ext
+        def __repr__(self):
+                return f'{self.rank}\t{self.category}\t({self.filename})'
+        def __lt__(self, other):
+                if (self.rank != other.rank):
+                        return self.rank < other.rank
+                else:
+                        return self.category < other.category
+
 
 # check validity of provided letters
 def check_letters(pzl):
@@ -217,13 +236,14 @@ def custom_lookup(pattern):
                                         except BrokenPipeError:
                                                 sys.stdout = None
 
+custom_parse_re = re.compile(r'\W*(#.*)?\n|[^[:alpha:]\']+')
 def custom_parse(s: str) -> str:
         '''Given an entire custom word list file as a string,
         return just newline separated words, omitting comments,
-        whitespace, and punctuation.
-        Input example:	"foo, bar (quux) # this is a comment"
+        whitespace, and punctuation (except apostrophe).
+        Input example:	"foo, bar (quux) madam's # this is a comment"
         '''
-        return re.sub(r'(\W*(#.*)?\n)+|\W+', '\n', s)
+        return re.sub(custom_parse_re, '\n', s)
 
 def is_bonus_word(w:str) -> [str]:
         '''If w is found in the bonus dictionaries, return an
@@ -248,16 +268,6 @@ def is_bonus_word(w:str) -> [str]:
                                 results.append(f)
         return results
 
-class ScowlFile:
-        def __init__(self, filename=""):
-                self.filename = filename
-                self.name, ext = os.path.splitext(os.path.basename(filename))
-                try:
-                        ext = int(ext[1:])
-                except ValueError:
-                        ext = 999
-                self.rank = ext
-
 def is_in_scowl(w:str) -> []:
         '''If w is found in the scowl dictionaries, return an array of
         ScowlFile items indicating which wordlists matched and at what
@@ -267,16 +277,12 @@ def is_in_scowl(w:str) -> []:
         '''
         w=w.casefold()
         results=[]
-        bonus_dicts=[]
-        bonus_dicts += ('word_lists/dict-add.txt','word_lists/dict-okay.txt','word_lists/dict-remove.txt')
-        bonus_dicts += [ x for x in glob.glob("word_lists/scowl-u8/english-words.*")
-                         if 35 < scowl_rank(x) <= 50 ]
-        for f in bonus_dicts:
+        for f in glob.glob("word_lists/scowl-u8/*"):
                 with open(f, 'r') as fp:
-                        customwords=custom_parse(fp.read()).casefold().split()
-                        if w in customwords:
+                        words=fp.read().casefold().split()
+                        if w in words:
                                 results.append(ScowlFile(f))
-        return results
+        return sorted(results)
 
 def scowl_lookup_usage():
         print(
@@ -307,10 +313,10 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                regex=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
                         with open(f, 'r') as fp:
-                                output=re.findall(regex, fp.read())
+                                output=re.findall(rx, fp.read())
                                 for w in output:
                                         try:
                                                 print(f'{f}: {w}')
@@ -360,10 +366,10 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                regex=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
                         with open(f, 'r') as fp:
-                                output=re.findall(regex, fp.read())
+                                output=re.findall(rx, fp.read())
                                 for w in output:
                                         try:
                                                 print(f'{f}: {w}')
