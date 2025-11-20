@@ -30,18 +30,6 @@ class PlayerState:
     lastguess = 'anomia'
 
 
-def splitwords(s, x='!"#$%&''()*+,-./0123456789:;<=>?@[\\]^_` '):
-    '''Split string to array of alphabetic by non-alpha without using regexp'''
-    y=' '*len(x)
-    t=str.maketrans(x,y)
-    return s.translate(t).split()
-
-def pfill(s: str):
-    '''Print s indented and word wrapped.'''
-    print( fill(s, initial_indent=' '*4,
-                subsequent_indent=' '*4,
-                width=get_terminal_size().columns-8) )
-
 def play(puzzle):
     # "puzzle" is a Puzzle dataclass, see utils.py.
 
@@ -155,20 +143,14 @@ def play(puzzle):
                     if not player.achievements['50']:
                         if word_percent >= 50 or score_percent >= 50:
                             player.achievements['50'] = True
-                            print( fill('“AMAZING: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
-                                        initial_indent=' '*3,
-                                        subsequent_indent=' '*4,
-                                        width=get_terminal_size().columns-8) )
+                            pfill('\b“AMAZING: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”')
                             print()
 
                     # Did they make it to 70% of words or score?
                     if not player.achievements['70']:
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
-                            print( fill("“GENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”",
-                                        initial_indent=' '*3,
-                                        subsequent_indent=' '*4,
-                                        width=get_terminal_size().columns-8) )
+                            pfill("“GENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”")
                             print()
                             offer_hint_bonus(len(player.bonus_found))
                             print()
@@ -177,10 +159,7 @@ def play(puzzle):
                     if not player.achievements['85']:
                         if word_percent >= 85 or score_percent >= 85:
                             player.achievements['85'] = True
-                            print( fill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”',
-                                        initial_indent=' '*3,
-                                        subsequent_indent=' '*4,
-                                        width=get_terminal_size().columns-8) )
+                            pfill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”')
                             player.hints_available += 1
                             offer_hint(player.hints_available)
                             print()
@@ -278,13 +257,11 @@ def print_status(puzzle, player):
     if player.last_hint:
         print(f'last hint: {player.last_hint}')
     if player.found:
-        width=get_terminal_size().columns
-        print (fill('found: ' + ', '.join(player.found[::-1]), width=width-8,
-                    initial_indent=' '*4, subsequent_indent=' '*11))
+        pfill('found: ' + ', '.join(player.found[::-1]),
+              subsequent_indent=' '*11)
     if player.bonus_found:
-        width=get_terminal_size().columns
-        print (fill('bonus: ' + ', '.join(player.bonus_found[::-1]), width=width-8,
-                    initial_indent=' '*4, subsequent_indent=' '*11))
+        pfill('bonus: ' + ', '.join(player.bonus_found[::-1]),
+              subsequent_indent=' '*11)
     print()
 
 def get_not_found(word_list, player_found):
@@ -455,6 +432,17 @@ def print_instructions():
     Have fun!
     ''')
 
+def splitwords(s, x='!"#$%&''()*+,-./0123456789:;<=>?@[\\]^_` '):
+    '''Split string to array of alphabetic by non-alpha without using regexp'''
+    y=' '*len(x)
+    t=str.maketrans(x,y)
+    return s.translate(t).split()
+
+def pfill(s: str, indent=4):
+    '''Print s indented and word wrapped.'''
+    print( fill(s, initial_indent=' '*indent,
+                subsequent_indent=' '*indent,
+                width=get_terminal_size().columns-indent*2) )
 
 def main():
 
