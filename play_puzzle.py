@@ -143,16 +143,14 @@ def play(puzzle):
                     if not player.achievements['50']:
                         if word_percent >= 50 or score_percent >= 50:
                             player.achievements['50'] = True
-                            pfill('“AMAZING: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”',
-                                  initial_indent=' '*3)
+                            pfill('\b“AMAZING: You have found 50% of the hidden words! When you quit, any remaining words will be listed.”')
                             print()
 
                     # Did they make it to 70% of words or score?
                     if not player.achievements['70']:
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
-                            pfill("“GENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”",
-                                  initial_indent=' '*3)
+                            pfill("\b“GENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”")
                             print()
                             offer_hint_bonus(len(player.bonus_found))
                             print()
