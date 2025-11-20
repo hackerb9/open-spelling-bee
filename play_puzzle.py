@@ -36,6 +36,11 @@ def splitwords(s, x='!"#$%&''()*+,-./0123456789:;<=>?@[\\]^_` '):
     t=str.maketrans(x,y)
     return s.translate(t).split()
 
+def pfill(s: str):
+    '''Print s indented and word wrapped.'''
+    print( fill(s, initial_indent=' '*4,
+                subsequent_indent=' '*4,
+                width=get_terminal_size().columns-8) )
 
 def play(puzzle):
     # "puzzle" is a Puzzle dataclass, see utils.py.
@@ -91,16 +96,20 @@ def play(puzzle):
                 word_index = next((index for (index, d) in enumerate(puzzle.word_list) if d['word'] == g), None)
 
                 if word_index is None:
+                    # Not an expected word, so check other word lists.
                     if utils.is_bonus_word(g):
                         if g in player.bonus_found or g in player.bonus_used:
                             print (f'You already found: {g}\n')
                         else:
-                            print( fill(f'Oh! I was not expecting anyone to guess "{g}". Kudos to you!\n',
-                                        initial_indent=' '*4,
-                                        subsequent_indent=' '*4,
-                                        width=get_terminal_size().columns-8) )
+                            pfill(f'Oh! I was not expecting anyone to guess "{g}". Kudos to you!\n')
                             print()
                             player.bonus_found.append(g)
+                    elif utils.is_in_scowl(g):
+                        print("Seems a bit hinky....")
+                        from pprint import pprint as pp
+                        pp(utils.is_in_scowl(g))
+                        print("If you're sure, use !okay to allow it.")
+                        print
                     else:
                         print (f'Sorry, "{g}" is not a valid word\n')
                     continue
@@ -385,9 +394,13 @@ def command(command, puzzle, player):
     elif cmd == 'match' or cmd == 'm':
         if cmdargs: player.lastguess=cmdargs
         utils.match_any( player.lastguess )
-    elif cmd == 'scowl' or cmd == 'slook':
+    elif cmd == 'slook':
         if cmdargs: player.lastguess=cmdargs
         utils.scowl_lookup( player.lastguess )
+    elif cmd == 'scowl':
+        if cmdargs: player.lastguess=cmdargs
+        from pprint import pprint as pp
+        pp(utils.is_in_scowl( " ".join(player.lastguess) ))
     else:
         print(f'Unknown command "!{cmd}"')
         print_short_commands()
