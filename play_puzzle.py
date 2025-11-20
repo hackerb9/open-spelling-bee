@@ -150,7 +150,11 @@ def play(puzzle):
                     if not player.achievements['70']:
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
+<<<<<<< Updated upstream
                             pfill("“GENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”")
+=======
+                            pfill("“\bGENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”")
+>>>>>>> Stashed changes
                             print()
                             offer_hint_bonus(len(player.bonus_found))
                             print()
@@ -159,7 +163,11 @@ def play(puzzle):
                     if not player.achievements['85']:
                         if word_percent >= 85 or score_percent >= 85:
                             player.achievements['85'] = True
+<<<<<<< Updated upstream
                             pfill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”')
+=======
+                            pfill('\b“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”')
+>>>>>>> Stashed changes
                             player.hints_available += 1
                             offer_hint(player.hints_available)
                             print()
@@ -167,7 +175,7 @@ def play(puzzle):
         # all words found (somehow this could be possible)
         if player.words == puzzle.word_count:
             print_status(puzzle, player)
-            print('Congratulations. You found them all!')
+            pfill('\b“Congratulations. You found them all!”')
             print()
             exit(0)
 
@@ -438,11 +446,17 @@ def splitwords(s, x='!"#$%&''()*+,-./0123456789:;<=>?@[\\]^_` '):
     t=str.maketrans(x,y)
     return s.translate(t).split()
 
-def pfill(s: str, indent=4):
-    '''Print s indented and word wrapped.'''
-    print( fill(s, initial_indent=' '*indent,
-                subsequent_indent=' '*indent,
-                width=get_terminal_size().columns-indent*2) )
+def pfill(s: str, indent=4, **kwargs):
+    '''Print s indented and word wrapped.
+    Uses keyword args from textwrap, q.v..
+    '''
+    if not 'width' in kwargs:
+        kwargs['width'] = get_terminal_size().columns - indent*2
+    if not 'initial_indent' in kwargs:
+        kwargs['initial_indent'] = ' '*indent
+    if not 'subsequent_indent' in kwargs:
+        kwargs['subsequent_indent'] = ' '*indent
+    print( fill(s, **kwargs) )
 
 def main():
 
