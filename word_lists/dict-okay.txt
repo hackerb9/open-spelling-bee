@@ -511,7 +511,7 @@ refit, refits, refitted
 retrofit
 kidder
 quid
-bougie
+bougie, bourgie
 bupkis
 chonky, chonkier, chonkiest
 ramie
@@ -585,4 +585,8 @@ friary
 phial
 caliph
 halal
-
+coelacanth
+loch
+octant
+natch
+conch
