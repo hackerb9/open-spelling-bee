@@ -215,7 +215,7 @@ def compare_overlap(f1, f2):
 
 
 def custom_lookup(pattern):
-        '''Grep the custom word lists for ^(pattern)$ and prints results.
+        '''Grep the custom word lists for pattern and prints results.
 
         Custom words are kept in word_lists/dict-{add,okay,remove,*}.txt. 
         If 'pattern' is an array, then each word will be looked up.
@@ -236,7 +236,7 @@ def custom_lookup(pattern):
                                         except BrokenPipeError:
                                                 sys.stdout = None
 
-custom_parse_re = re.compile(r'\W*(#.*)?\n|[^[:alpha:]\']+')
+custom_parse_re = re.compile(r'\W*(#.*)?\n|\W+')
 def custom_parse(s: str) -> str:
         '''Given an entire custom word list file as a string,
         return just newline separated words, omitting comments,
