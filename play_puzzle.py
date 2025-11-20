@@ -150,11 +150,7 @@ def play(puzzle):
                     if not player.achievements['70']:
                         if word_percent >= 70 or score_percent >= 70:
                             player.achievements['70'] = True
-<<<<<<< Updated upstream
-                            pfill("“GENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”")
-=======
                             pfill("“\bGENIUS LEVEL ACHIEVED: You've reached 70%! Bonus words can now be exchanged for hints.”")
->>>>>>> Stashed changes
                             print()
                             offer_hint_bonus(len(player.bonus_found))
                             print()
@@ -163,11 +159,7 @@ def play(puzzle):
                     if not player.achievements['85']:
                         if word_percent >= 85 or score_percent >= 85:
                             player.achievements['85'] = True
-<<<<<<< Updated upstream
-                            pfill('“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”')
-=======
                             pfill('\b“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”')
->>>>>>> Stashed changes
                             player.hints_available += 1
                             offer_hint(player.hints_available)
                             print()
