@@ -411,3 +411,18 @@ Nonce words should be accepted
 
 [hapax]: https://archive.examiningtheoed.com/oed.hertford.ox.ac.uk/main/content/view/402/450/ "Discussion of Hapax Legomena in the Oxfored English Dictionary"
 				  
+### Match accented characters
+
+ * [ ] If the user types "pinata", then it should match _piñata_ in a
+	   wordlist. To test, try _canapé_ which is in Scowl only accented.
+
+### Get rid of mkscowl
+
+mkscowl script currently converts the multitude of scowl files to a
+single homogeneous file.
+
+ * [ ] Instead play_puzzle.py ought to search the scowl dictionaries
+       of a certain frequency level (set in params.py?) instead of
+       hardcoding it to ≤35 with bonus ≤50.
+
+
