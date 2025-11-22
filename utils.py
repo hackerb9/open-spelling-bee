@@ -236,6 +236,30 @@ def custom_lookup(pattern):
                                         except BrokenPipeError:
                                                 sys.stdout = None
 
+def is_in_custom(pattern):
+        '''Returns the filenames of the custom word lists which match
+        the regex 'pattern'.
+
+        Custom words are kept in word_lists/dict-{add,okay,remove,*}.txt. 
+        If 'pattern' is an array, then each word will be looked up.
+        Allows regular expressions.
+
+        If pattern is not in any of the files, an empty list is returned.
+        '''
+
+        rv = []
+
+        if type(pattern) is not list:
+                pattern = [ pattern ]
+
+        for p in pattern:
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                for f in glob.glob("word_lists/dict-*.txt"):
+                        with open(f, 'r') as fp:
+                                output=re.findall(rx, custom_parse(fp.read()))
+                                for w in output:
+                                        rv+=(f'{f}')
+
 custom_parse_re = re.compile(r'\W*(#.*)?\n|\W+')
 def custom_parse(s: str) -> str:
         '''Given an entire custom word list file as a string,
@@ -271,9 +295,11 @@ def is_bonus_word(w:str) -> [str]:
 def is_in_scowl(w:str) -> []:
         '''If w is found in the scowl dictionaries, return an array of
         ScowlFile items indicating which wordlists matched and at what
-        rank.
+        rank. Unlike is_bonus_word(), this searches other categories
+        beyond english-words, such as british-english and variants.
 
         Returns an empty list if no match was found.
+
         '''
         w=w.casefold()
         results=[]
