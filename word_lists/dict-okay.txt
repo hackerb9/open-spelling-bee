@@ -88,7 +88,7 @@ rococo
 taro
 yurt, yurts
 troy
-tort
+tort, torte
 logy, logey
 logon
 gnoll, gnolls
@@ -273,7 +273,6 @@ footer
 roofer
 woofer, tweeter
 liftoff				# Hyphenation optional
-rotter
 fortifier
 folie
 oriel
@@ -542,6 +541,7 @@ zinia
 bane
 naga
 lamia, lamiae			# “Apollonius..by some probable conjectures, found her out to be a Serpent, a Lamia.”  “They are the Lamiæ, wenches vile, With brazen brows and lips that smile.”
+numinous
 luminal
 laudanum			# Tincture of opium. [a. mod.L. laudanum, used by Paracelsus as the name of a medicament for which he gives a pretended prescription, the ingredients comprising leaf-gold, pearls not perforated, etc. (Opera 1658 I. 492/2). It was early suspected that opium was the real agent of the cures which Paracelsus professed to have effected by this costly means; hence the name was applied to certain opiate preparations which were sold as identical with his famous remedy.  It is doubtful whether the word as used by Paracelsus was a fanciful application of laudanum a med.L. variant of ladanum, or was suggested by laudāre to praise or by some other word, or was formed quite arbitrarily.]  “The Laudanum of rhetoric, whose property will occasionally benumb..the power of common understandings.”
 liminal
@@ -603,3 +603,5 @@ aerie, eyrie
 gaffe
 falafel
 figleaf
+drupe
+
