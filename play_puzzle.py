@@ -181,7 +181,7 @@ def handle_rare_word(word):
                 pfill(f'QUESTIONABLE: I had thought "{word}" too uncommon to allow. If you like the word, use !okay to accept it as a bonus word. ')
                 return
             elif wl.rank <= 60:
-                pfill(f'This puzzle wasn\'t designed for such rare words. Should people get a bonus for finding "{word}"? If so, use !okay.')
+                pfill(f'This puzzle wasn\'t designed for such rare words. Should players get a bonus for finding "{word}"? If so, use !okay.')
                 return
             elif wl.rank <= 70:
                 import random
@@ -192,7 +192,7 @@ def handle_rare_word(word):
                 pfill(f'"{word}" is a bit too abstruse for me.')
                 return
             else: # wl.rank <= 95:
-                pfill(f"I'm dubious that \"{word}\" should be accepted.")
+                pfill(f'I am dubious that "{word}" should be accepted.')
                 return
 
     print(f'Seems a bit hinky....')
