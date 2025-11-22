@@ -28,7 +28,8 @@ class PlayerState:
     hints_given = {}
     last_hint = ""
     lastguess = 'anomia'
-
+    rare_words = { 10: [], 20: [], 35: [], 40: [], 50: [],
+                   55: [], 60: [], 70: [], 80: [], 95: [] }
 
 def play(puzzle):
     # "puzzle" is a Puzzle dataclass, see utils.py.
@@ -93,7 +94,7 @@ def play(puzzle):
                             print()
                             player.bonus_found.append(g)
                     elif utils.is_in_scowl(g):
-                        handle_rare_word(g)
+                        handle_rare_word(g, player)
                     else:
                         print (f'Sorry, "{g}" is not a valid word\n')
                     continue
@@ -167,29 +168,57 @@ def play(puzzle):
             print()
             exit(0)
 
-def handle_rare_word(word):
-    '''Found a word in scowl, but it is not common enough to just
-    accept. How we respond depends upon both the category and rank.
+def handle_rare_word(word, player):
+    '''Respond to a word that is in a SCOWL wordlist, but it is not common
+    enough to accept in the default categories (american,english-words).
+
+    How we respond depends upon both the category and rank. Note that some
+    words are in more than one category. [Can rank can differ?]
+
+    If the category is 'english-words' then, depending on the rank (10
+    being most common, 95 being least) we may prompt them to save it in the
+    custom dictionaries dict-okay.txt or dict-add.txt. 
+    (TODO: Allow 'american-words' for "airfoil", "alphabetize", etc)
+
+    CATEGORIES:
+	ACCEPTABLE:
+        {english,american}-words
+        {australian,british,canadian}-words
+
+        OLD HACKER JARGON:
+        special-hacker
+
+	UNACCEPTABLE:
+        *-{abbreviations,contractions,proper-names,upper}
+        special-roman-numerals
+
+        NONSTANDARD:   # Uniquely contains "accurst", "gage", "nite", "zombi"
+        variant_{1,2,3}-words   
+        {australian,british,canadian}_variant_{1,2}-words
+
+        IGNORABLE:
+        british_z-words			# ⊂ (American ∪ British)
     '''
     for wl in utils.is_in_scowl(word):
         if wl.category == 'english-words':
+            player.rare_words[wl.rank].append(word)
             print (wl.rank)
-            if wl.rank <= 40:
-                pfill(f'ERUDITION DETECTED: To make the puzzle not too difficult, my dictionary contains only commonplace words. How common is "{word}"? If it is well known, use !add to require it in future puzzles. If it is familiar to you but maybe not other folks, use !okay to get a bonus for finding it. If it is actually not a great word and you were just checking to see if I expected it, do nothing.')
+            if wl.rank == 40:
+                pfill(f'ERUDITION DETECTED: To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list. If it should be in the list, use !add to require it in future puzzles. If it is familiar to you but maybe not other folks, use !okay to allow a bonus for finding it. If it is actually not a great word and you were just checking to see if I expected it, do nothing.')
                 return
-            elif wl.rank <= 50:
-                pfill(f'QUESTIONABLE: I had thought "{word}" too uncommon to allow. If you like the word, use !okay to accept it as a bonus word. ')
+            elif wl.rank == 50:
+                pfill(f'That is not one of the typical English words I am thinking of. Do people deserve a bonus for finding "{word}"? If so, use !okay.')
                 return
-            elif wl.rank <= 60:
-                pfill(f'This puzzle wasn\'t designed for such rare words. Should players get a bonus for finding "{word}"? If so, use !okay.')
+            elif wl.rank == 60:
+                pfill(f'Yes, "{word}" is used English, but I was told it was too rare to accept.')
                 return
             elif wl.rank <= 70:
                 import random
                 boring=['pedestrian', 'quotidian', 'everyday', 'simpler']
-                pfill(f'You have an impressive vocabulary. Let\'s stick to {random.choice(boring)} words for this round.')
+                pfill(f'You have an impressive vocabulary! Let\'s stick to {random.choice(boring)} words for this round.')
                 return
             elif wl.rank <= 80:
-                pfill(f'"{word}" is a bit too abstruse for me.')
+                pfill(f'Wow, "{word}" is a bit too abstruse for me.')
                 return
             else: # wl.rank <= 95:
                 pfill(f'I am dubious that "{word}" should be accepted.')
