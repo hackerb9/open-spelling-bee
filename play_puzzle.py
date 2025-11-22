@@ -191,7 +191,7 @@ def handle_rare_word(word):
             elif wl.rank <= 80:
                 pfill(f'"{word}" is rather abstruse, no?')
                 return
-            else # wl.rank <= 95:
+            else: # wl.rank <= 95:
                 pfill(f"I'm dubious that \"{word}\" should be accepted.")
                 return
 
