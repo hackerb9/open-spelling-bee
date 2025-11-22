@@ -175,24 +175,24 @@ def handle_rare_word(word):
         if wl.category == 'english-words':
             print (wl.rank)
             if wl.rank <= 40:
-                pfill(f'Ah, my dictionary lacked the word "{word}"!')
-                pfill('To make it a required word for new puzzles, use !add')
+                pfill(f'Ah, my dictionary lacks the word "{word}"!')
+                pfill('Should it be required for new puzzles? Use !add')
                 return
             elif wl.rank <= 50:
                 pfill(f'The word "{word}" is uncommon.')
                 pfill(f'To allow it as a bonus word, use !okay')
                 return
             elif wl.rank <= 60:
-                pfill(f'The word "{word}" is rarer than this puzzle was designed for.')
+                pfill(f'This puzzle wasn\'t designed for rare words like "{word}".')
                 return
             elif wl.rank <= 70:
-                pfill(f'The word "{word}" is on the erudite side')
+                pfill(f'The word "{word}" is a tad erudite.')
                 return
             elif wl.rank <= 80:
                 pfill(f'"{word}" is rather abstruse, no?')
                 return
-            elif wl.rank <= 95:
-                pfill(f'I am not sure "{word}" should even count as a genuine word')
+            else # wl.rank <= 95:
+                pfill(f"I'm dubious that \"{word}\" should be accepted.")
                 return
 
     print(f'Seems a bit hinky....')
