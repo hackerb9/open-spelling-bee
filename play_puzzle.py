@@ -175,21 +175,21 @@ def handle_rare_word(word):
         if wl.category == 'english-words':
             print (wl.rank)
             if wl.rank <= 40:
-                pfill(f'Ah, my dictionary lacks the word "{word}"!')
-                pfill('Should it be required for new puzzles? Use !add')
+                pfill(f'ERUDITION DETECTED: To make the puzzle not too difficult, my dictionary contains only commonplace words. How common is "{word}"? If it is well known, use !add to require it in future puzzles. If it is familiar to you but maybe not other folks, use !okay to get a bonus for finding it. If it is actually not a great word and you were just checking to see if I expected it, do nothing.')
                 return
             elif wl.rank <= 50:
-                pfill(f'The word "{word}" is uncommon.')
-                pfill(f'To allow it as a bonus word, use !okay')
+                pfill(f'QUESTIONABLE: I had thought "{word}" too uncommon to allow. If you like the word, use !okay to accept it as a bonus word. ')
                 return
             elif wl.rank <= 60:
-                pfill(f'This puzzle wasn\'t designed for rare words like "{word}".')
+                pfill(f'This puzzle wasn\'t designed for such rare words. Should people get a bonus for finding "{word}"? If so, use !okay.')
                 return
             elif wl.rank <= 70:
-                pfill(f'The word "{word}" is a tad erudite.')
+                import random
+                boring=['pedestrian', 'quotidian', 'everyday', 'simpler']
+                pfill(f'You have an impressive vocabulary. Let\'s stick to {random.choice(boring)} words for this round.')
                 return
             elif wl.rank <= 80:
-                pfill(f'"{word}" is rather abstruse, no?')
+                pfill(f'"{word}" is a bit too abstruse for me.')
                 return
             else: # wl.rank <= 95:
                 pfill(f"I'm dubious that \"{word}\" should be accepted.")
