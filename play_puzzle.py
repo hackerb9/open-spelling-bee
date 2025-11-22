@@ -85,7 +85,7 @@ def play(puzzle):
 
                 if word_index is None:
                     # Not an expected word, so check other word lists.
-                    if utils.is_bonus_word(g):
+                    if utils.is_in_custom(g):
                         if g in player.bonus_found or g in player.bonus_used:
                             print (f'You already found: {g}\n')
                         else:
@@ -93,11 +93,7 @@ def play(puzzle):
                             print()
                             player.bonus_found.append(g)
                     elif utils.is_in_scowl(g):
-                        print("Seems a bit hinky....")
-                        from pprint import pprint as pp
-                        pp(utils.is_in_scowl(g))
-                        print("If you're sure, use !okay to allow it.")
-                        print
+                        handle_rare_word(g)
                     else:
                         print (f'Sorry, "{g}" is not a valid word\n')
                     continue
@@ -170,6 +166,41 @@ def play(puzzle):
             pfill('\b“Congratulations. You found them all!”')
             print()
             exit(0)
+
+def handle_rare_word(word):
+    '''Found a word in scowl, but it is not common enough to just
+    accept. How we respond depends upon both the category and rank.
+    '''
+    for wl in utils.is_in_scowl(word):
+        if wl.category == 'english-words':
+            print (wl.rank)
+            if wl.rank <= 40:
+                pfill(f'Ah, my dictionary lacked the word "{word}"!')
+                pfill('To make it a required word for new puzzles, use !add')
+                return
+            elif wl.rank <= 50:
+                pfill(f'The word "{word}" is uncommon.')
+                pfill(f'To allow it as a bonus word, use !okay')
+                return
+            elif wl.rank <= 60:
+                pfill(f'The word "{word}" is rarer than this puzzle was designed for.')
+                return
+            elif wl.rank <= 70:
+                pfill(f'The word "{word}" is on the erudite side')
+                return
+            elif wl.rank <= 80:
+                pfill(f'"{word}" is rather abstruse, no?')
+                return
+            elif wl.rank <= 95:
+                pfill(f'I am not sure "{word}" should even count as a genuine word')
+                return
+
+    print(f'Seems a bit hinky....')
+    from pprint import pprint as pp
+    pp(utils.is_in_scowl(word))
+    print("If you're sure, use !okay to allow it.")
+    print
+
 
 def shuffle_letters(game_letters):
     # shuffles letters, excluding the center letter
