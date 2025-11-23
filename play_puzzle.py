@@ -173,7 +173,8 @@ def handle_rare_word(word, player):
     enough to accept in the default categories (american,english-words).
 
     How we respond depends upon both the category and rank. Note that some
-    words are in more than one category. [Can rank can differ?]
+    words are in more than one category with possibly different ranks.
+    (E.g., english-upper.50: Yucatan. english-words.95: yucatan).
 
     If the category is 'english-words' then, depending on the rank (10
     being most common, 95 being least) we may prompt them to save it in the
@@ -184,8 +185,6 @@ def handle_rare_word(word, player):
 	ACCEPTABLE:
         {english,american}-words
         {australian,british,canadian}-words
-
-        OLD HACKER JARGON:
         special-hacker
 
 	UNACCEPTABLE:
@@ -193,8 +192,7 @@ def handle_rare_word(word, player):
         special-roman-numerals
 
         NONSTANDARD:   # Uniquely contains "accurst", "gage", "nite", "zombi"
-        variant_{1,2,3}-words   
-        {australian,british,canadian}_variant_{1,2}-words
+        *variant_{1,2,3}-words   
 
         IGNORABLE:
         british_z-words			# ⊂ (American ∪ British)
@@ -204,24 +202,24 @@ def handle_rare_word(word, player):
             player.rare_words[wl.rank].append(word)
             print (wl.rank)
             if wl.rank == 40:
-                pfill(f'ERUDITION DETECTED: To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list. If it should be in the list, use !add to require it in future puzzles. If it is familiar to you but maybe not other folks, use !okay to allow a bonus for finding it. If it is actually not a great word and you were just checking to see if I expected it, do nothing.')
+                pfill(f'ERUDITION DETECTED: To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list. If it should be, use !add to require it be found in future puzzles. If it is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it. Otherwise, do nothing and enjoy knowing you have an above average vocabulary.')
                 return
             elif wl.rank == 50:
-                pfill(f'That is not one of the typical English words I am thinking of. Do people deserve a bonus for finding "{word}"? If so, use !okay.')
+                pfill(f'That is not one of the typical English words I am thinking of, but you tell me: Do people deserve a bonus for finding "{word}"? If so, use !okay.')
                 return
             elif wl.rank == 60:
-                pfill(f'Yes, "{word}" is used English, but I was told it was too rare to accept.')
+                pfill(f'This puzzle wasn\'t designed for such rare words. If "{word}" is truly a word one should be proud of knowing, please use !okay.')
                 return
-            elif wl.rank <= 70:
-                import random
+            elif wl.rank == 70:
                 boring=['pedestrian', 'quotidian', 'everyday', 'simpler']
-                pfill(f'You have an impressive vocabulary! Let\'s stick to {random.choice(boring)} words for this round.')
+                pfill(f'You have an impressive vocabulary! But I was told "{word}" was too unusual to accept. Do you know any {random.choice(boring)} words?')
                 return
-            elif wl.rank <= 80:
-                pfill(f'Wow, "{word}" is a bit too abstruse for me.')
+            elif wl.rank == 80:
+                wacky=['abstruse', 'esoteric', 'recondite', 'obscure']
+                pfill(f'Goodness! "{word}" is a bit too {random.choice(wacky)} for me.')
                 return
             else: # wl.rank <= 95:
-                pfill(f'I am dubious that "{word}" should be accepted.')
+                pfill(f'If I had eyes, I\'d be rolling them right now. I think we both know "{word}" should not be accepted.')
                 return
 
     print(f'Seems a bit hinky....')
