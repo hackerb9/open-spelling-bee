@@ -256,9 +256,9 @@ def is_in_custom(pattern):
                 rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in glob.glob("word_lists/dict-*.txt"):
                         with open(f, 'r') as fp:
-                                output=re.findall(rx, custom_parse(fp.read()))
-                                for w in output:
-                                        rv+=(f'{f}')
+                                if re.search(rx, custom_parse(fp.read())):
+                                        rv.append(f'{f}')
+        return rv
 
 custom_parse_re = re.compile(r'\W*(#.*)?\n|\W+')
 def custom_parse(s: str) -> str:
