@@ -90,7 +90,7 @@ yurt, yurts
 troy
 tort, torte
 logy, logey
-logon
+logon, login
 gnoll, gnolls
 googol, googolplex
 coyly
@@ -606,3 +606,5 @@ figleaf
 drupe
 raffia
 taiga
+longingly
+roiling
