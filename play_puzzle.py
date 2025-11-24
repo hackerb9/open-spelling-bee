@@ -197,36 +197,98 @@ def handle_rare_word(word, player):
         IGNORABLE:
         british_z-words			# ⊂ (American ∪ British)
     '''
-    for wl in utils.is_in_scowl(word):
+
+    matching_wl = utils.is_in_scowl(word)
+    if not matching_wl: return 
+
+    # Is it a common word in a different type of english? ('color', 'bunyip')
+    unusual_category = [ wl.category for wl in matching_wl
+                         if wl.rank <= 35 and
+                         '-words' in wl.category and
+                         not 'variant' in wl.category ]
+    if unusual_category:
+        # Matches british-words or similar
+        print(f'Acceptable in {', '.join(unusual_category)}')
+        # XXX maybe give more advice here
+        return
+
+    # Is the word most commonly a disallowed category? (Try 'USA', 'maths')
+    disallowed_cats = [ wl.category for wl in matching_wl
+                        if wl.rank == matching_wl[0].rank and
+                        ('-abbreviations' in wl.category or
+                         '-contractions' in wl.category or
+                         '-proper-names' in wl.category or
+                         '-upper' in wl.category or
+                         'special-roman-numerals' in wl.category) ]
+    if disallowed_cats:
+        print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
+        return
+
+    # Now check if it matched in english-words but with rank >35  
+    for wl in matching_wl:
         if wl.category == 'english-words':
             player.rare_words[wl.rank].append(word)
             print (wl.rank)
+            if wl.rank <= 35:
+                pfill(f'"{word}" looks hunky dory to me! This routine shouldn\'t have been called.')
+                return
             if wl.rank == 40:
-                pfill(f'ERUDITION DETECTED: To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list. If it should be, use !add to require it be found in future puzzles. If it is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it. Otherwise, do nothing and enjoy knowing you have an above average vocabulary.')
+                pfill(f'POSSIBLE ERUDITION DETECTED: To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list. If it is an everyday word, use !add to require it in future puzzles. If it is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it. Otherwise, do nothing and enjoy knowing you have an above average vocabulary.')
                 return
             elif wl.rank == 50:
-                pfill(f'That is not one of the typical English words I am thinking of, but you tell me: Do people deserve a bonus for finding "{word}"? If so, use !okay.')
+                pfill(f'Oh, I hadn\'t thought of "{word}". Use !okay to mark it as a bonus word.')
+                return
+            elif wl.rank == 55:
+                pfill(f'That is not one of the typical English words I am thinking of. Do people deserve a bonus for finding "{word}"? If so, use !okay.')
                 return
             elif wl.rank == 60:
-                pfill(f'This puzzle wasn\'t designed for such rare words. If "{word}" is truly a word one should be proud of knowing, please use !okay.')
+                pfill(f'This puzzle wasn\'t designed for such rare words. If "{word}" is a word one should be proud of knowing, please use !okay to mark it as acceptable.')
                 return
             elif wl.rank == 70:
                 boring=['pedestrian', 'quotidian', 'everyday', 'simpler']
-                pfill(f'You have an impressive vocabulary! But I was told "{word}" was too unusual to accept. Do you know any {random.choice(boring)} words?')
+                pfill(f'You have an impressive vocabulary! But I was told "{word}" was too unusual to accept. Do you see any {random.choice(boring)} words?')
                 return
             elif wl.rank == 80:
                 wacky=['abstruse', 'esoteric', 'recondite', 'obscure']
                 pfill(f'Goodness! "{word}" is a bit too {random.choice(wacky)} for me.')
                 return
             else: # wl.rank <= 95:
-                pfill(f'If I had eyes, I\'d be rolling them right now. I think we both know "{word}" should not be accepted.')
+                uhno=[f'Sorry, "{word}" is inadmissable.',
+                      f'If I had eyes, I\'d be rolling them right now.',
+                      f'I think we both know "{word}" should not be accepted.',
+                      f'You can do better than "{word}".']
+                pfill(random.choice(uhno))
                 return
+        
+    # If we get here, the word was not in the english-words category.
 
-    print(f'Seems a bit hinky....')
+    # Handle rank >35 from australian, british, canadian-words
+    # Is it an uncommon word in a different type of english?
+    # Try 'greyish'
+    unusual_category = [ wl.category for wl in matching_wl
+                         if wl.rank > 35 and
+                         '-words' in wl.category and
+                         not 'variant' in wl.category ]
+    if unusual_category:
+        # Matches british-words or similar
+        pfill(f'Less common word "{word}" found in {', '.join(unusual_category)}. Maybe use !okay.')
+        # XXX give more advice here
+        return
+
+    # Is the word most commonly a variant spelling ('nite', 'gage')
+    variant_cats = [ wl.category for wl in matching_wl
+                     if wl.rank == matching_wl[0].rank and
+                     'variant' in wl.category ]
+    if variant_cats:
+        print(f'Sorry, that spelling is not allowed here.')
+        return
+
+    print(f'Seems a bit sketchy....')
     from pprint import pprint as pp
-    pp(utils.is_in_scowl(word))
+    pp(matching_wl)
     print("If you're sure, use !okay to allow it.")
     print
+
 
 
 def shuffle_letters(game_letters):
