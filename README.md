@@ -126,7 +126,7 @@ Your guess: !h
 + `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
 
 + Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`,
-  `VAEGIRT`, `IACLPRT`, `LEIOPTX`
+  `VAEGIRT`, `IACLPRT`, `LEIOPTX`, `BACELRM`
 
 + Especially challenging: `RCEIMNP`, `YAEPRTX`, `TACHIMR`, `VAEGIRT`
 
