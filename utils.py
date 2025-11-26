@@ -4,6 +4,7 @@
 
 import params
 import generate_puzzles
+import equivalence
 
 import os
 import random
@@ -302,18 +303,17 @@ def is_in_scowl(w:str) -> []:
 
         '''
         w=w.casefold()
+        w = equivalence.expand_regex(w)
         results=[]
         for f in glob.glob("word_lists/scowl-u8/*"):
                 with open(f, 'r') as fp:
-                        words=fp.read().casefold().split()
-                        if w in words:
+                        words=fp.read().casefold()
+                        if re.search(fr'\b{w}\b', words):
                                 results.append(ScowlFile(f))
         return sorted(results)
 
 def scowl_lookup_usage():
-        print(
-
-        '''Usage: ./utils.py scowl <pattern>
+        print('''Usage: ./utils.py scowl <pattern>
 
 Shows words matching the exact word (regular expression ^pattern$) and
 which wordlist file it was found in. The number at the end of the
