@@ -641,3 +641,4 @@ cabal
 mamba				# Venomous arboreal snake
 mambo				# Latin American dance 
 rebar				# A steel bar added to concrete to strengthen it
+cameraman
