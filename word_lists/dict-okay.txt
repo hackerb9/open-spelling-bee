@@ -137,7 +137,7 @@ tutelage
 hoyden, hoydens
 modem, modems
 pipette, pipettes
-berm, berms
+berm, berms				# A narrow ledge on a slope for catching earth or redirecting water
 reaver, reavers, reave
 aggrieve, aggrieved
 vegetive, vegetate
@@ -609,7 +609,6 @@ taiga
 longingly
 roiling
 nori
-cariboo
 tomatillo
 malarial
 littoral
@@ -617,4 +616,28 @@ rutabaga
 airbag, airbags
 bonk, bonks, bonked, bonking
 ramen
-
+warlord
+roadwork
+patina
+amanita
+homeroom
+dormer				# A window pierced in a roof. (A sleeping apartment). A large beam in the roof of a house upon which portions of the other timbers rest or " sleep." --Arch. Pub. Soc.
+demo, demoed
+doddering
+euro
+humour, humours			#  The ancient physicians believed that there were four humours (the blood, phlegm, yellow bile or choler, and black bile or melancholy), on the relative proportion of which the temperament and health depended.
+dorm, dormroom
+blabber
+becalm
+bream
+bramble
+beebalm
+barbell, barbells
+barbel				# A slender tactile organ on the lips of certain fishes.
+camber				# A slight upward convexity of a deck, road, or other surface. A slight upward concavity of a beam, girder, or lintel.
+caber				# A log tossed for sport in the Scottish Highlands
+belle				# A young lady of superior beauty and attractions; a handsome lady, or one who attracts notice in society; a fair lady.
+cabal
+mamba				# Venomous arboreal snake
+mambo				# Latin American dance 
+rebar				# A steel bar added to concrete to strengthen it
