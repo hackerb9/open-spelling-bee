@@ -26,7 +26,7 @@ mys
 sangs
 lain
 OKed
-
+wigged, wigging
 
 # Many common nouns conjugated as less common verbs in SCOWL scowl/english-words.35
 abscessing
@@ -142,7 +142,7 @@ geed, geeing
 gigged, gigging
 ginned, ginning
 gonged, gonging
-gowning
+gowned, gowning
 haled, haling
 hallmarked, hallmarking
 haloed, haloing
