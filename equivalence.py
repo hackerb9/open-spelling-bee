@@ -1,5 +1,8 @@
-# Kinda like POSIX equivalence classes, but hardcoded to the en_US.UTF-8 locale.
+# Poorman's POSIX equivalence classes, hardcoded to the en_US.UTF-8 locale circa 2025.
 # Makes it easy to do a regular expression search for "epee" and match "épée".
+# Usage:
+#	import EquivalenceClass
+#	expand_regexp('a0b1c2')
 
 class EquivalenceClass:
     '''Define a lookup table for quickly replacing letters with a
@@ -38,6 +41,12 @@ class EquivalenceClass:
     def __init__(self):
         return None
 
-def expand_regex(string):
-    ec = EquivalenceClass.table;
-    return ''.join([ ec[k] if (k in ec) else k for k in string ])
+    def __getitem__(self, item):
+        if item in self.table:
+            return self.table[item];
+        else:
+            return item;
+
+def expand_regex(string: str):
+    ec = EquivalenceClass();
+    return ''.join([ ec[k] for k in string ])
