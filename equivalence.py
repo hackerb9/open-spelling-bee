@@ -1,11 +1,25 @@
-# Poorman's POSIX equivalence classes, hardcoded to the en_US.UTF-8 locale circa 2025.
-#
-#
-# Makes it easy to do a regular expression search for "epee" and match "épée".
-# Usage: re.search( equivalence.expand_regex( r'canape' ), words )
+'''EQUIVALENCE: Given ASCII, return a regex that matches each
+   alphabetic letter as a bracket expression allowing for characters
+   which are "equivalent". E.g., 'e' -> '[eèėêēé]'.
+
+   The purpose is to make it easy to to do to search for "epee" and
+   match "épée".
+
+   This is a poorman's POSIX "Equivalence Class", hardcoded to a
+   sampling taken in late 2025 of the POSIX 'en_US.UTF-8' locale.
+   POSIX regular expressions allow "[=x=]" in a bracket expression to
+   match the sequence of characters of all collating elements
+   equivalent to (and including) "x".
+
+   Usage:
+       import equivalence, re
+       re.search( equivalence.expand_regex( r'canape' ), words )
+'''
+
 
 class EquivalenceClass:
-    '''Define a lookup table for quickly replacing letters with a
+
+'''Define a lookup table for quickly replacing letters with a
     regular expression character class that encompasses all the
     possible accented versions of that letter. E.g., n -> [nñ].
     '''
@@ -47,6 +61,8 @@ class EquivalenceClass:
         else:
             return item;
 
-def expand_regex(string: str):
+def regex(string: str):
+    '''Given an alphabetic string, return a regex replacing each letter with a 
+    '''
     ec = EquivalenceClass();
     return ''.join([ ec[k] for k in string ])
