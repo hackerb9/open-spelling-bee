@@ -1,8 +1,8 @@
 # Poorman's POSIX equivalence classes, hardcoded to the en_US.UTF-8 locale circa 2025.
+#
+#
 # Makes it easy to do a regular expression search for "epee" and match "épée".
-# Usage:
-#	import EquivalenceClass
-#	expand_regexp('a0b1c2')
+# Usage: re.search( equivalence.expand_regex( r'canape' ), words )
 
 class EquivalenceClass:
     '''Define a lookup table for quickly replacing letters with a
