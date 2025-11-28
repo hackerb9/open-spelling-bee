@@ -12,17 +12,15 @@
    equivalent to (and including) "x".
 
    Usage:
-       import equivalence, re
-       re.search( equivalence.expand_regex( r'canape' ), words )
+       from equivalence import equivalence
+       re.search( equivalence('canape'), words )
 '''
 
 
 class EquivalenceClass:
-
-'''Define a lookup table for quickly replacing letters with a
-    regular expression character class that encompasses all the
-    possible accented versions of that letter. E.g., n -> [nñ].
-    '''
+    '''A class to hold the lookup table for quickly replacing letters
+    with a regular expression character class that encompasses all the
+    possible accented versions of that letter. E.g., n -> [nñ].'''
 
     table = {}
     table['A']=table['a']="[AaªÀÁÂÃÄÅàáâãäåĀāĂăĄąǍǎǞǟǠǡǺǻȀȁȂȃȦȧᴬᵃḀḁẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặₐÅ⒜ⒶⓐꞚꞛＡａ𝐀𝐚𝐴𝑎𝑨𝒂𝒜𝒶𝓐𝓪𝔄𝔞𝔸𝕒𝕬𝖆𝖠𝖺𝗔𝗮𝘈𝘢𝘼𝙖𝙰𝚊🄐🄰🅐🅰]"
@@ -61,8 +59,10 @@ class EquivalenceClass:
         else:
             return item;
 
-def regex(string: str):
-    '''Given an alphabetic string, return a regex replacing each letter with a 
+def equivalence(string: str):
+    '''Given an ASCII string, return a regex replacing each letter
+    with a bracket expression matching all equivalent characters in
+    Unicode. For example, 'n' -> '[nñ]'.
     '''
     ec = EquivalenceClass();
     return ''.join([ ec[k] for k in string ])

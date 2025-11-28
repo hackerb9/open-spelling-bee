@@ -1,3 +1,4 @@
+----------------------------------------------------------------------
 1. VERBING PROBLEM
 
 The SCOWL wordlist seems to have a VERBING PROBLEM. There are a bunch
@@ -49,7 +50,6 @@ words above, from 'english-words.35', are a problem because they are
 so rare that it is unlikely thaty are from the top 35%.
 
 ----------------------------------------------------------------------
-
 2. ACADEMIC CORPUS
 
 The file english-words.10 seems to not suffer from the verbing
@@ -82,3 +82,30 @@ which give it away:
 
 The file english-words.20 seems to be similar: it does not have the
 verbing problem, but does seem to over emphasize the acadmic domain.
+
+----------------------------------------------------------------------
+3. ACCENTED VARIATIONS HAVE REPLACED MORE COMMON UNACCENTED VERSIONS
+
+   a. attachés is in english-words.10 which is quite wrong.
+      The unnaccented spelling should be kept there and the 
+      accented spelling should be moved to a less common file, like .50)
+
+   b. ALMOST NEVER SPELLED WITH ACCENTS (in American English): adiós,
+       croûton, débutante, derrière, épée, ingénue, kindergärtner,
+       matinée, macramé, mêlée, sauté, séance, soufflé
+
+   c. CAN GO EITHER WAY BUT USUALLY ARE SPELLED WITHOUT THE ACCENT:
+      appliqué, blasé, café, châtelaine, cliché, dérailleur élan,
+      émigré, entrée, fête, ingénue, outré, protégé, vicuña, voilà
+
+   d. OFTEN SEEN WITH ACCENTS, BUT WITHOUT IS ALSO CORRECT:
+      boutonnière, canapé, château, clientèle, crèche, crudités,
+      décolletage, divorcée, doppelgänger, éclair, fiancé, flambé,
+      frappé, jalapeño, matériel, naiveté, née, piñata, risqué,
+      smörgåsbord, soirée, métier, passé, précis
+   
+   e. DON'T KNOW: abbé, confrère, cortège, décolleté, habitué,
+      jardinière, króna, krónur, manqué, manège, roue, soupçon, 
+      touché, éclat, étude
+
+----------------------------------------------------------------------
