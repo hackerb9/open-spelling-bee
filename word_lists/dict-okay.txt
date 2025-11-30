@@ -541,7 +541,7 @@ zinia
 bane
 sylph				# One of a race of beings or spirits supposed to inhabit the air (orig. in the system of Paracelsus).   1680: A. L[ovell] tr. Montfaucon de Villars' Cnt. of Gabalis 29 “The Sylphs are composed of the purest atomes of air.”  1657: H. Pinnell Philos. Reformed i. i. 26 (from Paracelsus) “To the Earth doe belong Gnoms, Lemurs, Sylphs.”
 undine				# A supernatural female being, imagined as inhabiting the water; a nymph. 1865: Lecky Ration. (1878) I. i. 42 “The Cabalists believed in the existence of spirits of nature, embodiments..of the four elements, sylphs, salamanders, gnomes, and ondines.”
-naga				# In Buddhist art, a representation of a human torso with a serpentine body. From Indian mythology, a member of a class of semi-divine creatures, often taking the form of a very large snake and associated with water.
+naga, nagi, nagini		# In Buddhist art, a representation of a human torso with a serpentine body. From Indian mythology, a member of a class of semi-divine creatures, often taking the form of a very large snake and associated with water.
 lamia, lamiae			# “Apollonius..by some probable conjectures, found her out to be a Serpent, a Lamia.”  “They are the Lamiæ, wenches vile, With brazen brows and lips that smile.”
 nimbus				# A visible aura of divine power. In art, a bright or golden disk surrounding the head, esp. of a saint. A cloud, halo, or atmosphere, investing a person or thing. A storm cloud. 
 numinous			# Evoking a sense of the mystical, sublime, or transcendent; awe-inspiring. Indicating the presence of a divinity.
