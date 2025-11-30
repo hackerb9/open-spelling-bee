@@ -226,6 +226,11 @@ def handle_rare_word(word, player):
             print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
             return
 
+    # Is the word acceptable in Hacker jargon? ('bletch').
+    if [ wl for wl in matching_wl if wl.category == 'special-hacker' ]:
+        print(f'Use !okay to accept this hacker jargon as a bonus word.')
+        return
+
     # Now check if it matched in english-words but with rank >35  
     for wl in matching_wl:
         if wl.category == 'english-words':
@@ -274,7 +279,7 @@ def handle_rare_word(word, player):
     if unusual_category:
         # Matches british-words or similar
         pfill(f'Less common word "{word}" found in {', '.join(unusual_category)}. Maybe use !okay.')
-        # XXX give more advice here
+        # XXX maybe give more specific advice here
         return
 
     # Is the word most commonly a variant spelling ('nite', 'gage')
@@ -283,15 +288,14 @@ def handle_rare_word(word, player):
                      'variant' in wl.category ]
     if variant_cats:
         print(f'Sorry, that spelling is not allowed here.')
+        print
         return
 
+    # All categories accounted for above, but just in case...
     print(f'Seems a bit sketchy....')
-    from pprint import pprint as pp
-    pp(matching_wl)
+    print(matching_wl)
     print("If you're sure, use !okay to allow it.")
     print
-
-
 
 def shuffle_letters(game_letters):
     # shuffles letters, excluding the center letter
