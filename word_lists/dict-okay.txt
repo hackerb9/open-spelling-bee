@@ -193,9 +193,9 @@ gnomic
 gneiss
 eocene
 nonce
-moire
-pompom, pompoms			# Hyphenation optional
+moiré, moire
 tulle
+pompom, pompoms			# Hyphenation optional
 gonad, gonads
 agog
 dingo, dingoes
@@ -659,4 +659,4 @@ capo
 coda
 hooch
 teff
-
+golem				#  In Jewish legend, a human figure made of clay, etc., and supernaturally brought to life; in extended use, an automaton, a robot.
