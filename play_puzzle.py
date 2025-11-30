@@ -207,9 +207,9 @@ def handle_rare_word(word, player):
                          '-words' in wl.category and
                          not 'variant' in wl.category ]
     if unusual_category:
-        # Matches british-words or similar
+        # Matches british-words, australian-words, or similar
+        # XXX maybe give specific response for Britishisms?
         print(f'Acceptable in {', '.join(unusual_category)}')
-        # XXX maybe give more advice here
         return
 
     # Is the word most commonly a disallowed category? (Try 'USA', 'maths')
@@ -221,9 +221,22 @@ def handle_rare_word(word, player):
                                 '-contractions' in cat or
                                 '-proper-names' in cat or
                                 '-upper' in cat or
-                                'special-roman-numerals' in cat) ]
+                                '-roman-numerals' in cat) ]
         if disallowed_cats:
-            print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
+            matched = matching_wl[0].matches[0]
+            if len(disallowed_cats) == 1:
+                if '-proper-names' in disallowed_cats[0]: 	# Alex
+                    print(f'Sorry, {matched} looks like a proper name to me.')
+                elif '-upper' in disallowed_cats[0]: 	       # January
+                    print(f'Sorry, {matched} is capitalized.')
+                elif '-abbreviations' in disallowed_cats[0]:   # YMCA
+                    print('Sorry, abbreviations are NG.')
+                elif '-contractions' in disallowed_cats[0]:   # ain't
+                    print('Sorry, contractions aren\'t allowed.')
+                elif '-roman-numerals' in disallowed_cats[0]: # xviii
+                    print('Sorry, Roman numerals are not words.')
+            else:
+                print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
             return
 
     # Is the word acceptable in Hacker jargon? ('bletch').
