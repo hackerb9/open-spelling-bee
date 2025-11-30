@@ -167,6 +167,7 @@ graffito
 fagot, faggot
 dourer
 blamer
+undid
 
 # These may be too common to remove, so they dwell in comment limbo
 #mete	# Obsolete, seen only with "mete out"
