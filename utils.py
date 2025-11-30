@@ -4,7 +4,7 @@
 
 import params
 import generate_puzzles
-from equivalence import equivalence
+from equivalence import equivalence, eqv
 
 import os
 import random
@@ -18,10 +18,17 @@ from dataclasses import dataclass, asdict
 from shutil import get_terminal_size
 
 class ScowlFile:
-        '''A representation of a single subcorpus from the SCOWL wordlists.
-        For example, the file "english-words.35"'''
-        def __init__(self, filename=""):
+        '''A representation of a single subcorpus file from the SCOWL
+        wordlists and possibly words which matched a specific pattern.
+
+        E.g., ScowlFile('word_lists/scowl-u8/english-words.35',
+                        ['xylophone', "xylophone's", 'xylophones'],
+                        'xyl.*')
+        '''
+        def __init__(self, filename="", matches=None, pattern=None):
                 self.filename = filename
+                self.matches = matches
+                self.pattern = pattern
                 self.category, ext = os.path.splitext(os.path.basename(filename))
                 try:
                         ext = int(ext[1:])
@@ -29,7 +36,7 @@ class ScowlFile:
                         ext = 999
                 self.rank = ext
         def __repr__(self):
-                return f'{self.rank}\t{self.category}\t({self.filename})'
+                return f"ScowlFile('{self.filename}', {self.matches}, '{self.pattern}')"
         def __lt__(self, other):
                 if (self.rank != other.rank):
                         return self.rank < other.rank
@@ -302,16 +309,20 @@ def is_in_scowl(w:str) -> []:
         rank. Unlike is_bonus_word(), this searches other categories
         beyond english-words, such as british-english and variants.
 
+        The results are sorted by rank so that matches in everyday
+        dictionaries come first. 
+
         Returns an empty list if no match was found.
 
         '''
         results=[]
-        if w.isalpha(): w=equivalence(w)
+        if w.isalpha(): w=eqv(w)
         rx=re.compile(fr'^({w})$', flags=re.IGNORECASE|re.MULTILINE)
         for f in glob.glob("word_lists/scowl-u8/*"):
                 with open(f, 'r') as fp:
-                        if rx.search(fp.read()):
-                                results.append(ScowlFile(f))
+                        matches=rx.findall(fp.read())
+                        if matches:
+                                results.append(ScowlFile(f, matches, w))
         return sorted(results)
 
 def scowl_lookup_usage():
@@ -336,6 +347,7 @@ To see possible inflections of a word, append .* like so:
 
 def scowl_lookup(pattern):
         '''Grep the SCOWL word_lists for ^(pattern)$ and print results'''
+        # XXX todo: this should call is_in_scowl()
 
         if type(pattern) is not list:
                 pattern = [ pattern ]
