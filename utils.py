@@ -227,8 +227,8 @@ def custom_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(equivalence(fr'^({p})$'),
-                              flags=re.IGNORECASE|re.MULTILINE)
+                if p.isalpha(): p=equivalence(p)
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in glob.glob("word_lists/dict-*.txt"):
                         with open(f, 'r') as fp:
                                 output=re.findall(rx, custom_parse(fp.read()))
@@ -255,8 +255,8 @@ def is_in_custom(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(equivalence(fr'^({p})$'),
-                              flags=re.IGNORECASE|re.MULTILINE)
+                if p.isalpha(): p=equivalence(p)
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in glob.glob("word_lists/dict-*.txt"):
                         with open(f, 'r') as fp:
                                 if re.search(rx, custom_parse(fp.read())):
@@ -306,13 +306,11 @@ def is_in_scowl(w:str) -> []:
 
         '''
         results=[]
-        w=w.casefold()
-        rx=re.compile(equivalence(fr'^({w})$'),
-                      flags=re.IGNORECASE|re.MULTILINE)
+        if w.isalpha(): w=equivalence(w)
+        rx=re.compile(fr'^({w})$', flags=re.IGNORECASE|re.MULTILINE)
         for f in glob.glob("word_lists/scowl-u8/*"):
                 with open(f, 'r') as fp:
-                        words=fp.read().casefold()
-                        if rx.search(words):
+                        if rx.search(fp.read()):
                                 results.append(ScowlFile(f))
         return sorted(results)
 
@@ -343,8 +341,8 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(equivalence(fr'^({p})$'),
-                              flags=re.IGNORECASE|re.MULTILINE)
+                if p.isalpha(): p=equivalence(p)
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
                         with open(f, 'r') as fp:
                                 output=re.findall(rx, fp.read())
@@ -397,8 +395,8 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(equivalence(fr'^({p})$'),
-                              flags=re.IGNORECASE|re.MULTILINE)
+                if p.isalpha(): p=equivalence(p)
+                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
                         with open(f, 'r') as fp:
                                 output=re.findall(rx, fp.read())
