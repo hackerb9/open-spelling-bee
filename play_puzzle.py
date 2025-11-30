@@ -226,11 +226,11 @@ def handle_rare_word(word, player):
             matched = matching_wl[0].matches[0]
             if len(disallowed_cats) == 1:
                 if '-proper-names' in disallowed_cats[0]: 	# Alex
-                    print(f'Sorry, {matched} looks like a proper name to me.')
+                    print(f'Sorry, "{matched}" looks like a proper name.')
                 elif '-upper' in disallowed_cats[0]: 	       # January
-                    print(f'Sorry, {matched} is capitalized.')
+                    print(f'Sorry, "{matched}" is capitalized.')
                 elif '-abbreviations' in disallowed_cats[0]:   # YMCA
-                    print('Sorry, abbreviations are NG.')
+                    print(f'Sorry, abbreviations like "{matched}" are NG.')
                 elif '-contractions' in disallowed_cats[0]:   # ain't
                     print('Sorry, contractions aren\'t allowed.')
                 elif '-roman-numerals' in disallowed_cats[0]: # xviii
