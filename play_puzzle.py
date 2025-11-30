@@ -220,8 +220,8 @@ def handle_rare_word(word, player):
                             if ('-abbreviations' in cat or
                                 '-contractions' in cat or
                                 '-proper-names' in cat or
-                                '-upper' in cat or
-                                '-roman-numerals' in cat) ]
+                                '-roman-numerals' in cat or
+                                '-upper' in cat) ]
         if disallowed_cats:
             matched = matching_wl[0].matches[0]
             if len(disallowed_cats) == 1:
@@ -231,10 +231,12 @@ def handle_rare_word(word, player):
                     print('Sorry, contractions aren\'t allowed.')
                 elif '-proper-names' in disallowed_cats[0]:    # Alex
                     print(f'Sorry, "{matched}" looks like a proper name.')
-                elif '-upper' in disallowed_cats[0]: 	       # January
-                    print(f'Sorry, "{matched}" is capitalized.')
                 elif '-roman-numerals' in disallowed_cats[0]:  # xviii
                     print('Sorry, Roman numerals are not words.')
+                elif '-upper' in disallowed_cats[0]: 	       # January
+                    print(f'Sorry, "{matched}" is capitalized.')
+                else:
+                    print(f'Sorry, {disallowed_cats[0]} is not allowed.')
             else:
                 print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
             return
@@ -248,7 +250,7 @@ def handle_rare_word(word, player):
     for wl in matching_wl:
         if wl.category == 'english-words':
             player.rare_words[wl.rank].append(word)
-            print (wl.rank)
+#            print (wl.rank)
             if wl.rank <= 35:
                 pfill(f'"{word}" looks hunky dory to me! This routine shouldn\'t have been called.')
                 return
