@@ -428,7 +428,7 @@ tiffin, tiffins
 incant, incants, incanting, incanted
 oratorio
 atoll
-aioli
+aioli (aïoli)
 monad
 lapidary
 divvy, divvied
@@ -541,13 +541,14 @@ zinia
 bane
 naga
 lamia, lamiae			# “Apollonius..by some probable conjectures, found her out to be a Serpent, a Lamia.”  “They are the Lamiæ, wenches vile, With brazen brows and lips that smile.”
-numinous
-luminal
+nimbus				# A visible aura of divine power. In art, a bright or golden disk surrounding the head, esp. of a saint. A cloud, halo, or atmosphere, investing a person or thing. A storm cloud. 
+numinous			# Evoking a sense of the mystical, sublime, or transcendent; awe-inspiring. Indicating the presence of a divinity.
+luminal				# At the speed of light (usually in a vacuum)
 laudanum			# Tincture of opium. [a. mod.L. laudanum, used by Paracelsus as the name of a medicament for which he gives a pretended prescription, the ingredients comprising leaf-gold, pearls not perforated, etc. (Opera 1658 I. 492/2). It was early suspected that opium was the real agent of the cures which Paracelsus professed to have effected by this costly means; hence the name was applied to certain opiate preparations which were sold as identical with his famous remedy.  It is doubtful whether the word as used by Paracelsus was a fanciful application of laudanum a med.L. variant of ladanum, or was suggested by laudāre to praise or by some other word, or was formed quite arbitrarily.]  “The Laudanum of rhetoric, whose property will occasionally benumb..the power of common understandings.”
-liminal
-limn
-mandala
-vindaloo, vindalu
+liminal				# The threshold of sensation of a sensation. (Cf. subliminal)
+limn, limned			# To adorn or embellish with gold or bright colour; to depict in (gold, etc.). 1534: Rich Let. to T. Cromwell in Strype Eccl. Mem. I. xxxiv. 179 “A certain tale of M. Magdalen, delivering her a letter from heaven, that was limned with golden letters.”
+mandala				# Jung: “I have come across women who did not draw mandala symbols but who danced them.” A symbolic representation of a magic circle usually with symmetrical divisions and figures of deities, etc., in the centre, used by Buddhists in meditation and found in many cultures as a religious symbol.
+vindaloo			# A blend of chilis, tamarind, ginger, cumin, and mustard seeds, originally from Goa.
 woad				# A blue dye-stuff prepared from the leaves of Isatis tinctoria, powdered and fermented: now generally superseded by indigo.  “Al the Britons doe dye themselves wyth woade, which setteth a blewish color uppon them.”
 apteryx				# Kiwi bird
 pyxis, pyx			# “Pyx (pyxis) a box, properly made of Box-tree.”  “‘This box’, and in her hands she took a pyx Square-cut, of dark obsidian’s rarest green, ‘Take’.”
@@ -555,12 +556,11 @@ payee
 yappy				# “You're a yappy kid with no bringing up whatever.”
 pappy
 papery
-parry				# parry, v. (ˈpɶrɪ) Also 7 parie, 8 pary. [app. repr. F. parez from parer, ad. It. parare ‘to ward or defend a blow’ (Florio), a development of the sense ‘to prepare, make ready’:—L. parāre.   Probably an echo of the F. imperative parez! as a word of command, constantly used in giving fencing lessons.]  “Good fencers push and parry at the same time... The Spaniards parry with the poniard. The ancients parried with their bucklers.”
+parry				# “Good fencers push and parry at the same time... The Spaniards parry with the poniard. The ancients parried with their bucklers.” parry, v. (ˈpɶrɪ) Also 7 parie, 8 pary. [app. repr. F. parez from parer, ad. It. parare ‘to ward or defend a blow’ (Florio), a development of the sense ‘to prepare, make ready’:—L. parāre.   Probably an echo of the F. imperative parez! as a word of command, constantly used in giving fencing lessons.] 
 teary
-eatery
 peppy
-arity				# the number of arguments a mathematical or algorithmic function can take
-teetery
+arity				# The number of arguments a mathematical or algorithmic function can take
+teetery				# Unsteady. “Dogged if I didn't feel teetery to look at it.” 1935: H. Davis Honey in Horn ii. 17
 eyot, eyots			# A small island arising from a river, especially the River Thames.  Donald R. Stephenson: “In the bottom of the hollow, stood a single copse like an eyot in a broad glade.”
 aeon (æon), aeons
 donned, donning
@@ -585,20 +585,20 @@ friary
 phial
 caliph
 halal
-coelacanth
+coelacanth			# fish thought to have been extinct since the Cretaceous period but found in 1938 off the coast of Africa [syn: Latimeria chalumnae]
 loch
 octant
 natch
 conch
-vegetal
-vagal
-gavotte					# Formal French dance in quadruple time
+vegetal				# 1871: Tylor Prim. Cult. I. 393 “The famous classic and mediæval theories of the vegetal, sensitive, and rational souls.”
+vagal				# Of or relating to the vagus nerve, the tenth cranial nerve, which connects the brain to the heart, lungs, and digestive tract for the regulation of involutary functions. 
+gavotte				# Formal French dance in quadruple time
 aloe
-vole					# 1840: Cuvier's Anim. Kingd. 114 “The Muskquash,..which is a Vole with semi-palmated hind-feet.”   1896: Daily News 21 Apr. 6/2 “May the vole-plague ravage the land of those who neglect this plain-featured fact!”
-vale					# Tract of land lying between two ranges of hills, or stretches of high ground, and usually traversed by a river or stream; a wide, flat valley
+vole				# 1840: Cuvier's Anim. Kingd. 114 “The Muskquash,..which is a Vole with semi-palmated hind-feet.”   1896: Daily News 21 Apr. 6/2 “May the vole-plague ravage the land of those who neglect this plain-featured fact!”
+vale				# Tract of land lying between two ranges of hills, or stretches of high ground, and usually traversed by a river or stream; a wide, flat valley
 elate
-faerie, faery				# The sphere or realm of enchantment, magic or dream associated with the "fae" (fays).  “Men dreaded there to see The uncouth things of faërie.”
-aggie					# Marble made of agate
+faerie, faery			# The sphere or realm of enchantment, magic or dream associated with the "fae" (fays).  “Men dreaded there to see The uncouth things of faërie.”
+aggie				# Marble made of agate
 aerie, eyrie
 gaffe
 falafel
@@ -621,10 +621,10 @@ roadwork
 patina
 amanita
 homeroom
-dormer				# A window pierced in a roof. (A sleeping apartment). A large beam in the roof of a house upon which portions of the other timbers rest or " sleep." --Arch. Pub. Soc.
+dormer				# A window pierced in a roof. (A sleeping apartment). A large beam in the roof of a house upon which portions of the other timbers rest or "sleep." --Arch. Pub. Soc.
 demo, demoed
 doddering
-euro
+euro				# €, The currency unit of the European Monetary Union.
 humour, humours			#  The ancient physicians believed that there were four humours (the blood, phlegm, yellow bile or choler, and black bile or melancholy), on the relative proportion of which the temperament and health depended.
 dorm, dormroom
 blabber
@@ -645,3 +645,10 @@ cameraman
 wiggly
 gigolo
 glowingly
+ingenue
+cafe (café), cafes
+melee (mêlée), melees
+materiel (matériel)
+pinata (piñata), pinatas
+doppelganger (doppelgänger), doppelgangers
+
