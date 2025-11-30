@@ -213,16 +213,18 @@ def handle_rare_word(word, player):
         return
 
     # Is the word most commonly a disallowed category? (Try 'USA', 'maths')
-    disallowed_cats = [ wl.category for wl in matching_wl
-                        if wl.rank == matching_wl[0].rank and
-                        ('-abbreviations' in wl.category or
-                         '-contractions' in wl.category or
-                         '-proper-names' in wl.category or
-                         '-upper' in wl.category or
-                         'special-roman-numerals' in wl.category) ]
-    if disallowed_cats:
-        print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
-        return
+    equally_common_cats = [ wl.category for wl in matching_wl
+                            if wl.rank == matching_wl[0].rank ]
+    if 'english-words' not in equally_common_cats:
+        disallowed_cats = [ cat for cat in equally_common_cats
+                            if ('-abbreviations' in cat or
+                                '-contractions' in cat or
+                                '-proper-names' in cat or
+                                '-upper' in cat or
+                                'special-roman-numerals' in cat) ]
+        if disallowed_cats:
+            print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
+            return
 
     # Now check if it matched in english-words but with rank >35  
     for wl in matching_wl:
