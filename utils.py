@@ -4,7 +4,7 @@
 
 import params
 import generate_puzzles
-import equivalence
+from equivalence import equivalence
 
 import os
 import random
@@ -227,7 +227,8 @@ def custom_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                rx=re.compile(equivalence(fr'^({p})$'),
+                              flags=re.IGNORECASE|re.MULTILINE)
                 for f in glob.glob("word_lists/dict-*.txt"):
                         with open(f, 'r') as fp:
                                 output=re.findall(rx, custom_parse(fp.read()))
@@ -254,7 +255,8 @@ def is_in_custom(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                rx=re.compile(equivalence(fr'^({p})$'),
+                              flags=re.IGNORECASE|re.MULTILINE)
                 for f in glob.glob("word_lists/dict-*.txt"):
                         with open(f, 'r') as fp:
                                 if re.search(rx, custom_parse(fp.read())):
@@ -265,20 +267,21 @@ custom_parse_re = re.compile(r'\W*(#.*)?\n|\W+')
 def custom_parse(s: str) -> str:
         '''Given an entire custom word list file as a string,
         return just newline separated words, omitting comments,
-        whitespace, and punctuation (except apostrophe).
+        whitespace, and punctuation.
         Input example:	"foo, bar (quux) madam's # this is a comment"
+        (XXX should not split on apostrophe.)
         '''
         return re.sub(custom_parse_re, '\n', s)
 
 def is_bonus_word(w:str) -> [str]:
-        '''If w is found in the bonus dictionaries, return an
+        '''If string w is found in the bonus dictionaries, return an
         array of strings indicating which dictionaries it was found in.
         If it is not found, an empty list is returned.
 
         The bonus dictionaries are: 
 	        word_lists/dict-{add,okay,remove}.txt,
 		scowl-u8/english-words.{40,50)
-        	dict lookup [not yet implemented]
+        	[dict lookup not yet implemented]
         '''
         w=w.casefold()
         results=[]
@@ -302,13 +305,14 @@ def is_in_scowl(w:str) -> []:
         Returns an empty list if no match was found.
 
         '''
-        w=w.casefold()
-        w = equivalence.expand_regex(w)
         results=[]
+        w=w.casefold()
+        rx=re.compile(equivalence(fr'^({w})$'),
+                      flags=re.IGNORECASE|re.MULTILINE)
         for f in glob.glob("word_lists/scowl-u8/*"):
                 with open(f, 'r') as fp:
                         words=fp.read().casefold()
-                        if re.search(fr'\b{w}\b', words):
+                        if rx.search(words):
                                 results.append(ScowlFile(f))
         return sorted(results)
 
@@ -339,7 +343,8 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                rx=re.compile(equivalence(fr'^({p})$'),
+                              flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
                         with open(f, 'r') as fp:
                                 output=re.findall(rx, fp.read())
@@ -392,7 +397,8 @@ def scowl_lookup(pattern):
                 pattern = [ pattern ]
 
         for p in pattern:
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                rx=re.compile(equivalence(fr'^({p})$'),
+                              flags=re.IGNORECASE|re.MULTILINE)
                 for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
                         with open(f, 'r') as fp:
                                 output=re.findall(rx, fp.read())
