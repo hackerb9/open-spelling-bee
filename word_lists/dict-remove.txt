@@ -168,11 +168,11 @@ fagot, faggot
 dourer
 blamer
 undid
-liquefied
+
+mete	# Obsolete, seen only with "mete out"
+
 
 # These may be too common to remove, so they dwell in comment limbo
-#mete	# Obsolete, seen only with "mete out"
-
 #acquaints, acquainting
 #autopsied, autopsying
 #batching
