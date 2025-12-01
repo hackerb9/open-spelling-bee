@@ -690,3 +690,6 @@ farrier				# One who shoes horses. From L. ferrārius, f. ferr-um iron, in med.L
 referral
 freefall			# The state of being in a motion affected by no acceleration (force) other than that provided by gravity.
 feral				# Animals or plants that have lapsed into a wild from a domesticated condition.
+heft
+femur
+haft				# 1382: Wyclif Deut. xix. 5 “The axe fleeth the hoond, and the yren, slipt of fro the haft, smytith his freend.”
