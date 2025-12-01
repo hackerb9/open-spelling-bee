@@ -672,3 +672,19 @@ ornery
 oops
 nope
 goop, goopy, goopier
+landfall
+fallow
+offal
+armature
+atrium
+tritium				# A radioactive isotope of the element hydrogen (symbol T³H or (nuclide 3 1 H)) having one proton and two neutrons.
+trinitite			# A glass-like mineral left on the desert floor after the plutonium-based Trinity nuclear bomb test on July 16, 1945, near Alamogordo, New Mexico.
+tutu
+cowl				# A garment with a hood and no sleeves. Particularly _vestis caputiata_, worn by monks, varying in length in different ages and according to the usages of different orders, but ‘having the permanent characteristics of covering the head and shoulders, and being without sleeves’(Cath. Dict.). Also, formerly, a cloak or frock worn by laymen or by women.    The cl. Lat. cucullus was the hood of a cloak, covering the head only. The cowls of the early Egyptian monks covered the heads, and barely reached the shoulders; by 800 the cowls of monks had become so long as to reach their heels, when St. Benedict restricted their length to two cubits. In the 14th c. the cowl and the frock were often confounded; but it was declared at the Council of Vienne ‘we understand by the name of cuculla a habit long and full, but not having sleeves, and by that of floccus a long habit which has long and wide sleeves’.
+cloaca				# The common excrementory cavity at the end of the intestinal canal in birds, reptiles, most fishes, and the monotremate mammals.
+fife
+gaffer				# An elderly rustic; an old fellow. In film: A chief lighting technician for a motion-picture or television production.
+riffle				# A quick skim or leafing through (of pages of a book, papers, etc.).  1894: Maskelyne Sharps & Flats 137 “The riffle, or butt-in, as it is called in America, is the shuffle in which..the thumbs ‘riffle’, or bend up the corners of the cards.”
+farrier				# One who shoes horses. From L. ferrārius, f. ferr-um iron, in med.L. (often ferrus) horseshoe.
+referral
+freefall			# The state of being in a motion affected by no acceleration (force) other than that provided by gravity.
