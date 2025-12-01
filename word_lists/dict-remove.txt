@@ -170,6 +170,7 @@ blamer
 undid
 mete	# Obsolete, seen only with "mete out"
 termini
+properer
 
 # These may be too common to remove, so they dwell in comment limbo
 #acquaints, acquainting
