@@ -128,7 +128,7 @@ Your guess: !h
 + Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`,
   `VAEGIRT`, `IACLPRT`, `LEIOPTX`, `BACELRM`
 
-+ Especially challenging: `RCEIMNP`, `YAEPRTX`, `TACHIMR`, `VAEGIRT`
++ Especially challenging: `RCEIMNP`, `YAEPRTX`, `TACHIMR`, `VAEGIRT`, `IACHNTY`
 
 + Historic: 
   | Date               | Puzzle     | Title                        | Note                                                              |
