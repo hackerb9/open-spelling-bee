@@ -668,3 +668,4 @@ chitin
 haint				# US dialectal, a ghost
 inanity, inanities
 tachyon
+nope
