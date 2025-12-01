@@ -241,9 +241,9 @@ def custom_lookup(pattern):
                 for f in glob.glob("word_lists/dict-*.txt"):
                         with open(f, 'r') as fp:
                                 output=re.findall(rx, custom_parse(fp.read()))
-                                for w in output:
+                                if output:
                                         try:
-                                                print(f'{f}: {w}')
+                                                print(f'{f}: {', '.join(output)}')
                                         except BrokenPipeError:
                                                 sys.stdout = None
 
