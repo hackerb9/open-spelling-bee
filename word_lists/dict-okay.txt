@@ -443,9 +443,9 @@ nacho, nachos
 achoo
 archon
 thermite
-mitre
-metier
-emigree
+mitre, miter
+métier (metier)
+émigré (emigre)
 reemerge
 emitter
 trireme
@@ -458,13 +458,13 @@ doula
 blobby
 baldly
 balladry
-loblolly
+loblolly			# loblolly pine, Pinus taeda, an evergreen native the Southeastern US.
 tipple, tipples, tippled
 tootle, tootles, tootled
 pixelated, pixelation
-pixilated			#    1. Mildly insane, fey, whimsical; bewildered, confused; intoxicated, tipsy.  “The word pixilated is an early American expression—derived from the word `pixies' meaning elves. They would say, `The pixies have got him,' as we nowadays would say a man is `balmy'.”  “A ‘pixilated’ man is one whose whimseys are not understood by practical-minded people.”
+pixilated			# 1. Mildly insane, fey, whimsical; bewildered, confused; intoxicated, tipsy.  “The word pixilated is an early American expression—derived from the word `pixies' meaning elves. They would say, `The pixies have got him,' as we nowadays would say a man is `balmy'.”  “A ‘pixilated’ man is one whose whimseys are not understood by practical-minded people.”
 prolix
-petiole
+petiole				# the slender stem that supports the blade of a leaf
 polity
 runnel
 luau
@@ -487,7 +487,9 @@ bodge, bodging
 alum
 moll
 loofa
-armful, mouthful, earful, eyeful, roomful
+armful, fistful, mouthful, earful, eyeful, bellyful
+thimbleful, pocketful, plateful, glassful, bucketful, sackful, tankful, roomful
+insightful, needful, lustful, gleeful, mirthful, untruthful, woeful, wrathful
 folderol
 lulu
 godling
@@ -661,3 +663,8 @@ hooch				# North America (informal) An alcohol beverage, especially an inferior 
 teff				# The principal cereal of Abyssinia, Poa (Eragrostis) abyssinica, producing minute red or white grains from which bread is made.
 golem				# In Jewish legend, a human figure made of clay, etc., and supernaturally brought to life; in extended use, an automaton, a robot.
 annatto				# Annatto is an orange-red condiment and food coloring derived from the seeds of the achiote tree, native to tropical parts of the Americas. 
+chia
+chitin
+haint				# US dialectal, a ghost
+inanity, inanities
+tachyon
