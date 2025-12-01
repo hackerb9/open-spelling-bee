@@ -388,13 +388,14 @@ def ranking(score, maxscore):
         return "Uh-oh"
 
 def print_status(puzzle, player):
+    numhints = player.hints_available + player.achievements['70'] * len(player.bonus_found)
     utils.print_table([
         f'score: {player.score:>3} / {puzzle.total_score:>3} ({round(player.score*100.0/puzzle.total_score,1):>5.1f}%)',
         f'{ranking(player.score, puzzle.total_score).upper():>3}',
         f'words: {player.words:>3} / {puzzle.word_count:>3} ({round(player.words*100.0/puzzle.word_count,1):>5.1f}%)',
         f'pangram found: {player.pangram}',
         f'hints used: {player.hints_used}',
-        f'hints available: {player.hints_available}'])
+        f'hints available: {numhints}'])
     if player.last_hint:
         print(f'last hint: {player.last_hint}')
     if player.found:
