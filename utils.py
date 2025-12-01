@@ -37,6 +37,8 @@ class ScowlFile:
                 self.rank = ext
         def __repr__(self):
                 return f"ScowlFile('{self.filename}', {self.matches}, '{self.pattern}')"
+        def __str__(self):
+                return f'{self.category}.{self.rank}: {", ".join(self.matches)}'
         def __lt__(self, other):
                 if (self.rank != other.rank):
                         return self.rank < other.rank
@@ -276,7 +278,7 @@ def custom_parse(s: str) -> str:
         return just newline separated words, omitting comments,
         whitespace, and punctuation.
         Input example:	"foo, bar (quux) madam's # this is a comment"
-        (XXX should not split on apostrophe.)
+        (XXX TODO: should not split on apostrophe.)
         '''
         return re.sub(custom_parse_re, '\n', s)
 
@@ -304,16 +306,20 @@ def is_bonus_word(w:str) -> [str]:
         return results
 
 def is_in_scowl(w:str) -> []:
-        '''If w is found in the scowl dictionaries, return an array of
-        ScowlFile items indicating which wordlists matched and at what
-        rank. Unlike is_bonus_word(), this searches other categories
-        beyond english-words, such as british-english and variants.
+        '''is_in_scowl(w)
+
+        If w is found in the scowl dictionaries, return an array of ScowlFile
+        items indicating which wordlists matched and at what rank. Unlike
+        is_bonus_word(), this searches other categories beyond english-words,
+        such as british-english and variants.
 
         The results are sorted by rank so that matches in everyday
-        dictionaries come first. 
+        dictionaries come first. Returns an empty list if no match was found.
 
-        Returns an empty list if no match was found.
-
+        Nota Bene: if the pattern is completely alphabetic (not a regular
+        expression) then eqv() from equivalence.py will be used to match
+        Latin-1 characters. For example, searching for 'metier' will find
+        'métier' but searching for '\bmetier\b' will have no results.
         '''
         results=[]
         if w.isalpha(): w=eqv(w)
@@ -338,61 +344,10 @@ english-words.40 is not.
 To see possible inflections of a word, append .* like so:
 
     $ ./utils.py scowl alfalfa.*
-    word_lists/scowl-u8/english-words.40: alfalfa
-    word_lists/scowl-u8/english-words.40: alfalfa's
-    word_lists/scowl-u8/english-words.80: alfalfas
+    english-words.40: alfalfa, alfalfa's
+    english-words.80: alfalfas
 
 ''')
-
-
-def scowl_lookup(pattern):
-        '''Grep the SCOWL word_lists for ^(pattern)$ and print results'''
-        # XXX todo: this should call is_in_scowl()
-
-        if type(pattern) is not list:
-                pattern = [ pattern ]
-
-        for p in pattern:
-                if p.isalpha(): p=equivalence(p)
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
-                for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
-                        with open(f, 'r') as fp:
-                                output=re.findall(rx, fp.read())
-                                for w in output:
-                                        try:
-                                                print(f'{f}: {w}')
-                                        except BrokenPipeError:
-                                                sys.stdout = None
-
-def scowl_sort(fullpath):
-        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
-        name, ext = os.path.splitext(fullpath)
-        try:
-                ext = int(ext[1:])
-        except ValueError:
-                ext = 999
-
-        return (ext, name)
-
-
-def scowl_lookup_usage():
-        print('''Usage: ./utils.py scowl <pattern>
-
-Shows words matching the exact word (regular expression ^pattern$) and
-which wordlist file it was found in. The number at the end of the
-filename is an indication of how common SCOWL thinks the word is. This
-is useful to see why a word is getting rejected. The default threshold
-for generating puzzles is <=35, so english-words.35 is used but
-english-words.40 is not.
-
-To see possible inflections of a word, append .* like so:
-
-    $ ./utils.py scowl alfalfa.*
-    word_lists/scowl-u8/english-words.40: alfalfa
-    word_lists/scowl-u8/english-words.80: alfalfas
-
-''')
-
 
 def scowl_lookup(pattern):
         '''Grep the SCOWL word_lists for ^pattern$
@@ -405,18 +360,12 @@ def scowl_lookup(pattern):
 
         if type(pattern) is not list:
                 pattern = [ pattern ]
-
         for p in pattern:
-                if p.isalpha(): p=equivalence(p)
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
-                for f in sorted(glob.glob("word_lists/scowl-u8/*"), key=scowl_sort):
-                        with open(f, 'r') as fp:
-                                output=re.findall(rx, fp.read())
-                                for w in output:
-                                        try:
-                                                print(f'{f}: {w}')
-                                        except BrokenPipeError:
-                                                sys.stdout = None
+                for scowlFile in is_in_scowl( p ):
+                        try:
+                                print(scowlFile)
+                        except BrokenPipeError:
+                                sys.stdout = None
 
 def scowl_category(fullpath: str) -> str:
         '''Given a filename ("wordlists/scowl-u8/english-words.35"),
@@ -435,16 +384,6 @@ def scowl_rank(fullpath: str) -> int:
         except ValueError:
                 ext = 999
         return ext
-
-def scowl_sort(fullpath: str) -> ():
-        '''Given a filename of the form "english-words.35", return a tuple with extension first so that it will be the primary sort key.'''
-        name, ext = os.path.splitext(fullpath)
-        try:
-                ext = int(ext[1:])
-        except ValueError:
-                ext = 999
-        return (ext, name)
-
 
 def dict_define_usage():
         print('''\
