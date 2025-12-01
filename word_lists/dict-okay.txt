@@ -668,4 +668,7 @@ chitin
 haint				# US dialectal, a ghost
 inanity, inanities
 tachyon
+ornery
+oops
 nope
+goop, goopy, goopier
