@@ -168,9 +168,8 @@ fagot, faggot
 dourer
 blamer
 undid
-
 mete	# Obsolete, seen only with "mete out"
-
+termini
 
 # These may be too common to remove, so they dwell in comment limbo
 #acquaints, acquainting
