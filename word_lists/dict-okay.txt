@@ -329,7 +329,7 @@ poppet, poppets
 peyote
 toothy
 neoteny
-eyetooth
+eyetooth, eyeteeth		#  a. A tooth immediately under or next to the eye, orig. one of the upper canine teeth (see canine tooth), but now extended to the lower also. To cut one's eye-teeth: to get out of babyhood. to draw any one's eye-teeth: to take the conceit out of him. to have one's eye-teeth: to be wide-awake. (one) would give one's eye-teeth: (one) is very eager, or ready to make the greatest sacrifices (to do something).
 poopy
 phenotype, phenotypes
 yoyo, yoyos, yoyoed
@@ -698,3 +698,4 @@ boson, bosons			# A boatswain. In physics, a particle with totally symmetric com
 buss, bussing			# 1648: Herrick Hesper. (1823) I. 266 “Kissing and bussing differ both in this, We busse our wantons, but our wives we kisse.”
 nubbin, nubbins			# A small protuberance, bud, bump, or knob.
 acetate
+yeah
