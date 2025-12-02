@@ -697,3 +697,4 @@ fermion, fermions		# In the Standard Model of physics: Any elementary or composi
 boson, bosons			# A boatswain. In physics, a particle with totally symmetric composite quantum states, which exempts them from the Pauli exclusion principle, and that hence obeys Bose-Einstein statistics. They have integer spin. Among them are many elementary particles, and some (gauge bosons) are known to carry the fundamental forces. (Compare fermion).
 buss, bussing			# 1648: Herrick Hesper. (1823) I. 266 “Kissing and bussing differ both in this, We busse our wantons, but our wives we kisse.”
 nubbin, nubbins			# A small protuberance, bud, bump, or knob.
+acetate
