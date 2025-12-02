@@ -160,7 +160,10 @@ pinioning
 quirked, quirking
 satellited, satelliting
 tided, tiding
-tinges, tinging
+vatted, vatting
+
+######################################################################
+
 uteri
 viced, vicing, vised, vising
 graffito
@@ -171,6 +174,9 @@ undid
 mete	# Obsolete, seen only with "mete out"
 termini
 properer
+eave
+
+
 
 # These may be too common to remove, so they dwell in comment limbo
 #acquaints, acquainting
