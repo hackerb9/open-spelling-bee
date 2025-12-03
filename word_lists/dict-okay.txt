@@ -699,6 +699,9 @@ buss, bussing			# 1648: Herrick Hesper. (1823) I. 266 “Kissing and bussing dif
 nubbin, nubbins			# A small protuberance, bud, bump, or knob.
 acetate
 yeah
-
 peahen, peahens
 hypha, hyphae
+ululate
+faun
+vining
+kale
