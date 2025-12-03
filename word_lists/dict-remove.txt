@@ -2,7 +2,7 @@
 # to generate puzzles as they are actually less common.
 # See also: scowl/english-words.35
 
-lemme
+lemme, gimme, wanna, gonna
 gonna
 genii
 uteri
@@ -27,6 +27,19 @@ sangs
 lain
 OKed
 wigged, wigging
+uteri
+graffito
+fagot, faggot
+dourer
+blamer
+undid
+mete				# Obsolete, seen only with "mete out"
+termini
+properer
+eave
+calk, calks, calked, calking	# Uncommon variant spelling
+
+######################################################################
 
 # Many common nouns conjugated as less common verbs in SCOWL scowl/english-words.35
 abscessing
@@ -134,26 +147,116 @@ doming
 downed, downing
 duded, duding
 dunged, dunging
-
-
+effected, effecting		# effect as a verb is valid but quite rare
+#embargoed, embargoing
+encored, encoring
+essayed, essaying
 exampled, exampling
 extincted, extincting
-geed, geeing
+faceting
+facsimiled, facsimileing
+fantasied, fantasying
+firmed, firming
+flatted, flatting
+floodlighted
+floured, flouring
+flurrying
+fluxed, fluxing
+forayed, foraying
+foregrounded, foregrounding
+foresting
+fowled, fowling			# to hunt fowl
+franked, franking		# mark to indicate the right of sending mail
+freckling
+freighted, freighting
+friended, friending
+frighted, frighting
+frostbites, frostbiting
+fulled, fulling			# thickening cloth by beating & washing
+furring				# fur-trading
+fuzzed, fuzzing
+gangrened, gangrening
+garbing
+garlanding
+gating
+gazetted, gazetting
+geed, gees, geeing
 gigged, gigging
 ginned, ginning
+glamoured, glamouring
+glassed, glassing
+gloried, glorying
+glossed, glossing
+gloving
+gobbed, gobbing
 gonged, gonging
 gowned, gowning
+grassed, grassing
+graved, graving
+greened, greening
+grimed, griming
+grubbed
+grudged
+guested, guesting
+guyed, guying
+hackneying
 haled, haling
 hallmarked, hallmarking
 haloed, haloing
-hammed, hamming
 hared, haring
-hooping
+hastes, hasted, hasting
+hatted, hatting
+hays, hayed, haying
+helicoptered, helicoptering
 hipping
+hived, hiving
+holidayed, holidaying		# Shoud be in british-words.35
+honeycombing
 honeying
+hooding
+hooping
+hosteled, hosteling
 hymned, hymning
+hyphened
+hyphening
+imaged
+impulsed, impulsing
+instanced, instancing
+interluded
+invalided, invaliding
+jading
+jaundicing
+jaunted, jaunting
+jawboning
+jellying
+jigged
+jigsawed, jigsawing
+jobbed, jobbing
+jointing
 joyed, joying
+jugged, jugging
+keyboarded
+kilned, kilning
 kited, kiting
+koshered, koshering
+laddered, laddering
+laded
+lambed, lambing
+lamed, laming			# lamed is also the 12th Hebrew letter
+larded, larding
+larked, larking
+lateraled, lateraling
+#lathed, lathing
+lazied, lazying
+leagued, leaguing
+legitimated, legitimates, legitimating
+lipsticking
+lofted, lofting
+manifolded, manifolding
+
+#...
+
+peter, peters, petered, petering
 phonied, phonying
 pigged, pigging
 pinioning
@@ -162,23 +265,9 @@ satellited, satelliting
 tided, tiding
 vanned, vanning
 vatted, vatting
-viced, vicing
+viced, vicing, vised, vising
 
 ######################################################################
-
-uteri
-viced, vicing, vised, vising
-graffito
-fagot, faggot
-dourer
-blamer
-undid
-mete	# Obsolete, seen only with "mete out"
-termini
-properer
-eave
-calk, calks, calked, calking	# Uncommon variant spelling
-
 
 # These may be too common to remove, so they dwell in comment limbo
 #acquaints, acquainting
@@ -208,4 +297,22 @@ calk, calks, calked, calking	# Uncommon variant spelling
 #contenting
 #cottoned, cottoning
 #crusted, crusting
+#evidenced, evidences, evidencing
+#feathering
+#fireproofed, fireproofing, fireproofs
+# fleshed, fleshing			# Common enough with "flesh out"?
+# footed, footing			# Common enough with "foot the bill"?
+#garrisoning
+# ghosted, ghosting			# Modern usage sufficient?
+#graced
+# hammed, hamming			# Common enough with "ham up"?
+# hawked, hawking			# Common enough with "hawk up"?
+#hurrahed
 #inclines, inclining
+#interchanged, interchanging
+#jollied, jollying
+#keynoted, keynoting
+# knuckled, knuckling			# Common enough with "knuckle under"?
+# limbered, limbering			# Common enough with "limber up"?
+# liquored, liquoring			# Common enough with "liquor up"?
+# lucked, lucking			# Common enough with "luck out"?
