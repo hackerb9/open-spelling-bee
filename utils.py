@@ -305,7 +305,23 @@ def is_bonus_word(w:str) -> [str]:
                                 results.append(f)
         return results
 
+def get_custom_word_list(name: str) -> [ str ]:
+        return get_custom_word_file(name).upper().split()
+
+def get_custom_word_file(name: str) -> str:
+        '''Given the name of one of the custom word lists,
+        slurp the contents into a string and return it.
+
+        Possible values for name: 'add', 'okay', 'remove'.
+        Actual filename is f"word_lists/dict-{name}.txt".
+        '''
+        result = ""
+        with open(f'word_lists/dict-{name}.txt', 'r') as fp:
+                result=custom_parse(fp.read())
+        return result
+
 def is_in_scowl(w:str) -> []:
+
         '''is_in_scowl(w)
 
         If w is found in the scowl dictionaries, return an array of ScowlFile
