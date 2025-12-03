@@ -160,7 +160,9 @@ pinioning
 quirked, quirking
 satellited, satelliting
 tided, tiding
+vanned, vanning
 vatted, vatting
+viced, vicing
 
 ######################################################################
 
@@ -175,7 +177,7 @@ mete	# Obsolete, seen only with "mete out"
 termini
 properer
 eave
-
+calk, calks, calked, calking	# Uncommon variant spelling
 
 
 # These may be too common to remove, so they dwell in comment limbo
