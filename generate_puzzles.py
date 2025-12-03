@@ -35,12 +35,12 @@ def get_words(word_file):
         # trim whitespace and remove short words
         words = [w.strip().upper() for w in words if len(w.strip()) >= params.MIN_WORD_LENGTH]
 
-        # remove words knowfn to be mistakes (e.g., "geed", "geeing")
-        # XXX todo: parameterize filename
-        with open('word_lists/dict-remove.txt', 'r') as fp:
-                remove_list=utils.custom_parse(fp.read()).upper().split()
+        # remove words known to be too obscure (e.g., "geed", "geeing")
+        try:
+                remove_list=utils.get_custom_word_list('remove')
                 words = list( set(words) - set(remove_list) )
-
+        except (OSError, IOError) as e:
+                print(f'Could not read "remove" list: {e}')
         return words
 
 def get_letters():
