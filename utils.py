@@ -312,8 +312,8 @@ def get_custom_word_file(name: str) -> str:
         '''Given the name of one of the custom word lists,
         slurp the contents into a string and return it.
 
-        Possible values for name: 'add', 'okay', 'remove'.
         Actual filename is f"word_lists/dict-{name}.txt".
+        Possible values for name: 'add', 'okay', 'remove'.
         '''
         result = ""
         with open(f'word_lists/dict-{name}.txt', 'r') as fp:
