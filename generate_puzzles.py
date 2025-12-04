@@ -41,6 +41,15 @@ def get_words(word_file):
                 words = sorted(list( set(words) - set(remove_list) ))
         except (OSError, IOError) as e:
                 print(f'Could not read optional "remove" list: {e}')
+
+        # add words which are known to be missing (e.g., "groundhog", "druid")
+        try:
+                add_list=utils.get_custom_word_list('add')
+                if words and add_list:
+                        words = sorted(list( set(words).union(set(add_list)) ))
+        except (OSError, IOError) as e:
+                print(f'Could not read optional "add" list: {e}')
+
         return words
 
 def get_letters():
