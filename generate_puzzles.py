@@ -40,7 +40,7 @@ def get_words(word_file):
                 remove_list=utils.get_custom_word_list('remove')
                 words = sorted(list( set(words) - set(remove_list) ))
         except (OSError, IOError) as e:
-                print(f'Could not read "remove" list: {e}')
+                print(f'Could not read optional "remove" list: {e}')
         return words
 
 def get_letters():
