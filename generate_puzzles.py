@@ -38,7 +38,7 @@ def get_words(word_file):
         # remove words known to be too obscure (e.g., "geed", "geeing")
         try:
                 remove_list=utils.get_custom_word_list('remove')
-                words = list( set(words) - set(remove_list) )
+                words = sorted(list( set(words) - set(remove_list) ))
         except (OSError, IOError) as e:
                 print(f'Could not read "remove" list: {e}')
         return words
