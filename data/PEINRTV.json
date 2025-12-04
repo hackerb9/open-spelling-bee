@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 38,
+    "total_score": 193,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "PREVENTIVE"
@@ -88,11 +88,6 @@
             "pangram": false
         },
         {
-            "word": "PETER",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "PETITE",
             "score": 6,
             "pangram": false
@@ -149,11 +144,6 @@
         },
         {
             "word": "PRINTER",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PRIVIER",
             "score": 7,
             "pangram": false
         },
