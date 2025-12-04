@@ -39,6 +39,7 @@ properer
 eave
 calk, calks, calked, calking	# Uncommon variant spelling
 privier
+ruff
 
 ######################################################################
 
