@@ -320,6 +320,10 @@ def get_custom_word_file(name: str) -> str:
                 result=custom_parse(fp.read())
         return result
 
+def dump_custom_word_list(name: str) -> [ str ]:
+        words = sorted(get_custom_word_file(name).upper().split())
+        print ("\n".join(words))
+
 def is_in_scowl(w:str) -> []:
 
         '''is_in_scowl(w)
