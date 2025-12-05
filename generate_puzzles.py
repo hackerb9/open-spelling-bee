@@ -145,13 +145,16 @@ def print_cumulative_why(why):
         print('%24s: %d' % ( 'Valid games found', valid_count ), flush=True )
 
 
-def make_puzzles(word_list, pool, existing_puzzles, letters=None):
+def make_puzzles(word_list, pool, existing_puzzles, letters=None, force_auto=False):
         is_valid=True           # Are the current letters a valid game? 
         why_invalid={}          # Reasons why current letters are invalid.
         global valid_count      # Count of valid games found.
 
         if letters is not None:
-                manual_puzzle = True
+                if not force_auto:
+                        manual_puzzle = True
+                else:
+                        manual_puzzle = False
         else:
                 manual_puzzle = False
                 # letters = get_letters()
@@ -352,9 +355,16 @@ def main(puzzle_input=None):
         print ('\t'.join(('letters', 'word_count', 'total_score', 'pangram_count', 'is_valid')))
 
         if len(sys.argv) > 1:
-                puzzle_input = sys.argv[1].strip().upper()
+                puzzle_input = sys.argv[-1].strip().upper()
+                sys.argv.pop()
         else:
                 puzzle_input = None
+
+        if len(sys.argv) > 1 and sys.argv[-1] == '--force-auto':
+                force_auto = True
+                sys.argv.pop()
+        else:
+                force_auto = False
 
         # user has requested a specific puzzle be created
         if puzzle_input is not None:
@@ -365,7 +375,7 @@ def main(puzzle_input=None):
                 # alphabetize the non-center letters (all but first in array)
                 puzzle_input = utils.sort_letters(puzzle_input)
 
-                make_puzzles(words, pool, existing_puzzles, puzzle_input)
+                make_puzzles(words, pool, existing_puzzles, puzzle_input, force_auto)
 
         # user/code has no specific puzzle to create, generating many
         else:
