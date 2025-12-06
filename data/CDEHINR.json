@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 237,
-    "word_count": 46,
+    "total_score": 240,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "ENRICHED"
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "CINDERED",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "CREDENCE",
             "score": 8,
             "pangram": false
@@ -140,6 +135,16 @@
         {
             "word": "DECRIED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

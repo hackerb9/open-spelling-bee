@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 99,
-    "word_count": 33,
+    "total_score": 98,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "COLLEAGUE"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALGAE",
             "score": 5,

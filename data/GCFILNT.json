@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 241,
-    "word_count": 38,
+    "total_score": 227,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "INFLICTING"
@@ -83,11 +83,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -100,11 +95,6 @@
         {
             "word": "GILT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

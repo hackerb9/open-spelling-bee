@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 215,
-    "word_count": 46,
+    "total_score": 199,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "GAMBLED"
@@ -163,23 +163,8 @@
             "pangram": false
         },
         {
-            "word": "LAMBED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "LAME",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LAMED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {

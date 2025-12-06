@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 135,
-    "word_count": 38,
+    "total_score": 134,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "KEYNOTED"
@@ -125,11 +125,6 @@
         {
             "word": "NOTED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
-            "score": 1,
             "pangram": false
         },
         {

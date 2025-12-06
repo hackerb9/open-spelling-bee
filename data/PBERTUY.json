@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
+    "total_score": 126,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -53,6 +53,11 @@
             "pangram": false
         },
         {
+            "word": "PEPPERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "PERT",
             "score": 1,
             "pangram": false
@@ -65,11 +70,6 @@
         {
             "word": "PERTURB",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
             "pangram": false
         },
         {

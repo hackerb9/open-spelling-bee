@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 111,
-    "word_count": 28,
+    "total_score": 105,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "HONEYMOONED"
@@ -85,11 +85,6 @@
         {
             "word": "HYMN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HYMNED",
-            "score": 6,
             "pangram": false
         },
         {

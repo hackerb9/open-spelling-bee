@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 42,
+    "total_score": 171,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "REMARKABLE"
@@ -50,11 +50,6 @@
         {
             "word": "BLAME",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BLAMER",
-            "score": 6,
             "pangram": false
         },
         {
@@ -94,11 +89,6 @@
         },
         {
             "word": "LAMER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
             "score": 5,
             "pangram": false
         },

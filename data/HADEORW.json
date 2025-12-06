@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
-    "word_count": 38,
+    "total_score": 166,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "HARROWED"
@@ -60,11 +60,6 @@
         {
             "word": "HARE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HARED",
-            "score": 5,
             "pangram": false
         },
         {

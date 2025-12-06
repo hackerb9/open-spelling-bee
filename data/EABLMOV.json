@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 34,
+    "total_score": 115,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "MOVABLE"
@@ -78,11 +78,6 @@
             "pangram": false
         },
         {
-            "word": "EAVE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "EMBALM",
             "score": 6,
             "pangram": false
@@ -109,11 +104,6 @@
         },
         {
             "word": "LEAVE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
             "score": 5,
             "pangram": false
         },

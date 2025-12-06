@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 190,
-    "word_count": 42,
+    "total_score": 183,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "BUNGLED"
@@ -113,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "DUNGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "EDGE",
             "score": 1,
             "pangram": false
@@ -130,11 +125,6 @@
         {
             "word": "EGGED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

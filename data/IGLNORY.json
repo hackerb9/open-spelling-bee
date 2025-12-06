@@ -13,20 +13,13 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 225,
-    "word_count": 43,
-    "pangram_count": 1,
-    "pangram_list": [
-        "GLORYING"
-    ],
+    "total_score": 196,
+    "word_count": 39,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GIGGLING",
             "score": 8,
@@ -38,28 +31,13 @@
             "pangram": false
         },
         {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIRL",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "GLORYING",
-            "score": 8,
-            "pangram": true
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 131,
-    "word_count": 34,
+    "total_score": 124,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "ADAPTIVE"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "EAVE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "EVADE",
             "score": 5,
             "pangram": false
@@ -185,11 +180,6 @@
         {
             "word": "TEAT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VATTED",
-            "score": 6,
             "pangram": false
         }
     ]

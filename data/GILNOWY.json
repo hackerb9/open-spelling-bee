@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 210,
-    "word_count": 39,
+    "total_score": 175,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "YOWLING"
     ],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GIGGLING",
             "score": 8,
@@ -35,11 +30,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -63,11 +53,6 @@
             "pangram": false
         },
         {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOON",
             "score": 1,
             "pangram": false
@@ -75,11 +60,6 @@
         {
             "word": "GOWN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GOWNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -160,11 +140,6 @@
         {
             "word": "OWNING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
             "pangram": false
         },
         {

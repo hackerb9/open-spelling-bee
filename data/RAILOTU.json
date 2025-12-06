@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 137,
-    "word_count": 37,
+    "total_score": 150,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "TUTORIAL"
@@ -45,6 +45,11 @@
         {
             "word": "AURAL",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -103,6 +108,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -120,6 +130,11 @@
         {
             "word": "TAILOR",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {
@@ -201,11 +216,6 @@
             "word": "TUTORIAL",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "ULTRA",
-            "score": 5,
-            "pangram": false
         }
     ]
 }

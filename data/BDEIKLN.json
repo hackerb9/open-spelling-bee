@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 167,
-    "word_count": 35,
+    "total_score": 154,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "BLINKED"
@@ -50,11 +50,6 @@
         {
             "word": "BELLED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BELLIED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -110,11 +105,6 @@
         {
             "word": "BIND",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BINNED",
-            "score": 6,
             "pangram": false
         },
         {

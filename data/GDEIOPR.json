@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 222,
-    "word_count": 44,
+    "total_score": 209,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "PORRIDGE"
@@ -88,18 +88,8 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GIDDIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -204,11 +194,6 @@
         },
         {
             "word": "PEGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PIGGED",
             "score": 6,
             "pangram": false
         },

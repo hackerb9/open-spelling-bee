@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 223,
-    "word_count": 38,
+    "total_score": 195,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "CURBING"
     ],
     "word_list": [
-        {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "BRIBING",
             "score": 7,
@@ -54,11 +49,6 @@
         },
         {
             "word": "BURNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BURRING",
             "score": 7,
             "pangram": false
         },
@@ -100,16 +90,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 38,
+    "total_score": 181,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "CRITIQUE"
@@ -200,11 +200,6 @@
         {
             "word": "TURRET",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "UTERI",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 49,
+    "total_score": 224,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "WANTONED"
@@ -224,11 +224,6 @@
         },
         {
             "word": "WANED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "WANNA",
             "score": 5,
             "pangram": false
         },

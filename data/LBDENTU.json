@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 214,
-    "word_count": 46,
+    "total_score": 203,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "BLUNTED"
@@ -83,11 +83,6 @@
             "pangram": false
         },
         {
-            "word": "BLUED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "BLUNT",
             "score": 5,
             "pangram": false
@@ -115,11 +110,6 @@
         {
             "word": "BULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BULLED",
-            "score": 6,
             "pangram": false
         },
         {

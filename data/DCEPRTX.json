@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 220,
-    "word_count": 38,
+    "total_score": 207,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "EXCERPTED"
@@ -50,11 +50,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -155,11 +150,6 @@
         {
             "word": "PEPPERED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "PETERED",
-            "score": 7,
             "pangram": false
         },
         {

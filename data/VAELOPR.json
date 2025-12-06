@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 36,
+    "total_score": 161,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "OVERLAP"
@@ -30,11 +30,6 @@
         {
             "word": "APPROVE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {

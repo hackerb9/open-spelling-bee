@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 157,
-    "word_count": 30,
+    "total_score": 144,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "DILATING"
@@ -85,11 +85,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -165,11 +160,6 @@
         {
             "word": "TIDAL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TIDING",
-            "score": 6,
             "pangram": false
         }
     ]

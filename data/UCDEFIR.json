@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 31,
+    "total_score": 134,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "CRUCIFIED"
@@ -88,11 +88,6 @@
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "DUFF",
             "score": 1,
             "pangram": false
@@ -159,11 +154,6 @@
         },
         {
             "word": "RUED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
             "score": 1,
             "pangram": false
         },

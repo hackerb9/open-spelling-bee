@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 48,
+    "total_score": 200,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "CELIBATE"
@@ -133,11 +133,6 @@
             "pangram": false
         },
         {
-            "word": "CALLABLE",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "CATCALL",
             "score": 7,
             "pangram": false
@@ -154,6 +149,11 @@
         },
         {
             "word": "CLEAT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
             "score": 5,
             "pangram": false
         },
@@ -175,6 +175,11 @@
         {
             "word": "LATE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -245,6 +250,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

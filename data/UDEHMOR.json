@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 28,
+    "total_score": 123,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "HUMORED"
@@ -38,11 +38,6 @@
             "pangram": false
         },
         {
-            "word": "DOURER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DRUM",
             "score": 1,
             "pangram": false
@@ -60,11 +55,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -140,11 +130,6 @@
         {
             "word": "RUED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

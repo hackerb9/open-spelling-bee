@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 133,
-    "word_count": 34,
+    "total_score": 127,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "CHOWDER"
@@ -41,11 +41,6 @@
             "word": "CHOWDER",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "CHOWED",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "COWED",

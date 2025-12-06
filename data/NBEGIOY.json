@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 208,
-    "word_count": 44,
+    "total_score": 162,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "OBEYING"
@@ -55,11 +55,6 @@
         {
             "word": "BINGO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -133,11 +128,6 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -148,28 +138,8 @@
             "pangram": false
         },
         {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GOBBING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -185,11 +155,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {

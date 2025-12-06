@@ -128,11 +128,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LULL",
             "score": 1,
             "pangram": false
@@ -145,6 +140,11 @@
         {
             "word": "LURE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

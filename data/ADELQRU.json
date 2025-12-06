@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 219,
-    "word_count": 50,
+    "total_score": 199,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "QUARRELED"
@@ -138,21 +138,6 @@
             "pangram": false
         },
         {
-            "word": "LADDERED",
-            "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LADLE",
             "score": 5,
             "pangram": false
@@ -165,11 +150,6 @@
         {
             "word": "LARD",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LARDED",
-            "score": 6,
             "pangram": false
         },
         {

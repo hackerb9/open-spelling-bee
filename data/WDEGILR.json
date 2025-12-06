@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 176,
-    "word_count": 39,
+    "total_score": 170,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "WRIGGLED"
@@ -150,11 +150,6 @@
         {
             "word": "WIELDED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "WIGGED",
-            "score": 6,
             "pangram": false
         },
         {

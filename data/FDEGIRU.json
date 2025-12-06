@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 212,
-    "word_count": 41,
+    "total_score": 211,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "FIGURED"
@@ -215,11 +215,6 @@
         {
             "word": "RIFER",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {

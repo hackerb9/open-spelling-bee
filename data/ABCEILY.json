@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 91,
-    "word_count": 26,
+    "total_score": 83,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "CELIBACY"
@@ -105,11 +105,6 @@
         {
             "word": "CALL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

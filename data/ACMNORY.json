@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 38,
+    "total_score": 169,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "ACRONYM"
@@ -133,6 +133,16 @@
             "pangram": false
         },
         {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACAROON",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MAMA",
             "score": 1,
             "pangram": false
@@ -173,6 +183,11 @@
             "pangram": false
         },
         {
+            "word": "NANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "RACCOON",
             "score": 7,
             "pangram": false
@@ -200,11 +215,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 44,
+    "total_score": 186,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "GUILTIER"
@@ -230,11 +230,6 @@
         {
             "word": "TURTLE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "UTERI",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 80,
-    "word_count": 29,
+    "total_score": 78,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "MOTIVATE"
     ],
     "word_list": [
-        {
-            "word": "EAVE",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "EMIT",
             "score": 1,
@@ -74,11 +69,6 @@
         },
         {
             "word": "MEMO",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

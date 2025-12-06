@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 50,
+    "total_score": 176,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CHALKED"
@@ -85,16 +85,6 @@
         {
             "word": "CAKED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CALK",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALKED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -168,11 +158,6 @@
             "pangram": false
         },
         {
-            "word": "HALED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "HALL",
             "score": 1,
             "pangram": false
@@ -220,16 +205,6 @@
         {
             "word": "LACKED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
             "pangram": false
         },
         {

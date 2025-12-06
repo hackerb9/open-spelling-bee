@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 30,
+    "total_score": 165,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "WINDMILLING"
@@ -38,18 +38,8 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DWINDLING",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -70,11 +60,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -125,11 +110,6 @@
         {
             "word": "MINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
             "pangram": false
         },
         {

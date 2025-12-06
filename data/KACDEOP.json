@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 100,
-    "word_count": 28,
+    "total_score": 94,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "PADDOCKED"
@@ -45,11 +45,6 @@
         {
             "word": "COKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -89,11 +84,6 @@
         },
         {
             "word": "KEEP",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
             "score": 1,
             "pangram": false
         },

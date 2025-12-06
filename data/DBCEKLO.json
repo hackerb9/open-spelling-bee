@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 221,
-    "word_count": 50,
+    "total_score": 189,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "BLOCKED"
@@ -43,11 +43,6 @@
             "pangram": false
         },
         {
-            "word": "BLOBBED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BLOCKED",
             "score": 7,
             "pangram": true
@@ -55,11 +50,6 @@
         {
             "word": "BLOOD",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BLOODED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -118,22 +108,12 @@
             "pangram": false
         },
         {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CODE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "CODED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
             "score": 5,
             "pangram": false
         },
@@ -180,11 +160,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -265,11 +240,6 @@
         {
             "word": "LOOKED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
-            "score": 1,
             "pangram": false
         }
     ]

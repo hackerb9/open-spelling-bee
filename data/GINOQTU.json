@@ -15,23 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 34,
+    "total_score": 189,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "QUOTING"
     ],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GOING",
             "score": 5,
@@ -40,11 +30,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -80,6 +65,11 @@
         {
             "word": "IGNITION",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INGOT",
+            "score": 5,
             "pangram": false
         },
         {

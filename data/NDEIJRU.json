@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 40,
+    "total_score": 174,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "INJURED"
@@ -43,18 +43,8 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DINNER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNERED",
-            "score": 8,
             "pangram": false
         },
         {
@@ -204,11 +194,6 @@
         },
         {
             "word": "UNDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
             "score": 5,
             "pangram": false
         },

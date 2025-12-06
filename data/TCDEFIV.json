@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 34,
+    "total_score": 152,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "DEFECTIVE"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "EFFECTED",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "EFFECTIVE",
             "score": 9,
             "pangram": false
@@ -160,11 +155,6 @@
         {
             "word": "TIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDED",
-            "score": 5,
             "pangram": false
         },
         {

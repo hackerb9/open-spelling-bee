@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 42,
+    "total_score": 198,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "VARIANCE"
@@ -70,11 +70,6 @@
         {
             "word": "CREVICE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -204,11 +199,6 @@
         },
         {
             "word": "VENEER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
             "score": 6,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 36,
+    "total_score": 154,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "PUDGIER"
@@ -48,11 +48,6 @@
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "DUPE",
             "score": 1,
             "pangram": false
@@ -65,11 +60,6 @@
         {
             "word": "GRUDGE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GRUDGED",
-            "score": 7,
             "pangram": false
         },
         {

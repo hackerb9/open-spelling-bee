@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 33,
+    "total_score": 182,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "REVERBERATED"
@@ -48,11 +48,6 @@
             "pangram": false
         },
         {
-            "word": "BEAVERED",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "BEREAVE",
             "score": 7,
             "pangram": false
@@ -75,11 +70,6 @@
         {
             "word": "BRAVER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -139,11 +129,6 @@
         },
         {
             "word": "REVVED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VATTED",
             "score": 6,
             "pangram": false
         },

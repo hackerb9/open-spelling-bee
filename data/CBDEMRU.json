@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 128,
+    "total_score": 122,
     "word_count": 26,
-    "pangram_count": 1,
-    "pangram_list": [
-        "CRUMBED"
-    ],
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "CEDE",
@@ -51,11 +49,6 @@
             "word": "CRUMB",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "CRUMBED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "CUBE",
@@ -120,6 +113,11 @@
         {
             "word": "DEDUCED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

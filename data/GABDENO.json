@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 172,
-    "word_count": 38,
+    "total_score": 154,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "BONDAGE"
@@ -153,11 +153,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -173,11 +168,6 @@
             "pangram": false
         },
         {
-            "word": "GOBBED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GONE",
             "score": 1,
             "pangram": false
@@ -185,16 +175,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

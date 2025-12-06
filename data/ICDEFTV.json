@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 213,
-    "word_count": 45,
+    "total_score": 203,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "DEFECTIVE"
@@ -203,11 +203,6 @@
             "pangram": false
         },
         {
-            "word": "TIDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "TIDIED",
             "score": 6,
             "pangram": false
@@ -230,11 +225,6 @@
         {
             "word": "VICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VICED",
-            "score": 5,
             "pangram": false
         },
         {

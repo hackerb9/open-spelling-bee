@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 43,
+    "total_score": 181,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "BLITZED"
@@ -60,11 +60,6 @@
         {
             "word": "BELLED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BELLIED",
-            "score": 7,
             "pangram": false
         },
         {

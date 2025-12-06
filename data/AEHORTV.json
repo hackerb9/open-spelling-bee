@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 46,
+    "total_score": 198,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "OVERHEAT"
@@ -45,11 +45,6 @@
         {
             "word": "EATER",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -190,6 +185,16 @@
         {
             "word": "ROTATE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

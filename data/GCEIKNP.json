@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 233,
-    "word_count": 37,
+    "total_score": 201,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PECKING"
@@ -38,11 +38,6 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -50,21 +45,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -169,11 +149,6 @@
         },
         {
             "word": "PIECING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

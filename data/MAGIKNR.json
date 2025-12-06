@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 180,
-    "word_count": 34,
+    "total_score": 173,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "MARKING"
@@ -60,11 +60,6 @@
         {
             "word": "GRIM",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GRIMING",
-            "score": 7,
             "pangram": false
         },
         {

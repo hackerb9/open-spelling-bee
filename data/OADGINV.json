@@ -13,20 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 112,
-    "word_count": 25,
+    "total_score": 99,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "AVOIDING"
     ],
     "word_list": [
-        {
-            "word": "ANON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "AVOID",
             "score": 5,
@@ -75,16 +70,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 135,
-    "word_count": 41,
+    "total_score": 129,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "COMPLETE"
@@ -78,11 +78,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LOPE",
             "score": 1,
             "pangram": false
@@ -99,11 +94,6 @@
         },
         {
             "word": "MEMO",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

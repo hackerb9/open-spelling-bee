@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 36,
+    "total_score": 148,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "WINTERTIME"
@@ -85,11 +85,6 @@
         {
             "word": "MERRIMENT",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -165,11 +160,6 @@
         {
             "word": "TERM",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TERMINI",
-            "score": 7,
             "pangram": false
         },
         {

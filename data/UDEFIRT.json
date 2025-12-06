@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 35,
+    "total_score": 149,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "FRUITED"
@@ -25,11 +25,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -123,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "RUFF",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "RUFFED",
             "score": 6,
             "pangram": false
@@ -179,11 +169,6 @@
         },
         {
             "word": "UDDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UTERI",
             "score": 5,
             "pangram": false
         },

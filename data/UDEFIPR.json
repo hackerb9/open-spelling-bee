@@ -15,21 +15,21 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 32,
+    "total_score": 137,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "PURIFIED"
     ],
     "word_list": [
         {
-            "word": "DUDE",
-            "score": 1,
+            "word": "DRUID",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
+            "word": "DUDE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -154,11 +154,6 @@
         },
         {
             "word": "RUED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
             "score": 1,
             "pangram": false
         },

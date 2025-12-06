@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 250,
-    "word_count": 45,
+    "total_score": 216,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "HALVING"
@@ -35,11 +35,6 @@
         {
             "word": "AILING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ALGA",
-            "score": 1,
             "pangram": false
         },
         {
@@ -108,11 +103,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -120,11 +110,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -140,11 +125,6 @@
         {
             "word": "HAILING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "HALING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -175,11 +155,6 @@
         {
             "word": "HINGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "HIVING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -234,11 +209,6 @@
         },
         {
             "word": "VALVING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
             "score": 7,
             "pangram": false
         },

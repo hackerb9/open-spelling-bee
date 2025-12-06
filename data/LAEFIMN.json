@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 179,
-    "word_count": 50,
+    "total_score": 192,
+    "word_count": 51,
     "pangram_count": 1,
     "pangram_list": [
         "INFLAME"
@@ -25,6 +25,11 @@
         {
             "word": "AFLAME",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
             "pangram": false
         },
         {
@@ -55,6 +60,11 @@
         {
             "word": "FAIL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {
@@ -143,11 +153,6 @@
             "pangram": true
         },
         {
-            "word": "LAIN",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "LAME",
             "score": 1,
             "pangram": false
@@ -165,11 +170,6 @@
         {
             "word": "LEAN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {
@@ -245,6 +245,11 @@
         {
             "word": "MEAL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

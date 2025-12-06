@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 221,
-    "word_count": 46,
+    "total_score": 210,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "QUIVERED"
@@ -25,11 +25,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -120,11 +115,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

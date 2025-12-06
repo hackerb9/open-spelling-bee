@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 105,
-    "word_count": 24,
+    "total_score": 93,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "BENEFITED"
@@ -30,11 +30,6 @@
         {
             "word": "BEEF",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BEEFED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -90,11 +85,6 @@
         {
             "word": "BIND",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BINNED",
-            "score": 6,
             "pangram": false
         },
         {

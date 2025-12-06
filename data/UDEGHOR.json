@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 35,
+    "total_score": 138,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "ROUGHED"
@@ -30,11 +30,6 @@
         {
             "word": "DOUR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DOURER",
-            "score": 6,
             "pangram": false
         },
         {
@@ -63,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "GOUGE",
             "score": 5,
             "pangram": false
@@ -85,11 +75,6 @@
         {
             "word": "GRUDGE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GRUDGED",
-            "score": 7,
             "pangram": false
         },
         {

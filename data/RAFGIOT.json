@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 127,
-    "word_count": 34,
-    "pangram_count": 1,
-    "pangram_list": [
-        "GRAFFITO"
-    ],
+    "total_score": 131,
+    "word_count": 35,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "AFAR",
@@ -83,11 +81,6 @@
             "pangram": false
         },
         {
-            "word": "GRAFFITO",
-            "score": 8,
-            "pangram": true
-        },
-        {
             "word": "GRAFT",
             "score": 5,
             "pangram": false
@@ -148,6 +141,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -155,6 +153,11 @@
         {
             "word": "TARIFF",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

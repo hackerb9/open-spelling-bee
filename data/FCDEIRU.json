@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 37,
+    "total_score": 187,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "CRUCIFIED"
@@ -195,11 +195,6 @@
         {
             "word": "RIFER",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {

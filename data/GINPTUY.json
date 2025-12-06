@@ -15,23 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 225,
-    "word_count": 34,
+    "total_score": 198,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "PUTTYING"
     ],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GUNNING",
             "score": 7,
@@ -45,11 +35,6 @@
         {
             "word": "GUTTING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GUYING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -74,11 +59,6 @@
         },
         {
             "word": "NUTTING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 227,
-    "word_count": 48,
+    "total_score": 220,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "CREDIBLE"
@@ -40,11 +40,6 @@
         {
             "word": "BELLED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BELLIED",
-            "score": 7,
             "pangram": false
         },
         {

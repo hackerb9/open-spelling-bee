@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 49,
+    "total_score": 188,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "PLUMBER"
@@ -244,11 +244,6 @@
         },
         {
             "word": "RUMBLE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
             "score": 6,
             "pangram": false
         },

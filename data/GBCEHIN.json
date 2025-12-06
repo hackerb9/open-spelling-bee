@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 169,
-    "word_count": 30,
+    "total_score": 129,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "BENCHING"
@@ -58,16 +58,6 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CHINNING",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "CINCHING",
             "score": 8,
             "pangram": false
@@ -88,22 +78,12 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "GENIE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
             "score": 5,
             "pangram": false
         },
@@ -115,16 +95,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

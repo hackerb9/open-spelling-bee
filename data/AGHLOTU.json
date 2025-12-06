@@ -13,20 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 62,
-    "word_count": 25,
+    "total_score": 61,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "ALTHOUGH"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALLOT",
             "score": 5,

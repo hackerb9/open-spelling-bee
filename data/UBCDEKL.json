@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 206,
-    "word_count": 48,
+    "total_score": 184,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "BUCKLED"
@@ -30,11 +30,6 @@
         {
             "word": "BLUEBELL",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "BLUED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -83,18 +78,8 @@
             "pangram": false
         },
         {
-            "word": "BULKED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "BULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BULLED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -200,11 +185,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

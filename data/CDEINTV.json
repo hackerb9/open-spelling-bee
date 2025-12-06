@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 233,
-    "word_count": 40,
+    "total_score": 228,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "VINDICTIVE"
@@ -210,11 +210,6 @@
         {
             "word": "VICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VICED",
-            "score": 5,
             "pangram": false
         },
         {

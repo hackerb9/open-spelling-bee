@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 133,
-    "word_count": 26,
+    "total_score": 108,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "HOUNDING"
@@ -30,11 +30,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -63,23 +58,18 @@
             "pangram": false
         },
         {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DUNG",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DUNGING",
-            "score": 7,
+            "word": "DUNNO",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "DUNNO",
-            "score": 5,
+            "word": "GODHOOD",
+            "score": 7,
             "pangram": false
         },
         {
@@ -108,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "HOODING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "HOUND",
             "score": 5,
             "pangram": false
@@ -135,11 +120,6 @@
         {
             "word": "NUDGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         },
         {

@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 201,
-    "word_count": 44,
-    "pangram_count": 1,
-    "pangram_list": [
-        "CLOUTED"
-    ],
+    "total_score": 188,
+    "word_count": 42,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "CEDE",
@@ -73,11 +71,6 @@
             "pangram": false
         },
         {
-            "word": "CLOUTED",
-            "score": 7,
-            "pangram": true
-        },
-        {
             "word": "CLUE",
             "score": 1,
             "pangram": false
@@ -85,11 +78,6 @@
         {
             "word": "CLUED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CODDED",
-            "score": 6,
             "pangram": false
         },
         {

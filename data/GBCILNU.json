@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 38,
+    "total_score": 195,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "CLUBBING"
@@ -25,16 +25,6 @@
         {
             "word": "BILLING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BLUING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -54,11 +44,6 @@
         },
         {
             "word": "BULGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BULLING",
             "score": 7,
             "pangram": false
         },
@@ -123,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -135,11 +115,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

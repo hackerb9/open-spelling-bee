@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 120,
-    "word_count": 39,
+    "total_score": 114,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "ACCUMULATE"
@@ -60,11 +60,6 @@
         {
             "word": "LAME",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {
@@ -150,11 +145,6 @@
         {
             "word": "METAL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {

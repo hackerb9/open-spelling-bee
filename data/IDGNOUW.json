@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 293,
-    "word_count": 46,
+    "total_score": 226,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "WOUNDING"
@@ -30,11 +30,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -53,47 +48,12 @@
             "pangram": false
         },
         {
-            "word": "DOWNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOUGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GOWNING",
             "score": 7,
             "pangram": false
         },
@@ -148,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "UNDID",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "UNDOING",
             "score": 7,
             "pangram": false
@@ -180,11 +135,6 @@
         {
             "word": "WIDOWING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
             "pangram": false
         },
         {

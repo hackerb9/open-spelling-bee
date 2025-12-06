@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 256,
-    "word_count": 46,
+    "total_score": 249,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "RIGHTED"
@@ -88,18 +88,8 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GIDDIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
             "pangram": false
         },
         {

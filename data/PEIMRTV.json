@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 196,
-    "word_count": 37,
+    "total_score": 184,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PRIMITIVE"
@@ -75,11 +75,6 @@
         {
             "word": "PERVERT",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
             "pangram": false
         },
         {
@@ -150,11 +145,6 @@
         {
             "word": "PRIMP",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PRIVIER",
-            "score": 7,
             "pangram": false
         },
         {

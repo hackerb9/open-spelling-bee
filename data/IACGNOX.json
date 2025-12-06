@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 164,
-    "word_count": 28,
+    "total_score": 145,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "COAXING"
@@ -55,11 +55,6 @@
         {
             "word": "CANNING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CANNONING",
-            "score": 9,
             "pangram": false
         },
         {
@@ -113,23 +108,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -143,8 +123,18 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

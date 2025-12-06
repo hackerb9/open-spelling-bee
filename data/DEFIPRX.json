@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 261,
-    "word_count": 50,
+    "total_score": 255,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "PREFIXED"
@@ -25,11 +25,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {

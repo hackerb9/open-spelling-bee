@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 162,
-    "word_count": 33,
-    "pangram_count": 1,
-    "pangram_list": [
-        "JAUNTED"
-    ],
+    "total_score": 155,
+    "word_count": 32,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "ADDED",
@@ -121,11 +119,6 @@
             "word": "JAUNT",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "JAUNTED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "JUNTA",

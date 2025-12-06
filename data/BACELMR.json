@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 216,
-    "word_count": 47,
+    "total_score": 202,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CLAMBER"
@@ -143,11 +143,6 @@
             "pangram": false
         },
         {
-            "word": "BLAMER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "BLARE",
             "score": 5,
             "pangram": false
@@ -160,11 +155,6 @@
         {
             "word": "CABLE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

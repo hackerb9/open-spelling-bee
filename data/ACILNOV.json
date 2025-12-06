@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 36,
+    "total_score": 153,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "VOLCANIC"
@@ -110,11 +110,6 @@
         {
             "word": "CONICAL",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

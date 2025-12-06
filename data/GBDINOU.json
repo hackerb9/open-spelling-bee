@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 264,
-    "word_count": 44,
+    "total_score": 209,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "BOUNDING"
@@ -40,11 +40,6 @@
         {
             "word": "BINGO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -113,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DODGING",
             "score": 7,
             "pangram": false
@@ -138,38 +128,13 @@
             "pangram": false
         },
         {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DUNG",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DUNGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GOBBING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -180,11 +145,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {

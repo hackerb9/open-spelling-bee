@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 160,
-    "word_count": 36,
-    "pangram_count": 1,
-    "pangram_list": [
-        "ZINCKED"
-    ],
+    "total_score": 147,
+    "word_count": 34,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "CEDE",
@@ -58,7 +56,12 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
             "score": 6,
             "pangram": false
         },
@@ -88,11 +91,6 @@
             "pangram": false
         },
         {
-            "word": "DIKED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "DINE",
             "score": 1,
             "pangram": false
@@ -100,11 +98,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -196,11 +189,6 @@
             "word": "NICKED",
             "score": 6,
             "pangram": false
-        },
-        {
-            "word": "ZINCKED",
-            "score": 7,
-            "pangram": true
         }
     ]
 }

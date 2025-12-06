@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 147,
-    "word_count": 35,
+    "total_score": 140,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "BILLOWED"
@@ -30,11 +30,6 @@
         {
             "word": "BELIED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BELLIED",
-            "score": 7,
             "pangram": false
         },
         {

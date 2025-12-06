@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 36,
+    "total_score": 131,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "GOURMET"
@@ -65,11 +65,6 @@
         {
             "word": "MERGER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -160,11 +155,6 @@
         {
             "word": "ROOM",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

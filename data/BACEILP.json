@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 115,
-    "word_count": 26,
+    "total_score": 107,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "APPLICABLE"
@@ -105,11 +105,6 @@
         {
             "word": "CABLE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

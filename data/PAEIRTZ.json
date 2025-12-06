@@ -123,11 +123,6 @@
             "pangram": false
         },
         {
-            "word": "PETER",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "PETITE",
             "score": 6,
             "pangram": false
@@ -145,6 +140,11 @@
         {
             "word": "PIPE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {

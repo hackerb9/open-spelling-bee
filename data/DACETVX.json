@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 147,
-    "word_count": 31,
+    "total_score": 135,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "EXCAVATED"
@@ -103,11 +103,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DETECT",
             "score": 6,
             "pangram": false
@@ -160,11 +155,6 @@
         {
             "word": "VACATED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VATTED",
-            "score": 6,
             "pangram": false
         },
         {

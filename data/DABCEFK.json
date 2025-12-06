@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 35,
+    "total_score": 133,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "FEEDBACK"
@@ -78,16 +78,6 @@
             "pangram": false
         },
         {
-            "word": "BEEFED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CABBED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CAKED",
             "score": 5,
             "pangram": false
@@ -135,11 +125,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {

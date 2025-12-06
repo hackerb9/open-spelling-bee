@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 154,
+    "total_score": 152,
     "word_count": 32,
-    "pangram_count": 1,
-    "pangram_list": [
-        "QUIRKED"
-    ],
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "DEER",
@@ -54,6 +52,11 @@
         },
         {
             "word": "DRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRUID",
             "score": 5,
             "pangram": false
         },
@@ -101,11 +104,6 @@
             "word": "QUIRK",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "QUIRKED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "REDDER",

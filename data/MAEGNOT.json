@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 48,
+    "total_score": 198,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "MEGATON"
@@ -73,6 +73,11 @@
             "pangram": false
         },
         {
+            "word": "MAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "MAGENTA",
             "score": 7,
             "pangram": false
@@ -110,6 +115,11 @@
         {
             "word": "MANAGEMENT",
             "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {
@@ -169,11 +179,6 @@
         },
         {
             "word": "MEMO",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

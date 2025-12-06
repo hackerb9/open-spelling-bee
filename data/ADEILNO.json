@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 47,
+    "total_score": 177,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "DANDELION"
@@ -45,11 +45,6 @@
         {
             "word": "ALIEN",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ALIENED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -153,16 +148,6 @@
             "pangram": false
         },
         {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LADEN",
             "score": 5,
             "pangram": false
@@ -179,11 +164,6 @@
         },
         {
             "word": "LAID",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
             "score": 1,
             "pangram": false
         },

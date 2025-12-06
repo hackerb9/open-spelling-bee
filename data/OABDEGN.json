@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 135,
-    "word_count": 37,
+    "total_score": 118,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "BONDAGE"
@@ -143,11 +143,6 @@
             "pangram": false
         },
         {
-            "word": "GOBBED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GONE",
             "score": 1,
             "pangram": false
@@ -155,16 +150,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

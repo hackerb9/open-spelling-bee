@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
+    "total_score": 129,
     "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
@@ -53,6 +53,11 @@
             "pangram": false
         },
         {
+            "word": "MANATEE",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "MATE",
             "score": 1,
             "pangram": false
@@ -74,11 +79,6 @@
         },
         {
             "word": "MEET",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

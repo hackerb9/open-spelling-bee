@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 162,
-    "word_count": 30,
-    "pangram_count": 1,
-    "pangram_list": [
-        "BROOKING"
-    ],
+    "total_score": 140,
+    "word_count": 27,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "BIKING",
@@ -35,11 +33,6 @@
         {
             "word": "BINGO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -123,18 +116,8 @@
             "pangram": false
         },
         {
-            "word": "BROOKING",
-            "score": 8,
-            "pangram": true
-        },
-        {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GOBBING",
-            "score": 7,
             "pangram": false
         },
         {

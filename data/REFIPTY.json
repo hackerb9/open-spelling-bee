@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 207,
-    "word_count": 49,
+    "total_score": 202,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "PETRIFY"
@@ -105,11 +105,6 @@
         {
             "word": "PERTER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
             "pangram": false
         },
         {

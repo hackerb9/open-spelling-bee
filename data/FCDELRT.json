@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 250,
-    "word_count": 50,
+    "total_score": 242,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "REFLECTED"
@@ -75,11 +75,6 @@
         {
             "word": "EFFECT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "EFFECTED",
-            "score": 8,
             "pangram": false
         },
         {

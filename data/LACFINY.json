@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 130,
-    "word_count": 31,
+    "total_score": 129,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "FINANCIALLY"
@@ -154,11 +154,6 @@
         },
         {
             "word": "LACY",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
             "score": 1,
             "pangram": false
         },

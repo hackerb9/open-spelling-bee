@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 226,
+    "total_score": 224,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -78,6 +78,11 @@
             "pangram": false
         },
         {
+            "word": "DRUID",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "EDDIED",
             "score": 6,
             "pangram": false
@@ -100,11 +105,6 @@
         {
             "word": "GIDDIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -163,17 +163,17 @@
             "pangram": false
         },
         {
-            "word": "PIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "PIPE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "PIPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
             "score": 5,
             "pangram": false
         },

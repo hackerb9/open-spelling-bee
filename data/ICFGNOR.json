@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 294,
-    "word_count": 48,
+    "total_score": 275,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "FORCING"
@@ -30,11 +30,6 @@
         {
             "word": "COFFIN",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "COFFINING",
-            "score": 9,
             "pangram": false
         },
         {
@@ -118,23 +113,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -178,6 +158,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "IGNORING",
             "score": 8,
             "pangram": false
@@ -195,6 +180,11 @@
         {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

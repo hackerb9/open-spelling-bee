@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 38,
+    "total_score": 160,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "MULCHED"
@@ -150,11 +150,6 @@
         {
             "word": "LEECHED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {

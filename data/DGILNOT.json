@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 32,
+    "total_score": 145,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "TODDLING"
@@ -43,18 +43,8 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DITTO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DITTOING",
-            "score": 8,
             "pangram": false
         },
         {
@@ -165,11 +155,6 @@
         {
             "word": "NOODLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "TIDING",
-            "score": 6,
             "pangram": false
         },
         {

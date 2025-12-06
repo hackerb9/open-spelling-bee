@@ -13,20 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 170,
-    "word_count": 25,
+    "total_score": 142,
+    "word_count": 21,
     "pangram_count": 1,
     "pangram_list": [
         "BUMPING"
     ],
     "word_list": [
-        {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "BUGGING",
             "score": 7,
@@ -45,16 +40,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -104,11 +89,6 @@
         },
         {
             "word": "NUMBING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

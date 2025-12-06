@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 258,
-    "word_count": 44,
+    "total_score": 240,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "PERCEIVED"
@@ -128,11 +128,6 @@
             "pangram": true
         },
         {
-            "word": "PRIVIER",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "RECEIVE",
             "score": 7,
             "pangram": false
@@ -203,11 +198,6 @@
             "pangram": false
         },
         {
-            "word": "VERIER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "VERVE",
             "score": 5,
             "pangram": false
@@ -215,11 +205,6 @@
         {
             "word": "VICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VICED",
-            "score": 5,
             "pangram": false
         },
         {

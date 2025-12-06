@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 48,
+    "total_score": 188,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "TAXPAYER"
@@ -135,11 +135,6 @@
         {
             "word": "PERTER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
             "pangram": false
         },
         {

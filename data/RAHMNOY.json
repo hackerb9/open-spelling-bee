@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 114,
-    "word_count": 29,
+    "total_score": 109,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "HARMONY"
@@ -145,11 +145,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         },
         {

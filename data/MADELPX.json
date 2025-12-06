@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 122,
-    "word_count": 31,
-    "pangram_count": 1,
-    "pangram_list": [
-        "EXAMPLED"
-    ],
+    "total_score": 109,
+    "word_count": 29,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "AMPLE",
@@ -68,28 +66,13 @@
             "pangram": false
         },
         {
-            "word": "EXAMPLED",
-            "score": 8,
-            "pangram": true
-        },
-        {
             "word": "LAME",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "LAMED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LAMP",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {
@@ -165,6 +148,11 @@
         {
             "word": "MEDDLED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

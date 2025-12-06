@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 126,
-    "word_count": 27,
+    "total_score": 125,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "DEMAGOGUE"
@@ -110,11 +110,6 @@
         {
             "word": "GAUGED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

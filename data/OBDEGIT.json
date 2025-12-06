@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
-    "word_count": 29,
+    "total_score": 110,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "BIGOTED"
@@ -78,11 +78,6 @@
             "pangram": false
         },
         {
-            "word": "DITTOED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DODGE",
             "score": 5,
             "pangram": false
@@ -114,11 +109,6 @@
         },
         {
             "word": "DOTTED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GOBBED",
             "score": 6,
             "pangram": false
         },

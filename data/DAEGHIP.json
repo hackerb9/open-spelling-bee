@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 168,
-    "word_count": 41,
+    "total_score": 144,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "PIGHEADED"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEEP",
             "score": 1,
             "pangram": false
@@ -118,16 +113,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "HEAD",
             "score": 1,
             "pangram": false
@@ -168,11 +153,6 @@
             "pangram": false
         },
         {
-            "word": "HIDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "HIPPED",
             "score": 6,
             "pangram": false
@@ -209,11 +189,6 @@
         },
         {
             "word": "PEPPED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PIGGED",
             "score": 6,
             "pangram": false
         },

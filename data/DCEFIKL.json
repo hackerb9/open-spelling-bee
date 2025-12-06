@@ -63,11 +63,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEFIED",
             "score": 6,
             "pangram": false
@@ -80,6 +75,16 @@
         {
             "word": "DEFILED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {
@@ -110,11 +115,6 @@
         {
             "word": "DIKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DIKED",
-            "score": 5,
             "pangram": false
         },
         {

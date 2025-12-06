@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
-    "word_count": 30,
+    "total_score": 103,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "VOYAGED"
@@ -50,11 +50,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -130,11 +125,6 @@
         {
             "word": "GAGGED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 95,
-    "word_count": 28,
+    "total_score": 90,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "PENTAGON"
@@ -80,11 +80,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

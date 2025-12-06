@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 35,
+    "total_score": 173,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "UNCOMMONER"
@@ -170,11 +170,6 @@
         {
             "word": "ROOM",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

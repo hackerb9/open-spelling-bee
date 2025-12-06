@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 139,
-    "word_count": 38,
+    "total_score": 133,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "CONGEAL"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALGAE",
             "score": 5,
@@ -175,11 +170,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

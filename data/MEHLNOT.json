@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 115,
-    "word_count": 33,
+    "total_score": 109,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "MENTHOL"
@@ -40,11 +40,6 @@
         {
             "word": "HOME",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {
@@ -86,11 +81,6 @@
             "word": "MENTHOL",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "METE",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "METTLE",

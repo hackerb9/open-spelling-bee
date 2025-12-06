@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 156,
-    "word_count": 30,
-    "pangram_count": 1,
-    "pangram_list": [
-        "CRUMBED"
-    ],
+    "total_score": 148,
+    "word_count": 29,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "BEDDED",
@@ -73,19 +71,9 @@
             "pangram": false
         },
         {
-            "word": "BURRED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CRUMB",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "CRUMBED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "CUBE",
@@ -170,6 +158,11 @@
         {
             "word": "RUBBER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UMBER",
+            "score": 5,
             "pangram": false
         }
     ]

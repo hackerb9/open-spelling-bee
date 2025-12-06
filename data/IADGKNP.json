@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 249,
-    "word_count": 45,
+    "total_score": 215,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "KIDNAPPING"
@@ -58,18 +58,8 @@
             "pangram": false
         },
         {
-            "word": "DIKING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -100,16 +90,6 @@
         {
             "word": "GAPING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -209,11 +189,6 @@
         },
         {
             "word": "PANNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

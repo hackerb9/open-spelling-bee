@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 104,
-    "word_count": 25,
+    "total_score": 90,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "BLOCKED"
@@ -53,11 +53,6 @@
             "pangram": false
         },
         {
-            "word": "BLOBBED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BLOC",
             "score": 1,
             "pangram": false
@@ -75,11 +70,6 @@
         {
             "word": "BLOOD",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BLOODED",
-            "score": 7,
             "pangram": false
         },
         {

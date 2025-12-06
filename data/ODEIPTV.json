@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 190,
-    "word_count": 43,
+    "total_score": 183,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "PIVOTED"
@@ -50,11 +50,6 @@
         {
             "word": "DITTO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DITTOED",
-            "score": 7,
             "pangram": false
         },
         {

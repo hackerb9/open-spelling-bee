@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 119,
-    "word_count": 34,
+    "total_score": 118,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "LOGICALLY"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALLAY",
             "score": 5,

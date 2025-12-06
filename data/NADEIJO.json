@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 101,
-    "word_count": 26,
+    "total_score": 95,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "ADJOINED"
@@ -65,11 +65,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {

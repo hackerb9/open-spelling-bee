@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 167,
+    "total_score": 170,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -133,6 +133,11 @@
             "pangram": false
         },
         {
+            "word": "MACAROON",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MANOR",
             "score": 5,
             "pangram": false
@@ -205,11 +210,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         },
         {

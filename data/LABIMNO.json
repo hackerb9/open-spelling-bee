@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
-    "word_count": 38,
+    "total_score": 123,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "BINOMIAL"
@@ -99,11 +99,6 @@
         },
         {
             "word": "BOIL",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
             "score": 1,
             "pangram": false
         },

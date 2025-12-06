@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 39,
+    "total_score": 187,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "WRENCHED"
@@ -70,11 +70,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {

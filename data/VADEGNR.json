@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 249,
-    "word_count": 46,
+    "total_score": 236,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "ENGRAVED"
@@ -40,11 +40,6 @@
         {
             "word": "AVERAGED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -105,11 +100,6 @@
         {
             "word": "GRAVE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GRAVED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -195,11 +185,6 @@
         {
             "word": "VANE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VANNED",
-            "score": 6,
             "pangram": false
         },
         {

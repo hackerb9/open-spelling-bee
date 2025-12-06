@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 217,
-    "word_count": 50,
+    "total_score": 211,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "PEREMPTORY"
@@ -53,6 +53,11 @@
             "pangram": false
         },
         {
+            "word": "PEPPERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "PEREMPTORY",
             "score": 10,
             "pangram": true
@@ -65,11 +70,6 @@
         {
             "word": "PERTER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
             "pangram": false
         },
         {
@@ -190,11 +190,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

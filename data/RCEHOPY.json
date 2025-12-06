@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 33,
+    "total_score": 144,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "PROPHECY"
@@ -118,6 +118,11 @@
             "pangram": false
         },
         {
+            "word": "OCHRE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "PEER",
             "score": 1,
             "pangram": false
@@ -125,6 +130,11 @@
         {
             "word": "PEPPER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 7,
             "pangram": false
         },
         {
@@ -165,11 +175,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 26,
+    "total_score": 132,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "DIRTYING"
@@ -80,11 +80,6 @@
         {
             "word": "RIGIDITY",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "TIDING",
-            "score": 6,
             "pangram": false
         },
         {

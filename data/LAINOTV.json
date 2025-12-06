@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 146,
-    "word_count": 43,
+    "total_score": 145,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "VIOLATION"
@@ -50,11 +50,6 @@
         {
             "word": "INITIAL",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

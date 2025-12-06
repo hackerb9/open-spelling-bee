@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 167,
-    "word_count": 36,
+    "total_score": 156,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "AQUEDUCT"
@@ -133,11 +133,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DETECT",
             "score": 6,
             "pangram": false
@@ -150,11 +145,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

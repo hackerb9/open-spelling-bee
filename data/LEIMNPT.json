@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 146,
-    "word_count": 38,
+    "total_score": 141,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "IMPLEMENT"
@@ -49,11 +49,6 @@
         },
         {
             "word": "INLET",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
             "score": 5,
             "pangram": false
         },

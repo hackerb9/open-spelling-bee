@@ -123,6 +123,16 @@
             "pangram": false
         },
         {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "DENIED",
             "score": 6,
             "pangram": false
@@ -153,11 +163,6 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "EDDIED",
             "score": 6,
             "pangram": false
@@ -170,11 +175,6 @@
         {
             "word": "HIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
             "pangram": false
         },
         {

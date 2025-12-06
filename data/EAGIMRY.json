@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
+    "total_score": 162,
     "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "GIMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "GRAYER",
             "score": 6,
             "pangram": false
@@ -131,6 +126,11 @@
             "word": "IMAGERY",
             "score": 7,
             "pangram": true
+        },
+        {
+            "word": "MAGE",
+            "score": 1,
+            "pangram": false
         },
         {
             "word": "MARE",

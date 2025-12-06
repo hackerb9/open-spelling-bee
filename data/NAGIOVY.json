@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 32,
+    "total_score": 118,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "VOYAGING"
@@ -78,16 +78,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIVING",
             "score": 6,
             "pangram": false
@@ -100,16 +90,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {
@@ -165,11 +145,6 @@
         {
             "word": "VAIN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
-            "score": 7,
             "pangram": false
         },
         {

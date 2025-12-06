@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 242,
-    "word_count": 41,
+    "total_score": 167,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "EXUDING"
     ],
     "word_list": [
-        {
-            "word": "DEEDING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "DEIGN",
             "score": 5,
@@ -73,26 +68,6 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "EDDIED",
             "score": 6,
             "pangram": false
@@ -123,42 +98,12 @@
             "pangram": true
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENIE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "GENUINE",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },
@@ -220,11 +165,6 @@
         {
             "word": "NUDGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         }
     ]

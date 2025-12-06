@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 245,
-    "word_count": 49,
+    "total_score": 229,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "BEGUILED"
@@ -45,11 +45,6 @@
         {
             "word": "BLUEBELL",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "BLUED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -118,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "BULLED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "BULLIED",
             "score": 7,
             "pangram": false
@@ -165,11 +155,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

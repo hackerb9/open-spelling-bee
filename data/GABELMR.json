@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 230,
-    "word_count": 50,
+    "total_score": 229,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "GAMBLER"
@@ -30,11 +30,6 @@
         {
             "word": "AGREEABLE",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "ALGA",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 27,
+    "total_score": 140,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "RIVALING"
@@ -50,11 +50,6 @@
         {
             "word": "GIVING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GRAVING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -119,11 +114,6 @@
         },
         {
             "word": "VANILLA",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
             "score": 7,
             "pangram": false
         },

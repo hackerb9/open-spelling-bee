@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
-    "word_count": 40,
+    "total_score": 118,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "CHEMICAL"
@@ -154,11 +154,6 @@
         },
         {
             "word": "LEECH",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
             "score": 5,
             "pangram": false
         },

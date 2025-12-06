@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 173,
-    "word_count": 35,
+    "total_score": 166,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "UNDAMAGED"
@@ -50,11 +50,6 @@
         {
             "word": "DUNG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUNGED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -120,11 +115,6 @@
         {
             "word": "GAUGED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

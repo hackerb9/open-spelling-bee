@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 247,
-    "word_count": 44,
+    "total_score": 208,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "EXCEEDING"
@@ -43,7 +43,17 @@
             "pangram": false
         },
         {
-            "word": "DEEDING",
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEICING",
             "score": 7,
             "pangram": false
         },
@@ -108,16 +118,6 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "EDDIED",
             "score": 6,
             "pangram": false
@@ -148,38 +148,8 @@
             "pangram": true
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

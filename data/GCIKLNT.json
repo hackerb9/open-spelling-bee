@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 284,
-    "word_count": 44,
+    "total_score": 257,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "TICKLING"
@@ -48,11 +48,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -65,11 +60,6 @@
         {
             "word": "GILT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -128,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "KILNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "KING",
             "score": 1,
             "pangram": false
@@ -140,11 +125,6 @@
         {
             "word": "KINKING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "KITING",
-            "score": 6,
             "pangram": false
         },
         {

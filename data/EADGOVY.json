@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 104,
-    "word_count": 28,
+    "total_score": 96,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "VOYAGED"
@@ -48,11 +48,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DODGE",
             "score": 5,
             "pangram": false
@@ -74,11 +69,6 @@
         },
         {
             "word": "DYED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
             "score": 1,
             "pangram": false
         },
@@ -129,11 +119,6 @@
         },
         {
             "word": "GAVE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
             "score": 1,
             "pangram": false
         },

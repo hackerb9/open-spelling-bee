@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 164,
-    "word_count": 29,
+    "total_score": 144,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "CURRYING"
@@ -58,16 +58,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GRIN",
             "score": 1,
             "pangram": false
@@ -80,11 +70,6 @@
         {
             "word": "GUNNING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GUYING",
-            "score": 6,
             "pangram": false
         },
         {

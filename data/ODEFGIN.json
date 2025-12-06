@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 38,
+    "total_score": 152,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "OFFENDING"
@@ -95,16 +95,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {

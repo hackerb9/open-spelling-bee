@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 157,
-    "word_count": 35,
+    "total_score": 172,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "LEGALITY"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGILE",
             "score": 5,
@@ -35,11 +40,6 @@
         {
             "word": "AGITATE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ALGA",
-            "score": 1,
             "pangram": false
         },
         {
@@ -69,6 +69,11 @@
         },
         {
             "word": "EAGLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
             "score": 5,
             "pangram": false
         },
@@ -133,6 +138,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LEGAL",
             "score": 5,
             "pangram": false
@@ -180,6 +190,11 @@
         {
             "word": "TATTY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

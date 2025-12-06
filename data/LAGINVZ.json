@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 163,
-    "word_count": 32,
+    "total_score": 161,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "GALVANIZING"
@@ -25,11 +25,6 @@
         {
             "word": "AILING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ALGA",
-            "score": 1,
             "pangram": false
         },
         {
@@ -110,11 +105,6 @@
         {
             "word": "LAGGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

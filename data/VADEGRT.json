@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
-    "word_count": 31,
+    "total_score": 157,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "AGGRAVATED"
@@ -58,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "EAVE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "EVADE",
             "score": 5,
             "pangram": false
@@ -85,11 +80,6 @@
         {
             "word": "GRAVE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GRAVED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -139,11 +129,6 @@
         },
         {
             "word": "REVVED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VATTED",
             "score": 6,
             "pangram": false
         },

@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 36,
+    "total_score": 149,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "CURTAIL"
@@ -194,11 +194,6 @@
         },
         {
             "word": "TRILL",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ULTRA",
             "score": 5,
             "pangram": false
         }

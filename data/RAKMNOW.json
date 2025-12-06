@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 76,
-    "word_count": 26,
+    "total_score": 71,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "WORKMAN"
@@ -105,11 +105,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         },
         {

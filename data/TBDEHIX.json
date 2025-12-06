@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 92,
-    "word_count": 24,
+    "total_score": 87,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "EXHIBITED"
@@ -125,11 +125,6 @@
         {
             "word": "TIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDED",
-            "score": 5,
             "pangram": false
         },
         {

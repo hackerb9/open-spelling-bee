@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 143,
-    "word_count": 35,
+    "total_score": 142,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "ANNIHILATION"
@@ -89,11 +89,6 @@
         },
         {
             "word": "IOTA",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
             "score": 1,
             "pangram": false
         },

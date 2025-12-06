@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 201,
+    "total_score": 204,
     "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
@@ -90,6 +90,11 @@
         {
             "word": "BEACHED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BEACHHEAD",
+            "score": 9,
             "pangram": false
         },
         {
@@ -195,11 +200,6 @@
         {
             "word": "BREEDER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CABBED",
-            "score": 6,
             "pangram": false
         },
         {

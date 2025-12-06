@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 40,
+    "total_score": 165,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "BOTCHED"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CODE",
             "score": 1,
             "pangram": false
@@ -105,11 +100,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {

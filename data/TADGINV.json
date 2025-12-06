@@ -13,20 +13,13 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 169,
-    "word_count": 28,
-    "pangram_count": 1,
-    "pangram_list": [
-        "ADVANTAGING"
-    ],
+    "total_score": 139,
+    "word_count": 24,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
-        {
-            "word": "ADVANTAGING",
-            "score": 11,
-            "pangram": true
-        },
         {
             "word": "AGITATING",
             "score": 9,
@@ -60,11 +53,6 @@
         {
             "word": "GAIT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GATING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -128,11 +116,6 @@
             "pangram": false
         },
         {
-            "word": "TIDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "TING",
             "score": 1,
             "pangram": false
@@ -154,11 +137,6 @@
         },
         {
             "word": "TINTING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VATTING",
             "score": 7,
             "pangram": false
         }

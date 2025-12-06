@@ -63,11 +63,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LEMON",
             "score": 5,
             "pangram": false
@@ -119,6 +114,11 @@
         },
         {
             "word": "LUNGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
             "score": 5,
             "pangram": false
         },

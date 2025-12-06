@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 36,
+    "total_score": 163,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "BLINDINGLY"
@@ -49,11 +49,6 @@
         },
         {
             "word": "BINDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
             "score": 7,
             "pangram": false
         },
@@ -98,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DYING",
             "score": 5,
             "pangram": false
@@ -115,11 +105,6 @@
         {
             "word": "GIDDY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -140,11 +125,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 167,
-    "word_count": 37,
+    "total_score": 162,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "URINATE"
@@ -194,11 +194,6 @@
         },
         {
             "word": "URINE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UTERI",
             "score": 5,
             "pangram": false
         },

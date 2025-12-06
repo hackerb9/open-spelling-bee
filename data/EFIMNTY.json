@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 132,
-    "word_count": 34,
+    "total_score": 131,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "FEMININITY"
@@ -109,11 +109,6 @@
         },
         {
             "word": "MEET",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 130,
-    "word_count": 32,
+    "total_score": 124,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "ROCKETED"
@@ -35,11 +35,6 @@
         {
             "word": "COKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -114,11 +109,6 @@
         },
         {
             "word": "EKED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
             "score": 1,
             "pangram": false
         },

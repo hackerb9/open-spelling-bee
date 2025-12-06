@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 275,
-    "word_count": 45,
+    "total_score": 234,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "DAUBING"
@@ -93,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BUDDING",
             "score": 7,
             "pangram": false
@@ -138,28 +133,13 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DUBBING",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DUNG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -200,16 +180,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

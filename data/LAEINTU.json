@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 44,
+    "total_score": 176,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "LIEUTENANT"
@@ -48,6 +48,11 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "ELITE",
             "score": 5,
             "pangram": false
@@ -73,11 +78,6 @@
             "pangram": false
         },
         {
-            "word": "LAIN",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "LANE",
             "score": 1,
             "pangram": false
@@ -90,6 +90,11 @@
         {
             "word": "LATENT",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -195,6 +200,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

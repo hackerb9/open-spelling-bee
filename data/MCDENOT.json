@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 242,
-    "word_count": 48,
+    "total_score": 241,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "COMMENTED"
@@ -175,11 +175,6 @@
         {
             "word": "MENDED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {

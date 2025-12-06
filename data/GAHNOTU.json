@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 80,
-    "word_count": 24,
+    "total_score": 75,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "HANGOUT"
@@ -45,11 +45,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

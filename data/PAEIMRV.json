@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 41,
+    "total_score": 170,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "VAMPIRE"
@@ -160,11 +160,6 @@
         {
             "word": "PRIMP",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PRIVIER",
-            "score": 7,
             "pangram": false
         },
         {

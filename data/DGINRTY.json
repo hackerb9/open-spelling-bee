@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 143,
-    "word_count": 26,
+    "total_score": 130,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "DIRTYING"
@@ -45,11 +45,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -135,11 +130,6 @@
         {
             "word": "RIND",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDING",
-            "score": 6,
             "pangram": false
         },
         {

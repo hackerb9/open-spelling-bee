@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 36,
+    "total_score": 147,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "BEDROCK"
@@ -58,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "BROOKED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "COCK",
             "score": 1,
             "pangram": false
@@ -75,11 +70,6 @@
         {
             "word": "COKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -159,11 +149,6 @@
         },
         {
             "word": "EKED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
             "score": 1,
             "pangram": false
         },

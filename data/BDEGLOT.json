@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 213,
-    "word_count": 46,
+    "total_score": 193,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "BOOTLEGGED"
@@ -83,11 +83,6 @@
             "pangram": false
         },
         {
-            "word": "BLOBBED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BLOG",
             "score": 1,
             "pangram": false
@@ -100,11 +95,6 @@
         {
             "word": "BLOOD",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BLOODED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -215,11 +205,6 @@
         {
             "word": "GLOBE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GOBBED",
-            "score": 6,
             "pangram": false
         },
         {

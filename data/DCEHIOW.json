@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 44,
+    "total_score": 159,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "COWHIDE"
@@ -44,16 +44,6 @@
         },
         {
             "word": "CHIDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CHOWED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CODDED",
             "score": 6,
             "pangram": false
         },
@@ -108,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DICE",
             "score": 1,
             "pangram": false
@@ -160,11 +145,6 @@
         {
             "word": "HIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
             "pangram": false
         },
         {

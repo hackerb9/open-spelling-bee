@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 45,
+    "total_score": 182,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "ANALYZED"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DELAY",
             "score": 5,
             "pangram": false
@@ -145,16 +140,6 @@
         {
             "word": "EYED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
             "pangram": false
         },
         {

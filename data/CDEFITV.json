@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
+    "total_score": 168,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -93,6 +93,16 @@
             "pangram": false
         },
         {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "DETECT",
             "score": 6,
             "pangram": false
@@ -138,11 +148,6 @@
             "pangram": false
         },
         {
-            "word": "EFFECTED",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "EFFECTIVE",
             "score": 9,
             "pangram": false
@@ -165,11 +170,6 @@
         {
             "word": "VICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VICED",
-            "score": 5,
             "pangram": false
         }
     ]

@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 173,
-    "word_count": 41,
+    "total_score": 162,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "DEMAGOGUE"
@@ -65,11 +65,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -123,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "EDGE",
             "score": 1,
             "pangram": false
@@ -168,11 +158,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GOADED",
             "score": 6,
             "pangram": false
@@ -199,6 +184,11 @@
         },
         {
             "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAGE",
             "score": 1,
             "pangram": false
         },

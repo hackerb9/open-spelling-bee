@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 39,
+    "total_score": 172,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "JUMBLED"
@@ -53,11 +53,6 @@
             "pangram": false
         },
         {
-            "word": "BLUED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "BUBBLE",
             "score": 6,
             "pangram": false
@@ -75,11 +70,6 @@
         {
             "word": "BULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BULLED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -156,11 +146,6 @@
             "word": "JUMBLED",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "LULL",

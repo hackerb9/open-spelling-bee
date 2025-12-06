@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 248,
-    "word_count": 49,
+    "total_score": 231,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "NUMBERED"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "BURRED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEMURE",
             "score": 6,
             "pangram": false
@@ -105,11 +100,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -225,11 +215,6 @@
         {
             "word": "RUED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

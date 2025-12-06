@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 148,
-    "word_count": 45,
+    "total_score": 147,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "THERMAL"
@@ -64,11 +64,6 @@
         },
         {
             "word": "LAMER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
             "score": 5,
             "pangram": false
         },
@@ -163,6 +158,11 @@
             "pangram": false
         },
         {
+            "word": "MELEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "MELT",
             "score": 1,
             "pangram": false
@@ -175,11 +175,6 @@
         {
             "word": "METAL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {

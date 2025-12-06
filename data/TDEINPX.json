@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 245,
-    "word_count": 49,
+    "total_score": 240,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "EXPEDIENT"
@@ -230,11 +230,6 @@
         {
             "word": "TIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDED",
-            "score": 5,
             "pangram": false
         },
         {

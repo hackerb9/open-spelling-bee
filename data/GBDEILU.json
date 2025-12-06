@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 245,
-    "word_count": 49,
+    "total_score": 238,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "BEGUILED"
@@ -123,11 +123,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GELD",
             "score": 1,
             "pangram": false
@@ -145,11 +140,6 @@
         {
             "word": "GIBED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
             "pangram": false
         },
         {

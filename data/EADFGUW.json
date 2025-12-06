@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 137,
-    "word_count": 36,
+    "total_score": 125,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "GUFFAWED"
@@ -58,18 +58,8 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -135,11 +125,6 @@
         {
             "word": "GAUGED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

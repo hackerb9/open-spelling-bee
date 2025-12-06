@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 118,
-    "word_count": 25,
+    "total_score": 112,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "OVERWRITE"
@@ -100,11 +100,6 @@
         {
             "word": "VEER",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
             "pangram": false
         },
         {

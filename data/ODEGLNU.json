@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 181,
-    "word_count": 49,
+    "total_score": 175,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "LOUNGED"
@@ -110,11 +110,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGED",
-            "score": 6,
             "pangram": false
         },
         {

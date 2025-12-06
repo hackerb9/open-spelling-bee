@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 40,
+    "total_score": 189,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "FURNITURE"
@@ -90,11 +90,6 @@
         {
             "word": "REUNITE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {
@@ -209,11 +204,6 @@
         },
         {
             "word": "URINE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UTERI",
             "score": 5,
             "pangram": false
         },

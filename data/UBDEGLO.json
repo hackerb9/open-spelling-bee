@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 237,
-    "word_count": 47,
-    "pangram_count": 1,
-    "pangram_list": [
-        "BULLDOGGED"
-    ],
+    "total_score": 211,
+    "word_count": 43,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "BEDBUG",
@@ -35,11 +33,6 @@
         {
             "word": "BLUEBELL",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "BLUED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -108,16 +101,6 @@
             "pangram": false
         },
         {
-            "word": "BULLDOGGED",
-            "score": 10,
-            "pangram": true
-        },
-        {
-            "word": "BULLED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEBUG",
             "score": 5,
             "pangram": false
@@ -165,11 +148,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

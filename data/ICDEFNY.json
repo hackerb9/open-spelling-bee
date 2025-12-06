@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 168,
-    "word_count": 32,
+    "total_score": 173,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "DEFICIENCY"
@@ -58,6 +58,16 @@
             "pangram": false
         },
         {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "DEIFIED",
             "score": 7,
             "pangram": false
@@ -95,11 +105,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {

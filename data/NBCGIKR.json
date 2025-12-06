@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 173,
-    "word_count": 31,
+    "total_score": 152,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "BRICKING"
@@ -30,11 +30,6 @@
         {
             "word": "BIKINI",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -75,16 +70,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

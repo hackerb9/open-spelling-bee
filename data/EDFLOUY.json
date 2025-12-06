@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 46,
+    "total_score": 178,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "DOLEFULLY"
@@ -25,11 +25,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -85,11 +80,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -209,11 +199,6 @@
         },
         {
             "word": "FUELED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "FULLED",
             "score": 6,
             "pangram": false
         },

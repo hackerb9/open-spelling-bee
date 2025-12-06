@@ -13,25 +13,13 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 161,
-    "word_count": 27,
-    "pangram_count": 1,
-    "pangram_list": [
-        "PHONYING"
-    ],
+    "total_score": 102,
+    "word_count": 19,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GOING",
             "score": 5,
@@ -40,11 +28,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -63,11 +46,6 @@
             "pangram": false
         },
         {
-            "word": "HIPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "HOGGING",
             "score": 7,
             "pangram": false
@@ -75,11 +53,6 @@
         {
             "word": "HONING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "HOOPING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -118,23 +91,8 @@
             "pangram": false
         },
         {
-            "word": "PHONYING",
-            "score": 8,
-            "pangram": true
-        },
-        {
-            "word": "PIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "PINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PINIONING",
-            "score": 9,
             "pangram": false
         },
         {

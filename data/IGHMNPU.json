@@ -13,25 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 166,
-    "word_count": 26,
+    "total_score": 138,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "HUMPING"
     ],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GUMMING",
             "score": 7,
@@ -49,11 +39,6 @@
         },
         {
             "word": "HINGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "HIPPING",
             "score": 7,
             "pangram": false
         },
@@ -109,11 +94,6 @@
         },
         {
             "word": "NIPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

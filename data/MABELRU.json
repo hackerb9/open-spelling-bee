@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 44,
+    "total_score": 186,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "UMBRELLA"
@@ -58,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "BLAMER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "BUMBLEBEE",
             "score": 9,
             "pangram": false
@@ -99,11 +94,6 @@
         },
         {
             "word": "LAMER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
             "score": 5,
             "pangram": false
         },
@@ -165,6 +155,11 @@
         {
             "word": "MEAL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -233,8 +228,8 @@
             "pangram": false
         },
         {
-            "word": "RUMMER",
-            "score": 6,
+            "word": "UMBER",
+            "score": 5,
             "pangram": false
         },
         {

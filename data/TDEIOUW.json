@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 139,
-    "word_count": 34,
+    "total_score": 127,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "OUTWITTED"
@@ -35,11 +35,6 @@
         {
             "word": "DITTO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DITTOED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -110,11 +105,6 @@
         {
             "word": "TIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDED",
-            "score": 5,
             "pangram": false
         },
         {

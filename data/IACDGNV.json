@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 222,
-    "word_count": 38,
+    "total_score": 188,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "ADVANCING"
@@ -113,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DIVIDING",
             "score": 8,
             "pangram": false
@@ -149,16 +144,6 @@
         },
         {
             "word": "GANGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },
@@ -195,16 +180,6 @@
         {
             "word": "VAIN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VICING",
-            "score": 6,
             "pangram": false
         },
         {

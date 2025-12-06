@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 233,
-    "word_count": 35,
+    "total_score": 212,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "CRIPPLING"
@@ -58,18 +58,8 @@
             "pangram": true
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -125,11 +115,6 @@
         {
             "word": "PICNIC",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
-            "score": 7,
             "pangram": false
         },
         {

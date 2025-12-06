@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 254,
-    "word_count": 40,
+    "total_score": 195,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "CHOPPING"
     ],
     "word_list": [
-        {
-            "word": "CHINNING",
-            "score": 8,
-            "pangram": false
-        },
         {
             "word": "CHIPPING",
             "score": 8,
@@ -78,16 +73,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
             "pangram": false
@@ -95,11 +80,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -118,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "HIPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "HOGGING",
             "score": 7,
             "pangram": false
@@ -130,11 +105,6 @@
         {
             "word": "HONING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "HOOPING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -183,11 +153,6 @@
             "pangram": false
         },
         {
-            "word": "PIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "PINCHING",
             "score": 8,
             "pangram": false
@@ -195,11 +160,6 @@
         {
             "word": "PINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PINIONING",
-            "score": 9,
             "pangram": false
         },
         {

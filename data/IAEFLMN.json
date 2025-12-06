@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 40,
+    "total_score": 150,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "INFLAME"
@@ -106,11 +106,6 @@
             "word": "INFLAME",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "LIFE",

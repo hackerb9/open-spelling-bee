@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 150,
-    "word_count": 36,
+    "total_score": 145,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "QUILTED"
@@ -140,11 +140,6 @@
         {
             "word": "TIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDED",
-            "score": 5,
             "pangram": false
         },
         {

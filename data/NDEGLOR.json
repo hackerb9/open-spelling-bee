@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 232,
-    "word_count": 50,
+    "total_score": 219,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "GOLDENER"
@@ -113,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "GONGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GOON",
             "score": 1,
             "pangram": false
@@ -125,11 +120,6 @@
         {
             "word": "GREEN",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GREENED",
-            "score": 7,
             "pangram": false
         },
         {

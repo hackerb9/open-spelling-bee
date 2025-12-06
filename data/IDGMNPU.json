@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 223,
-    "word_count": 34,
+    "total_score": 177,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "DUMPING"
@@ -38,18 +38,8 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DIPPING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DUDING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -58,23 +48,8 @@
             "pangram": true
         },
         {
-            "word": "DUNGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DUPING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -143,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "PIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "PINING",
             "score": 6,
             "pangram": false
@@ -180,11 +150,6 @@
         {
             "word": "PUPPING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         },
         {

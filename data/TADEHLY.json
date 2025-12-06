@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 181,
-    "word_count": 43,
+    "total_score": 192,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "HEATEDLY"
@@ -68,6 +68,16 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "HALT",
             "score": 1,
             "pangram": false
@@ -85,11 +95,6 @@
         {
             "word": "HATED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "HATTED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -148,6 +153,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LETHAL",
             "score": 6,
             "pangram": false
@@ -180,6 +190,11 @@
         {
             "word": "TATTY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

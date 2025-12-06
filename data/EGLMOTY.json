@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 83,
-    "word_count": 24,
+    "total_score": 82,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "ETYMOLOGY"
@@ -53,13 +53,13 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
+            "word": "MEET",
+            "score": 1,
             "pangram": false
         },
         {
-            "word": "MEET",
-            "score": 1,
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -69,11 +69,6 @@
         },
         {
             "word": "MEMO",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

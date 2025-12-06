@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 183,
-    "word_count": 44,
+    "total_score": 182,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "AMPUTATED"
@@ -144,11 +144,6 @@
         },
         {
             "word": "MEET",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

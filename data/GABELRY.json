@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 241,
+    "total_score": 246,
     "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
@@ -38,11 +38,6 @@
             "pangram": true
         },
         {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "ALGAE",
             "score": 5,
             "pangram": false
@@ -60,6 +55,11 @@
         {
             "word": "ALLERGY",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ARGYLE",
+            "score": 6,
             "pangram": false
         },
         {

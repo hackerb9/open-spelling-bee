@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 33,
+    "total_score": 102,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "EXCLAIM"
@@ -80,11 +80,6 @@
         {
             "word": "LAME",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {

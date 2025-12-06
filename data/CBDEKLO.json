@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 131,
-    "word_count": 33,
+    "total_score": 120,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "BLOCKED"
@@ -88,11 +88,6 @@
             "pangram": false
         },
         {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CODE",
             "score": 1,
             "pangram": false
@@ -105,11 +100,6 @@
         {
             "word": "COKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
-            "score": 5,
             "pangram": false
         },
         {

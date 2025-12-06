@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 196,
-    "word_count": 48,
+    "total_score": 191,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "ANNULMENT"
@@ -100,11 +100,6 @@
         {
             "word": "LEAN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {

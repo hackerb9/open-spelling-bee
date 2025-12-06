@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 200,
-    "word_count": 37,
+    "total_score": 189,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "QUIETING"
@@ -43,22 +43,12 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "GENIE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
             "score": 5,
             "pangram": false
         },

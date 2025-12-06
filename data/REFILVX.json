@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 235,
-    "word_count": 47,
+    "total_score": 229,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "REFLEXIVE"
@@ -235,11 +235,6 @@
         {
             "word": "VEER",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
             "pangram": false
         },
         {

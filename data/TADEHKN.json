@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 200,
-    "word_count": 48,
+    "total_score": 194,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "THANKED"
@@ -90,11 +90,6 @@
         {
             "word": "HATED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "HATTED",
-            "score": 6,
             "pangram": false
         },
         {

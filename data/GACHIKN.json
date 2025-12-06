@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 221,
-    "word_count": 38,
+    "total_score": 191,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "HACKING"
@@ -83,16 +83,6 @@
             "pangram": false
         },
         {
-            "word": "CHINKING",
-            "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "CHINNING",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "CINCHING",
             "score": 8,
             "pangram": false
@@ -119,16 +109,6 @@
         },
         {
             "word": "GANGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },

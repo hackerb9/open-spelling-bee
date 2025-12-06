@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
+    "total_score": 111,
     "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
@@ -68,16 +68,6 @@
             "pangram": false
         },
         {
-            "word": "CHOWED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CODE",
             "score": 1,
             "pangram": false
@@ -120,6 +110,16 @@
         {
             "word": "DECODED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

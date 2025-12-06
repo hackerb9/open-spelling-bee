@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
+    "total_score": 116,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -48,11 +48,6 @@
             "pangram": false
         },
         {
-            "word": "EAVE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "EMANATE",
             "score": 7,
             "pangram": false
@@ -70,6 +65,11 @@
         {
             "word": "MAMMA",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {

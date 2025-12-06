@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 198,
-    "word_count": 44,
+    "total_score": 179,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "INDELIBLY"
@@ -30,11 +30,6 @@
         {
             "word": "BELIED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BELLIED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -70,11 +65,6 @@
         {
             "word": "BIND",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BINNED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -120,11 +110,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {

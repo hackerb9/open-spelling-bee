@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 30,
+    "total_score": 179,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "MAXIMIZING"
@@ -85,16 +85,6 @@
         {
             "word": "GAZING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 143,
-    "word_count": 38,
+    "total_score": 142,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "FRACTURE"
@@ -195,11 +195,6 @@
         {
             "word": "REFUTE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {

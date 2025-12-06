@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 124,
-    "word_count": 24,
+    "total_score": 117,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "DAZZLING"
@@ -70,11 +70,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {

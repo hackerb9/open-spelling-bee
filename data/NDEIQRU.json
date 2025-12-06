@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 233,
-    "word_count": 46,
+    "total_score": 214,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "INQUIRED"
@@ -43,18 +43,8 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DINNER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNERED",
-            "score": 8,
             "pangram": false
         },
         {
@@ -224,11 +214,6 @@
         },
         {
             "word": "UNDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
             "score": 5,
             "pangram": false
         },

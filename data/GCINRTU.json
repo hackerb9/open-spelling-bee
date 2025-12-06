@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 294,
-    "word_count": 47,
+    "total_score": 280,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CIRCUITING"
@@ -54,16 +54,6 @@
         },
         {
             "word": "CUTTING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 150,
-    "word_count": 47,
+    "total_score": 142,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "IMPLORE"
@@ -215,11 +215,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

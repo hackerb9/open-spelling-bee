@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 36,
+    "total_score": 147,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "PLUNGED"
@@ -38,11 +38,6 @@
             "pangram": false
         },
         {
-            "word": "DUNGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "EDGE",
             "score": 1,
             "pangram": false
@@ -55,11 +50,6 @@
         {
             "word": "EGGED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

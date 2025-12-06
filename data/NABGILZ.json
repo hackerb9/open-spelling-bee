@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 282,
-    "word_count": 47,
+    "total_score": 252,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "BLAZING"
@@ -35,11 +35,6 @@
         {
             "word": "AILING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ALIBIING",
-            "score": 8,
             "pangram": false
         },
         {
@@ -123,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BLABBING",
             "score": 8,
             "pangram": false
@@ -188,18 +178,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -215,11 +195,6 @@
         {
             "word": "LAGGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

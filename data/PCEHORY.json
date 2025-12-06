@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
-    "word_count": 35,
+    "total_score": 115,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "PROPHECY"
@@ -175,11 +175,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

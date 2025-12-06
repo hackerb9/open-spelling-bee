@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 60,
-    "word_count": 24,
+    "total_score": 65,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "MEGABYTE"
@@ -35,6 +35,11 @@
         {
             "word": "ABET",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -83,6 +88,11 @@
             "pangram": false
         },
         {
+            "word": "MAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "MATE",
             "score": 1,
             "pangram": false
@@ -111,11 +121,6 @@
             "word": "MEGABYTE",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "METE",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "TAME",

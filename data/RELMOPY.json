@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 148,
+    "total_score": 147,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
@@ -108,6 +108,11 @@
             "pangram": false
         },
         {
+            "word": "PEPPERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "POOR",
             "score": 1,
             "pangram": false
@@ -155,11 +160,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

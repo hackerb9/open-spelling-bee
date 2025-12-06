@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 28,
+    "total_score": 158,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "DRIZZLING"
@@ -33,11 +33,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DRILLING",
             "score": 8,
             "pangram": false
@@ -48,22 +43,12 @@
             "pangram": true
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
         },
         {
             "word": "GILDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },

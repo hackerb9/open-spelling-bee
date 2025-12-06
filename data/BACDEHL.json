@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 42,
+    "total_score": 191,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "BLEACHED"
@@ -183,11 +183,6 @@
             "pangram": false
         },
         {
-            "word": "CABBED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CABLE",
             "score": 5,
             "pangram": false
@@ -195,11 +190,6 @@
         {
             "word": "CABLED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 142,
-    "word_count": 33,
-    "pangram_count": 1,
-    "pangram_list": [
-        "BLACKED"
-    ],
+    "total_score": 121,
+    "word_count": 29,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "ABACK",
@@ -58,16 +56,6 @@
             "pangram": false
         },
         {
-            "word": "BLACKED",
-            "score": 7,
-            "pangram": true
-        },
-        {
-            "word": "CABBED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CABLE",
             "score": 5,
             "pangram": false
@@ -98,23 +86,8 @@
             "pangram": false
         },
         {
-            "word": "CALK",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALKED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CALL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {
@@ -150,6 +123,11 @@
         {
             "word": "CLAD",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEBACLE",
+            "score": 7,
             "pangram": false
         },
         {

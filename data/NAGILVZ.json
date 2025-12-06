@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 238,
-    "word_count": 40,
+    "total_score": 216,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "GALVANIZING"
@@ -113,18 +113,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -145,11 +135,6 @@
         {
             "word": "LAGGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {
@@ -204,11 +189,6 @@
         },
         {
             "word": "VANILLA",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
             "score": 7,
             "pangram": false
         },

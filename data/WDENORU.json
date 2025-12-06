@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 40,
+    "total_score": 182,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "WOUNDER"
@@ -25,11 +25,6 @@
         {
             "word": "DOWN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DOWNED",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 142,
+    "total_score": 138,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -78,11 +78,6 @@
             "pangram": false
         },
         {
-            "word": "GIMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "GRAM",
             "score": 1,
             "pangram": false
@@ -136,6 +131,11 @@
             "word": "IMAGERY",
             "score": 7,
             "pangram": true
+        },
+        {
+            "word": "MAGE",
+            "score": 1,
+            "pangram": false
         },
         {
             "word": "MARRIAGE",

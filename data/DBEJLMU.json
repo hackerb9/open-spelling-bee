@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 38,
+    "total_score": 175,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "JUMBLED"
@@ -43,22 +43,12 @@
             "pangram": false
         },
         {
-            "word": "BLUED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "BUBBLED",
             "score": 7,
             "pangram": false
         },
         {
             "word": "BUDDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BULLED",
             "score": 6,
             "pangram": false
         },
@@ -70,11 +60,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -105,11 +90,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

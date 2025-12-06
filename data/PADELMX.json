@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 216,
-    "word_count": 47,
-    "pangram_count": 1,
-    "pangram_list": [
-        "EXAMPLED"
-    ],
+    "total_score": 208,
+    "word_count": 46,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "AMPLE",
@@ -81,11 +79,6 @@
             "word": "EXAMPLE",
             "score": 7,
             "pangram": false
-        },
-        {
-            "word": "EXAMPLED",
-            "score": 8,
-            "pangram": true
         },
         {
             "word": "EXPEL",

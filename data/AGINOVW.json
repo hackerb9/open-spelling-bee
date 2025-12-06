@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 130,
-    "word_count": 27,
+    "total_score": 107,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "AVOWING"
@@ -33,11 +33,6 @@
             "pangram": false
         },
         {
-            "word": "ANON",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "AVOW",
             "score": 1,
             "pangram": false
@@ -46,11 +41,6 @@
             "word": "AVOWING",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "AWING",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "AWNING",
@@ -93,11 +83,6 @@
             "pangram": false
         },
         {
-            "word": "GONNA",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "NAGGING",
             "score": 7,
             "pangram": false
@@ -115,11 +100,6 @@
         {
             "word": "VAIN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -145,11 +125,6 @@
         {
             "word": "WANING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WANNA",
-            "score": 5,
             "pangram": false
         },
         {

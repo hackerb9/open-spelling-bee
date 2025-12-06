@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 34,
+    "total_score": 137,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "CARNIVAL"
@@ -95,11 +95,6 @@
         {
             "word": "CLINICAL",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

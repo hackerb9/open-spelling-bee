@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 189,
-    "word_count": 41,
-    "pangram_count": 1,
-    "pangram_list": [
-        "PHONIED"
-    ],
+    "total_score": 182,
+    "word_count": 40,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "DEEP",
@@ -156,11 +154,6 @@
             "word": "PHONED",
             "score": 6,
             "pangram": false
-        },
-        {
-            "word": "PHONIED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "PINE",

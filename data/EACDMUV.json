@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 118,
-    "word_count": 31,
+    "total_score": 106,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "VACUUMED"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEEM",
             "score": 1,
             "pangram": false
@@ -124,16 +119,6 @@
         },
         {
             "word": "DUDE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
             "score": 1,
             "pangram": false
         },

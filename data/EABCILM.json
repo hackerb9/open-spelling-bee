@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 155,
-    "word_count": 41,
+    "total_score": 147,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "AMICABLE"
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "CALLABLE",
-            "score": 8,
-            "pangram": false
-        },
-        {
             "word": "CAME",
             "score": 1,
             "pangram": false
@@ -163,11 +158,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LIABLE",
             "score": 6,
             "pangram": false
@@ -210,6 +200,11 @@
         {
             "word": "MEAL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

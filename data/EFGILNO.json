@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 149,
-    "word_count": 37,
+    "total_score": 138,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "LIFELONG"
@@ -93,22 +93,12 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "GENIE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
             "score": 5,
             "pangram": false
         },

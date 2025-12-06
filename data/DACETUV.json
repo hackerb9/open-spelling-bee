@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
-    "word_count": 37,
+    "total_score": 154,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "EVACUATED"
@@ -123,11 +123,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DETECT",
             "score": 6,
             "pangram": false
@@ -145,11 +140,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -195,11 +185,6 @@
         {
             "word": "VACATED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VATTED",
-            "score": 6,
             "pangram": false
         },
         {

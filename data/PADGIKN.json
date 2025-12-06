@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 135,
-    "word_count": 25,
+    "total_score": 128,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "KIDNAPPING"
@@ -110,11 +110,6 @@
         {
             "word": "PAPA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
-            "score": 7,
             "pangram": false
         },
         {

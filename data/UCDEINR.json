@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 207,
+    "total_score": 203,
     "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
@@ -68,13 +68,13 @@
             "pangram": false
         },
         {
-            "word": "DUDE",
-            "score": 1,
+            "word": "DRUID",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
+            "word": "DUDE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -84,6 +84,11 @@
         },
         {
             "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
             "score": 1,
             "pangram": false
         },
@@ -214,11 +219,6 @@
         },
         {
             "word": "UNDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
             "score": 5,
             "pangram": false
         },

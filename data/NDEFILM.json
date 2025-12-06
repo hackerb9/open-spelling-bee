@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 196,
-    "word_count": 41,
+    "total_score": 190,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "MINEFIELD"
@@ -60,11 +60,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {

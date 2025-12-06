@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 221,
-    "word_count": 39,
+    "total_score": 209,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "EXCERPTED"
@@ -150,16 +150,6 @@
         {
             "word": "PERTER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PETERED",
-            "score": 7,
             "pangram": false
         },
         {

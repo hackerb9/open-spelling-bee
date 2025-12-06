@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 241,
-    "word_count": 38,
+    "total_score": 204,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "POUNCING"
@@ -78,23 +78,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -148,11 +133,6 @@
             "pangram": false
         },
         {
-            "word": "PIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "PINING",
             "score": 6,
             "pangram": false
@@ -160,11 +140,6 @@
         {
             "word": "PINION",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PINIONING",
-            "score": 9,
             "pangram": false
         },
         {

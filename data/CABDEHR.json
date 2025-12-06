@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 246,
+    "total_score": 249,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -88,6 +88,11 @@
             "pangram": false
         },
         {
+            "word": "BEACHHEAD",
+            "score": 9,
+            "pangram": false
+        },
+        {
             "word": "BEECH",
             "score": 5,
             "pangram": false
@@ -111,11 +116,6 @@
             "word": "BREACHED",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "CABBED",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "CACHE",

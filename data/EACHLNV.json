@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 42,
+    "total_score": 151,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "AVALANCHE"
@@ -94,11 +94,6 @@
         },
         {
             "word": "EACH",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
             "score": 1,
             "pangram": false
         },

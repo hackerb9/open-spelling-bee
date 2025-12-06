@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 33,
+    "total_score": 107,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "REMOTELY"
@@ -29,11 +29,6 @@
         },
         {
             "word": "LEERY",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
             "score": 5,
             "pangram": false
         },

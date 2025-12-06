@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 28,
+    "total_score": 106,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "HUMBLER"
@@ -154,11 +154,6 @@
         },
         {
             "word": "RUMBLE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
             "score": 6,
             "pangram": false
         }

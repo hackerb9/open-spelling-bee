@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 238,
-    "word_count": 49,
+    "total_score": 221,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "YACHTED"
@@ -143,11 +143,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DETACH",
             "score": 6,
             "pangram": false
@@ -194,16 +189,6 @@
         },
         {
             "word": "HATED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "HATTED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "HAYED",
             "score": 5,
             "pangram": false
         },

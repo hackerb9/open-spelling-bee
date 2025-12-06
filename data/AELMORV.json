@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 45,
+    "total_score": 151,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "REMOVAL"
@@ -49,11 +49,6 @@
         },
         {
             "word": "EARL",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
             "score": 1,
             "pangram": false
         },

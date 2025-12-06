@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 258,
-    "word_count": 43,
+    "total_score": 230,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "UNGAINLY"
@@ -50,11 +50,6 @@
         {
             "word": "ALLAYING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "ALLYING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -108,11 +103,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -120,11 +110,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -140,11 +125,6 @@
         {
             "word": "GUNNING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GUYING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -170,11 +150,6 @@
         {
             "word": "LAGGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 238,
-    "word_count": 41,
+    "total_score": 180,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "DECKING"
@@ -36,11 +36,6 @@
             "word": "DECKING",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "DEEDING",
-            "score": 7,
-            "pangram": false
         },
         {
             "word": "DEIGN",
@@ -68,18 +63,8 @@
             "pangram": false
         },
         {
-            "word": "DIKING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -123,16 +108,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -140,31 +115,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

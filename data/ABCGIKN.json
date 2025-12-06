@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 32,
+    "total_score": 159,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "BACKING"
@@ -99,11 +99,6 @@
         },
         {
             "word": "BANNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CABBING",
             "score": 7,
             "pangram": false
         },

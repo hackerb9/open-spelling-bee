@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 95,
-    "word_count": 26,
+    "total_score": 89,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "FLOCKED"
@@ -45,11 +45,6 @@
         {
             "word": "COKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -145,11 +140,6 @@
         {
             "word": "LOOKED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
-            "score": 1,
             "pangram": false
         }
     ]

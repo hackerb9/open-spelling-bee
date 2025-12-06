@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 144,
-    "word_count": 41,
+    "total_score": 135,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "BLACKEN"
@@ -108,18 +108,8 @@
             "pangram": false
         },
         {
-            "word": "CALK",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "CALL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

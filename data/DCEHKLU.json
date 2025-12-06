@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 213,
-    "word_count": 45,
+    "total_score": 202,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "CHUCKLED"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DELUDE",
             "score": 6,
             "pangram": false
@@ -135,11 +130,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

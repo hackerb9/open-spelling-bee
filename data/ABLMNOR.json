@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 42,
+    "total_score": 149,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "ABNORMAL"
@@ -225,11 +225,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         }
     ]

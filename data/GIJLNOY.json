@@ -13,20 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 157,
-    "word_count": 28,
+    "total_score": 130,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "JOLLYING"
     ],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GIGGLING",
             "score": 8,
@@ -38,11 +33,6 @@
             "pangram": false
         },
         {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
             "pangram": false
@@ -50,11 +40,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -101,11 +86,6 @@
             "word": "JOLLYING",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "JOYING",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "LINGO",

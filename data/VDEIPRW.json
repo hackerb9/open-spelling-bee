@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 240,
-    "word_count": 42,
+    "total_score": 227,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "PREVIEWED"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "PRIVIER",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "REPRIEVE",
             "score": 8,
             "pangram": false
@@ -179,11 +174,6 @@
         },
         {
             "word": "VEERED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
             "score": 6,
             "pangram": false
         },

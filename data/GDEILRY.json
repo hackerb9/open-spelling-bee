@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 236,
-    "word_count": 47,
+    "total_score": 229,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "GREEDILY"
@@ -78,11 +78,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GELD",
             "score": 1,
             "pangram": false
@@ -100,11 +95,6 @@
         {
             "word": "GIDDY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
             "pangram": false
         },
         {

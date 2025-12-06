@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 35,
+    "total_score": 159,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "BOOTLEGGED"
@@ -93,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GELD",
             "score": 1,
             "pangram": false
@@ -115,11 +110,6 @@
         {
             "word": "GLOBE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GOBBED",
-            "score": 6,
             "pangram": false
         },
         {

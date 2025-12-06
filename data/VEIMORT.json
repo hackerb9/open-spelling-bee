@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 137,
-    "word_count": 27,
+    "total_score": 131,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "OVERTIME"
@@ -125,11 +125,6 @@
         {
             "word": "VEER",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
             "pangram": false
         },
         {

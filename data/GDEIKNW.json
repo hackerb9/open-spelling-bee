@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 295,
-    "word_count": 50,
+    "total_score": 224,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "WEEKENDING"
     ],
     "word_list": [
-        {
-            "word": "DEEDING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "DEIGN",
             "score": 5,
@@ -48,18 +43,8 @@
             "pangram": false
         },
         {
-            "word": "DIKING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -103,16 +88,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -120,31 +95,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -225,16 +175,6 @@
         {
             "word": "WIDENING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "WIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
             "pangram": false
         },
         {

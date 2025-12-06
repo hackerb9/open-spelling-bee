@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 225,
-    "word_count": 50,
+    "total_score": 208,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "UNEQUALED"
@@ -73,11 +73,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DELUDE",
             "score": 6,
             "pangram": false
@@ -95,11 +90,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -145,16 +135,6 @@
         {
             "word": "EQUALED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 30,
+    "total_score": 154,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "GUNFIRE"
@@ -49,11 +49,6 @@
         },
         {
             "word": "FURRIER",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "FURRING",
             "score": 7,
             "pangram": false
         },
@@ -100,11 +95,6 @@
         {
             "word": "REFUGEE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {

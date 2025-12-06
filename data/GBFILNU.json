@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 248,
-    "word_count": 41,
+    "total_score": 207,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "BLUFFING"
@@ -28,19 +28,9 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BLUFFING",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "BLUING",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "BUBBLING",
@@ -64,11 +54,6 @@
         },
         {
             "word": "BULGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BULLING",
             "score": 7,
             "pangram": false
         },
@@ -128,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "FULLING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "FUNGI",
             "score": 5,
             "pangram": false
@@ -143,11 +123,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -155,11 +130,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

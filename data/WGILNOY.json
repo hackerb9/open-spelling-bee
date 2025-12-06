@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 125,
-    "word_count": 25,
+    "total_score": 111,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "YOWLING"
@@ -38,11 +38,6 @@
             "pangram": false
         },
         {
-            "word": "GOWNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "LOWING",
             "score": 6,
             "pangram": false
@@ -60,11 +55,6 @@
         {
             "word": "OWNING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
             "pangram": false
         },
         {

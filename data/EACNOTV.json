@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 189,
-    "word_count": 49,
+    "total_score": 188,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "COVENANT"
@@ -140,11 +140,6 @@
         {
             "word": "EATEN",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {

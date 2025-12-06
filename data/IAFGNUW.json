@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 30,
+    "total_score": 153,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "GUFFAWING"
@@ -29,11 +29,6 @@
         },
         {
             "word": "AGING",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "AWING",
             "score": 5,
             "pangram": false
         },
@@ -88,16 +83,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GNAWING",
             "score": 7,
             "pangram": false
@@ -145,11 +130,6 @@
         {
             "word": "WANING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
             "pangram": false
         },
         {

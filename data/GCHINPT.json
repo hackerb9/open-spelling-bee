@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 236,
-    "word_count": 37,
+    "total_score": 200,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PITCHING"
     ],
     "word_list": [
-        {
-            "word": "CHINNING",
-            "score": 8,
-            "pangram": false
-        },
         {
             "word": "CHIPPING",
             "score": 8,
@@ -43,16 +38,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "HIGH",
             "score": 1,
             "pangram": false
@@ -64,11 +49,6 @@
         },
         {
             "word": "HINTING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "HIPPING",
             "score": 7,
             "pangram": false
         },
@@ -124,11 +104,6 @@
         },
         {
             "word": "NIPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

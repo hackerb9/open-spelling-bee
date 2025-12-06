@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 80,
-    "word_count": 28,
+    "total_score": 79,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "UPHEAVAL"
@@ -30,11 +30,6 @@
         {
             "word": "APPLE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {

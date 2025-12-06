@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 125,
-    "word_count": 41,
+    "total_score": 124,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "THIMBLE"
@@ -113,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LIBEL",
             "score": 5,
             "pangram": false
@@ -143,12 +138,12 @@
             "pangram": false
         },
         {
-            "word": "MELT",
-            "score": 1,
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "METE",
+            "word": "MELT",
             "score": 1,
             "pangram": false
         },

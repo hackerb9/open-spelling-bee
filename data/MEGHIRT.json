@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 134,
-    "word_count": 37,
+    "total_score": 128,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "MIGHTIER"
@@ -40,11 +40,6 @@
         {
             "word": "GERM",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GIMME",
-            "score": 5,
             "pangram": false
         },
         {
@@ -105,11 +100,6 @@
         {
             "word": "MERRIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 212,
-    "word_count": 44,
+    "total_score": 204,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "GROUPED"
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GOOD",
             "score": 1,
             "pangram": false
@@ -175,11 +170,6 @@
         {
             "word": "GRUDGE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GRUDGED",
-            "score": 7,
             "pangram": false
         },
         {

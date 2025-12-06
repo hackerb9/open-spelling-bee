@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 150,
-    "word_count": 44,
+    "total_score": 149,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "OVERCAME"
@@ -105,11 +105,6 @@
         {
             "word": "CREAM",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {

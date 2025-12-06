@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 141,
-    "word_count": 32,
+    "total_score": 125,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "HUMIDIFIED"
@@ -25,11 +25,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -70,11 +65,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -125,11 +115,6 @@
         {
             "word": "HIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
             "pangram": false
         },
         {

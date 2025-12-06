@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 111,
+    "total_score": 112,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -35,11 +35,6 @@
         {
             "word": "DIKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DIKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -179,6 +174,11 @@
         },
         {
             "word": "PINKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINKIE",
             "score": 6,
             "pangram": false
         }

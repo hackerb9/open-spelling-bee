@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 210,
-    "word_count": 40,
+    "total_score": 184,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "HAWKING"
@@ -40,11 +40,6 @@
         {
             "word": "AWAKING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "AWING",
-            "score": 5,
             "pangram": false
         },
         {
@@ -74,16 +69,6 @@
         },
         {
             "word": "GAWKING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },
@@ -184,11 +169,6 @@
         },
         {
             "word": "WHINING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
             "score": 7,
             "pangram": false
         },

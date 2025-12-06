@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 244,
-    "word_count": 50,
-    "pangram_count": 1,
-    "pangram_list": [
-        "EXAMPLED"
-    ],
+    "total_score": 219,
+    "word_count": 45,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "ADDED",
@@ -83,11 +81,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEEM",
             "score": 1,
             "pangram": false
@@ -103,23 +96,8 @@
             "pangram": false
         },
         {
-            "word": "EXAMPLED",
-            "score": 8,
-            "pangram": true
-        },
-        {
             "word": "EXPELLED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -130,11 +108,6 @@
         {
             "word": "LADLED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LAMED",
-            "score": 5,
             "pangram": false
         },
         {

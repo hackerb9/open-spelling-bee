@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 100,
-    "word_count": 26,
-    "pangram_count": 1,
-    "pangram_list": [
-        "ZINCKED"
-    ],
+    "total_score": 87,
+    "word_count": 24,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "DENIED",
@@ -35,11 +33,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -146,11 +139,6 @@
             "word": "ZINC",
             "score": 1,
             "pangram": false
-        },
-        {
-            "word": "ZINCKED",
-            "score": 7,
-            "pangram": true
         }
     ]
 }

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 235,
-    "word_count": 47,
+    "total_score": 211,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "OBEDIENT"
@@ -35,11 +35,6 @@
         {
             "word": "BIND",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BINNED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -103,18 +98,8 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DITTO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DITTOED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -225,11 +210,6 @@
         {
             "word": "TIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDED",
-            "score": 5,
             "pangram": false
         },
         {

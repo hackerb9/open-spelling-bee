@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 27,
+    "total_score": 93,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "OBEYING"
@@ -83,11 +83,6 @@
             "pangram": false
         },
         {
-            "word": "GOBBING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
             "pangram": false
@@ -100,11 +95,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {

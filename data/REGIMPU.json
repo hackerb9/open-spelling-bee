@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 221,
-    "word_count": 49,
+    "total_score": 215,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "GRUMPIER"
@@ -240,11 +240,6 @@
         {
             "word": "RIPER",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

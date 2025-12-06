@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
-    "word_count": 32,
+    "total_score": 157,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "OVERPRICE"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "PRIVIER",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "RECEIVE",
             "score": 7,
             "pangram": false
@@ -160,11 +155,6 @@
         {
             "word": "RIVER",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
             "pangram": false
         },
         {

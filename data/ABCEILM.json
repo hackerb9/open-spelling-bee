@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 45,
+    "total_score": 152,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "AMICABLE"
@@ -115,11 +115,6 @@
         {
             "word": "CALL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

@@ -88,11 +88,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "MAKE",
             "score": 1,
             "pangram": false
@@ -130,6 +125,11 @@
         {
             "word": "MEEKER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

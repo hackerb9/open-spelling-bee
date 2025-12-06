@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 44,
+    "total_score": 174,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "BELONGED"
@@ -93,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GELD",
             "score": 1,
             "pangram": false
@@ -125,11 +120,6 @@
         {
             "word": "GLOBE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GOBBED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -165,11 +155,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGED",
-            "score": 6,
             "pangram": false
         },
         {

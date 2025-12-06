@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 224,
-    "word_count": 50,
+    "total_score": 223,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FRETFULLY"
@@ -190,11 +190,6 @@
         {
             "word": "RUEFUL",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {

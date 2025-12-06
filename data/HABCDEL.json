@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 148,
-    "word_count": 33,
+    "total_score": 143,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "BLEACHED"
@@ -105,11 +105,6 @@
         {
             "word": "HALE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HALED",
-            "score": 5,
             "pangram": false
         },
         {

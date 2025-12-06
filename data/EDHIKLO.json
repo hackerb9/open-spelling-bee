@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 44,
+    "total_score": 143,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "LIKELIHOOD"
@@ -25,11 +25,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -45,11 +40,6 @@
         {
             "word": "DIKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DIKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -125,11 +115,6 @@
         {
             "word": "HIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -235,11 +220,6 @@
         {
             "word": "OILED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
-            "score": 1,
             "pangram": false
         }
     ]

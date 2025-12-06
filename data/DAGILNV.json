@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 179,
-    "word_count": 33,
-    "pangram_count": 1,
-    "pangram_list": [
-        "INVALIDING"
-    ],
+    "total_score": 162,
+    "word_count": 31,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "ADDING",
@@ -65,11 +63,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -136,11 +129,6 @@
             "word": "INVALID",
             "score": 7,
             "pangram": false
-        },
-        {
-            "word": "INVALIDING",
-            "score": 10,
-            "pangram": true
         },
         {
             "word": "LADING",

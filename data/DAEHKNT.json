@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 209,
-    "word_count": 46,
+    "total_score": 197,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "THANKED"
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DENT",
             "score": 1,
             "pangram": false
@@ -135,11 +130,6 @@
         {
             "word": "HATED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "HATTED",
-            "score": 6,
             "pangram": false
         },
         {

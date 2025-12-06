@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 174,
-    "word_count": 32,
+    "total_score": 156,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "OUTDOING"
     ],
     "word_list": [
-        {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
         {
             "word": "DUGOUT",
             "score": 6,
@@ -35,11 +30,6 @@
         {
             "word": "DUNG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -145,11 +135,6 @@
         {
             "word": "TUNING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         },
         {

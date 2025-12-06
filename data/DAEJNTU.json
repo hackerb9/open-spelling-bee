@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 199,
-    "word_count": 43,
-    "pangram_count": 1,
-    "pangram_list": [
-        "JAUNTED"
-    ],
+    "total_score": 181,
+    "word_count": 40,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "ADDED",
@@ -93,11 +91,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DENT",
             "score": 1,
             "pangram": false
@@ -110,11 +103,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -141,11 +129,6 @@
             "word": "JADED",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "JAUNTED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "JETTED",

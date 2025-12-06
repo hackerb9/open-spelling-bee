@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 251,
-    "word_count": 50,
+    "total_score": 244,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "PORRIDGE"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GIRDER",
             "score": 6,
             "pangram": false
@@ -178,17 +173,17 @@
             "pangram": false
         },
         {
-            "word": "PIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "PIPE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "PIPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
             "score": 5,
             "pangram": false
         },

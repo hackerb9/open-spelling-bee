@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 50,
+    "total_score": 223,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "CLINCHED"
@@ -98,7 +98,12 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
             "score": 6,
             "pangram": false
         },
@@ -143,11 +148,6 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "EDDIED",
             "score": 6,
             "pangram": false
@@ -185,11 +185,6 @@
         {
             "word": "HIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
             "pangram": false
         },
         {

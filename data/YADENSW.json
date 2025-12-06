@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 36,
+    "total_score": 114,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "ENDWAYS"
@@ -85,11 +85,6 @@
         {
             "word": "ESSAY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ESSAYED",
-            "score": 7,
             "pangram": false
         },
         {

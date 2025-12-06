@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 269,
-    "word_count": 48,
+    "total_score": 255,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "NICKNAMING"
@@ -94,16 +94,6 @@
         },
         {
             "word": "GANGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },

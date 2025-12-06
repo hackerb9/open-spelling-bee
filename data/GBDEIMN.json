@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 295,
-    "word_count": 50,
+    "total_score": 231,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "EMBEDDING"
@@ -83,16 +83,6 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DEEDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DEEMING",
             "score": 7,
             "pangram": false
@@ -125,11 +115,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -178,27 +163,12 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "GENIE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
             "score": 5,
             "pangram": false
         },
@@ -215,31 +185,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

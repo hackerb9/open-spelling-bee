@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 272,
-    "word_count": 49,
+    "total_score": 264,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "PREDEFINED"
@@ -175,11 +175,6 @@
         {
             "word": "FRIEND",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "FRIENDED",
-            "score": 8,
             "pangram": false
         },
         {

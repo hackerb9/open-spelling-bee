@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 132,
-    "word_count": 27,
+    "total_score": 120,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "MITIGATED"
@@ -24,6 +24,11 @@
     "word_list": [
         {
             "word": "ADAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGATE",
             "score": 5,
             "pangram": false
         },
@@ -113,28 +118,13 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "IMAGE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "IMAGED",
-            "score": 6,
+            "word": "MAGE",
+            "score": 1,
             "pangram": false
         },
         {

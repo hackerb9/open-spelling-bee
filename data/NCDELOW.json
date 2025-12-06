@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 204,
-    "word_count": 42,
+    "total_score": 198,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "CLOWNED"
@@ -100,11 +100,6 @@
         {
             "word": "DOWN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DOWNED",
-            "score": 6,
             "pangram": false
         },
         {

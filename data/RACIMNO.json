@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 120,
-    "word_count": 30,
+    "total_score": 130,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "MACARONI"
@@ -83,6 +83,11 @@
             "pangram": true
         },
         {
+            "word": "MACAROON",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "MANOR",
             "score": 5,
             "pangram": false
@@ -138,6 +143,11 @@
             "pangram": false
         },
         {
+            "word": "OCARINA",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "RACCOON",
             "score": 7,
             "pangram": false
@@ -160,11 +170,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,26 +15,16 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 274,
-    "word_count": 45,
+    "total_score": 246,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "PLIGHTING"
     ],
     "word_list": [
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -64,11 +54,6 @@
         },
         {
             "word": "HINTING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "HIPPING",
             "score": 7,
             "pangram": false
         },
@@ -129,11 +114,6 @@
         },
         {
             "word": "NIPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

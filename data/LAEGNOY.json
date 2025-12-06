@@ -13,20 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 167,
-    "word_count": 46,
+    "total_score": 166,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "GENEALOGY"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALGAE",
             "score": 5,

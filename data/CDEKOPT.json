@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
-    "word_count": 29,
+    "total_score": 113,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "POCKETED"
@@ -43,11 +43,6 @@
             "pangram": false
         },
         {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CODE",
             "score": 1,
             "pangram": false
@@ -60,11 +55,6 @@
         {
             "word": "COKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
-            "score": 5,
             "pangram": false
         },
         {

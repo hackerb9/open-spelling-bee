@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 202,
-    "word_count": 46,
+    "total_score": 196,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "WALTZED"
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DELETE",
             "score": 6,
             "pangram": false
@@ -128,13 +123,8 @@
             "pangram": false
         },
         {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
+            "word": "ELATED",
+            "score": 6,
             "pangram": false
         },
         {

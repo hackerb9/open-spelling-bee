@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 128,
-    "word_count": 24,
+    "total_score": 108,
+    "word_count": 21,
     "pangram_count": 1,
     "pangram_list": [
         "BLUNTING"
@@ -33,17 +33,7 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BITING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "BLUING",
             "score": 6,
             "pangram": false
         },
@@ -90,11 +80,6 @@
         {
             "word": "BULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BULLING",
-            "score": 7,
             "pangram": false
         },
         {

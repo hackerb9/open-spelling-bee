@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
+    "total_score": 183,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -50,11 +50,6 @@
         {
             "word": "BLAME",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BLAMER",
-            "score": 6,
             "pangram": false
         },
         {
@@ -138,13 +133,13 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
+            "word": "LLAMA",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "LLAMA",
-            "score": 5,
+            "word": "MAGE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -195,6 +190,11 @@
         {
             "word": "MEAL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

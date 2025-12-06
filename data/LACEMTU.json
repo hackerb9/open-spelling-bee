@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 46,
+    "total_score": 157,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "ACCUMULATE"
@@ -125,11 +125,6 @@
         {
             "word": "LATE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {

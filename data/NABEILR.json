@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 217,
-    "word_count": 47,
+    "total_score": 216,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "BALLERINA"
@@ -165,11 +165,6 @@
         {
             "word": "INNER",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 288,
-    "word_count": 50,
+    "total_score": 267,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "PERFECTED"
@@ -50,11 +50,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -119,11 +114,6 @@
         },
         {
             "word": "DETERRED",
-            "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "EFFECTED",
             "score": 8,
             "pangram": false
         },
@@ -196,11 +186,6 @@
             "word": "PERFECTED",
             "score": 9,
             "pangram": true
-        },
-        {
-            "word": "PETERED",
-            "score": 7,
-            "pangram": false
         },
         {
             "word": "PETTED",

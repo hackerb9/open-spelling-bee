@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 45,
+    "total_score": 161,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "ELOPEMENT"
@@ -55,11 +55,6 @@
         {
             "word": "MEMENTO",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {

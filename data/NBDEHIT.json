@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 49,
+    "total_score": 217,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "INHIBITED"
@@ -53,11 +53,6 @@
             "pangram": false
         },
         {
-            "word": "BINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "BITTEN",
             "score": 6,
             "pangram": false
@@ -85,11 +80,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {

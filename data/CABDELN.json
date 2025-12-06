@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 36,
+    "total_score": 170,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "BALANCED"
@@ -53,11 +53,6 @@
             "pangram": true
         },
         {
-            "word": "CABBED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CABLE",
             "score": 5,
             "pangram": false
@@ -75,11 +70,6 @@
         {
             "word": "CALL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {
@@ -170,6 +160,11 @@
         {
             "word": "DANCED",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEBACLE",
+            "score": 7,
             "pangram": false
         },
         {

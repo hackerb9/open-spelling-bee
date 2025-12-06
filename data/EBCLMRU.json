@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 173,
-    "word_count": 39,
+    "total_score": 162,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "CRUMBLE"
@@ -128,11 +128,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LUMBER",
             "score": 6,
             "pangram": false
@@ -204,11 +199,6 @@
         },
         {
             "word": "RUMBLE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
             "score": 6,
             "pangram": false
         },

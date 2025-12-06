@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 47,
+    "total_score": 178,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "VEGETABLE"
@@ -125,11 +125,6 @@
         {
             "word": "EAGLE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {

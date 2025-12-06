@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 102,
-    "word_count": 29,
-    "pangram_count": 1,
-    "pangram_list": [
-        "GRAFFITO"
-    ],
+    "total_score": 95,
+    "word_count": 28,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "AFOOT",
@@ -34,16 +32,6 @@
         },
         {
             "word": "AORTA",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "FAGGOT",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "FAGOT",
             "score": 5,
             "pangram": false
         },
@@ -81,11 +69,6 @@
             "word": "GOOF",
             "score": 1,
             "pangram": false
-        },
-        {
-            "word": "GRAFFITO",
-            "score": 8,
-            "pangram": true
         },
         {
             "word": "GROTTO",
@@ -133,7 +116,17 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

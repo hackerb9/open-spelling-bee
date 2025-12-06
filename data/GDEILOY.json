@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 172,
-    "word_count": 39,
+    "total_score": 165,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "IDEOLOGY"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GELD",
             "score": 1,
             "pangram": false
@@ -90,11 +85,6 @@
         {
             "word": "GIDDY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
             "pangram": false
         },
         {

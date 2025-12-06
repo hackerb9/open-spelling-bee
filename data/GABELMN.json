@@ -23,11 +23,6 @@
     ],
     "word_list": [
         {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "ALGAE",
             "score": 5,
             "pangram": false
@@ -150,6 +145,11 @@
         {
             "word": "LEGAL",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAGE",
+            "score": 1,
             "pangram": false
         },
         {

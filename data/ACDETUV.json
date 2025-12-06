@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 126,
-    "word_count": 28,
+    "total_score": 119,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "EVACUATED"
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "EAVE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "EDUCATE",
             "score": 7,
             "pangram": false
@@ -155,11 +150,6 @@
         {
             "word": "VACATED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VATTED",
-            "score": 6,
             "pangram": false
         }
     ]

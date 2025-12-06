@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 221,
-    "word_count": 39,
+    "total_score": 210,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "THRIVED"
@@ -85,11 +85,6 @@
         {
             "word": "HIVE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIVED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -184,11 +179,6 @@
         },
         {
             "word": "VEERED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
             "score": 6,
             "pangram": false
         },

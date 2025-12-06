@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 203,
-    "word_count": 49,
+    "total_score": 184,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "LAUGHED"
@@ -40,11 +40,6 @@
         {
             "word": "AHEAD",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ALGA",
-            "score": 1,
             "pangram": false
         },
         {
@@ -153,11 +148,6 @@
             "pangram": false
         },
         {
-            "word": "HALED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "HALL",
             "score": 1,
             "pangram": false
@@ -190,16 +180,6 @@
         {
             "word": "HEALED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -250,11 +230,6 @@
         {
             "word": "LEAGUE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LEAGUED",
-            "score": 7,
             "pangram": false
         },
         {

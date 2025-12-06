@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
+    "total_score": 106,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
@@ -61,11 +61,6 @@
             "word": "CHOWDER",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "CHOWED",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "ECHO",
@@ -140,6 +135,11 @@
         {
             "word": "HORROR",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 5,
             "pangram": false
         },
         {

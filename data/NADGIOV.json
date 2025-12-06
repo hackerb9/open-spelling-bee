@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 239,
-    "word_count": 43,
+    "total_score": 199,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "AVOIDING"
@@ -60,11 +60,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -123,16 +118,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIVING",
             "score": 6,
             "pangram": false
@@ -150,16 +135,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {
@@ -220,11 +195,6 @@
         {
             "word": "VAIN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
-            "score": 7,
             "pangram": false
         },
         {

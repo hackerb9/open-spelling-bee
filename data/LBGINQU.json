@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 26,
+    "total_score": 124,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "QUIBBLING"
@@ -30,11 +30,6 @@
         {
             "word": "BILLING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BLUING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -60,11 +55,6 @@
         {
             "word": "BULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BULLING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -100,6 +90,11 @@
         {
             "word": "GULLING",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

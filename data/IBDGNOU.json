@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 287,
-    "word_count": 45,
+    "total_score": 227,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "BOUNDING"
@@ -45,11 +45,6 @@
         {
             "word": "BINGO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -123,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DODGING",
             "score": 7,
             "pangram": false
@@ -148,43 +138,13 @@
             "pangram": false
         },
         {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIBING",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GOBBING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -229,11 +189,6 @@
         },
         {
             "word": "ONION",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
             "score": 5,
             "pangram": false
         },

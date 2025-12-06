@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 293,
-    "word_count": 49,
+    "total_score": 265,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "FOULING"
@@ -98,18 +98,8 @@
             "pangram": false
         },
         {
-            "word": "FULLING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "FUNGI",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -120,11 +110,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -139,11 +124,6 @@
         },
         {
             "word": "GOLFING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
             "score": 7,
             "pangram": false
         },

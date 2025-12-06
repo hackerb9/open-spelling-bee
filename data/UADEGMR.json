@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 224,
-    "word_count": 42,
+    "total_score": 206,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "RUMMAGED"
@@ -88,11 +88,6 @@
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "EARDRUM",
             "score": 7,
             "pangram": false
@@ -110,11 +105,6 @@
         {
             "word": "GRUDGE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GRUDGED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -211,11 +201,6 @@
             "word": "RUMMAGED",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "UDDER",

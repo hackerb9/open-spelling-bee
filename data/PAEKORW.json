@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 130,
-    "word_count": 41,
+    "total_score": 122,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "PAPERWORK"
@@ -170,11 +170,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

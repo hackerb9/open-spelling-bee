@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 158,
-    "word_count": 50,
+    "total_score": 157,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "MENTHOL"
@@ -73,11 +73,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LEMON",
             "score": 5,
             "pangram": false
@@ -95,6 +90,11 @@
         {
             "word": "MEET",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -121,11 +121,6 @@
             "word": "MENTHOL",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "METE",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "METTLE",

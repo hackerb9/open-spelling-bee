@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 157,
-    "word_count": 34,
+    "total_score": 152,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "ACHIEVED"
@@ -185,11 +185,6 @@
         {
             "word": "VICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VICED",
-            "score": 5,
             "pangram": false
         }
     ]

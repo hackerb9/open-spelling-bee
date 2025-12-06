@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 142,
-    "word_count": 25,
+    "total_score": 121,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "BICYCLING"
@@ -34,11 +34,6 @@
         },
         {
             "word": "BILLING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
             "score": 7,
             "pangram": false
         },
@@ -78,11 +73,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -90,11 +80,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

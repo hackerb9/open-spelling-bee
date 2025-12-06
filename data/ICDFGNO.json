@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 238,
-    "word_count": 38,
+    "total_score": 194,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "CONFIDING"
@@ -28,11 +28,6 @@
             "pangram": false
         },
         {
-            "word": "CODDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "CODING",
             "score": 6,
             "pangram": false
@@ -40,11 +35,6 @@
         {
             "word": "COFFIN",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "COFFINING",
-            "score": 9,
             "pangram": false
         },
         {
@@ -103,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DODGING",
             "score": 7,
             "pangram": false
@@ -143,23 +128,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {

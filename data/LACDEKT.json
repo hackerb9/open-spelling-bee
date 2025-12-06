@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 209,
+    "total_score": 213,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -30,16 +30,6 @@
         {
             "word": "CACKLED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CALK",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALKED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -118,6 +108,16 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "ELECT",
             "score": 5,
             "pangram": false
@@ -163,16 +163,6 @@
             "pangram": false
         },
         {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LADLE",
             "score": 5,
             "pangram": false
@@ -190,6 +180,11 @@
         {
             "word": "LATE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -260,6 +255,11 @@
         {
             "word": "TATTLED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 95,
-    "word_count": 27,
+    "total_score": 94,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "GLANDULAR"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ANAL",
             "score": 1,

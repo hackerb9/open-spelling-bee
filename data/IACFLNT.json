@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 40,
+    "total_score": 178,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "FANATICAL"
@@ -145,11 +145,6 @@
         {
             "word": "ITALIC",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

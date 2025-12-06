@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 35,
+    "total_score": 154,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "LEGALIZED"
@@ -84,11 +84,6 @@
         },
         {
             "word": "EDDIED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
             "score": 6,
             "pangram": false
         },
@@ -165,11 +160,6 @@
         {
             "word": "LAID",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LAZIED",
-            "score": 6,
             "pangram": false
         },
         {

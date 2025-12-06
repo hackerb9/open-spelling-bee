@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 36,
+    "total_score": 160,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "ENRICHED"
@@ -145,11 +145,6 @@
         {
             "word": "HIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
             "pangram": false
         },
         {

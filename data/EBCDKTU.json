@@ -15,12 +15,10 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 165,
-    "word_count": 39,
-    "pangram_count": 1,
-    "pangram_list": [
-        "BUCKETED"
-    ],
+    "total_score": 146,
+    "word_count": 36,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "BEDDED",
@@ -41,11 +39,6 @@
             "word": "BUCKET",
             "score": 6,
             "pangram": false
-        },
-        {
-            "word": "BUCKETED",
-            "score": 8,
-            "pangram": true
         },
         {
             "word": "BUDDED",
@@ -143,11 +136,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DETECT",
             "score": 6,
             "pangram": false
@@ -170,11 +158,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

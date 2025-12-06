@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 190,
-    "word_count": 36,
+    "total_score": 139,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "MEOWING"
@@ -33,11 +33,6 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -45,26 +40,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -88,11 +63,6 @@
             "pangram": false
         },
         {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOON",
             "score": 1,
             "pangram": false
@@ -100,11 +70,6 @@
         {
             "word": "GOWN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GOWNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -165,11 +130,6 @@
         {
             "word": "WEEING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
             "pangram": false
         },
         {

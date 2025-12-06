@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
-    "word_count": 48,
+    "total_score": 169,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "BIPLANE"
@@ -135,11 +135,6 @@
         {
             "word": "LABEL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

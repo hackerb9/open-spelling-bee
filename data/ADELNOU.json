@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 37,
+    "total_score": 146,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "UNLOADED"
@@ -100,16 +100,6 @@
         {
             "word": "DUAL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
             "pangram": false
         },
         {

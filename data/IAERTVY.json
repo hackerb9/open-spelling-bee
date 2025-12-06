@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 185,
-    "word_count": 34,
+    "total_score": 179,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "VARIETY"
@@ -181,11 +181,6 @@
             "word": "VARIETY",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "YETI",

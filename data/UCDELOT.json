@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 176,
-    "word_count": 41,
-    "pangram_count": 1,
-    "pangram_list": [
-        "CLOUTED"
-    ],
+    "total_score": 164,
+    "word_count": 39,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "CLOUD",
@@ -36,11 +34,6 @@
             "word": "CLOUT",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "CLOUTED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "CLUE",
@@ -135,11 +128,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

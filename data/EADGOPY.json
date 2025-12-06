@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 157,
-    "word_count": 41,
+    "total_score": 150,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "PEDAGOGY"
@@ -50,11 +50,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -140,11 +135,6 @@
         {
             "word": "GAPED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

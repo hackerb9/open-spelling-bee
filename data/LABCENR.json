@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 211,
-    "word_count": 48,
+    "total_score": 203,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "BARNACLE"
@@ -105,11 +105,6 @@
         {
             "word": "CALL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

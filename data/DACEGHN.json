@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 242,
-    "word_count": 50,
+    "total_score": 235,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "CHANGED"
@@ -158,11 +158,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "EDGE",
             "score": 1,
             "pangram": false
@@ -200,11 +195,6 @@
         {
             "word": "GANGED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GEED",
-            "score": 1,
             "pangram": false
         },
         {

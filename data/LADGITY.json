@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 78,
-    "word_count": 29,
+    "total_score": 77,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "DIGITALLY"
@@ -25,11 +25,6 @@
         {
             "word": "AGILITY",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ALGA",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 29,
+    "total_score": 96,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "HUMANER"
@@ -149,11 +149,6 @@
         },
         {
             "word": "RENAME",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
             "score": 6,
             "pangram": false
         },

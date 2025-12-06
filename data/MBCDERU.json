@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 173,
-    "word_count": 29,
-    "pangram_count": 1,
-    "pangram_list": [
-        "CRUMBED"
-    ],
+    "total_score": 165,
+    "word_count": 28,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "BUMMED",
@@ -36,11 +34,6 @@
             "word": "CRUMB",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "CRUMBED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "CUCUMBER",
@@ -163,8 +156,8 @@
             "pangram": false
         },
         {
-            "word": "RUMMER",
-            "score": 6,
+            "word": "UMBER",
+            "score": 5,
             "pangram": false
         }
     ]

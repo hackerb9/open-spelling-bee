@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
-    "word_count": 35,
+    "total_score": 108,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "HIDEAWAY"
@@ -58,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DIED",
             "score": 1,
             "pangram": false
@@ -85,11 +80,6 @@
         {
             "word": "EYED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HAYED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -141,11 +131,6 @@
             "word": "HIDEAWAY",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "IDEA",

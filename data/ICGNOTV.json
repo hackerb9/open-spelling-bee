@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 316,
+    "total_score": 314,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -34,6 +34,11 @@
         },
         {
             "word": "COCOONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COGNITION",
             "score": 9,
             "pangram": false
         },
@@ -98,16 +103,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIVING",
             "score": 6,
             "pangram": false
@@ -118,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "ICING",
             "score": 5,
             "pangram": false
@@ -130,6 +120,11 @@
         {
             "word": "ICON",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICONIC",
+            "score": 6,
             "pangram": false
         },
         {
@@ -153,6 +148,11 @@
             "pangram": false
         },
         {
+            "word": "INGOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "INNING",
             "score": 6,
             "pangram": false
@@ -170,6 +170,11 @@
         {
             "word": "INVOICING",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {
@@ -245,11 +250,6 @@
         {
             "word": "TOTTING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VICING",
-            "score": 6,
             "pangram": false
         },
         {

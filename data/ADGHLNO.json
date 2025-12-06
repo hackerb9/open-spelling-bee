@@ -13,20 +13,15 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 69,
-    "word_count": 25,
+    "total_score": 62,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "LONGHAND"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALONG",
             "score": 5,
@@ -40,11 +35,6 @@
         {
             "word": "ANALOG",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -90,11 +80,6 @@
         {
             "word": "GONDOLA",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

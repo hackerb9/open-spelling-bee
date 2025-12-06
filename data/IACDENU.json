@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 147,
-    "word_count": 31,
+    "total_score": 136,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "AUDIENCE"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "EDDIED",
             "score": 6,
             "pangram": false
@@ -170,11 +165,6 @@
         {
             "word": "UNDECIDED",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         }
     ]

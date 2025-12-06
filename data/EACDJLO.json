@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 201,
-    "word_count": 45,
+    "total_score": 177,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "CAJOLED"
@@ -83,16 +83,6 @@
             "pangram": false
         },
         {
-            "word": "COALED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CODE",
             "score": 1,
             "pangram": false
@@ -140,11 +130,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -199,16 +184,6 @@
         },
         {
             "word": "LACED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
             "score": 5,
             "pangram": false
         },

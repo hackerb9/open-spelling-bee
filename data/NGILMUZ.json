@@ -15,26 +15,16 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 27,
+    "total_score": 168,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "MUZZLING"
     ],
     "word_list": [
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

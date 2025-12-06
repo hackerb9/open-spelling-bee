@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 190,
-    "word_count": 41,
+    "total_score": 172,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "OBJECTED"
@@ -73,11 +73,6 @@
             "pangram": false
         },
         {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "CODE",
             "score": 1,
             "pangram": false
@@ -110,11 +105,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -169,11 +159,6 @@
         },
         {
             "word": "JETTED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "JOBBED",
             "score": 6,
             "pangram": false
         },

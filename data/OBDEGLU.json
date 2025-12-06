@@ -13,23 +13,16 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 229,
-    "word_count": 50,
-    "pangram_count": 1,
-    "pangram_list": [
-        "BULLDOGGED"
-    ],
+    "total_score": 199,
+    "word_count": 46,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "BLOB",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BLOBBED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -45,11 +38,6 @@
         {
             "word": "BLOOD",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BLOODED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -96,11 +84,6 @@
             "word": "BULLDOG",
             "score": 7,
             "pangram": false
-        },
-        {
-            "word": "BULLDOGGED",
-            "score": 10,
-            "pangram": true
         },
         {
             "word": "DODGE",
@@ -170,11 +153,6 @@
         {
             "word": "GLOBULE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GOBBED",
-            "score": 6,
             "pangram": false
         },
         {

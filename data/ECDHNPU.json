@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 206,
-    "word_count": 44,
+    "total_score": 195,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "PUNCHED"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEEP",
             "score": 1,
             "pangram": false
@@ -105,11 +100,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

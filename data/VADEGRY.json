@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 142,
-    "word_count": 29,
+    "total_score": 135,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "GRAVEYARD"
@@ -30,11 +30,6 @@
         {
             "word": "AVERAGED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -70,11 +65,6 @@
         {
             "word": "GRAVE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GRAVED",
-            "score": 6,
             "pangram": false
         },
         {

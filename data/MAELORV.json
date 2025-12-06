@@ -58,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LLAMA",
             "score": 5,
             "pangram": false
@@ -115,6 +110,11 @@
         {
             "word": "MEAL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

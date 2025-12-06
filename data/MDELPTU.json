@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 40,
+    "total_score": 173,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "PLUMMETED"
@@ -40,11 +40,6 @@
         {
             "word": "DUMPED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {
@@ -80,11 +75,6 @@
         {
             "word": "MELTED",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {

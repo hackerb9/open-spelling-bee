@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 215,
-    "word_count": 47,
+    "total_score": 205,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "TICKLED"
@@ -133,11 +133,6 @@
             "pangram": false
         },
         {
-            "word": "KITED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LILT",
             "score": 1,
             "pangram": false
@@ -195,11 +190,6 @@
         {
             "word": "TIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TIDED",
-            "score": 5,
             "pangram": false
         },
         {

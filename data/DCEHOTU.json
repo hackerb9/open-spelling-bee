@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 204,
-    "word_count": 47,
+    "total_score": 187,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "TOUCHED"
@@ -30,11 +30,6 @@
         {
             "word": "CEDED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CODDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -98,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DETECT",
             "score": 6,
             "pangram": false
@@ -140,11 +130,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 168,
-    "word_count": 41,
+    "total_score": 162,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "UTILITARIAN"
@@ -75,11 +75,6 @@
         {
             "word": "IRRITANT",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {
@@ -210,11 +205,6 @@
         {
             "word": "TUNA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ULTRA",
-            "score": 5,
             "pangram": false
         },
         {

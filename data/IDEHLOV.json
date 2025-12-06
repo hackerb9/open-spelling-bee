@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 131,
-    "word_count": 36,
+    "total_score": 121,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "LIVELIHOOD"
@@ -88,11 +88,6 @@
             "pangram": false
         },
         {
-            "word": "HIDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "HILL",
             "score": 1,
             "pangram": false
@@ -100,11 +95,6 @@
         {
             "word": "HIVE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIVED",
-            "score": 5,
             "pangram": false
         },
         {

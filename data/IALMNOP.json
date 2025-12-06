@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 122,
+    "total_score": 127,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -33,8 +33,8 @@
             "pangram": false
         },
         {
-            "word": "LAIN",
-            "score": 1,
+            "word": "IMPALA",
+            "score": 6,
             "pangram": false
         },
         {

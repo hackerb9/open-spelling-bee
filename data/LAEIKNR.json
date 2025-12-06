@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 180,
-    "word_count": 49,
+    "total_score": 179,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "LANKIER"
@@ -110,11 +110,6 @@
         {
             "word": "KNEEL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

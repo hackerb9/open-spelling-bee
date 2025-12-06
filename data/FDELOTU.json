@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
-    "word_count": 47,
+    "total_score": 158,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "FLOUTED"
@@ -218,11 +218,6 @@
             "pangram": false
         },
         {
-            "word": "FULLED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "LEFT",
             "score": 1,
             "pangram": false
@@ -230,11 +225,6 @@
         {
             "word": "LOFT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LOFTED",
-            "score": 6,
             "pangram": false
         },
         {

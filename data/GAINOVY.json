@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 132,
-    "word_count": 25,
+    "total_score": 99,
+    "word_count": 20,
     "pangram_count": 1,
     "pangram_list": [
         "VOYAGING"
@@ -68,16 +68,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIVING",
             "score": 6,
             "pangram": false
@@ -90,16 +80,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {
@@ -125,11 +105,6 @@
         {
             "word": "VAGINA",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
-            "score": 7,
             "pangram": false
         },
         {

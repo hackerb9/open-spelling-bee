@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 42,
+    "total_score": 183,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "REFINEMENT"
@@ -118,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "METE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "METER",
             "score": 5,
             "pangram": false
@@ -200,11 +195,6 @@
         {
             "word": "TERM",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TERMINI",
-            "score": 7,
             "pangram": false
         },
         {

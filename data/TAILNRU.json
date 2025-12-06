@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 37,
+    "total_score": 146,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "UTILITARIAN"
@@ -180,11 +180,6 @@
         {
             "word": "TURN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ULTRA",
-            "score": 5,
             "pangram": false
         },
         {

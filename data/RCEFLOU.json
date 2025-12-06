@@ -73,6 +73,11 @@
             "pangram": false
         },
         {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ERROR",
             "score": 5,
             "pangram": false
@@ -225,11 +230,6 @@
         {
             "word": "RUEFUL",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {

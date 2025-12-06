@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 43,
+    "total_score": 171,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "CROAKED"
@@ -45,11 +45,6 @@
         {
             "word": "COKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -169,11 +164,6 @@
         },
         {
             "word": "EKED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "OKED",
             "score": 1,
             "pangram": false
         },

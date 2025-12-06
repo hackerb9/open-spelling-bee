@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 38,
+    "total_score": 188,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "CYANIDE"
@@ -145,11 +145,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {

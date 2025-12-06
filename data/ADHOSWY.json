@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 62,
-    "word_count": 25,
+    "total_score": 61,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "SHADOWY"
@@ -59,11 +59,6 @@
         },
         {
             "word": "HASH",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HAYS",
             "score": 1,
             "pangram": false
         },

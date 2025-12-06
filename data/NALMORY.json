@@ -103,6 +103,11 @@
             "pangram": false
         },
         {
+            "word": "NANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "NOON",
             "score": 1,
             "pangram": false
@@ -134,11 +139,6 @@
         },
         {
             "word": "RAYON",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
             "score": 5,
             "pangram": false
         },

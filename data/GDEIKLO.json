@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 130,
-    "word_count": 31,
+    "total_score": 124,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "GODLIKE"
@@ -53,7 +53,7 @@
             "pangram": false
         },
         {
-            "word": "GEED",
+            "word": "GEEK",
             "score": 1,
             "pangram": false
         },
@@ -64,11 +64,6 @@
         },
         {
             "word": "GELDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
             "score": 6,
             "pangram": false
         },

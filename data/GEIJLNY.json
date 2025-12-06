@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 160,
-    "word_count": 28,
-    "pangram_count": 1,
-    "pangram_list": [
-        "JELLYING"
-    ],
+    "total_score": 127,
+    "word_count": 23,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "EGGING",
@@ -43,11 +41,6 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -55,16 +48,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -80,11 +63,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -106,11 +84,6 @@
             "word": "JELLING",
             "score": 7,
             "pangram": false
-        },
-        {
-            "word": "JELLYING",
-            "score": 8,
-            "pangram": true
         },
         {
             "word": "JIGGING",

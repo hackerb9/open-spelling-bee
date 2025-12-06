@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 179,
-    "word_count": 38,
-    "pangram_count": 1,
-    "pangram_list": [
-        "FRANKED"
-    ],
+    "total_score": 172,
+    "word_count": 37,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "AFAR",
@@ -146,11 +144,6 @@
             "word": "FRANK",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "FRANKED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "FRANKER",

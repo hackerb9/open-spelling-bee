@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 268,
-    "word_count": 47,
+    "total_score": 234,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "HALVING"
@@ -103,18 +103,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -130,11 +120,6 @@
         {
             "word": "HAILING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "HALING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -163,11 +148,6 @@
             "pangram": false
         },
         {
-            "word": "HIVING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "INHALING",
             "score": 8,
             "pangram": false
@@ -180,11 +160,6 @@
         {
             "word": "LAGGING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {
@@ -244,11 +219,6 @@
         },
         {
             "word": "VANILLA",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
             "score": 7,
             "pangram": false
         },

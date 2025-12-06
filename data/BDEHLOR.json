@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 44,
+    "total_score": 181,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "BEHOLDER"
@@ -78,18 +78,8 @@
             "pangram": false
         },
         {
-            "word": "BLOBBED",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BLOOD",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BLOODED",
-            "score": 7,
             "pangram": false
         },
         {

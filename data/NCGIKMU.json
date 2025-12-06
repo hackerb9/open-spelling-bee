@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 144,
-    "word_count": 25,
+    "total_score": 130,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "MUCKING"
@@ -34,16 +34,6 @@
         },
         {
             "word": "CUNNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },

@@ -16,7 +16,7 @@
         "manual_puzzle": false
     },
     "total_score": 136,
-    "word_count": 35,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "PREOCCUPY"
@@ -78,6 +78,11 @@
             "pangram": false
         },
         {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ERROR",
             "score": 5,
             "pangram": false
@@ -95,6 +100,11 @@
         {
             "word": "PEPPER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 7,
             "pangram": false
         },
         {
@@ -140,11 +150,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 260,
-    "word_count": 48,
+    "total_score": 232,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "HOLDING"
@@ -30,11 +30,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -68,11 +63,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -93,12 +83,12 @@
             "pangram": false
         },
         {
-            "word": "GINNING",
+            "word": "GLIDING",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "GLIDING",
+            "word": "GODHOOD",
             "score": 7,
             "pangram": false
         },
@@ -115,11 +105,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -165,11 +150,6 @@
         {
             "word": "HONING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "HOODING",
-            "score": 7,
             "pangram": false
         },
         {

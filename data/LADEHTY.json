@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 209,
-    "word_count": 50,
+    "total_score": 215,
+    "word_count": 51,
     "pangram_count": 1,
     "pangram_list": [
         "HEATEDLY"
@@ -93,13 +93,18 @@
             "pangram": false
         },
         {
-            "word": "HALE",
-            "score": 1,
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "HALED",
-            "score": 5,
+            "word": "ELATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -163,16 +168,6 @@
             "pangram": false
         },
         {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LADLE",
             "score": 5,
             "pangram": false
@@ -213,6 +208,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LEAD",
             "score": 1,
             "pangram": false
@@ -250,6 +250,11 @@
         {
             "word": "TATTLED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

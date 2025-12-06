@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 145,
-    "word_count": 26,
-    "pangram_count": 1,
-    "pangram_list": [
-        "HONEYING"
-    ],
+    "total_score": 105,
+    "word_count": 20,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "EGGING",
@@ -38,38 +36,13 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENIE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -96,11 +69,6 @@
             "word": "HOGGING",
             "score": 7,
             "pangram": false
-        },
-        {
-            "word": "HONEYING",
-            "score": 8,
-            "pangram": true
         },
         {
             "word": "HONING",

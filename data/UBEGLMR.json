@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
+    "total_score": 185,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -233,8 +233,8 @@
             "pangram": false
         },
         {
-            "word": "RUMMER",
-            "score": 6,
+            "word": "UMBER",
+            "score": 5,
             "pangram": false
         },
         {

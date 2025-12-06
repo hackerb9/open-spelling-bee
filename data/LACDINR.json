@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 88,
-    "word_count": 26,
+    "total_score": 87,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "CARDINAL"
@@ -94,11 +94,6 @@
         },
         {
             "word": "LAID",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 37,
+    "total_score": 181,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "MACARONI"
@@ -88,6 +88,16 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "IRON",
             "score": 1,
             "pangram": false
@@ -101,6 +111,11 @@
             "word": "MACARONI",
             "score": 8,
             "pangram": true
+        },
+        {
+            "word": "MACAROON",
+            "score": 8,
+            "pangram": false
         },
         {
             "word": "MAIN",
@@ -183,6 +198,11 @@
             "pangram": false
         },
         {
+            "word": "OCARINA",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ONION",
             "score": 5,
             "pangram": false
@@ -200,11 +220,6 @@
         {
             "word": "RANCOR",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         }
     ]

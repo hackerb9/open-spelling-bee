@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 185,
-    "word_count": 41,
+    "total_score": 184,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "FURNITURE"
@@ -199,11 +199,6 @@
         },
         {
             "word": "RIFT",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
             "score": 1,
             "pangram": false
         },

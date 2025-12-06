@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 32,
+    "total_score": 158,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "INDUCTION"
@@ -83,6 +83,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INDICT",
             "score": 6,
             "pangram": false
@@ -105,6 +110,11 @@
         {
             "word": "INTUITION",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {
@@ -154,11 +164,6 @@
         },
         {
             "word": "UNCUT",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
             "score": 5,
             "pangram": false
         },

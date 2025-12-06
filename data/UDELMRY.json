@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 228,
-    "word_count": 48,
+    "total_score": 217,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "DEMURELY"
@@ -65,11 +65,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -245,11 +240,6 @@
         {
             "word": "RULER",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

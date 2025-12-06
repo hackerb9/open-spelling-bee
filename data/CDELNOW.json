@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 32,
+    "total_score": 154,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "CLOWNED"
@@ -70,11 +70,6 @@
         {
             "word": "COCOONED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "CODDED",
-            "score": 6,
             "pangram": false
         },
         {

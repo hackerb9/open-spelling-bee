@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 35,
+    "total_score": 177,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "BACKING"
@@ -78,16 +78,6 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "CABBING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "CAGING",
             "score": 6,
             "pangram": false
@@ -140,16 +130,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {

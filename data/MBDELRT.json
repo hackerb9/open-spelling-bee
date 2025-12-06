@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 30,
+    "total_score": 155,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "TREMBLED"
@@ -53,11 +53,6 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "MEDDLE",
             "score": 6,
             "pangram": false
@@ -78,6 +73,11 @@
             "pangram": false
         },
         {
+            "word": "MELEE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "MELT",
             "score": 1,
             "pangram": false
@@ -94,11 +94,6 @@
         },
         {
             "word": "MERE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 178,
-    "word_count": 50,
+    "total_score": 171,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "IMMATURE"
@@ -138,11 +138,6 @@
             "pangram": false
         },
         {
-            "word": "METE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "METER",
             "score": 5,
             "pangram": false
@@ -205,11 +200,6 @@
         {
             "word": "REMIT",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

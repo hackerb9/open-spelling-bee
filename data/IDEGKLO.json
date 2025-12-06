@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 98,
-    "word_count": 27,
+    "total_score": 87,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "GODLIKE"
@@ -38,22 +38,12 @@
             "pangram": false
         },
         {
-            "word": "DIKED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "DILL",
             "score": 1,
             "pangram": false
         },
         {
             "word": "EDDIED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
             "score": 6,
             "pangram": false
         },

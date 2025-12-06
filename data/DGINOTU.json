@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 167,
-    "word_count": 30,
+    "total_score": 128,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "OUTDOING"
@@ -38,18 +38,8 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DITTO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DITTOING",
-            "score": 8,
             "pangram": false
         },
         {
@@ -83,11 +73,6 @@
             "pangram": false
         },
         {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DUGOUT",
             "score": 6,
             "pangram": false
@@ -95,11 +80,6 @@
         {
             "word": "DUNG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -151,16 +131,6 @@
             "word": "OUTDOING",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "TIDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "UNDO",

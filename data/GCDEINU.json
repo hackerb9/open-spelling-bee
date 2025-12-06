@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 268,
-    "word_count": 46,
+    "total_score": 197,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "DEDUCING"
@@ -46,11 +46,6 @@
             "word": "DEDUCING",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "DEEDING",
-            "score": 7,
-            "pangram": false
         },
         {
             "word": "DEIGN",
@@ -83,28 +78,8 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DUNG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUNGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -143,16 +118,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -163,32 +128,7 @@
             "pangram": false
         },
         {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "GENUINE",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },

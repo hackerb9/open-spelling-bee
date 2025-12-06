@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 29,
+    "total_score": 146,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "ORBITING"
@@ -30,11 +30,6 @@
         {
             "word": "BINGO",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -115,11 +110,6 @@
         {
             "word": "GIBING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GOBBING",
-            "score": 7,
             "pangram": false
         },
         {

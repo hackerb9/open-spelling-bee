@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 29,
+    "total_score": 126,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "BULLYING"
     ],
     "word_list": [
-        {
-            "word": "BLUING",
-            "score": 6,
-            "pangram": false
-        },
         {
             "word": "BUBBLING",
             "score": 8,
@@ -65,11 +60,6 @@
         {
             "word": "BULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BULLING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -125,11 +115,6 @@
         {
             "word": "GUNNING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GUYING",
-            "score": 6,
             "pangram": false
         },
         {

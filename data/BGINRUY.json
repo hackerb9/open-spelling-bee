@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 121,
-    "word_count": 24,
+    "total_score": 107,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "BURYING"
     ],
     "word_list": [
-        {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "BRIBING",
             "score": 7,
@@ -80,11 +75,6 @@
         {
             "word": "BURR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BURRING",
-            "score": 7,
             "pangram": false
         },
         {

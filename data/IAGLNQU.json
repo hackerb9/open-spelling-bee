@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 212,
-    "word_count": 35,
+    "total_score": 205,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "QUAILING"
@@ -93,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
@@ -105,11 +100,6 @@
         {
             "word": "GILL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -143,8 +133,8 @@
             "pangram": false
         },
         {
-            "word": "LAIN",
-            "score": 1,
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

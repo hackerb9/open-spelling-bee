@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 180,
-    "word_count": 37,
+    "total_score": 166,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "INJURED"
@@ -58,18 +58,8 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DINNER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNERED",
-            "score": 8,
             "pangram": false
         },
         {
@@ -89,6 +79,11 @@
         },
         {
             "word": "DRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRUID",
             "score": 5,
             "pangram": false
         },
@@ -195,11 +190,6 @@
         {
             "word": "RUNNIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         },
         {

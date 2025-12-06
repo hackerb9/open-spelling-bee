@@ -73,7 +73,12 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
             "score": 6,
             "pangram": false
         },
@@ -230,11 +235,6 @@
         {
             "word": "VICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VICED",
-            "score": 5,
             "pangram": false
         },
         {

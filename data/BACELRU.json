@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
-    "word_count": 46,
+    "total_score": 176,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CURABLE"
@@ -190,11 +190,6 @@
         {
             "word": "CABLE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

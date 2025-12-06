@@ -15,23 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 159,
-    "word_count": 29,
+    "total_score": 145,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "VIRGINITY"
     ],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GIVING",
             "score": 6,

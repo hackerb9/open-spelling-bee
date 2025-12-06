@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 192,
+    "total_score": 188,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
@@ -113,6 +113,11 @@
             "pangram": false
         },
         {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ERECT",
             "score": 5,
             "pangram": false
@@ -145,11 +150,6 @@
         {
             "word": "PERTURB",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 46,
+    "total_score": 171,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "MONORAIL"
@@ -75,11 +75,6 @@
         {
             "word": "IMMORAL",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {
@@ -245,11 +240,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         }
     ]

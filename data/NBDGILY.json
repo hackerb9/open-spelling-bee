@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 173,
-    "word_count": 27,
+    "total_score": 145,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "BLINDINGLY"
@@ -44,11 +44,6 @@
         },
         {
             "word": "BINDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
             "score": 7,
             "pangram": false
         },
@@ -88,11 +83,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DYING",
             "score": 5,
             "pangram": false
@@ -103,22 +93,12 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
         },
         {
             "word": "GILDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },

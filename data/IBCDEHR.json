@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 209,
+    "total_score": 208,
     "word_count": 48,
-    "pangram_count": 1,
-    "pangram_list": [
-        "BIRCHED"
-    ],
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "BERRIED",
@@ -36,11 +34,6 @@
             "word": "BIRCH",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "BIRCHED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "BIRD",
@@ -128,6 +121,16 @@
             "pangram": false
         },
         {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "DERIDE",
             "score": 6,
             "pangram": false
@@ -195,11 +198,6 @@
         {
             "word": "HIDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIDED",
-            "score": 5,
             "pangram": false
         },
         {

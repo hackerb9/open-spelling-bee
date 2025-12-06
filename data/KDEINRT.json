@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 33,
+    "total_score": 135,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "TINKERED"
@@ -25,11 +25,6 @@
         {
             "word": "DIKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DIKED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -115,11 +110,6 @@
         {
             "word": "KITE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "KITED",
-            "score": 5,
             "pangram": false
         },
         {

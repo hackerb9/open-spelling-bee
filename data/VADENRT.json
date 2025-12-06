@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 226,
-    "word_count": 43,
+    "total_score": 213,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "VENERATED"
@@ -40,11 +40,6 @@
         {
             "word": "AVERTED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "EAVE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -155,16 +150,6 @@
         {
             "word": "VANE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VANNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VATTED",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 163,
-    "word_count": 42,
+    "total_score": 158,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "PENTAGON"
@@ -90,11 +90,6 @@
         {
             "word": "GOATEE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GONNA",
-            "score": 5,
             "pangram": false
         },
         {

@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 158,
-    "word_count": 36,
+    "total_score": 152,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "FEATURED"
@@ -40,11 +40,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -119,11 +114,6 @@
         },
         {
             "word": "RUED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
             "score": 1,
             "pangram": false
         },

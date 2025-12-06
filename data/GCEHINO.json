@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 181,
-    "word_count": 33,
+    "total_score": 141,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "ECHOING"
     ],
     "word_list": [
-        {
-            "word": "CHINNING",
-            "score": 8,
-            "pangram": false
-        },
         {
             "word": "CINCHING",
             "score": 8,
@@ -68,11 +63,6 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -80,21 +70,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -110,11 +85,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {

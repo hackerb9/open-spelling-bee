@@ -13,23 +13,16 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 158,
-    "word_count": 37,
-    "pangram_count": 1,
-    "pangram_list": [
-        "QUIRKED"
-    ],
+    "total_score": 140,
+    "word_count": 34,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -58,11 +51,6 @@
             "pangram": false
         },
         {
-            "word": "DIKED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "DIRE",
             "score": 1,
             "pangram": false
@@ -83,13 +71,13 @@
             "pangram": false
         },
         {
-            "word": "DUDE",
-            "score": 1,
+            "word": "DRUID",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "DUDED",
-            "score": 5,
+            "word": "DUDE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -136,11 +124,6 @@
             "word": "QUEUED",
             "score": 6,
             "pangram": false
-        },
-        {
-            "word": "QUIRKED",
-            "score": 7,
-            "pangram": true
         },
         {
             "word": "REDDER",

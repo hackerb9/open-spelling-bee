@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 35,
+    "total_score": 159,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "DECORUM"
@@ -179,11 +179,6 @@
         },
         {
             "word": "ROOMED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
             "score": 6,
             "pangram": false
         },

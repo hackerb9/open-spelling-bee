@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 117,
-    "word_count": 38,
+    "total_score": 109,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "BLACKEN"
@@ -105,11 +105,6 @@
         {
             "word": "CAKE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALLABLE",
-            "score": 8,
             "pangram": false
         },
         {

@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 164,
-    "word_count": 44,
+    "total_score": 163,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "LINEARLY"
@@ -80,11 +80,6 @@
         {
             "word": "INLAY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
             "pangram": false
         },
         {

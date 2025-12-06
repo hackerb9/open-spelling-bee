@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 143,
-    "word_count": 33,
+    "total_score": 142,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "CRIMINAL"
@@ -101,11 +101,6 @@
             "word": "CRIMINAL",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "LAIN",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "LAIR",

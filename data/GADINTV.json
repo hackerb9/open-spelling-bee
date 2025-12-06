@@ -13,24 +13,17 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 297,
-    "word_count": 47,
-    "pangram_count": 1,
-    "pangram_list": [
-        "ADVANTAGING"
-    ],
+    "total_score": 239,
+    "word_count": 39,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "ADDING",
             "score": 6,
             "pangram": false
-        },
-        {
-            "word": "ADVANTAGING",
-            "score": 11,
-            "pangram": true
         },
         {
             "word": "AGAIN",
@@ -75,11 +68,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -128,23 +116,8 @@
             "pangram": false
         },
         {
-            "word": "GATING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GIANT",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -218,11 +191,6 @@
             "pangram": false
         },
         {
-            "word": "TIDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "TING",
             "score": 1,
             "pangram": false
@@ -245,16 +213,6 @@
         {
             "word": "VAGINA",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VANNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VATTING",
-            "score": 7,
             "pangram": false
         }
     ]

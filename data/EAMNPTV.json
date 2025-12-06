@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 143,
-    "word_count": 45,
+    "total_score": 148,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "PAVEMENT"
@@ -48,11 +48,6 @@
             "pangram": false
         },
         {
-            "word": "EAVE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "EMANATE",
             "score": 7,
             "pangram": false
@@ -70,6 +65,11 @@
         {
             "word": "EVENT",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {
@@ -104,11 +104,6 @@
         },
         {
             "word": "MEET",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

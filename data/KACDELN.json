@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 37,
+    "total_score": 149,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "CLANKED"
@@ -45,16 +45,6 @@
         {
             "word": "CAKED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CALK",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "CALKED",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 49,
+    "total_score": 216,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "OBLIGED"
@@ -93,11 +93,6 @@
             "pangram": false
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "GELD",
             "score": 1,
             "pangram": false
@@ -115,11 +110,6 @@
         {
             "word": "GIBED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -170,11 +160,6 @@
         {
             "word": "GLOBE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GOBBED",
-            "score": 6,
             "pangram": false
         },
         {

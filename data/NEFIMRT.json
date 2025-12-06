@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 273,
-    "word_count": 49,
+    "total_score": 266,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "REFINEMENT"
@@ -245,11 +245,6 @@
         {
             "word": "TENT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TERMINI",
-            "score": 7,
             "pangram": false
         },
         {

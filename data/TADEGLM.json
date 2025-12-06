@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 46,
+    "total_score": 218,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "AMALGAMATED"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AMALGAMATE",
             "score": 10,
@@ -78,6 +83,16 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "GADGET",
             "score": 6,
             "pangram": false
@@ -95,6 +110,11 @@
         {
             "word": "LATE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -158,11 +178,6 @@
             "pangram": false
         },
         {
-            "word": "METE",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "METED",
             "score": 5,
             "pangram": false
@@ -205,6 +220,11 @@
         {
             "word": "TATTLED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

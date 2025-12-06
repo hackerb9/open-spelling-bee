@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 49,
+    "total_score": 218,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "PLUMBER"
@@ -95,11 +95,6 @@
         {
             "word": "LEER",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {
@@ -249,11 +244,6 @@
         },
         {
             "word": "RUMBLE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
             "score": 6,
             "pangram": false
         },

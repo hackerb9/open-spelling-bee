@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 172,
-    "word_count": 41,
+    "total_score": 166,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "LETDOWN"
@@ -25,11 +25,6 @@
         {
             "word": "DOWN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DOWNED",
-            "score": 6,
             "pangram": false
         },
         {

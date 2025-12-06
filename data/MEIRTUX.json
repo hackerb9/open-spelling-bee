@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 31,
+    "total_score": 100,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "MIXTURE"
@@ -65,11 +65,6 @@
         {
             "word": "MERRIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "METE",
-            "score": 1,
             "pangram": false
         },
         {
@@ -135,11 +130,6 @@
         {
             "word": "REMIT",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUMMER",
-            "score": 6,
             "pangram": false
         },
         {

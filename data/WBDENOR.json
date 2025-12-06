@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 214,
-    "word_count": 46,
+    "total_score": 208,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "BROWNED"
@@ -70,11 +70,6 @@
         {
             "word": "DOWN",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DOWNED",
-            "score": 6,
             "pangram": false
         },
         {

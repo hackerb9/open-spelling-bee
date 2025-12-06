@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 155,
-    "word_count": 34,
+    "total_score": 149,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "WINDMILLED"
@@ -40,11 +40,6 @@
         {
             "word": "DINED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DINNED",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 207,
-    "word_count": 31,
+    "total_score": 179,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "DIMPLING"
@@ -43,17 +43,7 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "DIPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
             "score": 7,
             "pangram": false
         },
@@ -64,11 +54,6 @@
         },
         {
             "word": "GILDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },
@@ -145,11 +130,6 @@
         {
             "word": "PIDDLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
-            "score": 7,
             "pangram": false
         },
         {

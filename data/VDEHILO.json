@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 185,
-    "word_count": 40,
+    "total_score": 180,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "LIVELIHOOD"
@@ -100,11 +100,6 @@
         {
             "word": "HIVE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIVED",
-            "score": 5,
             "pangram": false
         },
         {

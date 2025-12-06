@@ -15,23 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 268,
-    "word_count": 45,
+    "total_score": 203,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "WHOOPING"
     ],
     "word_list": [
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "GOING",
             "score": 5,
@@ -40,11 +30,6 @@
         {
             "word": "GONG",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -58,17 +43,7 @@
             "pangram": false
         },
         {
-            "word": "GOWNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "HINGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "HIPPING",
             "score": 7,
             "pangram": false
         },
@@ -80,11 +55,6 @@
         {
             "word": "HONING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "HOOPING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -148,11 +118,6 @@
             "pangram": false
         },
         {
-            "word": "PIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "PINING",
             "score": 6,
             "pangram": false
@@ -160,11 +125,6 @@
         {
             "word": "PINION",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PINIONING",
-            "score": 9,
             "pangram": false
         },
         {
@@ -206,11 +166,6 @@
             "word": "WHOOPING",
             "score": 8,
             "pangram": true
-        },
-        {
-            "word": "WIGGING",
-            "score": 7,
-            "pangram": false
         },
         {
             "word": "WING",

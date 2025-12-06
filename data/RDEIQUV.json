@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 248,
-    "word_count": 48,
+    "total_score": 242,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "QUIVERED"
@@ -244,11 +244,6 @@
         },
         {
             "word": "VEERED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
             "score": 6,
             "pangram": false
         },

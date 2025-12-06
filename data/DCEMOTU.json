@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 219,
-    "word_count": 50,
+    "total_score": 202,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "COMMUTED"
@@ -30,11 +30,6 @@
         {
             "word": "CEDED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CODDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -95,11 +90,6 @@
         {
             "word": "DEED",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEEDED",
-            "score": 6,
             "pangram": false
         },
         {
@@ -180,11 +170,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

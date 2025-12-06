@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 176,
-    "word_count": 42,
+    "total_score": 175,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "ANALYZED"
@@ -143,16 +143,6 @@
             "pangram": false
         },
         {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "LADEN",
             "score": 5,
             "pangram": false
@@ -220,6 +210,11 @@
         {
             "word": "LEANED",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

@@ -13,14 +13,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 194,
-    "word_count": 34,
-    "pangram_count": 1,
-    "pangram_list": [
-        "HYPHENING"
-    ],
+    "total_score": 146,
+    "word_count": 27,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "EGGING",
@@ -38,11 +36,6 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -50,21 +43,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -78,11 +56,6 @@
             "pangram": false
         },
         {
-            "word": "HIPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "HYGIENE",
             "score": 7,
             "pangram": false
@@ -91,11 +64,6 @@
             "word": "HYPHEN",
             "score": 6,
             "pangram": false
-        },
-        {
-            "word": "HYPHENING",
-            "score": 9,
-            "pangram": true
         },
         {
             "word": "INNING",
@@ -159,11 +127,6 @@
         },
         {
             "word": "PEPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

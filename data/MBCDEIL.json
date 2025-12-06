@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
-    "word_count": 26,
+    "total_score": 105,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "CLIMBED"
@@ -75,11 +75,6 @@
         {
             "word": "IMBECILE",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {

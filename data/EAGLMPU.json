@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 35,
+    "total_score": 122,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "PLUMAGE"
@@ -118,13 +118,13 @@
             "pangram": false
         },
         {
-            "word": "LEMME",
-            "score": 5,
+            "word": "LUGGAGE",
+            "score": 7,
             "pangram": false
         },
         {
-            "word": "LUGGAGE",
-            "score": 7,
+            "word": "MAGE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -140,6 +140,11 @@
         {
             "word": "MEAL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MELEE",
+            "score": 5,
             "pangram": false
         },
         {

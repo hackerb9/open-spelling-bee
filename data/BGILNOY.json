@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 34,
+    "total_score": 166,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "LOBBYING"
@@ -43,11 +43,6 @@
             "pangram": false
         },
         {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "BIOLOGY",
             "score": 7,
             "pangram": false
@@ -55,11 +50,6 @@
         {
             "word": "BLOB",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BLOBBING",
-            "score": 8,
             "pangram": false
         },
         {
@@ -140,11 +130,6 @@
         {
             "word": "GLIBLY",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GOBBING",
-            "score": 7,
             "pangram": false
         },
         {

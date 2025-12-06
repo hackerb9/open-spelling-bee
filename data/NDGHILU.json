@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 204,
-    "word_count": 35,
+    "total_score": 173,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "HUDDLING"
@@ -33,16 +33,6 @@
             "pangram": false
         },
         {
-            "word": "DINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DULLING",
             "score": 7,
             "pangram": false
@@ -53,27 +43,12 @@
             "pangram": false
         },
         {
-            "word": "DUNGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
             "pangram": false
         },
         {
             "word": "GILDING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
             "score": 7,
             "pangram": false
         },
@@ -153,6 +128,11 @@
             "pangram": false
         },
         {
+            "word": "LINGUINI",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LINING",
             "score": 6,
             "pangram": false
@@ -190,11 +170,6 @@
         {
             "word": "NULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         }
     ]

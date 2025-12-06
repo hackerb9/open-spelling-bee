@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 178,
+    "total_score": 186,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -25,6 +25,11 @@
         {
             "word": "ADDED",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
             "pangram": false
         },
         {
@@ -93,6 +98,11 @@
             "pangram": false
         },
         {
+            "word": "FALAFEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "FALL",
             "score": 1,
             "pangram": false
@@ -155,16 +165,6 @@
         {
             "word": "KNEADED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 36,
+    "total_score": 191,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "CHROMED"
@@ -61,11 +61,6 @@
             "word": "CHROMED",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "CODDED",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "CODE",

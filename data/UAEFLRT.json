@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 43,
+    "total_score": 182,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "TEARFUL"
@@ -153,11 +153,6 @@
             "pangram": false
         },
         {
-            "word": "RUFF",
-            "score": 1,
-            "pangram": false
-        },
-        {
             "word": "RUFFLE",
             "score": 6,
             "pangram": false
@@ -225,11 +220,6 @@
         {
             "word": "TURTLE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ULTRA",
-            "score": 5,
             "pangram": false
         },
         {

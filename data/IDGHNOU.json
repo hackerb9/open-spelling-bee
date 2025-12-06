@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 34,
+    "total_score": 152,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "HOUNDING"
@@ -30,11 +30,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -53,33 +48,8 @@
             "pangram": false
         },
         {
-            "word": "DUDING",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DUNGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GOING",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GONGING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -128,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "HOODING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "HOUNDING",
             "score": 8,
             "pangram": true
@@ -174,11 +139,6 @@
         },
         {
             "word": "ONION",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
             "score": 5,
             "pangram": false
         },

@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 91,
-    "word_count": 29,
+    "total_score": 90,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "TAUTOLOGY"
     ],
     "word_list": [
-        {
-            "word": "ALGA",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "ALLAY",
             "score": 5,

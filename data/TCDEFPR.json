@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 37,
+    "total_score": 185,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "PERFECTED"
@@ -70,11 +70,6 @@
         {
             "word": "EFFECT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "EFFECTED",
-            "score": 8,
             "pangram": false
         },
         {
@@ -155,16 +150,6 @@
         {
             "word": "PERTER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PETERED",
-            "score": 7,
             "pangram": false
         },
         {

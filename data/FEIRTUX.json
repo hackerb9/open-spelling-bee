@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 105,
-    "word_count": 27,
+    "total_score": 104,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "FIXTURE"
@@ -134,11 +134,6 @@
         },
         {
             "word": "RIFT",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
             "score": 1,
             "pangram": false
         },

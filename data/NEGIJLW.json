@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 33,
+    "total_score": 155,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "JEWELING"
@@ -33,11 +33,6 @@
             "pangram": false
         },
         {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -48,23 +43,8 @@
             "pangram": false
         },
         {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -144,11 +124,6 @@
         },
         {
             "word": "WELLING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "WIGGING",
             "score": 7,
             "pangram": false
         },

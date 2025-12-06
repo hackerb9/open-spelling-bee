@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 215,
-    "word_count": 34,
+    "total_score": 188,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "NULLIFYING"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "FULLING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "FUNGI",
             "score": 5,
             "pangram": false
@@ -88,18 +83,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -115,11 +100,6 @@
         {
             "word": "GUNNING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GUYING",
-            "score": 6,
             "pangram": false
         },
         {

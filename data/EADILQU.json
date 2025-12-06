@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 200,
-    "word_count": 46,
+    "total_score": 183,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "QUAILED"
@@ -78,11 +78,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DELI",
             "score": 1,
             "pangram": false
@@ -110,11 +105,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -174,16 +164,6 @@
         },
         {
             "word": "IDLED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LADE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LADED",
             "score": 5,
             "pangram": false
         },

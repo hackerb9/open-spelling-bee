@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 31,
+    "total_score": 159,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "BULLYING"
@@ -25,16 +25,6 @@
         {
             "word": "BILLING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BINNING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BLUING",
-            "score": 6,
             "pangram": false
         },
         {
@@ -54,11 +44,6 @@
         },
         {
             "word": "BULGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "BULLING",
             "score": 7,
             "pangram": false
         },
@@ -93,18 +78,8 @@
             "pangram": false
         },
         {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "GIGGLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -123,13 +98,13 @@
             "pangram": false
         },
         {
-            "word": "GUYING",
+            "word": "INNING",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "INNING",
-            "score": 6,
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

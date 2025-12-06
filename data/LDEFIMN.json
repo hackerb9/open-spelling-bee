@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 201,
-    "word_count": 47,
+    "total_score": 196,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "MINEFIELD"
@@ -145,11 +145,6 @@
         {
             "word": "INFIELD",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "LEMME",
-            "score": 5,
             "pangram": false
         },
         {

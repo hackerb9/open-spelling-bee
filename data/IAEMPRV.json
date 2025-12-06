@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 164,
-    "word_count": 35,
+    "total_score": 156,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "VAMPIRE"
@@ -103,6 +103,11 @@
             "pangram": false
         },
         {
+            "word": "PIPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "PRAIRIE",
             "score": 7,
             "pangram": false
@@ -140,11 +145,6 @@
         {
             "word": "PRIMP",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PRIVIER",
-            "score": 7,
             "pangram": false
         },
         {
@@ -186,11 +186,6 @@
             "word": "VAMPIRE",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
-            "pangram": false
         },
         {
             "word": "VIPER",

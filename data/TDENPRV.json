@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 285,
-    "word_count": 50,
+    "total_score": 273,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "PREVENTED"
@@ -95,16 +95,6 @@
         {
             "word": "PERVERTED",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "PETER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PETERED",
-            "score": 7,
             "pangram": false
         },
         {

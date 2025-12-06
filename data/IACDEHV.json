@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 36,
+    "total_score": 136,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "ACHIEVED"
@@ -158,18 +158,8 @@
             "pangram": false
         },
         {
-            "word": "HIDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "HIVE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "HIVED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -185,11 +175,6 @@
         {
             "word": "VICE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VICED",
-            "score": 5,
             "pangram": false
         },
         {

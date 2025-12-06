@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 183,
-    "word_count": 42,
+    "total_score": 175,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "PRIVILEGE"
@@ -133,8 +133,8 @@
             "pangram": false
         },
         {
-            "word": "PRIVIER",
-            "score": 7,
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {
@@ -200,11 +200,6 @@
         {
             "word": "VEIL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
             "pangram": false
         },
         {

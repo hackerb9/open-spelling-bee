@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 267,
-    "word_count": 43,
+    "total_score": 202,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "EXPENDING"
     ],
     "word_list": [
-        {
-            "word": "DEEDING",
-            "score": 7,
-            "pangram": false
-        },
         {
             "word": "DEEPENING",
             "score": 9,
@@ -60,11 +55,6 @@
         {
             "word": "DINING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -113,16 +103,6 @@
             "pangram": true
         },
         {
-            "word": "GEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "GEEING",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "GENE",
             "score": 1,
             "pangram": false
@@ -130,31 +110,6 @@
         {
             "word": "GENIE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GENII",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "GIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GIGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "GINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "GINNING",
-            "score": 7,
             "pangram": false
         },
         {
@@ -204,16 +159,6 @@
         },
         {
             "word": "PEPPING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "PIGGED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PIGGING",
             "score": 7,
             "pangram": false
         },

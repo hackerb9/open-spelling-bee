@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
-    "word_count": 36,
+    "total_score": 102,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PROGENY"
@@ -185,11 +185,6 @@
         {
             "word": "PROPER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PROPERER",
-            "score": 8,
             "pangram": false
         },
         {

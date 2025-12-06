@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 133,
-    "word_count": 34,
+    "total_score": 132,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "GEOMETRY"
@@ -39,11 +39,6 @@
         },
         {
             "word": "MEET",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "METE",
             "score": 1,
             "pangram": false
         },

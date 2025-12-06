@@ -63,11 +63,6 @@
             "pangram": false
         },
         {
-            "word": "DINNED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "ENDED",
             "score": 5,
             "pangram": false
@@ -219,6 +214,11 @@
         },
         {
             "word": "PINKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINKIE",
             "score": 6,
             "pangram": false
         },

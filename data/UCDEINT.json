@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 155,
-    "word_count": 32,
+    "total_score": 145,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "INDUCTED"
@@ -60,11 +60,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -140,11 +135,6 @@
         {
             "word": "UNDETECTED",
             "score": 10,
-            "pangram": false
-        },
-        {
-            "word": "UNDID",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 207,
-    "word_count": 42,
+    "total_score": 189,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "MULCHED"
@@ -30,11 +30,6 @@
         {
             "word": "CEDED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "CHUMMED",
-            "score": 7,
             "pangram": false
         },
         {
@@ -78,11 +73,6 @@
             "pangram": false
         },
         {
-            "word": "DEEDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "DEEM",
             "score": 1,
             "pangram": false
@@ -105,11 +95,6 @@
         {
             "word": "DUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DUDED",
-            "score": 5,
             "pangram": false
         },
         {

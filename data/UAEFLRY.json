@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 104,
-    "word_count": 26,
+    "total_score": 103,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "FEARFULLY"
@@ -125,11 +125,6 @@
         {
             "word": "RUEFUL",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUFF",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 130,
-    "word_count": 41,
+    "total_score": 125,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "FOREMAN"
@@ -220,11 +220,6 @@
         {
             "word": "ROAR",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ROMAN",
-            "score": 5,
             "pangram": false
         }
     ]

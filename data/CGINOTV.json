@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 27,
+    "total_score": 187,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "CONVICTING"
@@ -145,11 +145,6 @@
         {
             "word": "TONIC",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "VICING",
-            "score": 6,
             "pangram": false
         },
         {

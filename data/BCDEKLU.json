@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": true
     },
-    "total_score": 112,
-    "word_count": 26,
+    "total_score": 95,
+    "word_count": 23,
     "pangram_count": 1,
     "pangram_list": [
         "BUCKLED"
@@ -55,11 +55,6 @@
         {
             "word": "BLUEBELL",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "BLUED",
-            "score": 5,
             "pangram": false
         },
         {
@@ -108,18 +103,8 @@
             "pangram": false
         },
         {
-            "word": "BULKED",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "BULL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "BULLED",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 217,
-    "word_count": 45,
+    "total_score": 204,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "PRIVILEGE"
@@ -123,11 +123,6 @@
             "pangram": false
         },
         {
-            "word": "PRIVIER",
-            "score": 7,
-            "pangram": false
-        },
-        {
             "word": "PRIVILEGE",
             "score": 9,
             "pangram": true
@@ -220,11 +215,6 @@
         {
             "word": "VERGE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 35,
+    "total_score": 171,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "OVERWRITE"
@@ -145,11 +145,6 @@
         {
             "word": "TWITTER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "VERIER",
-            "score": 6,
             "pangram": false
         },
         {
