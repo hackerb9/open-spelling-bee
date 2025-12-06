@@ -258,7 +258,7 @@ def handle_rare_word(word, player):
                 pfill(f'POSSIBLE ERUDITION DETECTED: To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list. If it is an everyday word, use !add to require it in future puzzles. If it is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it. Otherwise, do nothing and enjoy knowing you have an above average vocabulary.')
                 return
             elif wl.rank == 50:
-                pfill(f'Oh, I hadn\'t thought of "{word}". Use !okay to mark it as a bonus word.')
+                pfill(f'I hadn\'t thought of "{word}". Use !okay to mark it as a bonus word.')
                 return
             elif wl.rank == 55:
                 pfill(f'That is not one of the typical English words I am thinking of. Do people deserve a bonus for finding "{word}"? If so, use !okay.')
