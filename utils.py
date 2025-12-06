@@ -582,6 +582,14 @@ Examples:
                         print("Shows matching headwords using both SCOWL and dict")
                         exit(1)
 
+        elif (args[0] == "dump" or args[0] == "d"):
+                if len(args) > 1:
+                        dump_custom_word_list(args[1])
+                else:
+                        print("Usage: ./utils.py dump <add|okay|remove>")
+                        print("Dump one of the custom lists of words.")
+                        exit(1)
+
         else:
                 print(f"Unknown command: {args[0]}")
                 exit(1)
