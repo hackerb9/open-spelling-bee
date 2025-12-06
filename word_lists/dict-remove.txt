@@ -245,7 +245,7 @@ kilned, kilning
 kited, kiting
 koshered, koshering
 laddered, laddering
-laded
+lade, laded
 lambed, lambing
 lamed, laming			# lamed is also the 12th Hebrew letter
 larded, larding
