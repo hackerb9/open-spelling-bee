@@ -15,11 +15,8 @@ mes
 verier
 properer
 properest
-guying, guyed
-zincked
 alga
 callable
-blacked
 ultra
 dissatisfy, dissatisfies
 mys
@@ -27,7 +24,6 @@ sangs
 lain
 OKed
 wigged, wigging
-uteri
 graffito
 fagot, faggot
 dourer
@@ -35,7 +31,6 @@ blamer
 undid
 mete				# Obsolete, seen only with "mete out"
 termini
-properer
 eave
 calk, calks, calked, calking	# Uncommon variant spelling
 privies, privier, priviest
@@ -272,6 +267,7 @@ tided, tiding
 vanned, vanning
 vatted, vatting
 viced, vicing, vised, vising
+zincked, zincking
 
 ######################################################################
 
