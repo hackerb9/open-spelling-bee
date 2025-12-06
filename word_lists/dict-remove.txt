@@ -43,6 +43,8 @@ ruff
 brinier, briniest
 anon
 
+tonne				# Should be in british-words.35
+
 
 ######################################################################
 
