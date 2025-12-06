@@ -717,3 +717,5 @@ enrobe
 anion
 ionization
 lionization
+sashay
+satay
