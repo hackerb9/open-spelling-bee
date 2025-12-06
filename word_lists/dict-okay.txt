@@ -427,8 +427,6 @@ tactician
 tiffin, tiffins
 incant, incants, incanting, incanted
 oratorio
-atoll
-aioli (aïoli)
 monad
 lapidary
 divvy, divvied
@@ -554,7 +552,7 @@ limn, limned			# To adorn or embellish with gold or bright colour; to depict in 
 mandala				# Jung: “I have come across women who did not draw mandala symbols but who danced them.” A symbolic representation of a magic circle usually with symmetrical divisions and figures of deities, etc., in the centre, used by Buddhists in meditation and found in many cultures as a religious symbol.
 vindaloo			# A blend of chilis, tamarind, ginger, cumin, and mustard seeds, originally from Goa.
 woad				# A blue dye-stuff prepared from the leaves of Isatis tinctoria, powdered and fermented: now generally superseded by indigo.  “Al the Britons doe dye themselves wyth woade, which setteth a blewish color uppon them.”
-apteryx				# Kiwi bird
+apteryx				# Kiwi bird. Pangram match with 'taxpayer'.
 pyxis, pyx			# “Pyx (pyxis) a box, properly made of Box-tree.”  “‘This box’, and in her hands she took a pyx Square-cut, of dark obsidian’s rarest green, ‘Take’.”
 payee
 yappy				# “You're a yappy kid with no bringing up whatever.”
@@ -597,7 +595,6 @@ conch
 vegetal				# 1871: Tylor Prim. Cult. I. 393 “The famous classic and mediæval theories of the vegetal, sensitive, and rational souls.”
 vagal				# Of or relating to the vagus nerve, the tenth cranial nerve, which connects the brain to the heart, lungs, and digestive tract for the regulation of involutary functions. 
 gavotte				# Formal French dance in quadruple time
-aloe
 vole				# 1840: Cuvier's Anim. Kingd. 114 “The Muskquash,..which is a Vole with semi-palmated hind-feet.”   1896: Daily News 21 Apr. 6/2 “May the vole-plague ravage the land of those who neglect this plain-featured fact!”
 vale				# Tract of land lying between two ranges of hills, or stretches of high ground, and usually traversed by a river or stream; a wide, flat valley
 elate
@@ -719,3 +716,5 @@ ionization
 lionization
 sashay
 satay
+grok
+brig

@@ -57,3 +57,7 @@ pixel, pixels
 argyle
 druid, druids
 flavorful
+ginkgo
+atoll
+aioli (aïoli)
+aloe
