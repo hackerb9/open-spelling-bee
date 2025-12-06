@@ -41,6 +41,7 @@ calk, calks, calked, calking	# Uncommon variant spelling
 privies, privier, priviest
 ruff
 brinier, briniest
+anon
 
 
 ######################################################################
