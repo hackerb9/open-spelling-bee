@@ -1,0 +1,276 @@
+{
+    "letters": "EACDGKP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 182,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PACKAGED"
+    ],
+    "word_list": [
+        {
+            "word": "ACCEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ACCEDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ACED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ADAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECADE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PACED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PACKAGE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PACKAGED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PACKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEACE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEAK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEAKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

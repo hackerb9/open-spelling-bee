@@ -1,0 +1,161 @@
+{
+    "letters": "FGINRSU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 143,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "SURFING"
+    ],
+    "word_list": [
+        {
+            "word": "FIGS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIGURING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FINS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FIRING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIRS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FRINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUNGUS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FURS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUSING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUSSING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GRUFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INFRINGING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "INFUSING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RUFFING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUFFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNIFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "SNIFFS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SNUFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "SNUFFING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "SNUFFS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "SURF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SURFING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "SURFS",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "letters": "ICGHLNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 224,
+    "word_count": 39,
+    "pangram_count": 1,
+    "pangram_list": [
+        "LUNCHING"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHILI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHILLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUGGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CLINCH",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLINCHING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "CLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLUING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLUING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HUNCHING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INCLINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LUNCHING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "LUNGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

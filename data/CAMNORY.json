@@ -1,0 +1,156 @@
+{
+    "letters": "CAMNORY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 127,
+    "word_count": 26,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ACRONYM"
+    ],
+    "word_list": [
+        {
+            "word": "ACORN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ACRONYM",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CACAO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANYON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COMMON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CORONARY",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRAYON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CROON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACAROON",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RACCOON",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANCOR",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

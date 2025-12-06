@@ -1,0 +1,236 @@
+{
+    "letters": "KACDENR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 189,
+    "word_count": 42,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CRANKED"
+    ],
+    "word_list": [
+        {
+            "word": "CAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRACKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRACKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CRANK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRANKED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CREAK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREAKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CREEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DANKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DARK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARKEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DARKENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DARKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRANK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KEENER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNACK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KNACKER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KNEAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KNEADED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RACK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RANK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RANKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RANKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

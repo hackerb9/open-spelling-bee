@@ -1,0 +1,211 @@
+{
+    "letters": "OGILNWY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 145,
+    "word_count": 37,
+    "pangram_count": 1,
+    "pangram_list": [
+        "YOWLING"
+    ],
+    "word_list": [
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOWING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOWLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NYLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OGLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WILLOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOOLLY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YOWL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOWLING",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

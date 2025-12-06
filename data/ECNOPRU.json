@@ -1,0 +1,276 @@
+{
+    "letters": "ECNOPRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 229,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PRONOUNCE"
+    ],
+    "word_list": [
+        {
+            "word": "COERCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONCERN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONCURRENCE",
+            "score": 11,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CORNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CORONER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENCORE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ERROR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEURON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCCURRENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OPENER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUNCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POORER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PORE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POUNCE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PREEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROCURE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRONOUNCE",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "PROPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRUNE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PUREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PURER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECOUP",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RECURRENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "RENOUNCE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REOPEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UPPER",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

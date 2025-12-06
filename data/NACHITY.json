@@ -1,0 +1,151 @@
+{
+    "letters": "NACHITY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 94,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HYACINTH"
+    ],
+    "word_list": [
+        {
+            "word": "ANTIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATTAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CANT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHANT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHINA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYNIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HYACINTH",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTACT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NATTY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NINTH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

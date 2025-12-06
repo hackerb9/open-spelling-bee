@@ -1,0 +1,266 @@
+{
+    "letters": "EADQRUV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 200,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "QUAVERED"
+    ],
+    "word_list": [
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AREA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DARED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEADER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEARER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DREAD",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DREADED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ERRED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVADE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EVADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EVER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "QUAVER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "QUAVERED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "QUEER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUEERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "QUEUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "QUEUED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RARED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RARER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAVED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "READ",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "READER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REARED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REREAD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REVERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REVUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REVVED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUDDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UDDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "VEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEERED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VERVE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "letters": "CEILNOZ",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 101,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COLONIZE"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CLONE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLLIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COLON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COLONEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COLONIZE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ICON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INCLINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNOCENCE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIECE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ZINC",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

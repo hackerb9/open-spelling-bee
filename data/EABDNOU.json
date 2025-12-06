@@ -1,0 +1,271 @@
+{
+    "letters": "EABDNOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 193,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ABOUNDED"
+    ],
+    "word_list": [
+        {
+            "word": "ABANDONED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "ABODE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ABOUNDED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "ADDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ADOBE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEANED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BOBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BODED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BONDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BONED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BOUNDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BUDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAUBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEADEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEADENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NABBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OBOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDONE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

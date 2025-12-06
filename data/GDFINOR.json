@@ -1,0 +1,276 @@
+{
+    "letters": "GDFINOR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 287,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FORDING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DODGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRONING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FINDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIRING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORDING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FORGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FORGOING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FRIGID",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FROG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GORING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIDIRON",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRINDING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GROIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGNORING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INDIGO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INFRINGING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IRONING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NODDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ORIGIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIDDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ROOFING",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

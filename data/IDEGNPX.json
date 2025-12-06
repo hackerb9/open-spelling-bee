@@ -1,0 +1,246 @@
+{
+    "letters": "IDEGNPX",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 257,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EXPENDING"
+    ],
+    "word_list": [
+        {
+            "word": "DEEPENING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DEIGN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEIGNED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEIGNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DENIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EDGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EXPENDING",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "GENIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDEED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDEX",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INDEXED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INDEXING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NIPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEEPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIGPEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PINED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIXIE",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

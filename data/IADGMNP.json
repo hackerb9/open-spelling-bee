@@ -1,0 +1,276 @@
+{
+    "letters": "IADGMNP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 287,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DAMPING"
+    ],
+    "word_list": [
+        {
+            "word": "ADDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AGAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AMID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DAMAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DAMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DAMNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DAMPING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "DIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMAGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IMAGINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IMPINGING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAIMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANAGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "MANIA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MAPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NAPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PADDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

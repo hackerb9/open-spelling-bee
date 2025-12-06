@@ -1,0 +1,266 @@
+{
+    "letters": "DBELMTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 243,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TUMBLED"
+    ],
+    "word_list": [
+        {
+            "word": "BEDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BEETLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BELLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BELTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BUDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUMMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUTTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEBT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEBUT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEBUTED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELETE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELETED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DELUDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DELUDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUBBED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DUMB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUMBBELL",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "EBBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELUDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELUDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EMBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EMBEDDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MELTED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "METED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MULLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUMBLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MUTED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TUBED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TUMBLED",
+            "score": 7,
+            "pangram": true
+        }
+    ]
+}

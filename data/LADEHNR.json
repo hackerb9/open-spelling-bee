@@ -1,0 +1,266 @@
+{
+    "letters": "LADEHNR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 201,
+    "word_count": 48,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HANDLER"
+    ],
+    "word_list": [
+        {
+            "word": "ANAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEALER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EARL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HALER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HANDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HANDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HANDLER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HEADLAND",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "HEAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEALED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEALER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HELD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HERALD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HERALDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LADDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LADEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LADLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LADLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LANDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LANDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LARD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEADEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEADER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEANED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEANER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEARN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEARNED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEERED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "REAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REALER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REELED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

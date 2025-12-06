@@ -1,0 +1,151 @@
+{
+    "letters": "LAFGRUY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 93,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FRUGALLY"
+    ],
+    "word_list": [
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARUGULA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLURRY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRUGAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FRUGALLY",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FURL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRUFFLY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GULF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GULLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RURAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UGLY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

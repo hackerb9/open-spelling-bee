@@ -1,0 +1,261 @@
+{
+    "letters": "ICDEHKT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 200,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "HITCHHIKED"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHIDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHIDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CITED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECEIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECIDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECIDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DICE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DICED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIET",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIETED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DITCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DITCHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EDICT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EDIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDITED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ETHIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HECTIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HITCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HITCHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HITCHHIKE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "HITCHHIKED",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "ICED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ITCHED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KITE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "THICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "THICKET",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TICKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TICKET",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TICKETED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TIDIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TIED",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

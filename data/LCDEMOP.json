@@ -1,0 +1,276 @@
+{
+    "letters": "LCDEMOP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 209,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "COMPELLED"
+    ],
+    "word_list": [
+        {
+            "word": "CELL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CELLO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COMPEL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COMPELLED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "COOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "COOLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOLLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOODLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOODLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ELOPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELOPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOOM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOOPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MEDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MODEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MODELED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOLD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOLDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEDDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEDDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PEEL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEELED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEOPLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEOPLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PLOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLODDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PLOP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLOPPED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "POLL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POLLED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POLO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POODLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "POOLED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

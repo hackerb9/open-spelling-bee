@@ -1,0 +1,231 @@
+{
+    "letters": "NDGIMOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 221,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MOUNDING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DODGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOMINION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DOMINO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOOMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNNO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INDIGO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MOONING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOUND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MOUNDING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "MUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NODDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNDO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNDOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

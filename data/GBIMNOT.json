@@ -1,0 +1,226 @@
+{
+    "letters": "GBIMNOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 241,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "TOMBING"
+    ],
+    "word_list": [
+        {
+            "word": "BIGOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BITING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOMBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BOOMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BOOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IGNITION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INGOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOBBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MOONING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MOTIONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "NOTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OMITTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOMBING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOTTING",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

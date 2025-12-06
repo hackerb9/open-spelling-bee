@@ -1,0 +1,186 @@
+{
+    "letters": "BAGILNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 164,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BILINGUAL"
+    ],
+    "word_list": [
+        {
+            "word": "ALIBI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BABBLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BAILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BALING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BALLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BANAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BANANA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BANI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BILINGUAL",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "BILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BLAB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BLABBING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BUBBLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "BUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BUGLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BULB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BULGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUNGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GABBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIBING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLIB",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NABBING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLING",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "letters": "ICGHMNU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 159,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MUNCHING"
+    ],
+    "word_list": [
+        {
+            "word": "CHIC",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHIMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CHUGGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CINCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CINCHING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CUMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HIGH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HUMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HUNCHING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCH",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INCHING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MINCING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MUNCHING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "NIGH",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

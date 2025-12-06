@@ -1,0 +1,151 @@
+{
+    "letters": "CAEMNRY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 98,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "MERCENARY"
+    ],
+    "word_list": [
+        {
+            "word": "ACNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ACRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ARCANE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CAME",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAMERA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANARY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANCER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CANE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CANNERY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CAREER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRAM",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CRANE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREAM",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREAMY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MENACE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MERCENARY",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "MERCY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RACER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RACY",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

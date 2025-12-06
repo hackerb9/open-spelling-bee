@@ -1,0 +1,226 @@
+{
+    "letters": "NDGIMRU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 234,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DRUMMING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRUDGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DRUGGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DRUMMING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DURING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRINDING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GRUDGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIMING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MINDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINIMUM",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MIRING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "MURMURING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIDDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIDING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIMMING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RUINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "URGING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

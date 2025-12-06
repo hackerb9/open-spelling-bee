@@ -1,0 +1,201 @@
+{
+    "letters": "NCDEOVY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 157,
+    "word_count": 35,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CONVEYED"
+    ],
+    "word_list": [
+        {
+            "word": "COCOON",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COCOONED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONCEDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONDONE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONDONED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CONNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONVENE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONVENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CONVEY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CONVEYED",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "CONVOY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECENCY",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DENY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENCODE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENCODED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENVOY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENVY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEDY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONCE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENDED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

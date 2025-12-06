@@ -1,0 +1,276 @@
+{
+    "letters": "GIJLNOT",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 293,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "JOLTING"
+    ],
+    "word_list": [
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GILT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLINTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IGNITION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "JIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "JILTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JINGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "JOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JOINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "JOLTING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "JOTTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LILTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OGLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TILTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TINGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TITLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOLLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOTTING",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

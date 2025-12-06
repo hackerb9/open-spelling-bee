@@ -1,0 +1,231 @@
+{
+    "letters": "OFGINTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 193,
+    "word_count": 41,
+    "pangram_count": 1,
+    "pangram_list": [
+        "OUTFITTING"
+    ],
+    "word_list": [
+        {
+            "word": "FOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FONT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOOTNOTING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "FOUNT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGNITION",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INTUITION",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OUTFIT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OUTFITTING",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "OUTGOING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "OUTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONGUING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TONING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOOT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOOTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOTING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TOTTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TOUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TOUTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TUITION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNTO",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

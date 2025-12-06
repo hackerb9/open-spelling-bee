@@ -1,0 +1,186 @@
+{
+    "letters": "OGINRWY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 148,
+    "word_count": 32,
+    "pangram_count": 1,
+    "pangram_list": [
+        "WORRYING"
+    ],
+    "word_list": [
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GORGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GORING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GORY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROGGY",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GROIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GROWING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GROWN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGNORING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IRONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ORGY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ORIGIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WORRYING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "WOWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WRONG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WRONGING",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

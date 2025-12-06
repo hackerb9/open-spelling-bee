@@ -1,0 +1,276 @@
+{
+    "letters": "NBDEILR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 257,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "BLINDER"
+    ],
+    "word_list": [
+        {
+            "word": "BEDRIDDEN",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "BEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BENDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BIDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BINDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BLEND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLENDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BLIND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLINDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BLINDER",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "BRINE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BRINIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DENIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DINED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DINNER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENDED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INBRED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INBREED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INDEED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INDELIBLE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INEDIBLE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INNER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LEND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NEED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NEEDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEDIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEEDLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NIBBLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REBIND",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REDDENED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REINDEER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REINED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RENDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RENDERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RIDDEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIND",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

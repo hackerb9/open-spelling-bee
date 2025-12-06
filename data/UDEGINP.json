@@ -1,0 +1,166 @@
+{
+    "letters": "UDEGINP",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 148,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "UPENDING"
+    ],
+    "word_list": [
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DUPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GENUINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUIDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUIDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PENGUIN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUDDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUNNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PUPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PUPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPEND",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPENDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UPENDING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "UPPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UPPING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

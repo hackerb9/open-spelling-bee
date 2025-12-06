@@ -1,0 +1,161 @@
+{
+    "letters": "UDEFGIN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 133,
+    "word_count": 27,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FEUDING"
+    ],
+    "word_list": [
+        {
+            "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FEUDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FEUDING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FUDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FUDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FUND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FUNDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FUNDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENUINE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUIDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GUIDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NUDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNDEFINED",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "UNDUE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNIFIED",
+            "score": 7,
+            "pangram": false
+        }
+    ]
+}

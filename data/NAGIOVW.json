@@ -1,0 +1,226 @@
+{
+    "letters": "NAGIOVW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 190,
+    "word_count": 40,
+    "pangram_count": 1,
+    "pangram_list": [
+        "AVOWING"
+    ],
+    "word_list": [
+        {
+            "word": "AGAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ANON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AVOWING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "AWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GNAW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAWING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOVA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VAGINA",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VOWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WAGON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WAIVING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WANING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WAVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

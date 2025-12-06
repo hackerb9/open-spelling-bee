@@ -1,0 +1,261 @@
+{
+    "letters": "ODEGINW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 219,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ENDOWING"
+    ],
+    "word_list": [
+        {
+            "word": "DODGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DODGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOGWOOD",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ENDOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENDOWED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ENDOWING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INDIGO",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IODINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NODDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NODDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NODE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WIDOW",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WIDOWING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "WINDOW",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WINDOWING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "WOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOODEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOODING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WOODWIND",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "WOOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOWED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

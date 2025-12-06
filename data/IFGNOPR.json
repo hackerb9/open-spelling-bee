@@ -1,0 +1,256 @@
+{
+    "letters": "IFGNOPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 281,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PROOFING"
+    ],
+    "word_list": [
+        {
+            "word": "FINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FIRING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FORGOING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FRINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GORGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GORING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRINNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GRIPPING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GROIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GROPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IGNORING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INFRINGING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IRON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IRONING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OPINION",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ORIGIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "POOPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "POPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PORING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PROOFING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PROPPING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ROOFING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ROPING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

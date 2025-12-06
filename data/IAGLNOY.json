@@ -1,0 +1,246 @@
+{
+    "letters": "IAGLNOY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 247,
+    "word_count": 44,
+    "pangram_count": 1,
+    "pangram_list": [
+        "ANNOYINGLY"
+    ],
+    "word_list": [
+        {
+            "word": "AGAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALIGN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALIGNING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ALLAYING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANGLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ANNOYING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ANNOYINGLY",
+            "score": 10,
+            "pangram": true
+        },
+        {
+            "word": "GAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAILY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GALLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GANGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GANGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INLAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INLAYING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LAYING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOANING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LONGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LYING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NAGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NAILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NINNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OGLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

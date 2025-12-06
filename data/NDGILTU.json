@@ -1,0 +1,251 @@
+{
+    "letters": "NDGILTU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 270,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "DILUTING"
+    ],
+    "word_list": [
+        {
+            "word": "DIGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DILUTING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "DINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLIDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GLINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GLINTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GLUING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLUTTING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GUIDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUTTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "IDLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IGNITING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INDULGING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LILTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NUDGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NUTTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TILTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TINGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "TINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINTING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TITLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TUNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UNIT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UNITING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "UNTIL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

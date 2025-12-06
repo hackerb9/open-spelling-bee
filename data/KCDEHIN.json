@@ -1,0 +1,176 @@
+{
+    "letters": "KCDEHIN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 119,
+    "word_count": 30,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CHICKENED"
+    ],
+    "word_list": [
+        {
+            "word": "CHECK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHECKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHEEK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHEEKED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHICK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CHICKEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CHICKENED",
+            "score": 9,
+            "pangram": true
+        },
+        {
+            "word": "CHINK",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HIKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INKED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEENED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KICKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIDDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KIND",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KINKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "KNEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KNEED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NECK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NICK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NICKED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

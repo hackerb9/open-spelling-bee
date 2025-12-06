@@ -1,0 +1,271 @@
+{
+    "letters": "NFGILOU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 263,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOULING"
+    ],
+    "word_list": [
+        {
+            "word": "FILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FLOGGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "FLUNG",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOOLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FOULING",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "FULFILLING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "FUNGI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GLUING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOLFING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOFING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GUNNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "INFO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOUNGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LUGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LULLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LUNG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LUNGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOUN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OGLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UNION",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}

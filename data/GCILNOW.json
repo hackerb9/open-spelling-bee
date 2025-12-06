@@ -1,0 +1,261 @@
+{
+    "letters": "GCILNOW",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 259,
+    "word_count": 47,
+    "pangram_count": 1,
+    "pangram_list": [
+        "CLOWNING"
+    ],
+    "word_list": [
+        {
+            "word": "CLING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CLINGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CLOG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CLOGGING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "CLOWNING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "COCOONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CONNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "COOLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOW",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOWING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOWN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INCLINING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOGIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOWING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OGLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OWING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OWNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "WILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WINCING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WING",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WINGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "WOOING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WOWING",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

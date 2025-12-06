@@ -1,0 +1,251 @@
+{
+    "letters": "GEILNOV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 233,
+    "word_count": 45,
+    "pangram_count": 1,
+    "pangram_list": [
+        "EVOLVING"
+    ],
+    "word_list": [
+        {
+            "word": "EGGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGINE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENLIVENING",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "EVENING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EVOLVING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIGGLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIVE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GIVEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GIVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GLEE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GLOVE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GOGGLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IGLOO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INNING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVOLVING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "LEGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEGION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LEVELING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LINGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LIVENING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "LIVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOGGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOGO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOLLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONGING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LOVING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEGLIGEE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "OGLE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OGLING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ONGOING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VEILING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VEINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "VIGIL",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}
