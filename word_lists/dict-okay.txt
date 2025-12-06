@@ -312,8 +312,8 @@ impeller
 titan
 avian
 tannin, tannic
-anatto
-natto
+anatto				# Anatto is an orange-red condiment and food coloring derived from the seeds of the achiote tree, native to tropical parts of the Americas. 
+natto				# A traditional Japanese food product make from fermented soybeans.
 viand, viands
 crud, cruddy, cruddier, cruddiest
 inure, inured
@@ -659,7 +659,6 @@ coda
 hooch				# North America (informal) An alcohol beverage, especially an inferior or illicit one and especially liquor such as whisky.
 teff				# The principal cereal of Abyssinia, Poa (Eragrostis) abyssinica, producing minute red or white grains from which bread is made.
 golem				# In Jewish legend, a human figure made of clay, etc., and supernaturally brought to life; in extended use, an automaton, a robot.
-annatto				# Annatto is an orange-red condiment and food coloring derived from the seeds of the achiote tree, native to tropical parts of the Americas. 
 chia
 chitin
 haint				# US dialectal, a ghost
