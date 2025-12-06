@@ -68,7 +68,6 @@ militiaman, militiamen
 emetic
 decedent
 candida
-deadend, deadends		# Hyphenation optional
 naiad, naiads
 nand
 fella, fellas
@@ -171,7 +170,6 @@ renice
 uric
 runic
 biotic
-bricabrac			# Hyphenation optional
 bract, bracts
 baobab, baobabs
 boba
@@ -210,7 +208,6 @@ neap
 natal
 napa
 peen
-ballpeen			# Hyphenation optional
 paean, paeans
 penpal, penpals			# Hyphenation optional
 lenten
@@ -225,12 +222,11 @@ ogee, ogees
 eigen
 bupleurum
 purl
-pellmell			# Hyphenation optional
 beep, beeps, beeped
 bleep, bleeps, bleeped
 pullup
 peeler
-pullulate
+pullulate			# To multiply rapidly, originally of sprouting seeds but now often as a negative: said of morbid growths in the intestines, beggars in a plaza, superstition, etc. 1819: G. S. Faber Dispensations (1823) I. 384 “In our own evil days of rankly pullulating heresy and blasphemy.”
 puerile
 deckled, deckle
 elide, elided
@@ -258,7 +254,6 @@ cathartic
 chit
 tarmac
 catarrh
-chitchat			# Hyphenation optional
 hath
 trotter
 looter, looters
@@ -270,7 +265,7 @@ roil, roils, roiled
 footer
 roofer
 woofer, tweeter
-liftoff				# Hyphenation optional
+liftoff				# Hyphenation optional?
 fortifier
 folie
 oriel
@@ -285,7 +280,6 @@ refried
 riffed
 derriere
 eider
-deepfried			# Hyphenation optional
 minty
 intuit, intuits, intuiting
 mung, mungbean
@@ -470,7 +464,7 @@ teepee
 begat
 deuce
 creel
-beerbellied			# Hyphenation optional
+beerbellied			# Hyphenation optional?
 gaol
 loamy
 loopy
@@ -499,7 +493,7 @@ gyre
 regally
 paella
 palp, palpus, palpi			# palp, n. Zool. A feeler: = palpus. 1842: Brande Dict. Sci. etc., s.v. Palpators, “A family of Clavicorn beetles, including those which have very long maxillary feelers, or palps.”
-plie (plié)				# In ballet, a smooth and continuous bending of the knees.
+plié (plie)				# In ballet, a smooth and continuous bending of the knees.
 cumin
 muon, muons
 effete
@@ -645,11 +639,11 @@ wiggly
 gigolo
 glowingly
 ingenue
-cafe (café), cafes
-melee (mêlée), melees
-materiel (matériel)
-pinata (piñata), pinatas
-doppelganger (doppelgänger), doppelgangers
+café (cafe), cafes
+mêlée (melee), melees
+matériel (materiel)
+piñata (pinata), pinatas
+doppelgänger (doppelganger), doppelgangers
 denude, denuded
 coho
 capo
