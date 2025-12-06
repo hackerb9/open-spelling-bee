@@ -3,7 +3,7 @@
 # See also: scowl/english-words.35
 
 lemme, gimme, wanna, gonna
-gonna
+letup
 genii
 uteri
 roman
@@ -44,7 +44,6 @@ brinier, briniest
 anon
 
 tonne				# Should be in british-words.35
-
 
 ######################################################################
 
