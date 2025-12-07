@@ -29,7 +29,6 @@ fagot, faggot
 dourer
 blamer
 undid
-mete				# Obsolete, seen only with "mete out"
 termini
 eave
 calk, calks, calked, calking	# Uncommon variant spelling
@@ -255,6 +254,51 @@ legitimated, legitimates, legitimating
 lipsticking
 lofted, lofting
 manifolded, manifolding
+mantled, mantling
+manured, manuring
+mascaraed, mascaraing
+masterminded, masterminding
+megaphoned, megaphoning
+merchandised, merchandising
+mete, meting			# Obsolete, seen only with "mete out"
+microfilmed, microfilming
+midwifed, midwifing
+minuted, minuting
+misconducted, misconducting
+misfitted, misfitting
+mortared, mortaring
+mountaineered
+moussing
+negatived, negativing
+nerved, nerving
+nicknaming
+nightclubbed, nightclubbing
+nitrated, nitrating
+noised, noising
+nutted, nutting
+oared, oaring
+obsoleted, obsoleting
+opaqued, opaquing
+ornamenting
+orphaning
+outlaid, outlaying
+overburdening
+overcasting
+overrating
+paddocked, paddocking
+padlocking
+paling
+palled, palling
+pancaked, pancaking
+paragraphed, paragraphing
+parching
+parented
+parred, parring
+pattered, pattering
+pearled, pearling
+pebbled, pebbling
+peeved, peeving
+
 
 #...
 
