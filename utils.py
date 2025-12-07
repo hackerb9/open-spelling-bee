@@ -296,6 +296,24 @@ def custom_parse(s: str) -> str:
         '''
         return re.sub(custom_parse_re, '\n', s)
 
+def find_custom_dupes() -> []:
+        '''Check the custom word lists for duplicate words.'''
+        rv = True
+        add_list = get_custom_word_list('add')
+        okay_list = get_custom_word_list('okay')
+        remove_list = get_custom_word_list('remove')
+
+        word_list = {}
+        for x in add_list:
+                word_list[x] = word_list.get(x, []) + ['add']
+        for x in okay_list:
+                word_list[x] = word_list.get(x, []) + ['okay']
+        for x in remove_list:
+                word_list[x] = word_list.get(x, []) + ['remove']
+
+        dupes=[ (x, word_list[x]) for x in word_list if len(word_list[x]) > 1 ]
+        return dupes
+
 def is_bonus_word(w:str) -> [str]:
         '''If string w is found in the bonus dictionaries, return an
         array of strings indicating which dictionaries it was found in.
@@ -534,17 +552,23 @@ where <cmd> can be one of:
                 compare two files from data/*.json and show how many
                 words they have in common.
 		
-  dict <word>   define word using the 'dict' command, if installed
+  match <re>    shows matching headwords from scowl, dict, and custom
 
-  scowl <re>    lookup regex ^re$ in all the SCOWL wordlists. The
-                numeric suffix shows how common the word is in English.
+  scowl <re>    lookup regex ^re$ in all the SCOWL wordlists.
+                The numeric suffix shows how common the word is in English.
 
-  match <re>    lookup regex ^re$ using dict, shows headword only
+  dict <word>   define word using the 'dict' command, if installed.
 
-  lookup <re>   shows output from both scowl and match
+  dict-m <re>   lookup regex ^re$ using dict, shows headword only.
 
-  dump <custom> shows all words from word_lists/dict-{custom}.txt
+  custom <re>   lookup regex ^re$ in the custom dictionaries.
+
+  dump <custom> shows all words from word_lists/dict-$custom.txt
                 (Options are 'add', 'okay', or 'remove').
+
+  validate-custom
+                shows any words which are found more than once in the
+                custom word lists (word_lists/dict-$custom.txt).
 
 ''')
                 exit(1)
@@ -599,6 +623,16 @@ Examples:
                         print("Shows matching headwords using both SCOWL and dict")
                         exit(1)
 
+        elif (args[0] == "custom" or args[0] == "c"):
+                if len(args) > 1:
+                        custom_lookup(args[1:])
+                else:
+                        print("Usage: ./utils.py custom <re>")
+                        print("Lookup a word in the custom dictionaries "
+                              "(word_lists/dict-*.txt).")
+                        exit(1)
+
+
         elif (args[0] == "dump" or args[0] == "d"):
                 if len(args) > 1:
                         dump_custom_word_list(args[1])
@@ -607,6 +641,15 @@ Examples:
                         print("Dump one of the custom lists of words.")
                         exit(1)
 
+        elif (args[0] == "validate-custom"):
+                dupes = find_custom_dupes()
+                if dupes:
+                        print ("Warning. Words found more than once in custom word lists:")
+                        for msg in [ f'\t{x} found in {" and ".join(y)}.'
+                                     for (x,y) in dupes ]:
+                                print (msg)
+                else:
+                        print('No duplicate words found in the custom word lists.') 
         else:
                 print(f"Unknown command: {args[0]}")
                 exit(1)
