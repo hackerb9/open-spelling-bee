@@ -529,9 +529,9 @@ def dict_lookup(pattern, showerrors=True):
 
 
 def match_any(pattern):
-        '''Given a word (or regex), show which wordlists contain it using
-        the custom dictionaries, SCOWL wordlists, and the 'dict' command.
-        No error is printed if dict is not available on the system.'''
+        '''Given a word (or regex), search the custom dictionaries,
+        SCOWL wordlists, and the 'dict' command (if available).
+        '''
         custom_lookup(pattern)
         scowl_lookup(pattern)
         dict_lookup(pattern, showerrors=False)
@@ -541,36 +541,23 @@ if __name__ == "__main__":
         if len(sys.argv) <= 1:
                 print(f'''\
 Usage: {sys.argv[0]} <cmd> [opts]
-
 where <cmd> can be one of:
-
-  uniq [dir...]
-                print a "uniqueness" score for all .json files in "data/"
-                (Entropy from approx 0.4 to 0.6)
-
-  cmp <f1> <f2>
-                compare two files from data/*.json and show how many
-                words they have in common.
-		
-  match <re>    shows matching headwords from scowl, dict, and custom
-
-  scowl <re>    lookup regex ^re$ in all the SCOWL wordlists.
-                The numeric suffix shows how common the word is in English.
-
-  dict <word>   define word using the 'dict' command, if installed.
-
-  dict-m <re>   lookup regex ^re$ using dict, shows headword only.
-
-  custom <re>   lookup regex ^re$ in the custom dictionaries.
-
-  dump <custom> shows all words from word_lists/dict-$custom.txt
+  match <re>    Show matching headwords from custom, scowl, and dict.
+                If <re> is a strictly alphabetic string (e.g., 'epee'),
+                match is accent insensitive for custom and scowl ('épée') .
+  custom <re>   Lookup regex ^re$ in the custom lists (word_lists/dict-*.txt).
+  scowl <re>    Lookup regex ^re$ in SCOWL (word_lists/scowl-u8/*).
+                The numeric suffix .10 means most common, .95 is least.
+  dict <word>   Define word using the 'dict' command, if installed.
+  dict-m <re>   Lookup regex ^re$ using dict, shows headword only.
+  dump <custom> Show all words from word_lists/dict-$custom.txt
                 (Options are 'add', 'okay', or 'remove').
-
-  validate-custom
-                shows any words which are found more than once in the
+  check-custom  Show any words which are found more than once in the
                 custom word lists (word_lists/dict-$custom.txt).
-
-''')
+  uniq [dir…]   Print a "uniqueness" score for all .json files in "data/"
+                (Entropy from approx 0.4 to 0.6)
+  cmp <f1> <f2> Compare two puzzle files from data/*.json and show how
+                many words they have in common.''')
                 exit(1)
         
         args=sys.argv[1:]
@@ -633,7 +620,7 @@ Examples:
                         exit(1)
 
 
-        elif (args[0] == "dump" or args[0] == "d"):
+        elif (args[0] == "dump"):
                 if len(args) > 1:
                         dump_custom_word_list(args[1])
                 else:
@@ -641,7 +628,7 @@ Examples:
                         print("Dump one of the custom lists of words.")
                         exit(1)
 
-        elif (args[0] == "validate-custom"):
+        elif (args[0] == "check-custom"):
                 dupes = find_custom_dupes()
                 if dupes:
                         print ("Warning. Words found more than once in custom word lists:")
