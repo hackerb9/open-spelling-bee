@@ -587,12 +587,10 @@ vagal				# Of or relating to the vagus nerve, the tenth cranial nerve, which con
 gavotte				# Formal French dance in quadruple time
 vole				# 1840: Cuvier's Anim. Kingd. 114 “The Muskquash,..which is a Vole with semi-palmated hind-feet.”   1896: Daily News 21 Apr. 6/2 “May the vole-plague ravage the land of those who neglect this plain-featured fact!”
 vale				# Tract of land lying between two ranges of hills, or stretches of high ground, and usually traversed by a river or stream; a wide, flat valley
-elate
 faerie, faery			# The sphere or realm of enchantment, magic or dream associated with the "fae" (fays).  “Men dreaded there to see The uncouth things of faërie.”
 aggie				# Marble made of agate
 aerie, eyrie
 gaffe
-falafel
 figleaf
 drupe
 raffia
