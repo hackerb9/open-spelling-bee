@@ -543,6 +543,9 @@ where <cmd> can be one of:
 
   lookup <re>   shows output from both scowl and match
 
+  dump <custom> shows all words from word_lists/dict-{custom}.txt
+                (Options are 'add', 'okay', or 'remove').
+
 ''')
                 exit(1)
         
