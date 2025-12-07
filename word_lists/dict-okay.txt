@@ -413,7 +413,6 @@ cadre
 meld
 midfield
 tantric			# 1977: Time Out 28 Jan.-3 Feb. 65/2 (Advt.), “Student of energy release, seeks tantric adept, female.”
-riff
 tactician
 tiffin, tiffins
 incant, incants, incanting, incanted
@@ -671,6 +670,7 @@ cloaca				# The common excrementory cavity at the end of the intestinal canal in
 fife				# A small shrill-toned instrument of the flute kind, used chiefly to accompany the drum in military music. Fife and drum: taken as typical instruments of martial music; often attrib. in lit. sense, and fig. = martial, militant.
 fief, fiefdom			# Piece of land held on condition of homage, fealty, and personal service, especially military service.
 gaffer				# An elderly rustic; an old fellow. In film: A chief lighting technician for a motion-picture or television production.
+riff, riffing
 riffle				# A quick skim or leafing through (of pages of a book, papers, etc.).  1894: Maskelyne Sharps & Flats 137 “The riffle, or butt-in, as it is called in America, is the shuffle in which..the thumbs ‘riffle’, or bend up the corners of the cards.”
 farrier				# One who shoes horses. From L. ferrārius, f. ferr-um iron, in med.L. (often ferrus) horseshoe.
 referral
@@ -723,3 +723,6 @@ admix
 admixed
 edamame
 
+prion
+poof, poofing
+griffin
