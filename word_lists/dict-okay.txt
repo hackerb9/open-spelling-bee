@@ -351,7 +351,7 @@ droopy
 weepy
 derpy
 dropper
-epee (épée)			# We're not doing Unicode spelling-bee, yet...
+épée (epee)
 preorder, preordered
 popeyed
 preop
@@ -385,7 +385,6 @@ laggy
 liege
 giggly
 tillage
-agee
 egality
 galette
 medic, medics
@@ -639,8 +638,8 @@ wiggly
 gigolo
 glowingly
 ingenue
-mêlées (melees)
-café (cafe), cafes
+piñata (pinata), piñatas (pinatas)
+mêlée (melee), mêlées (melees)
 matériel (materiel)
 doppelgänger (doppelganger), doppelgangers
 denude, denuded
