@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 146,
-    "word_count": 34,
+    "total_score": 155,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "INITIALIZATION"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLOT",
             "score": 5,
@@ -43,8 +48,8 @@
             "pangram": false
         },
         {
-            "word": "ANON",
-            "score": 1,
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {
