@@ -90,7 +90,9 @@ def play(puzzle):
                         if g in player.bonus_found or g in player.bonus_used:
                             print (f'You already found: {g}\n')
                         else:
-                            pfill(f'Oh! I was not expecting anyone to guess "{g}". Kudos to you!\n')
+                            # plie -> plié, melee -> mêlée
+                            word=utils.is_in_custom(g)[0]['word']
+                            pfill(f'Oh! I was not expecting anyone to guess "{word}". Kudos to you!\n')
                             print()
                             player.bonus_found.append(g)
                     elif utils.is_in_scowl(g):
