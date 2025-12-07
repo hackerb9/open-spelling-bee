@@ -580,21 +580,21 @@ Examples:
           ./utils.py cmp data.twl/CADEHKW.json  data/CADEHKW.json''');
                         exit(1)
 
-        elif (args[0] == "scowl" or args[0] == "slook"):
+        elif (args[0] == "scowl" or args[0] == "s"):
                 if len(args) > 1:
                         scowl_lookup(args[1:])
                 else:
                         scowl_lookup_usage()
                         exit(1)
 
-        elif (args[0] == "dict" or args[0] == "wb"):
+        elif (args[0] == "dict" or args[0] == "wb" or args[0] == "d"):
                 if len(args) > 1:
                         dict_define(args[1:])
                 else:
                         dict_define_usage()
                         exit(1)
 
-        elif (args[0] == "dict-m"):
+        elif (args[0] == "dict-m" or args[0] == "dm"):
                 if len(args) > 1:
                         dict_lookup(args[1:])
                 else:
