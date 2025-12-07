@@ -708,7 +708,6 @@ sashay
 satay
 grok
 brig
-
 gunk
 oinking
 loupe
@@ -719,10 +718,10 @@ pottage
 agape
 diadem
 midden
-admix
-admixed
+admix, admixed
 edamame
 
 prion
 poof, poofing
 griffin
+immure
