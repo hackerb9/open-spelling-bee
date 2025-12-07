@@ -248,14 +248,25 @@ def custom_lookup(pattern):
                                                 sys.stdout = None
 
 def is_in_custom(pattern):
-        '''Returns the filenames of the custom word lists which match
-        the regex 'pattern'.
+        '''Searches the custom word lists for the regex 'pattern'.
 
-        Custom words are kept in word_lists/dict-{add,okay,remove,*}.txt. 
-        If 'pattern' is an array, then each word will be looked up.
-        Allows regular expressions.
+        Returns a list of dicts of the form {'file': f, 'word': w}
+        where f is a filename like 'word_lists/dict-okay.txt'
+        and w is a matching word like 'piñata'.
 
+        Custom words are kept in word_lists/dict-{add,okay,remove}.txt. 
         If pattern is not in any of the files, an empty list is returned.
+
+        If the input is not a regular expression (purely alphabetic),
+        then accents will be ignored. ('melee' matches 'mêlée'.)
+
+        Results are returned in the same order as they are found in
+        each file. This is done so we can show the accented form of a
+        bonus word using is_in_custom('metier')[0]['word']
+
+        If the input 'pattern' is an array of patterns, then each will
+        be looked up and the results concatenated.
+
         '''
 
         rv = []
@@ -266,10 +277,13 @@ def is_in_custom(pattern):
         for p in pattern:
                 if p.isalpha(): p=equivalence(p)
                 rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
-                for f in glob.glob("word_lists/dict-*.txt"):
-                        with open(f, 'r') as fp:
-                                if re.search(rx, custom_parse(fp.read())):
-                                        rv.append(f'{f}')
+                filenames=(f'word_lists/dict-{x}.txt'
+                           for x in ('add', 'okay', 'remove'))
+                for fn in filenames:
+                        with open(fn, 'r') as fp:
+                                for m in re.findall(rx, custom_parse(fp.read())):
+                                        rv.append( { 'file': f'{fn}',
+                                                     'word': m } )
         return rv
 
 custom_parse_re = re.compile(r'\W*(#.*)?\n|\W+')
