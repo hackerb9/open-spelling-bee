@@ -354,6 +354,12 @@ def main(puzzle_input=None):
         # header for csv output
         print ('\t'.join(('letters', 'word_count', 'total_score', 'pangram_count', 'is_valid')))
 
+        if len(sys.argv) > 1 and sys.argv[-1] == '--regenerate':
+                regenerate = True
+                sys.argv.pop()
+        else:
+                regenerate = False
+
         if len(sys.argv) > 1:
                 puzzle_input = sys.argv[-1].strip().upper()
                 sys.argv.pop()
@@ -377,8 +383,18 @@ def main(puzzle_input=None):
 
                 make_puzzles(words, pool, existing_puzzles, puzzle_input, force_auto)
 
+        elif regenerate:
+                # Regenerate all existing puzzles
+                no_good=[]
+                for puzzle_input in existing_puzzles:
+                        if not make_puzzles(words, [], [], puzzle_input, force_auto=True):
+                                no_good.append(puzzle_input)
+                if no_good:
+                        print(f'These puzzles no longer meet the requirements and can be deleted:\n{" ".join(no_good)}')
+
         # user/code has no specific puzzle to create, generating many
         else:
+
                 idx_valid = 0
 
                 # generating N puzzles based on params
