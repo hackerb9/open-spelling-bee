@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 117,
-    "word_count": 39,
+    "total_score": 124,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "EMBANKMENT"
@@ -130,6 +130,11 @@
         {
             "word": "MAMMA",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 133,
-    "word_count": 38,
+    "total_score": 145,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "PAYMENT"
@@ -68,6 +68,11 @@
             "pangram": false
         },
         {
+            "word": "MANATEE",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "MANE",
             "score": 1,
             "pangram": false
@@ -105,6 +110,11 @@
         {
             "word": "NAME",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

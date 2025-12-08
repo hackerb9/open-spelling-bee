@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 263,
-    "word_count": 49,
+    "total_score": 271,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "FOULING"
@@ -155,6 +155,11 @@
         {
             "word": "LINGO",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

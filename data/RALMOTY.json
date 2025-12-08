@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 44,
+    "total_score": 203,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "MORTALLY"
@@ -193,6 +193,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -210,6 +215,11 @@
         {
             "word": "ROYALTY",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

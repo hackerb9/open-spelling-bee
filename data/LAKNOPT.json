@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 91,
-    "word_count": 33,
+    "total_score": 96,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "PLANKTON"
@@ -40,6 +40,11 @@
         {
             "word": "APPALL",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 163,
-    "word_count": 41,
+    "total_score": 181,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "MORTUARY"
@@ -55,6 +55,11 @@
         {
             "word": "AURA",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -148,6 +153,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -164,6 +174,11 @@
         },
         {
             "word": "RUMOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

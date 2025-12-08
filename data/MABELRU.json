@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 43,
+    "total_score": 181,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "UMBRELLA"
@@ -155,11 +155,6 @@
         {
             "word": "MEAL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 139,
-    "word_count": 37,
+    "total_score": 151,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "MORTUARY"
@@ -108,6 +108,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -115,6 +120,11 @@
         {
             "word": "ROUT",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

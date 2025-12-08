@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 29,
+    "total_score": 116,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "GLANDULAR"
@@ -40,6 +40,11 @@
         {
             "word": "ANNUL",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARUGULA",
+            "score": 7,
             "pangram": false
         },
         {

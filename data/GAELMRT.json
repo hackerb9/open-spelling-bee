@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 231,
-    "word_count": 47,
+    "total_score": 237,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "TELEGRAM"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGGREGATE",
             "score": 9,
@@ -200,6 +205,11 @@
         {
             "word": "LEGAL",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAGE",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 47,
+    "total_score": 202,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "ANNULMENT"
@@ -50,6 +50,11 @@
         {
             "word": "AUTUMNAL",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -95,6 +100,11 @@
         {
             "word": "LATENT",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -235,6 +245,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

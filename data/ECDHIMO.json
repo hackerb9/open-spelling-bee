@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
-    "word_count": 45,
+    "total_score": 180,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "HOMICIDE"
@@ -109,6 +109,16 @@
         },
         {
             "word": "DEEMED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
             "score": 6,
             "pangram": false
         },

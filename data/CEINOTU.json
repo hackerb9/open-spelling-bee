@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 33,
+    "total_score": 193,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "CONTINUE"
@@ -128,6 +128,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INCITE",
             "score": 6,
             "pangram": false
@@ -140,6 +145,11 @@
         {
             "word": "INNOCENT",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

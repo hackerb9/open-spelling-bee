@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
-    "word_count": 30,
+    "total_score": 192,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "NULLIFYING"
@@ -120,6 +120,11 @@
         {
             "word": "LILY",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

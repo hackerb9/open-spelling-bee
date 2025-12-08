@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 234,
-    "word_count": 49,
+    "total_score": 239,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "REGURGITATE"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGGREGATE",
             "score": 9,

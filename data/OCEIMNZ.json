@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 27,
+    "total_score": 113,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "ECONOMIZE"
@@ -73,6 +73,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INCOME",
             "score": 6,
             "pangram": false
@@ -80,6 +85,11 @@
         {
             "word": "INNOCENCE",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

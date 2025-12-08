@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 105,
-    "word_count": 27,
+    "total_score": 116,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "ACUTELY"
@@ -88,6 +88,11 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LACE",
             "score": 1,
             "pangram": false
@@ -105,6 +110,11 @@
         {
             "word": "LATELY",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -144,6 +154,11 @@
         },
         {
             "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
             "score": 1,
             "pangram": false
         },

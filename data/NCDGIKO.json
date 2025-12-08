@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 222,
-    "word_count": 42,
+    "total_score": 239,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "DOCKING"
@@ -113,6 +113,11 @@
             "pangram": false
         },
         {
+            "word": "GINKGO",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "GOING",
             "score": 5,
             "pangram": false
@@ -138,6 +143,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INDIGO",
             "score": 6,
             "pangram": false
@@ -150,6 +160,11 @@
         {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

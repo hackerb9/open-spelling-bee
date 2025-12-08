@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 183,
-    "word_count": 38,
+    "total_score": 189,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "AMALGAMATED"
@@ -24,6 +24,11 @@
     "word_list": [
         {
             "word": "ADAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGATE",
             "score": 5,
             "pangram": false
         },
@@ -205,6 +210,11 @@
         {
             "word": "LEGGED",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MAGE",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
-    "word_count": 29,
+    "total_score": 124,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "EXAMINING"
@@ -115,6 +115,11 @@
         {
             "word": "INANE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MAGE",
+            "score": 1,
             "pangram": false
         },
         {

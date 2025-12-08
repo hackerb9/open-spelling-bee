@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 144,
-    "word_count": 41,
+    "total_score": 139,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "AMICABLE"
@@ -195,11 +195,6 @@
         {
             "word": "MEAL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

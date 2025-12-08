@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 45,
+    "total_score": 189,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "MENTALLY"
@@ -115,6 +115,11 @@
         {
             "word": "MAMMAL",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 37,
+    "total_score": 140,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "WEALTHY"
@@ -25,6 +25,11 @@
         {
             "word": "ATHLETE",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -78,6 +83,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LETHAL",
             "score": 6,
             "pangram": false
@@ -105,6 +115,11 @@
         {
             "word": "TATTY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

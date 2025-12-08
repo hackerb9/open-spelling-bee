@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 90,
-    "word_count": 25,
+    "total_score": 102,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "PHOTOGRAPH"
@@ -110,6 +110,16 @@
         {
             "word": "ROAR",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

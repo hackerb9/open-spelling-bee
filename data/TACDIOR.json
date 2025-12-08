@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 199,
-    "word_count": 47,
+    "total_score": 211,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "DICTATOR"
@@ -163,6 +163,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -185,6 +190,11 @@
         {
             "word": "TACTIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

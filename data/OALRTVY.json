@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 33,
+    "total_score": 146,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "LAVATORY"
@@ -39,6 +39,11 @@
         },
         {
             "word": "AORTA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
             "score": 5,
             "pangram": false
         },
@@ -118,6 +123,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -135,6 +145,11 @@
         {
             "word": "ROYALTY",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

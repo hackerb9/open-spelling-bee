@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 36,
+    "total_score": 192,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "INQUIRED"
     ],
     "word_list": [
+        {
+            "word": "DRUID",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "DUDE",
             "score": 1,

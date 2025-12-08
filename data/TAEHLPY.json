@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 46,
+    "total_score": 199,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "TELEPATHY"
@@ -35,6 +35,11 @@
         {
             "word": "ATHLETE",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -88,6 +93,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LEAPT",
             "score": 5,
             "pangram": false
@@ -105,6 +115,11 @@
         {
             "word": "PALETTE",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PALLET",
+            "score": 6,
             "pangram": false
         },
         {
@@ -185,6 +200,11 @@
         {
             "word": "TATTY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

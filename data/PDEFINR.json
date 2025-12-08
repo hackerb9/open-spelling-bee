@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 204,
-    "word_count": 39,
+    "total_score": 209,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "PREDEFINED"
@@ -149,6 +149,11 @@
         },
         {
             "word": "PIPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
             "score": 5,
             "pangram": false
         },

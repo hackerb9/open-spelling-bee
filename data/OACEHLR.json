@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 155,
-    "word_count": 38,
+    "total_score": 161,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "CHOLERA"
@@ -25,6 +25,11 @@
         {
             "word": "ALCOHOL",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALOE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -175,6 +180,11 @@
         {
             "word": "LORE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 5,
             "pangram": false
         },
         {

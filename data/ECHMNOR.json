@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 136,
-    "word_count": 33,
+    "total_score": 141,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "MONOCHROME"
@@ -175,6 +175,11 @@
         {
             "word": "NONE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 5,
             "pangram": false
         },
         {

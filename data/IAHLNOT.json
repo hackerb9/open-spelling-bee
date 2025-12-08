@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 142,
-    "word_count": 34,
+    "total_score": 147,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "ANNIHILATION"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ANNIHILATION",
             "score": 12,

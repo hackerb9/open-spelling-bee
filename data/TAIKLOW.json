@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 66,
-    "word_count": 26,
+    "total_score": 71,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "KILOWATT"
@@ -30,6 +30,11 @@
         {
             "word": "ALTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 163,
-    "word_count": 30,
+    "total_score": 171,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "QUELLING"
@@ -95,6 +95,11 @@
         {
             "word": "LINEN",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

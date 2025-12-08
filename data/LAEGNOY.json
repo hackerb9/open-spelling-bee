@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 45,
+    "total_score": 167,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "GENEALOGY"
@@ -49,6 +49,11 @@
         },
         {
             "word": "ALLY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALOE",
             "score": 1,
             "pangram": false
         },

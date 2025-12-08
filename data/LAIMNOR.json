@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 127,
-    "word_count": 34,
+    "total_score": 132,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "MONORAIL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AIRMAIL",
             "score": 7,

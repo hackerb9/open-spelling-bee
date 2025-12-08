@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 173,
-    "word_count": 36,
+    "total_score": 179,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "PICNICKED"
@@ -184,6 +184,11 @@
         },
         {
             "word": "PINKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINKIE",
             "score": 6,
             "pangram": false
         },

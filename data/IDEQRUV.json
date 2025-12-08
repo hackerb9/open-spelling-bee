@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 35,
+    "total_score": 192,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "QUIVERED"
@@ -100,6 +100,11 @@
         {
             "word": "DRIVER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRUID",
+            "score": 5,
             "pangram": false
         },
         {

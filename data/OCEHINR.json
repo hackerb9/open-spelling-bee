@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 42,
+    "total_score": 210,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "INCOHERENCE"
@@ -183,6 +183,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INCOHERENCE",
             "score": 11,
             "pangram": true
@@ -190,6 +195,11 @@
         {
             "word": "INNOCENCE",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {
@@ -215,6 +225,11 @@
         {
             "word": "NOON",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 5,
             "pangram": false
         },
         {

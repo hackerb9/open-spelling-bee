@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 32,
+    "total_score": 205,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "CONFIDING"
@@ -148,6 +148,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INDIGO",
             "score": 6,
             "pangram": false
@@ -160,6 +165,11 @@
         {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

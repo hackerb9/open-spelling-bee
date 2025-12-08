@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 36,
+    "total_score": 178,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "AUTOCRATIC"
@@ -50,6 +50,11 @@
         {
             "word": "AURA",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -138,6 +143,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "TACIT",
             "score": 5,
             "pangram": false
@@ -155,6 +165,11 @@
         {
             "word": "TACTIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

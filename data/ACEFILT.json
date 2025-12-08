@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 174,
-    "word_count": 44,
+    "total_score": 199,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FACILITATE"
@@ -34,6 +34,11 @@
         },
         {
             "word": "AFFLICT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
             "score": 7,
             "pangram": false
         },
@@ -78,6 +83,11 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "FACE",
             "score": 1,
             "pangram": false
@@ -110,6 +120,11 @@
         {
             "word": "FAIL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {
@@ -160,6 +175,11 @@
         {
             "word": "LATE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -225,6 +245,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

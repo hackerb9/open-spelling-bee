@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 72,
-    "word_count": 36,
+    "total_score": 82,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "TABLOID"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALIBI",
             "score": 5,
@@ -35,6 +40,11 @@
         {
             "word": "ALTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

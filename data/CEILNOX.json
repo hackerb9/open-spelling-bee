@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 103,
-    "word_count": 24,
+    "total_score": 114,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "LEXICON"
@@ -108,6 +108,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INCLINE",
             "score": 7,
             "pangram": false
@@ -115,6 +120,11 @@
         {
             "word": "INNOCENCE",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

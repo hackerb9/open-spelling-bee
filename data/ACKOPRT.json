@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 46,
+    "total_score": 200,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "CRACKPOT"
@@ -203,6 +203,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "TACK",
             "score": 1,
             "pangram": false
@@ -215,6 +220,11 @@
         {
             "word": "TACT",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

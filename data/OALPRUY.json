@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 111,
-    "word_count": 32,
+    "total_score": 117,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "POPULARLY"
@@ -25,6 +25,11 @@
         {
             "word": "ALLOY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {

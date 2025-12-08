@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 36,
+    "total_score": 161,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "BARBECUED"
@@ -144,6 +144,11 @@
         },
         {
             "word": "DUDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 226,
-    "word_count": 45,
+    "total_score": 227,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "ELECTROCUTE"
@@ -175,6 +175,11 @@
         {
             "word": "CUTTER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 37,
+    "total_score": 194,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "CYANIDE"
@@ -75,6 +75,11 @@
         {
             "word": "CANNY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
             "pangram": false
         },
         {
@@ -170,6 +175,11 @@
         {
             "word": "INDEED",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

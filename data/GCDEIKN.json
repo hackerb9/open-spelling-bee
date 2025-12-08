@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 180,
-    "word_count": 31,
+    "total_score": 188,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "DECKING"
@@ -36,6 +36,11 @@
             "word": "DECKING",
             "score": 7,
             "pangram": true
+        },
+        {
+            "word": "DEICING",
+            "score": 7,
+            "pangram": false
         },
         {
             "word": "DEIGN",
@@ -105,6 +110,11 @@
         {
             "word": "ENGINE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEEK",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 47,
+    "total_score": 210,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "PREEMINENCE"
@@ -170,6 +170,11 @@
         {
             "word": "PIPE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {

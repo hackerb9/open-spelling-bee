@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 142,
-    "word_count": 33,
+    "total_score": 153,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "DELICACY"
@@ -130,6 +130,16 @@
         {
             "word": "DECIDEDLY",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 172,
-    "word_count": 39,
+    "total_score": 177,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "GRUMBLE"
@@ -210,6 +210,11 @@
         {
             "word": "RUMBLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UMBER",
+            "score": 5,
             "pangram": false
         },
         {

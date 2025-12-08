@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 39,
+    "total_score": 167,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "VOLCANIC"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ANAL",
             "score": 1,

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 118,
-    "word_count": 34,
+    "total_score": 119,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "GAWKIER"
@@ -79,6 +79,11 @@
         },
         {
             "word": "GEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEEK",
             "score": 1,
             "pangram": false
         },

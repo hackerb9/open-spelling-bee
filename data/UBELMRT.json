@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 199,
-    "word_count": 47,
+    "total_score": 204,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "TUMBLER"
@@ -250,6 +250,11 @@
         {
             "word": "TURTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "UMBER",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 137,
-    "word_count": 30,
+    "total_score": 148,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PICNICKED"
@@ -49,6 +49,16 @@
         },
         {
             "word": "DECKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
             "score": 6,
             "pangram": false
         },

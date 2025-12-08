@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 120,
-    "word_count": 34,
+    "total_score": 142,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "VOLTAGE"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALGAE",
             "score": 5,
@@ -38,12 +43,27 @@
             "pangram": false
         },
         {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ALTO",
             "score": 1,
             "pangram": false
         },
         {
+            "word": "ATOLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "EAGLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
             "score": 5,
             "pangram": false
         },
@@ -108,6 +128,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LAVA",
             "score": 1,
             "pangram": false
@@ -145,6 +170,11 @@
         {
             "word": "TATTOO",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

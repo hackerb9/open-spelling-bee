@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 32,
+    "total_score": 146,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "LARCENY"
@@ -83,6 +83,11 @@
             "pangram": false
         },
         {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "CYCLE",
             "score": 5,
             "pangram": false
@@ -115,6 +120,11 @@
         {
             "word": "LYRE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

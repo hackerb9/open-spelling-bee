@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 198,
-    "word_count": 41,
+    "total_score": 199,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "TRUCKED"
@@ -159,6 +159,11 @@
         },
         {
             "word": "DUCT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
             "score": 1,
             "pangram": false
         },

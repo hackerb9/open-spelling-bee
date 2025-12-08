@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 42,
+    "total_score": 193,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "BITCHED"
@@ -95,6 +95,16 @@
         {
             "word": "DEED",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 134,
-    "word_count": 33,
+    "total_score": 145,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "LAXATIVE"
@@ -35,6 +35,11 @@
         {
             "word": "AXLE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -78,6 +83,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LAXATIVE",
             "score": 8,
             "pangram": true
@@ -115,6 +125,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

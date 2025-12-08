@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 113,
-    "word_count": 28,
+    "total_score": 118,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "EXPLICIT"
@@ -130,6 +130,11 @@
         {
             "word": "PILL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIXEL",
+            "score": 5,
             "pangram": false
         },
         {

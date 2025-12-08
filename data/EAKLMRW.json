@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 136,
-    "word_count": 47,
+    "total_score": 131,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "LAWMAKER"
@@ -125,11 +125,6 @@
         {
             "word": "MEEKER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

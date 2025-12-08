@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 92,
-    "word_count": 26,
+    "total_score": 103,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "EXACTLY"
@@ -68,6 +68,11 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "EXACT",
             "score": 5,
             "pangram": false
@@ -108,6 +113,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "TACT",
             "score": 1,
             "pangram": false
@@ -140,6 +150,11 @@
         {
             "word": "TATTY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

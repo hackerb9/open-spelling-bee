@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 221,
-    "word_count": 45,
+    "total_score": 222,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "UNCOVER"
@@ -80,6 +80,11 @@
         {
             "word": "CURVE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

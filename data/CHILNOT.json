@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 27,
+    "total_score": 123,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "LOINCLOTH"
@@ -128,6 +128,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "ILLICIT",
             "score": 7,
             "pangram": false
@@ -135,6 +140,11 @@
         {
             "word": "INCH",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

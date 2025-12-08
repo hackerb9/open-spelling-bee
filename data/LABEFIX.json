@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 132,
-    "word_count": 39,
+    "total_score": 146,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "FIXABLE"
@@ -29,6 +29,11 @@
         },
         {
             "word": "AFFABLE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
             "score": 7,
             "pangram": false
         },
@@ -125,6 +130,11 @@
         {
             "word": "FAIL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

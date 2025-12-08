@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
-    "word_count": 26,
+    "total_score": 91,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "INFIRMARY"
@@ -134,6 +134,11 @@
         },
         {
             "word": "MARRY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
             "score": 5,
             "pangram": false
         },

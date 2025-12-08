@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 34,
+    "total_score": 193,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "NOTIFYING"
@@ -105,6 +105,11 @@
         {
             "word": "IGNITION",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INGOT",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 110,
-    "word_count": 27,
+    "total_score": 116,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "MERCENARY"
@@ -70,6 +70,11 @@
         {
             "word": "CRANE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
             "pangram": false
         },
         {
@@ -130,6 +135,11 @@
         {
             "word": "NAME",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

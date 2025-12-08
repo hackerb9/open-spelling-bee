@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 167,
-    "word_count": 34,
+    "total_score": 178,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "GENERALLY"
@@ -45,6 +45,11 @@
         {
             "word": "ANGRY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARGYLE",
+            "score": 6,
             "pangram": false
         },
         {
@@ -135,6 +140,11 @@
         {
             "word": "LYRE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

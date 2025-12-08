@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 35,
+    "total_score": 196,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "CHROMED"
@@ -170,6 +170,11 @@
         {
             "word": "ECHOED",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 5,
             "pangram": false
         },
         {

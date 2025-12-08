@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 243,
-    "word_count": 43,
+    "total_score": 254,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "PERCEIVED"
@@ -105,6 +105,16 @@
         {
             "word": "DECRIED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 39,
+    "total_score": 191,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "MENTALLY"
@@ -113,6 +113,11 @@
             "pangram": false
         },
         {
+            "word": "MANATEE",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "MANE",
             "score": 1,
             "pangram": false
@@ -165,6 +170,11 @@
         {
             "word": "NAMELY",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

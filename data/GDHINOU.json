@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 29,
+    "total_score": 158,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "HOUNDING"
@@ -55,6 +55,11 @@
         {
             "word": "DUNG",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 7,
             "pangram": false
         },
         {

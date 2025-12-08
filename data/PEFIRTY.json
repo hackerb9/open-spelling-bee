@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 100,
-    "word_count": 26,
+    "total_score": 112,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "PETRIFY"
@@ -35,6 +35,11 @@
         {
             "word": "PEPPER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 7,
             "pangram": false
         },
         {
@@ -80,6 +85,11 @@
         {
             "word": "PIPE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {

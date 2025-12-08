@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 231,
-    "word_count": 45,
+    "total_score": 238,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "BACTERIA"
@@ -155,6 +155,11 @@
         {
             "word": "CRITIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRITTER",
+            "score": 7,
             "pangram": false
         },
         {

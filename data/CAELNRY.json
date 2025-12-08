@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 181,
-    "word_count": 40,
+    "total_score": 182,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "LARCENY"
@@ -170,6 +170,11 @@
         {
             "word": "CRANE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
             "pangram": false
         },
         {

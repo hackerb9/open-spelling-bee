@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 135,
-    "word_count": 29,
+    "total_score": 146,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "POUNCING"
@@ -105,6 +105,16 @@
         {
             "word": "ICON",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

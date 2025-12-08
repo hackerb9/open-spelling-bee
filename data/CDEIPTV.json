@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 27,
+    "total_score": 151,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "DECEPTIVE"
@@ -75,6 +75,16 @@
         {
             "word": "DECIDED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

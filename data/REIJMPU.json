@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 151,
-    "word_count": 34,
+    "total_score": 156,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "JUMPIER"
@@ -105,6 +105,11 @@
         {
             "word": "PIER",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {

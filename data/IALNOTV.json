@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 219,
-    "word_count": 43,
+    "total_score": 224,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "VIOLATION"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ANNOTATION",
             "score": 10,

@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 44,
+    "total_score": 148,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "CATHOLIC"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALCOHOL",
             "score": 7,
@@ -40,6 +45,11 @@
         {
             "word": "ALTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

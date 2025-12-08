@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 47,
+    "total_score": 194,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "PARALYZE"
@@ -155,6 +155,11 @@
         {
             "word": "PEPPER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 7,
             "pangram": false
         },
         {

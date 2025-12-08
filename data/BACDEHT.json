@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 143,
-    "word_count": 31,
+    "total_score": 152,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "BATCHED"
@@ -90,6 +90,11 @@
         {
             "word": "BEACHED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BEACHHEAD",
+            "score": 9,
             "pangram": false
         },
         {

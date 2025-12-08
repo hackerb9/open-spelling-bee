@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 153,
-    "word_count": 40,
+    "total_score": 148,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "CLAMPED"
@@ -205,11 +205,6 @@
         {
             "word": "MEDDLED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

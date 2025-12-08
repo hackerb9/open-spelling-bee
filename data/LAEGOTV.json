@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 44,
+    "total_score": 169,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "VOLTAGE"
@@ -38,12 +38,27 @@
             "pangram": false
         },
         {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ALTO",
             "score": 1,
             "pangram": false
         },
         {
+            "word": "ATOLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "EAGLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
             "score": 5,
             "pangram": false
         },
@@ -105,6 +120,11 @@
         {
             "word": "LATE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -175,6 +195,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

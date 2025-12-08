@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 234,
-    "word_count": 44,
+    "total_score": 246,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "INCURRED"
@@ -128,6 +128,16 @@
             "pangram": false
         },
         {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "DICE",
             "score": 1,
             "pangram": false
@@ -140,6 +150,11 @@
         {
             "word": "DUNCE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

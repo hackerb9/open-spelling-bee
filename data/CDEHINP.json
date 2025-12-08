@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 167,
-    "word_count": 34,
+    "total_score": 178,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "PINCHED"
@@ -95,6 +95,16 @@
         {
             "word": "DECIDED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

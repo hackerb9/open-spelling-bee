@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 96,
-    "word_count": 35,
+    "total_score": 102,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "MODULAR"
@@ -45,6 +45,11 @@
         {
             "word": "AROMA",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {

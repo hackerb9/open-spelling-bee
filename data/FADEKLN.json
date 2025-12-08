@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 106,
-    "word_count": 28,
+    "total_score": 120,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "FLANKED"
     ],
     "word_list": [
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
         {
             "word": "DEAF",
             "score": 1,
@@ -55,6 +60,11 @@
         {
             "word": "FAKED",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

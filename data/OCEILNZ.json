@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 101,
-    "word_count": 30,
+    "total_score": 112,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "COLONIZE"
@@ -88,8 +88,18 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INNOCENCE",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

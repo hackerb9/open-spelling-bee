@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 125,
-    "word_count": 32,
+    "total_score": 143,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "AUTOCRATIC"
@@ -30,6 +30,11 @@
         {
             "word": "AORTA",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -118,6 +123,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -130,6 +140,11 @@
         {
             "word": "TACO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

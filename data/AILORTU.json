@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 122,
-    "word_count": 33,
+    "total_score": 150,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "TUTORIAL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLOT",
             "score": 5,
@@ -48,6 +53,11 @@
             "pangram": false
         },
         {
+            "word": "ATOLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "AURA",
             "score": 1,
             "pangram": false
@@ -55,6 +65,11 @@
         {
             "word": "AURAL",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -108,6 +123,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "RURAL",
             "score": 5,
             "pangram": false
@@ -125,6 +145,11 @@
         {
             "word": "TALL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

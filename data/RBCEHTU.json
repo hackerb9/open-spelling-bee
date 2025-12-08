@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 163,
-    "word_count": 38,
+    "total_score": 164,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "BUTCHER"
@@ -110,6 +110,11 @@
         {
             "word": "CUTTER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 45,
+    "total_score": 222,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "CALCULATED"
@@ -168,6 +168,16 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATED",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "ELECT",
             "score": 5,
             "pangram": false
@@ -180,6 +190,11 @@
         {
             "word": "LATE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,6 +239,11 @@
         },
         {
             "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
             "score": 1,
             "pangram": false
         },

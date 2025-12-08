@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 235,
-    "word_count": 49,
+    "total_score": 240,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "OVERPRICE"
@@ -135,6 +135,11 @@
         {
             "word": "PIERCE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {

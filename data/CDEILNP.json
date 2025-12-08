@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 30,
+    "total_score": 173,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PENCILED"
@@ -70,6 +70,16 @@
         {
             "word": "DECLINED",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

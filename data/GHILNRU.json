@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 192,
-    "word_count": 38,
+    "total_score": 200,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "HURLING"
@@ -125,6 +125,11 @@
         {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

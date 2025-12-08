@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 76,
+    "total_score": 72,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "MANHOLE"
     ],
     "word_list": [
+        {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
         {
             "word": "ALONE",
             "score": 5,
@@ -165,11 +170,6 @@
         {
             "word": "MEAL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

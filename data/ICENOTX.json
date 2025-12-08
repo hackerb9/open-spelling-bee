@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 180,
-    "word_count": 32,
+    "total_score": 191,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "EXTINCTION"
@@ -93,6 +93,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INCITE",
             "score": 6,
             "pangram": false
@@ -120,6 +125,11 @@
         {
             "word": "INTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 176,
-    "word_count": 46,
+    "total_score": 183,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "FRAILTY"
@@ -35,6 +35,11 @@
         {
             "word": "AIRY",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
             "pangram": false
         },
         {

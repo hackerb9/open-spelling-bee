@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 77,
-    "word_count": 27,
+    "total_score": 84,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "PAINFUL"
     ],
     "word_list": [
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
         {
             "word": "ANAL",
             "score": 1,

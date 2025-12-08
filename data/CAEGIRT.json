@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 249,
-    "word_count": 48,
+    "total_score": 256,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "CIGARETTE"
@@ -160,6 +160,11 @@
         {
             "word": "CRITIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRITTER",
+            "score": 7,
             "pangram": false
         },
         {

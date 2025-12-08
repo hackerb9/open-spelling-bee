@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 95,
-    "word_count": 26,
+    "total_score": 100,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "LAUNDRY"
@@ -124,6 +124,11 @@
         },
         {
             "word": "LUNAR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
             "score": 5,
             "pangram": false
         },

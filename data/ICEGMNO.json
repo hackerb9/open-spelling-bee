@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 218,
-    "word_count": 40,
+    "total_score": 229,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "COMMENCING"
@@ -103,6 +103,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INCOME",
             "score": 6,
             "pangram": false
@@ -120,6 +125,11 @@
         {
             "word": "INNOCENCE",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

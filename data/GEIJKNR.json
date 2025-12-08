@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 33,
+    "total_score": 198,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "JERKING"
@@ -50,6 +50,11 @@
         {
             "word": "ERRING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GEEK",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 30,
+    "total_score": 118,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "VOLTAGE"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLOT",
             "score": 5,
@@ -30,6 +35,16 @@
         {
             "word": "ALTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -63,6 +78,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LOOT",
             "score": 1,
             "pangram": false
@@ -85,6 +105,11 @@
         {
             "word": "TATTOO",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

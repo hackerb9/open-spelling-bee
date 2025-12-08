@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 33,
+    "total_score": 203,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "CLUBBING"
@@ -155,6 +155,11 @@
         {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

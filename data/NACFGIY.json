@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 139,
-    "word_count": 25,
+    "total_score": 145,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "FANCYING"
@@ -55,6 +55,11 @@
         {
             "word": "CANNY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
             "pangram": false
         },
         {
@@ -140,6 +145,11 @@
         {
             "word": "NAGGING",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

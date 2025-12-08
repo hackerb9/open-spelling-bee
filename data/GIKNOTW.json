@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 239,
-    "word_count": 42,
+    "total_score": 250,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "KOWTOWING"
     ],
     "word_list": [
+        {
+            "word": "GINKGO",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "GOING",
             "score": 5,
@@ -50,6 +55,11 @@
         {
             "word": "IGNITION",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INGOT",
+            "score": 5,
             "pangram": false
         },
         {

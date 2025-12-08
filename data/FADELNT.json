@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 202,
-    "word_count": 47,
+    "total_score": 216,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FLATTENED"
     ],
     "word_list": [
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
         {
             "word": "DAFT",
             "score": 1,
@@ -80,6 +85,11 @@
         {
             "word": "FADED",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

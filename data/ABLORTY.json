@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 47,
+    "total_score": 208,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "LABORATORY"
@@ -79,6 +79,11 @@
         },
         {
             "word": "ARRAY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
             "score": 5,
             "pangram": false
         },
@@ -183,6 +188,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROYAL",
             "score": 5,
             "pangram": false
@@ -214,6 +224,11 @@
         },
         {
             "word": "TALLY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

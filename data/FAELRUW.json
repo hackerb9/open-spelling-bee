@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 150,
-    "word_count": 39,
+    "total_score": 164,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "AWFULLER"
@@ -28,6 +28,11 @@
             "pangram": false
         },
         {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "AWFUL",
             "score": 5,
             "pangram": false
@@ -36,6 +41,11 @@
             "word": "AWFULLER",
             "score": 8,
             "pangram": true
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
+            "pangram": false
         },
         {
             "word": "FALL",

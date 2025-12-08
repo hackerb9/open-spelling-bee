@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 201,
-    "word_count": 48,
+    "total_score": 213,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "AUGMENT"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGENT",
             "score": 5,
@@ -110,6 +115,11 @@
         {
             "word": "MANAGEMENT",
             "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {

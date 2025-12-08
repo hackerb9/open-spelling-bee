@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 26,
+    "total_score": 126,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "NORMALLY"
@@ -105,6 +105,11 @@
         {
             "word": "MORALLY",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

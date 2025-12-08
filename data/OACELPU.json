@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 67,
-    "word_count": 25,
+    "total_score": 68,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "POPULACE"
     ],
     "word_list": [
+        {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
         {
             "word": "CACAO",
             "score": 5,

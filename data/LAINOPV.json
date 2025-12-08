@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 34,
+    "total_score": 107,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PAVILION"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ANAL",
             "score": 1,

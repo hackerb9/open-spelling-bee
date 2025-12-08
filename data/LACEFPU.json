@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 90,
-    "word_count": 38,
+    "total_score": 104,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "PEACEFUL"
     ],
     "word_list": [
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
         {
             "word": "APPALL",
             "score": 6,
@@ -75,6 +80,11 @@
         {
             "word": "CUPFUL",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 225,
-    "word_count": 45,
+    "total_score": 236,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "INJECTED"
@@ -45,6 +45,16 @@
         {
             "word": "DECIDED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

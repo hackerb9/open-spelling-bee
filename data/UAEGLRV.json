@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 111,
-    "word_count": 26,
+    "total_score": 118,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "VULGARER"
@@ -30,6 +30,11 @@
         {
             "word": "ARGUE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ARUGULA",
+            "score": 7,
             "pangram": false
         },
         {

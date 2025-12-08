@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 26,
+    "total_score": 207,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "CONVICTING"
@@ -39,6 +39,11 @@
         },
         {
             "word": "COCOONING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "COGNITION",
             "score": 9,
             "pangram": false
         },
@@ -123,6 +128,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INCITING",
             "score": 8,
             "pangram": false
@@ -135,6 +145,11 @@
         {
             "word": "INVOICING",
             "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

@@ -13,7 +13,7 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
     "total_score": 198,
     "word_count": 37,

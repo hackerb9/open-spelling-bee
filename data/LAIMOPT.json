@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 108,
-    "word_count": 44,
+    "total_score": 124,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "OPTIMAL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLOT",
             "score": 5,
@@ -34,6 +39,16 @@
         },
         {
             "word": "APPALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMPALA",
             "score": 6,
             "pangram": false
         },

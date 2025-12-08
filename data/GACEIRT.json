@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 35,
+    "total_score": 192,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "CIGARETTE"
@@ -25,6 +25,11 @@
         {
             "word": "ACREAGE",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "AGATE",
+            "score": 5,
             "pangram": false
         },
         {

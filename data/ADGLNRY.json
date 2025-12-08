@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 111,
-    "word_count": 32,
+    "total_score": 116,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "GRANDLY"
@@ -155,6 +155,11 @@
         {
             "word": "LARD",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

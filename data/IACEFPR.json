@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 37,
+    "total_score": 182,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "PACIFIER"
@@ -150,6 +150,11 @@
         {
             "word": "PIPE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {

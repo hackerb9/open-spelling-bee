@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 25,
+    "total_score": 108,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "VOUCHER"
@@ -68,6 +68,11 @@
             "pangram": false
         },
         {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ERROR",
             "score": 5,
             "pangram": false
@@ -104,6 +109,11 @@
         },
         {
             "word": "OCCUR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
             "score": 5,
             "pangram": false
         },

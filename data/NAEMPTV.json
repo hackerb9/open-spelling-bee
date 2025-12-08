@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 95,
-    "word_count": 26,
+    "total_score": 102,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "PAVEMENT"
@@ -60,6 +60,11 @@
         {
             "word": "EVENT",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {

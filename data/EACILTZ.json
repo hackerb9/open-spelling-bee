@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 108,
-    "word_count": 26,
+    "total_score": 119,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "ITALICIZE"
@@ -50,6 +50,11 @@
         {
             "word": "ECLECTIC",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -88,6 +93,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LATTICE",
             "score": 7,
             "pangram": false
@@ -110,6 +120,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

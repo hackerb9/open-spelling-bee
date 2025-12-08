@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 41,
+    "total_score": 166,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "GRIMACE"
@@ -129,6 +129,11 @@
         },
         {
             "word": "MACE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAGE",
             "score": 1,
             "pangram": false
         },

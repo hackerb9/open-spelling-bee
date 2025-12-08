@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 44,
+    "total_score": 205,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "OUTRAGE"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGGREGATE",
             "score": 9,
@@ -50,6 +55,11 @@
         {
             "word": "AURA",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -188,8 +198,18 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "TARGET",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

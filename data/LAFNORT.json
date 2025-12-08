@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 103,
-    "word_count": 33,
+    "total_score": 115,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "FRONTAL"
@@ -25,6 +25,11 @@
         {
             "word": "AFLOAT",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
             "pangram": false
         },
         {
@@ -55,6 +60,11 @@
         {
             "word": "ANAL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
-    "word_count": 47,
+    "total_score": 185,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "POLKAED"
     ],
     "word_list": [
+        {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
         {
             "word": "DODO",
             "score": 1,

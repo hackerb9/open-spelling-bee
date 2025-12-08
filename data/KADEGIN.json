@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 106,
-    "word_count": 25,
+    "total_score": 107,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "KNEADING"
@@ -45,6 +45,11 @@
         {
             "word": "EKING",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GEEK",
+            "score": 1,
             "pangram": false
         },
         {

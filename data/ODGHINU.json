@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 25,
+    "total_score": 119,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "HOUNDING"
@@ -50,6 +50,11 @@
         {
             "word": "DUNNO",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 7,
             "pangram": false
         },
         {

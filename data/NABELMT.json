@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 189,
-    "word_count": 41,
+    "total_score": 196,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "LAMENTABLE"
@@ -145,6 +145,11 @@
         {
             "word": "LENT",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {

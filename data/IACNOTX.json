@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 206,
-    "word_count": 34,
+    "total_score": 217,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "INTOXICATION"
@@ -88,6 +88,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INACTION",
             "score": 8,
             "pangram": false
@@ -121,6 +126,11 @@
             "word": "INTOXICATION",
             "score": 12,
             "pangram": true
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
+            "pangram": false
         },
         {
             "word": "IOTA",

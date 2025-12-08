@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 157,
-    "word_count": 42,
+    "total_score": 162,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "MONOCHROME"
@@ -215,6 +215,11 @@
         {
             "word": "NORM",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 5,
             "pangram": false
         },
         {

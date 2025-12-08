@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 191,
-    "word_count": 40,
+    "total_score": 207,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "BLEACHED"
@@ -90,6 +90,11 @@
         {
             "word": "BEACHED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BEACHHEAD",
+            "score": 9,
             "pangram": false
         },
         {
@@ -204,6 +209,11 @@
         },
         {
             "word": "DABBLED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEBACLE",
             "score": 7,
             "pangram": false
         },

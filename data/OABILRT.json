@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 149,
-    "word_count": 45,
+    "total_score": 171,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "ORBITAL"
@@ -29,6 +29,11 @@
         },
         {
             "word": "ABORT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIOLI",
             "score": 5,
             "pangram": false
         },
@@ -54,6 +59,11 @@
         },
         {
             "word": "ARBOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
             "score": 5,
             "pangram": false
         },
@@ -178,6 +188,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -190,6 +205,11 @@
         {
             "word": "TAILOR",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

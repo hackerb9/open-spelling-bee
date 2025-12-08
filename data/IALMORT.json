@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 143,
-    "word_count": 38,
+    "total_score": 148,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "IMMORTAL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AIRMAIL",
             "score": 7,

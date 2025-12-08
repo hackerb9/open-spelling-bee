@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 35,
+    "total_score": 191,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "GRAVITATE"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGGRAVATE",
             "score": 9,

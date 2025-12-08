@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 147,
-    "word_count": 26,
+    "total_score": 148,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "CONCURRENCY"
@@ -110,6 +110,11 @@
         {
             "word": "CURRY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

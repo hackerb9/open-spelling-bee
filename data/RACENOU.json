@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 212,
-    "word_count": 45,
+    "total_score": 219,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "ANNOUNCER"
@@ -60,6 +60,11 @@
         {
             "word": "AURA",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -145,6 +150,11 @@
         {
             "word": "EARNER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

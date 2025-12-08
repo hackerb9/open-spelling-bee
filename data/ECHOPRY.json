@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 133,
-    "word_count": 34,
+    "total_score": 145,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "PROPHECY"
@@ -133,6 +133,11 @@
             "pangram": false
         },
         {
+            "word": "OCHRE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "PEEP",
             "score": 1,
             "pangram": false
@@ -145,6 +150,11 @@
         {
             "word": "PEPPER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 7,
             "pangram": false
         },
         {

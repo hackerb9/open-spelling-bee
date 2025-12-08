@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 45,
+    "total_score": 167,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "ACCUMULATE"
@@ -88,6 +88,11 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "EMULATE",
             "score": 7,
             "pangram": false
@@ -105,6 +110,11 @@
         {
             "word": "LATE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -224,6 +234,11 @@
         },
         {
             "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
             "score": 1,
             "pangram": false
         },

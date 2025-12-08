@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 67,
-    "word_count": 29,
+    "total_score": 74,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "PEACEFUL"
@@ -60,6 +60,11 @@
         {
             "word": "FACE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

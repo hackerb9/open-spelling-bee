@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 98,
-    "word_count": 35,
+    "total_score": 108,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "COCKTAIL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLOT",
             "score": 5,
@@ -30,6 +35,11 @@
         {
             "word": "ALTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

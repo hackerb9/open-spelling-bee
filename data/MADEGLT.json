@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 48,
+    "total_score": 206,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "AMALGAMATED"
@@ -109,6 +109,11 @@
         },
         {
             "word": "MADE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MAGE",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 188,
-    "word_count": 34,
+    "total_score": 194,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "KINGDOM"
@@ -65,6 +65,11 @@
         {
             "word": "DOOMING",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GINKGO",
+            "score": 6,
             "pangram": false
         },
         {

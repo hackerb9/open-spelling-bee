@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
-    "word_count": 47,
+    "total_score": 198,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FRATERNAL"
@@ -30,6 +30,16 @@
         {
             "word": "AFTER",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

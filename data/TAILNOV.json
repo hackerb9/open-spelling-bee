@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 203,
-    "word_count": 43,
+    "total_score": 208,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "VIOLATION"
@@ -40,6 +40,11 @@
         {
             "word": "ANOINT",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

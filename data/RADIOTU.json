@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 127,
-    "word_count": 38,
+    "total_score": 150,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "AUDITOR"
@@ -58,6 +58,11 @@
             "pangram": false
         },
         {
+            "word": "AURORA",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "DART",
             "score": 1,
             "pangram": false
@@ -75,6 +80,11 @@
         {
             "word": "DOUR",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRUID",
+            "score": 5,
             "pangram": false
         },
         {
@@ -143,6 +153,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -150,6 +165,11 @@
         {
             "word": "ROUT",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

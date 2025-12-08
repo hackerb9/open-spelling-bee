@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 116,
-    "word_count": 31,
+    "total_score": 121,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "WHIMPER"
@@ -90,6 +90,11 @@
         {
             "word": "PIER",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {

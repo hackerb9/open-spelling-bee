@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 154,
-    "word_count": 46,
+    "total_score": 161,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "INFLAME"
@@ -55,6 +55,11 @@
         {
             "word": "ENEMA",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

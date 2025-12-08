@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 224,
-    "word_count": 39,
+    "total_score": 232,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "LUNCHING"
@@ -185,6 +185,11 @@
         {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

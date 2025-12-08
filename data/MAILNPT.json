@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 103,
-    "word_count": 26,
+    "total_score": 109,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "IMPLANT"
@@ -24,6 +24,11 @@
     "word_list": [
         {
             "word": "ANIMAL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPALA",
             "score": 6,
             "pangram": false
         },

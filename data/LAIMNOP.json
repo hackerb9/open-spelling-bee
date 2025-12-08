@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 41,
+    "total_score": 140,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "PALOMINO"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ANAL",
             "score": 1,
@@ -34,6 +39,11 @@
         },
         {
             "word": "APPALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPALA",
             "score": 6,
             "pangram": false
         },

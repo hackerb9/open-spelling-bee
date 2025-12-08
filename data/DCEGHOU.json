@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 161,
-    "word_count": 37,
+    "total_score": 168,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "COUGHED"
@@ -140,6 +140,11 @@
         {
             "word": "EGGED",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 7,
             "pangram": false
         },
         {

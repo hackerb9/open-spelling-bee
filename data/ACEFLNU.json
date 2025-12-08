@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
-    "word_count": 26,
+    "total_score": 100,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "AFFLUENCE"
@@ -31,6 +31,11 @@
             "word": "AFFLUENCE",
             "score": 9,
             "pangram": true
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
         },
         {
             "word": "ANAL",
@@ -90,6 +95,11 @@
         {
             "word": "FACE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

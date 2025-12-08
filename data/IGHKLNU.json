@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 144,
-    "word_count": 29,
+    "total_score": 152,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "HULKING"
@@ -130,6 +130,11 @@
         {
             "word": "LIKING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

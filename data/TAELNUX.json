@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 132,
-    "word_count": 35,
+    "total_score": 143,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "EXULTANT"
@@ -39,6 +39,11 @@
         },
         {
             "word": "EATEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
             "score": 5,
             "pangram": false
         },
@@ -79,6 +84,11 @@
         },
         {
             "word": "LATEX",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
             "score": 5,
             "pangram": false
         },
@@ -134,6 +144,11 @@
         },
         {
             "word": "TAUT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
             "score": 1,
             "pangram": false
         },

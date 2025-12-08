@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 25,
+    "total_score": 113,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "LAXATIVE"
@@ -43,6 +43,11 @@
             "pangram": false
         },
         {
+            "word": "ELATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "ELEVATE",
             "score": 7,
             "pangram": false
@@ -59,6 +64,11 @@
         },
         {
             "word": "LATEX",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
             "score": 5,
             "pangram": false
         },
@@ -99,6 +109,11 @@
         },
         {
             "word": "TAXI",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
             "score": 1,
             "pangram": false
         },

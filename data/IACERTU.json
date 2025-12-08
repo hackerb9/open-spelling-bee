@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 206,
-    "word_count": 38,
+    "total_score": 222,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "CARICATURE"
@@ -88,6 +88,11 @@
             "pangram": false
         },
         {
+            "word": "CRITTER",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "EERIE",
             "score": 5,
             "pangram": false
@@ -135,6 +140,11 @@
         {
             "word": "RECRUIT",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "RECRUITER",
+            "score": 9,
             "pangram": false
         },
         {

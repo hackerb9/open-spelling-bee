@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 192,
-    "word_count": 47,
+    "total_score": 199,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "EFFEMINATE"
@@ -135,6 +135,11 @@
         {
             "word": "MAMMA",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "MANATEE",
+            "score": 7,
             "pangram": false
         },
         {

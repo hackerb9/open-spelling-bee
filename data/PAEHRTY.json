@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 49,
+    "total_score": 194,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "THERAPY"
@@ -135,6 +135,11 @@
         {
             "word": "PEPPER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 7,
             "pangram": false
         },
         {

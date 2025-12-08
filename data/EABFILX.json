@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 117,
-    "word_count": 32,
+    "total_score": 124,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "FIXABLE"
@@ -105,6 +105,11 @@
         {
             "word": "FABLE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

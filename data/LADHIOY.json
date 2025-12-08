@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 75,
-    "word_count": 29,
+    "total_score": 80,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "HOLIDAY"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLAY",
             "score": 5,

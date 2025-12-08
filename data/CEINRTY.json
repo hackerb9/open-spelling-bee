@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 130,
-    "word_count": 24,
+    "total_score": 137,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "ECCENTRICITY"
@@ -55,6 +55,11 @@
         {
             "word": "CRITIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CRITTER",
+            "score": 7,
             "pangram": false
         },
         {

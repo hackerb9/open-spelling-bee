@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 45,
+    "total_score": 202,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "POWDERY"
@@ -100,6 +100,11 @@
         {
             "word": "PEPPERED",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERY",
+            "score": 7,
             "pangram": false
         },
         {

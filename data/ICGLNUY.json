@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 158,
-    "word_count": 26,
+    "total_score": 166,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "CUNNINGLY"
@@ -120,6 +120,11 @@
         {
             "word": "LILY",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

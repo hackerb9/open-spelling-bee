@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 115,
-    "word_count": 28,
+    "total_score": 120,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "BINOMIAL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALBINO",
             "score": 6,

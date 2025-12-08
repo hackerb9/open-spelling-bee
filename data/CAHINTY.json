@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 127,
-    "word_count": 30,
+    "total_score": 128,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "HYACINTH"
@@ -104,6 +104,11 @@
         },
         {
             "word": "CITY",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 136,
-    "word_count": 34,
+    "total_score": 137,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "IMAGERY"
@@ -101,6 +101,11 @@
             "word": "IMAGERY",
             "score": 7,
             "pangram": true
+        },
+        {
+            "word": "MAGE",
+            "score": 1,
+            "pangram": false
         },
         {
             "word": "MAIM",

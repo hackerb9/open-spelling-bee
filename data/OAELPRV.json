@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 183,
-    "word_count": 49,
+    "total_score": 184,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "OVERLAP"
     ],
     "word_list": [
+        {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
         {
             "word": "APPROVAL",
             "score": 8,

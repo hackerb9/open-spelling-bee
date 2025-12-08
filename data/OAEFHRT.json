@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 174,
-    "word_count": 42,
+    "total_score": 186,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "FOREFATHER"
@@ -163,12 +163,22 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTE",
             "score": 1,
             "pangram": false
         },
         {
             "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

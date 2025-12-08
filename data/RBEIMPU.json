@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 44,
+    "total_score": 205,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "BUMPIER"
@@ -143,6 +143,11 @@
             "pangram": false
         },
         {
+            "word": "PIPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "PREMIER",
             "score": 7,
             "pangram": false
@@ -230,6 +235,11 @@
         {
             "word": "RUMP",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "UMBER",
+            "score": 5,
             "pangram": false
         },
         {

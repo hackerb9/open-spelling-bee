@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 89,
-    "word_count": 30,
+    "total_score": 107,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "OUTWARD"
@@ -40,6 +40,11 @@
         {
             "word": "AURA",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -108,6 +113,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -115,6 +125,11 @@
         {
             "word": "ROUT",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

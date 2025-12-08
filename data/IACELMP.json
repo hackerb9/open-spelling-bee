@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 30,
+    "total_score": 108,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "PIECEMEAL"
@@ -59,6 +59,11 @@
         },
         {
             "word": "ICICLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPALA",
             "score": 6,
             "pangram": false
         },

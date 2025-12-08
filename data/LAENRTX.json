@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 201,
-    "word_count": 44,
+    "total_score": 212,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "EXTERNAL"
@@ -60,6 +60,11 @@
         {
             "word": "EARL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -109,6 +114,11 @@
         },
         {
             "word": "LATEX",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
             "score": 5,
             "pangram": false
         },
@@ -225,6 +235,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

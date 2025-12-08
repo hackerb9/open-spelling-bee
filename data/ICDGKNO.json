@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 219,
-    "word_count": 39,
+    "total_score": 225,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "DOCKING"
@@ -105,6 +105,11 @@
         {
             "word": "DOING",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINKGO",
+            "score": 6,
             "pangram": false
         },
         {

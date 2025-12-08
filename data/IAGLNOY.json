@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 247,
-    "word_count": 44,
+    "total_score": 252,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "ANNOYINGLY"
@@ -35,6 +35,11 @@
         {
             "word": "AILING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AIOLI",
+            "score": 5,
             "pangram": false
         },
         {

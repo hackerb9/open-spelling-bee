@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 148,
-    "word_count": 26,
+    "total_score": 156,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "CUNNINGLY"
@@ -115,6 +115,11 @@
         {
             "word": "INNING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 211,
-    "word_count": 34,
+    "total_score": 219,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "MUDDLING"
@@ -105,6 +105,11 @@
         {
             "word": "LIMING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINGUINI",
+            "score": 8,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 170,
-    "word_count": 40,
+    "total_score": 177,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "HOLDING"
@@ -60,6 +60,11 @@
         {
             "word": "DOODLING",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 7,
             "pangram": false
         },
         {

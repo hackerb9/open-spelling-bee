@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 223,
-    "word_count": 48,
+    "total_score": 228,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "INCOHERENCE"
@@ -240,6 +240,11 @@
         {
             "word": "NONE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
+            "score": 5,
             "pangram": false
         },
         {

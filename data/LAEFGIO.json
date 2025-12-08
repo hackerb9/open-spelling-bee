@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 99,
-    "word_count": 39,
+    "total_score": 119,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
         "FOLIAGE"
@@ -28,6 +28,16 @@
             "pangram": false
         },
         {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ALGAE",
             "score": 5,
             "pangram": false
@@ -35,6 +45,11 @@
         {
             "word": "ALLEGE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALOE",
+            "score": 1,
             "pangram": false
         },
         {
@@ -50,6 +65,11 @@
         {
             "word": "FAIL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {

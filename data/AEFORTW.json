@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 137,
-    "word_count": 39,
+    "total_score": 149,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "FOOTWEAR"
@@ -145,6 +145,16 @@
         {
             "word": "ROTATE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 193,
-    "word_count": 37,
+    "total_score": 205,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "CYANIDE"
@@ -118,6 +118,11 @@
             "pangram": false
         },
         {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "CYANIDE",
             "score": 7,
             "pangram": true
@@ -170,6 +175,16 @@
         {
             "word": "DECIDED",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEICE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DEICED",
+            "score": 6,
             "pangram": false
         },
         {

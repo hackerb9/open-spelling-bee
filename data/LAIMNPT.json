@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 142,
-    "word_count": 38,
+    "total_score": 148,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "IMPLANT"
@@ -34,6 +34,11 @@
         },
         {
             "word": "APPALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IMPALA",
             "score": 6,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 176,
-    "word_count": 45,
+    "total_score": 182,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "PLAYMATE"
@@ -110,6 +110,11 @@
         {
             "word": "PALL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLET",
+            "score": 6,
             "pangram": false
         },
         {

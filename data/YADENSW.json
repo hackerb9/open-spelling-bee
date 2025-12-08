@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 114,
-    "word_count": 35,
+    "total_score": 119,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "ENDWAYS"
@@ -100,6 +100,11 @@
         {
             "word": "EYES",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

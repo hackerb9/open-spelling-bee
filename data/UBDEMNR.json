@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 231,
-    "word_count": 46,
+    "total_score": 236,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "NUMBERED"
@@ -229,6 +229,11 @@
         },
         {
             "word": "UDDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "UMBER",
             "score": 5,
             "pangram": false
         },

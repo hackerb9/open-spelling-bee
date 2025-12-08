@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 38,
+    "total_score": 157,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "MOTORWAY"
@@ -153,7 +153,17 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

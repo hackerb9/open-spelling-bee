@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 43,
+    "total_score": 188,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "EVENTUAL"
@@ -39,6 +39,11 @@
         },
         {
             "word": "EATEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
             "score": 5,
             "pangram": false
         },
@@ -85,6 +90,11 @@
         {
             "word": "LATENT",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LATTE",
+            "score": 5,
             "pangram": false
         },
         {
@@ -145,6 +155,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

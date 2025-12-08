@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 29,
+    "total_score": 113,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "KIDNAPPED"
@@ -164,6 +164,11 @@
         },
         {
             "word": "PINKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINKIE",
             "score": 6,
             "pangram": false
         }

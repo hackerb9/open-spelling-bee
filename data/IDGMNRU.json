@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 239,
-    "word_count": 41,
+    "total_score": 244,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "DRUMMING"
@@ -45,6 +45,11 @@
         {
             "word": "DRUGGING",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DRUID",
+            "score": 5,
             "pangram": false
         },
         {

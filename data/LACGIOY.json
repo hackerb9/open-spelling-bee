@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 118,
-    "word_count": 33,
+    "total_score": 123,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "LOGICALLY"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLAY",
             "score": 5,

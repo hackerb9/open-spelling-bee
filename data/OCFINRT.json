@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 36,
+    "total_score": 151,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "FRICTION"
@@ -113,6 +113,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INFO",
             "score": 1,
             "pangram": false
@@ -120,6 +125,11 @@
         {
             "word": "INTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

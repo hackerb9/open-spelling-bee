@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 115,
-    "word_count": 28,
+    "total_score": 116,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "CAJOLED"
@@ -45,6 +45,11 @@
         {
             "word": "ADDED",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALOE",
+            "score": 1,
             "pangram": false
         },
         {

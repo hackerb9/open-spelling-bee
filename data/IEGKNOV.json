@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 26,
+    "total_score": 135,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "EVOKING"
@@ -50,6 +50,11 @@
         {
             "word": "GENIE",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GINKGO",
+            "score": 6,
             "pangram": false
         },
         {

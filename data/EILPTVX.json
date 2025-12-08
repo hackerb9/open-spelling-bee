@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 98,
-    "word_count": 28,
+    "total_score": 103,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "EXPLETIVE"
@@ -110,6 +110,11 @@
         {
             "word": "PIPE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIXEL",
+            "score": 5,
             "pangram": false
         },
         {

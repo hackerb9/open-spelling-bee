@@ -13,10 +13,10 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": true
+        "manual_puzzle": false
     },
-    "total_score": 61,
-    "word_count": 24,
+    "total_score": 66,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "ALTHOUGH"
@@ -35,6 +35,11 @@
         {
             "word": "ALTO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

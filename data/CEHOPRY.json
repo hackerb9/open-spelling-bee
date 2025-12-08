@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 25,
+    "total_score": 114,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "PROPHECY"
@@ -129,6 +129,11 @@
         },
         {
             "word": "EPOCH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OCHRE",
             "score": 5,
             "pangram": false
         },

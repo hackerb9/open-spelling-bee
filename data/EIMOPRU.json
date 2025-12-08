@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 43,
+    "total_score": 184,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "EMPORIUM"
@@ -135,6 +135,11 @@
         {
             "word": "PIPE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
             "pangram": false
         },
         {
