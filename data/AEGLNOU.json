@@ -33,6 +33,11 @@
             "pangram": false
         },
         {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ALONE",
             "score": 5,
             "pangram": false
@@ -75,11 +80,6 @@
         {
             "word": "ANNUL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 98,
+    "total_score": 102,
     "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
@@ -28,13 +28,13 @@
             "pangram": false
         },
         {
-            "word": "AIRMAIL",
-            "score": 7,
+            "word": "AIOLI",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "AMID",
-            "score": 1,
+            "word": "AIRMAIL",
+            "score": 7,
             "pangram": false
         },
         {

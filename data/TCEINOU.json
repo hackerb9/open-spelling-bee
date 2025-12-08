@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 230,
-    "word_count": 47,
+    "total_score": 225,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "CONTINUE"
@@ -194,11 +194,6 @@
         },
         {
             "word": "TONIC",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
             "score": 5,
             "pangram": false
         },

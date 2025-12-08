@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 137,
-    "word_count": 32,
+    "total_score": 131,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "DEFUNCT"
@@ -120,11 +120,6 @@
         {
             "word": "NUDE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "NUTTED",
-            "score": 6,
             "pangram": false
         },
         {

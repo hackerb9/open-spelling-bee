@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 32,
+    "total_score": 165,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "HABITATION"
@@ -30,11 +30,6 @@
         {
             "word": "ANOINT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

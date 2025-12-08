@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 204,
-    "word_count": 33,
+    "total_score": 198,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "CEMENTING"
@@ -105,11 +105,6 @@
         {
             "word": "MEETING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "METING",
-            "score": 6,
             "pangram": false
         },
         {

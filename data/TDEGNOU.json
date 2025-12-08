@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 187,
-    "word_count": 48,
+    "total_score": 176,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "TONGUED"
@@ -104,11 +104,6 @@
         },
         {
             "word": "NUGGET",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "NUTTED",
             "score": 6,
             "pangram": false
         },
@@ -201,11 +196,6 @@
             "word": "TONGUED",
             "score": 7,
             "pangram": true
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
-            "pangram": false
         },
         {
             "word": "TOOT",

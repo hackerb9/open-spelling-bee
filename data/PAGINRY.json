@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 178,
-    "word_count": 33,
+    "total_score": 171,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PRAYING"
@@ -125,11 +125,6 @@
         {
             "word": "PARING",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PARRING",
-            "score": 7,
             "pangram": false
         },
         {

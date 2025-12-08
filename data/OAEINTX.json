@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 29,
+    "total_score": 132,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "ANNEXATION"
@@ -40,11 +40,6 @@
         {
             "word": "ANOINT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -145,11 +140,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

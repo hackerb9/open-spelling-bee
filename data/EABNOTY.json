@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 116,
-    "word_count": 37,
+    "total_score": 111,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "BAYONET"
@@ -195,11 +195,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

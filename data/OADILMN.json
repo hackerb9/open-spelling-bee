@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 106,
+    "total_score": 110,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "MANDOLIN"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALMOND",
             "score": 6,
@@ -30,11 +35,6 @@
         {
             "word": "AMMONIA",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

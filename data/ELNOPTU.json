@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 128,
-    "word_count": 39,
+    "total_score": 118,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "OPULENT"
@@ -30,11 +30,6 @@
         {
             "word": "LENT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "LETUP",
-            "score": 5,
             "pangram": false
         },
         {
@@ -185,11 +180,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

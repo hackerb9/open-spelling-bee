@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 158,
+    "total_score": 162,
     "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "PENTAGON"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGENT",
             "score": 5,
@@ -30,11 +35,6 @@
         {
             "word": "ANNOTATE",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 177,
-    "word_count": 46,
+    "total_score": 190,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "POPULATE"
     ],
     "word_list": [
+        {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
         {
             "word": "APPEAL",
             "score": 6,
@@ -29,6 +34,11 @@
         },
         {
             "word": "APPLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ELATE",
             "score": 5,
             "pangram": false
         },
@@ -53,17 +63,17 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LEAP",
             "score": 1,
             "pangram": false
         },
         {
             "word": "LEAPT",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LETUP",
             "score": 5,
             "pangram": false
         },
@@ -95,6 +105,11 @@
         {
             "word": "PALETTE",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PALLET",
+            "score": 6,
             "pangram": false
         },
         {
@@ -205,6 +220,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

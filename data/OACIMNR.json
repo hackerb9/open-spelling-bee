@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 172,
-    "word_count": 42,
+    "total_score": 197,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "MACARONI"
@@ -30,11 +30,6 @@
         {
             "word": "AMMONIA",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -123,6 +118,16 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "IRON",
             "score": 1,
             "pangram": false
@@ -136,6 +141,11 @@
             "word": "MACARONI",
             "score": 8,
             "pangram": true
+        },
+        {
+            "word": "MACAROON",
+            "score": 8,
+            "pangram": false
         },
         {
             "word": "MANOR",
@@ -200,6 +210,11 @@
         {
             "word": "NORM",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OCARINA",
+            "score": 7,
             "pangram": false
         },
         {

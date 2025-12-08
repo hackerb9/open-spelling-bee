@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
+    "total_score": 175,
     "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "MONORAIL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AIRMAIL",
             "score": 7,
@@ -50,11 +55,6 @@
         {
             "word": "ANIMAL",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 269,
+    "total_score": 267,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -133,6 +133,11 @@
             "pangram": false
         },
         {
+            "word": "INGOT",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "INNING",
             "score": 6,
             "pangram": false
@@ -149,11 +154,6 @@
         },
         {
             "word": "NUDGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "NUTTING",
             "score": 7,
             "pangram": false
         },

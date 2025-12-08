@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 120,
-    "word_count": 34,
+    "total_score": 115,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "TIMEZONE"
@@ -160,11 +160,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

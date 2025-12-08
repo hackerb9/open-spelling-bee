@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 227,
-    "word_count": 40,
+    "total_score": 221,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "PREVIEWED"
@@ -85,11 +85,6 @@
         {
             "word": "PEEVE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PEEVED",
-            "score": 6,
             "pangram": false
         },
         {

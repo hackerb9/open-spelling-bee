@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
-    "word_count": 26,
+    "total_score": 122,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "QUOTATION"
@@ -30,11 +30,6 @@
         {
             "word": "ANOINT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

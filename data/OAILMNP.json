@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
+    "total_score": 101,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -23,13 +23,13 @@
     ],
     "word_list": [
         {
-            "word": "AMMONIA",
-            "score": 7,
+            "word": "AIOLI",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "ANON",
-            "score": 1,
+            "word": "AMMONIA",
+            "score": 7,
             "pangram": false
         },
         {

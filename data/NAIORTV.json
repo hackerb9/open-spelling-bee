@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 219,
-    "word_count": 38,
+    "total_score": 218,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "VARIATION"
@@ -30,11 +30,6 @@
         {
             "word": "ANOINT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

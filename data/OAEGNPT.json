@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 34,
+    "total_score": 103,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PENTAGON"
@@ -25,11 +25,6 @@
         {
             "word": "ANNOTATE",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -175,11 +170,6 @@
         {
             "word": "TONNAGE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

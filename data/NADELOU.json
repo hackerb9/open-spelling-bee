@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 45,
+    "total_score": 165,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "UNLOADED"
@@ -45,11 +45,6 @@
         {
             "word": "ANNULLED",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

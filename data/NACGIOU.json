@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 216,
-    "word_count": 42,
+    "total_score": 215,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "ANNOUNCING"
@@ -41,11 +41,6 @@
             "word": "ANNOUNCING",
             "score": 10,
             "pangram": true
-        },
-        {
-            "word": "ANON",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "CAGING",

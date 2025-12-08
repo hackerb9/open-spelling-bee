@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 148,
-    "word_count": 47,
+    "total_score": 164,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FRONTAL"
@@ -58,12 +58,12 @@
             "pangram": false
         },
         {
-            "word": "ANON",
-            "score": 1,
+            "word": "AORTA",
+            "score": 5,
             "pangram": false
         },
         {
-            "word": "AORTA",
+            "word": "ATOLL",
             "score": 5,
             "pangram": false
         },
@@ -203,12 +203,22 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
         },
         {
             "word": "TALON",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

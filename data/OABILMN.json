@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 104,
+    "total_score": 108,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "BINOMIAL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALBINO",
             "score": 6,
@@ -30,11 +35,6 @@
         {
             "word": "AMMONIA",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

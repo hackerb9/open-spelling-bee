@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 280,
-    "word_count": 45,
+    "total_score": 273,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "CIRCUITING"
@@ -135,11 +135,6 @@
         {
             "word": "NURTURING",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "NUTTING",
-            "score": 7,
             "pangram": false
         },
         {

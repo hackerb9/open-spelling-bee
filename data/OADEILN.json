@@ -15,21 +15,26 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 119,
-    "word_count": 34,
+    "total_score": 124,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "DANDELION"
     ],
     "word_list": [
         {
-            "word": "ALONE",
+            "word": "AIOLI",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "ANON",
+            "word": "ALOE",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALONE",
+            "score": 5,
             "pangram": false
         },
         {

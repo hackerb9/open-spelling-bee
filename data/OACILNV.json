@@ -15,16 +15,16 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 122,
-    "word_count": 32,
+    "total_score": 137,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "VOLCANIC"
     ],
     "word_list": [
         {
-            "word": "ANON",
-            "score": 1,
+            "word": "AIOLI",
+            "score": 5,
             "pangram": false
         },
         {
@@ -105,6 +105,16 @@
         {
             "word": "ICON",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

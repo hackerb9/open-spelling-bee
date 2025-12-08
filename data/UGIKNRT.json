@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 26,
+    "total_score": 138,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "TRUNKING"
@@ -55,11 +55,6 @@
         {
             "word": "NURTURING",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "NUTTING",
-            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 139,
-    "word_count": 35,
+    "total_score": 138,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "BALCONY"
@@ -30,11 +30,6 @@
         {
             "word": "ANNOY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 172,
-    "word_count": 45,
+    "total_score": 171,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "COMBATANT"
@@ -25,11 +25,6 @@
         {
             "word": "ABBOT",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

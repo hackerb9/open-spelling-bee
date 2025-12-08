@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 116,
-    "word_count": 26,
+    "total_score": 115,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "NOMADIC"
@@ -24,11 +24,6 @@
     "word_list": [
         {
             "word": "ACID",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "AMID",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 218,
-    "word_count": 46,
+    "total_score": 229,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "EXONERATE"
@@ -30,11 +30,6 @@
         {
             "word": "ANNOTATE",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -203,8 +198,18 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "TANNER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

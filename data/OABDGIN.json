@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 29,
+    "total_score": 137,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "ABANDONING"
@@ -31,11 +31,6 @@
             "word": "ABANDONING",
             "score": 10,
             "pangram": true
-        },
-        {
-            "word": "ANON",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "BABOON",

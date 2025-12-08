@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 165,
-    "word_count": 38,
+    "total_score": 174,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "NOTABLY"
@@ -68,8 +68,8 @@
             "pangram": false
         },
         {
-            "word": "ANON",
-            "score": 1,
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {
@@ -150,6 +150,11 @@
         {
             "word": "LOYALTY",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

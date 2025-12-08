@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 28,
+    "total_score": 96,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "LANGUOR"
@@ -50,11 +50,6 @@
         {
             "word": "ANNUL",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 121,
-    "word_count": 27,
+    "total_score": 126,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "ACCOUNTANCY"
@@ -40,11 +40,6 @@
         {
             "word": "ANNOY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -105,6 +100,16 @@
         {
             "word": "CONTACT",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

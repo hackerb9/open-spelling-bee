@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 161,
-    "word_count": 40,
+    "total_score": 155,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "BLUNTED"
@@ -145,11 +145,6 @@
         {
             "word": "NETTLED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "NUTTED",
-            "score": 6,
             "pangram": false
         },
         {

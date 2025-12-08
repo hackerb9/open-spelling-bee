@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 251,
-    "word_count": 45,
+    "total_score": 261,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "ANTIBIOTIC"
@@ -35,11 +35,6 @@
         {
             "word": "ANOINT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -168,6 +163,11 @@
             "pangram": false
         },
         {
+            "word": "ICONIC",
+            "score": 6,
+            "pangram": false
+        },
+        {
             "word": "INACTION",
             "score": 8,
             "pangram": false
@@ -195,6 +195,11 @@
         {
             "word": "INTONATION",
             "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "IONIC",
+            "score": 5,
             "pangram": false
         },
         {

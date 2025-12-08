@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 182,
-    "word_count": 45,
+    "total_score": 177,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "HARROWED"
@@ -135,11 +135,6 @@
         {
             "word": "HORROR",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "OARED",
-            "score": 5,
             "pangram": false
         },
         {

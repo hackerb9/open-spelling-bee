@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 141,
+    "total_score": 145,
     "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
@@ -23,8 +23,8 @@
     ],
     "word_list": [
         {
-            "word": "AMID",
-            "score": 1,
+            "word": "AIOLI",
+            "score": 5,
             "pangram": false
         },
         {

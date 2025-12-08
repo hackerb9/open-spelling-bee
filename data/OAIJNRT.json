@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 178,
-    "word_count": 37,
+    "total_score": 189,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "JANITOR"
@@ -30,11 +30,6 @@
         {
             "word": "ANOINT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -173,7 +168,17 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 141,
-    "word_count": 34,
+    "total_score": 135,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "DEFUNCT"
@@ -119,11 +119,6 @@
         },
         {
             "word": "NETTED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "NUTTED",
             "score": 6,
             "pangram": false
         },

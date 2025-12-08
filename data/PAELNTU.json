@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
+    "total_score": 170,
     "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
@@ -58,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "LETUP",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "NAPE",
             "score": 1,
             "pangram": false
@@ -85,6 +80,11 @@
         {
             "word": "PALL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLET",
+            "score": 6,
             "pangram": false
         },
         {

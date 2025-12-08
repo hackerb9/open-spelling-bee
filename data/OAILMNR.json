@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 126,
+    "total_score": 130,
     "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "MONORAIL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AMMONIA",
             "score": 7,
@@ -30,11 +35,6 @@
         {
             "word": "AMORAL",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

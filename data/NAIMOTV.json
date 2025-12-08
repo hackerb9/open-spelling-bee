@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 36,
+    "total_score": 204,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "MOTIVATION"
@@ -40,11 +40,6 @@
         {
             "word": "ANOINT",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 114,
-    "word_count": 37,
+    "total_score": 109,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "OPULENT"
@@ -24,11 +24,6 @@
     "word_list": [
         {
             "word": "ELOPE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "LETUP",
             "score": 5,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 250,
-    "word_count": 50,
+    "total_score": 244,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "QUADRUPED"
@@ -115,11 +115,6 @@
         {
             "word": "PARED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PARRED",
-            "score": 6,
             "pangram": false
         },
         {

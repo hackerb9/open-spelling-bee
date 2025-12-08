@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 45,
+    "total_score": 192,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "COVENANT"
@@ -205,11 +205,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 215,
-    "word_count": 50,
+    "total_score": 210,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "FOMENTED"
@@ -264,11 +264,6 @@
         },
         {
             "word": "TONED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
             "score": 5,
             "pangram": false
         }

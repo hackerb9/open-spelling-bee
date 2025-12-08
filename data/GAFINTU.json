@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 281,
-    "word_count": 47,
+    "total_score": 274,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "FATIGUING"
@@ -174,11 +174,6 @@
         },
         {
             "word": "NAGGING",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "NUTTING",
             "score": 7,
             "pangram": false
         },

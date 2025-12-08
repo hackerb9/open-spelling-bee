@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 213,
-    "word_count": 48,
+    "total_score": 207,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "EXONERATE"
@@ -30,11 +30,6 @@
         {
             "word": "ANNOTATE",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -245,11 +240,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 35,
+    "total_score": 104,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "TOUGHEN"
@@ -150,11 +150,6 @@
         {
             "word": "TONGUE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

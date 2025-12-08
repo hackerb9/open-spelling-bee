@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 86,
+    "total_score": 90,
     "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
@@ -33,8 +33,8 @@
             "pangram": false
         },
         {
-            "word": "ANON",
-            "score": 1,
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 117,
-    "word_count": 40,
+    "total_score": 112,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "BENEVOLENT"
@@ -190,11 +190,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

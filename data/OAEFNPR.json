@@ -15,18 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 83,
+    "total_score": 89,
     "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "PROFANE"
     ],
     "word_list": [
-        {
-            "word": "ANON",
-            "score": 1,
-            "pangram": false
-        },
         {
             "word": "APRON",
             "score": 5,
@@ -130,6 +125,11 @@
         {
             "word": "PROP",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PROPANE",
+            "score": 7,
             "pangram": false
         },
         {

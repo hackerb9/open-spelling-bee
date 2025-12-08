@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
+    "total_score": 130,
     "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
@@ -30,11 +30,6 @@
         {
             "word": "ANCHOR",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -105,6 +100,11 @@
         {
             "word": "HARM",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MACAROON",
+            "score": 8,
             "pangram": false
         },
         {

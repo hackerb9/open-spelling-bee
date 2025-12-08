@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 120,
-    "word_count": 31,
+    "total_score": 125,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "CONVEYANCE"
@@ -35,11 +35,6 @@
         {
             "word": "ANNOYANCE",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -113,6 +108,11 @@
             "pangram": false
         },
         {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ENVOY",
             "score": 5,
             "pangram": false
@@ -125,6 +125,11 @@
         {
             "word": "EVEN",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

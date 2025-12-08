@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 143,
-    "word_count": 36,
+    "total_score": 138,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "KEYNOTED"
@@ -159,11 +159,6 @@
         },
         {
             "word": "TONED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
             "score": 5,
             "pangram": false
         },

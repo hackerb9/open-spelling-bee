@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
+    "total_score": 164,
     "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,6 +24,11 @@
     "word_list": [
         {
             "word": "AGONY",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIOLI",
             "score": 5,
             "pangram": false
         },
@@ -61,11 +66,6 @@
             "word": "ANNOYINGLY",
             "score": 10,
             "pangram": true
-        },
-        {
-            "word": "ANON",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "GALLON",

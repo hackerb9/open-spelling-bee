@@ -28,6 +28,11 @@
             "pangram": false
         },
         {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
             "word": "ALONE",
             "score": 5,
             "pangram": false
@@ -53,8 +58,8 @@
             "pangram": false
         },
         {
-            "word": "ANON",
-            "score": 1,
+            "word": "ATOLL",
+            "score": 5,
             "pangram": false
         },
         {
@@ -240,11 +245,6 @@
         {
             "word": "TONNAGE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

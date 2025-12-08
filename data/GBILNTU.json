@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 285,
+    "total_score": 286,
     "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
@@ -163,6 +163,11 @@
             "pangram": false
         },
         {
+            "word": "LINGUINI",
+            "score": 8,
+            "pangram": false
+        },
+        {
             "word": "LINING",
             "score": 6,
             "pangram": false
@@ -190,11 +195,6 @@
         {
             "word": "NIBBLING",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "NUTTING",
-            "score": 7,
             "pangram": false
         },
         {

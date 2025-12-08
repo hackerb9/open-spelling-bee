@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 152,
-    "word_count": 31,
+    "total_score": 157,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "ACCOUNTANCY"
@@ -40,11 +40,6 @@
         {
             "word": "ANNOY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -115,6 +110,16 @@
         {
             "word": "COUNTY",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "CYAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {

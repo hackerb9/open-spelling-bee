@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 201,
-    "word_count": 47,
+    "total_score": 195,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "UNWANTED"
@@ -110,11 +110,6 @@
         {
             "word": "NEWT",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "NUTTED",
-            "score": 6,
             "pangram": false
         },
         {

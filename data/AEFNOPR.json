@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 95,
+    "total_score": 101,
     "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
@@ -24,11 +24,6 @@
     "word_list": [
         {
             "word": "AFAR",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
             "score": 1,
             "pangram": false
         },
@@ -131,6 +126,11 @@
             "word": "PROFANE",
             "score": 7,
             "pangram": true
+        },
+        {
+            "word": "PROPANE",
+            "score": 7,
+            "pangram": false
         },
         {
             "word": "RAPE",

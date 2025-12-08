@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 76,
-    "word_count": 30,
+    "total_score": 71,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "NOVELTY"
@@ -130,11 +130,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

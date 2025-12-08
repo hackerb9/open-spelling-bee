@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 197,
-    "word_count": 41,
+    "total_score": 196,
+    "word_count": 40,
     "pangram_count": 1,
     "pangram_list": [
         "ANNOUNCED"
@@ -31,11 +31,6 @@
             "word": "ANNOUNCED",
             "score": 9,
             "pangram": true
-        },
-        {
-            "word": "ANON",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "CACAO",

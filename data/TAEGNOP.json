@@ -23,6 +23,11 @@
     ],
     "word_list": [
         {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "AGENT",
             "score": 5,
             "pangram": false
@@ -245,11 +250,6 @@
         {
             "word": "TONNAGE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 33,
+    "total_score": 139,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "ADAPTIVE"
@@ -115,11 +115,6 @@
         {
             "word": "PEEVE",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "PEEVED",
-            "score": 6,
             "pangram": false
         },
         {

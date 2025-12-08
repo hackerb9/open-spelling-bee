@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 128,
-    "word_count": 35,
+    "total_score": 127,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "BAYONET"
@@ -30,11 +30,6 @@
         {
             "word": "ANNOY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ANON",
-            "score": 1,
             "pangram": false
         },
         {
@@ -133,6 +128,11 @@
             "pangram": false
         },
         {
+            "word": "NANNY",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "NATTY",
             "score": 5,
             "pangram": false
@@ -190,11 +190,6 @@
         {
             "word": "TONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "TONNE",
-            "score": 5,
             "pangram": false
         }
     ]
