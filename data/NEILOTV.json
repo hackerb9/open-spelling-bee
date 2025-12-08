@@ -1,0 +1,276 @@
+{
+    "letters": "NEILOTV",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 196,
+    "word_count": 50,
+    "pangram_count": 1,
+    "pangram_list": [
+        "VIOLENT"
+    ],
+    "word_list": [
+        {
+            "word": "ELEVEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENLIVEN",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ENTITLE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EVENT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INLET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "INTENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INTENTION",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "INVENT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVENTION",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INVENTIVE",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "INVITE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "INVOLVE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LENIENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LENTIL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LINEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LION",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LIVEN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOONIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NETTLE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NINETEEN",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "NONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "NOTION",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NOVEL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONION",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ONTO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OVEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TEEN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TENET",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TINT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VEIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VINE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "VIOLENT",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "VIOLIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "VOLITION",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

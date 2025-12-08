@@ -1,0 +1,151 @@
+{
+    "letters": "AEFGILO",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 87,
+    "word_count": 25,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FOLIAGE"
+    ],
+    "word_list": [
+        {
+            "word": "AGILE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALGAE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ALLEGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALOE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALOOF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAGLE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FLAIL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLEA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOLIAGE",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GALA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOALIE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ILLEGAL",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "LEAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LEGAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "LOAF",
+            "score": 1,
+            "pangram": false
+        }
+    ]
+}

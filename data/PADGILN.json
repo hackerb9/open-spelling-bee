@@ -1,0 +1,206 @@
+{
+    "letters": "PADGILN",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 192,
+    "word_count": 36,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PADDLING"
+    ],
+    "word_list": [
+        {
+            "word": "APING",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "APPALL",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPALLING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "DIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GAPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "LAPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NAPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NIPPING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PADDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PADDLING",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PAGAN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAGING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAIN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAINING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLID",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PANDA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PANNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPAL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIDDLING",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PILING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PILL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PILLAGING",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "PILLING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PINING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINNING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PIPING",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PLAID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLAIN",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PLAN",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PLANING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PLANNING",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}

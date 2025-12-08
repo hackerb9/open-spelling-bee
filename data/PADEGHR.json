@@ -1,0 +1,271 @@
+{
+    "letters": "PADEGHR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 241,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GRAPHED"
+    ],
+    "word_list": [
+        {
+            "word": "APED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "APPEAR",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "APPEARED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DAPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAPPERER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DEEPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRAPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRAPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAPH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAPHED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "HARP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HARPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "HEAPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PADDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAPA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAPERED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PARADE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PARADED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PARAGRAPH",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "PARE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PARED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEEPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PEERED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PEPPERED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PREPARE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PREPARED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "RAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REAP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REAPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REAPER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REAPPEAR",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REAPPEARED",
+            "score": 10,
+            "pangram": false
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "letters": "GADEHPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": false
+    },
+    "total_score": 242,
+    "word_count": 46,
+    "pangram_count": 1,
+    "pangram_list": [
+        "GRAPHED"
+    ],
+    "word_list": [
+        {
+            "word": "ADAGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "AGREE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AGREED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DAGGER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEGRADE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEGRADED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "DEGREE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRAG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRAGGED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DREDGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DREDGED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EAGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EAGERER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EDGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GAPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GAPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GARAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GARAGED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GEAR",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GEARED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRADE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRADER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRAPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAPH",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRAPHED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "GREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HAGGARD",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "HEDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PAGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PAGER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PARAGRAPH",
+            "score": 9,
+            "pangram": false
+        },
+        {
+            "word": "PEGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RAGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RAGGEDER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "REGARD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REGARDED",
+            "score": 8,
+            "pangram": false
+        }
+    ]
+}
