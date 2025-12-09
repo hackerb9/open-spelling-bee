@@ -86,13 +86,19 @@ def play(puzzle):
 
                 if word_index is None:
                     # Not an expected word, so check other word lists.
-                    if utils.is_in_custom(g):
+                    results = utils.is_in_custom(g)
+                    if results:
                         if g in player.bonus_found or g in player.bonus_used:
                             print (f'You already found: {g}\n')
                         else:
                             # plie -> plié, melee -> mêlée
-                            word=utils.is_in_custom(g)[0]['word']
-                            pfill(f'Oh! I was not expecting anyone to guess "{word}". Kudos to you!\n')
+                            word=results[0]['word']
+                            if 'remove' in results[0]['file']:
+                                pfill (f'I dunno... There are much better words hidden in this puzzle.\n "{g}" gets you one bonus point, but no kudos.')
+                            elif 'add' in results[0]['file']:
+                                pfill(f'Yes, "{word}" is a good word. Next time puzzles are generated, I will expect it. For now, BONUS points!')
+                            else:
+                                pfill(f'BONUS! I was not expecting anyone to guess "{word}". Kudos to you!')
                             print()
                             player.bonus_found.append(g)
                     elif utils.is_in_scowl(g):
