@@ -726,3 +726,7 @@ grok, grokking
 reforge, reforges, reforged, reforging
 galoot, galoots
 lovage
+cantrip, cantrips
+captaincy
+catty
+pectin
