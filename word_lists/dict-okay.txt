@@ -718,8 +718,9 @@ diadem
 midden
 admix, admixed
 edamame
-
 prion
 poof, poofing
-griffin
+griffin, griffon, gryphon
 immure
+grok, grokking
+reforge, reforges, reforged, reforging
