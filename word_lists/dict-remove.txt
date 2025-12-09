@@ -38,7 +38,9 @@ brinier, briniest
 anon
 prefect				# Should be in british-words.35
 tonne				# Should be in british-words.35
+holidayed, holidaying		# Should be in british-words.35
 amid
+rifer, rifest
 
 ######################################################################
 
@@ -211,7 +213,6 @@ hays, hayed, haying
 helicoptered, helicoptering
 hipping
 hived, hiving
-holidayed, holidaying		# Shoud be in british-words.35
 honeycombing
 honeying
 hooding
@@ -307,6 +308,7 @@ phonied, phonying
 pigged, pigging
 pinioning
 quirked, quirking
+rifted, rifting
 satellited, satelliting
 tided, tiding
 vanned, vanning
