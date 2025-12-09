@@ -2,6 +2,10 @@
 # to generate puzzles as they are actually less common.
 # See also: scowl/english-words.35
 
+prefect                         # Should be in british-words.35
+tonne                           # Should be in british-words.35
+holidayed, holidaying           # Should be in british-words.35
+
 lemme, gimme, wanna, gonna
 letup
 genii
@@ -36,9 +40,6 @@ privies, privier, priviest
 ruff
 brinier, briniest
 anon
-prefect				# Should be in british-words.35
-tonne				# Should be in british-words.35
-holidayed, holidaying		# Should be in british-words.35
 amid
 rifer, rifest
 
@@ -323,7 +324,7 @@ prefabbing
 prettied, prettying
 processioned, processioning
 proofed, proofing
-psych, psychs, psyched, psyching		# Common enough with "psych out"?
+psych, psychs, psyched, psyching	# Common enough with "psych out"?
 purposed, purposing
 pyramided, pyramiding
 
