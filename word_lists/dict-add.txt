@@ -60,3 +60,5 @@ ginkgo
 atoll
 aïoli (aioli)
 aloe
+origami
+oink
