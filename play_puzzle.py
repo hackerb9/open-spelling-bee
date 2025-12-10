@@ -136,10 +136,19 @@ def play(puzzle):
                         print_list[0] += ' ***'
 
                     if word_dict.get('word') in player.hints_given:
+                        print('Hint completed.')
                         player.last_hint=""
 
                     # print success and running stats
                     utils.print_table(print_list)
+
+                    if puzzle.word_count - player.words == 3:
+                        print('Three words remaining…')
+                    if puzzle.word_count - player.words == 2:
+                        print('Two words left.')
+                    if puzzle.word_count - player.words == 1:
+                        print('One last word to find!')
+
                     print()
 
                     word_percent=round(player.words*100.0/puzzle.word_count,1)
