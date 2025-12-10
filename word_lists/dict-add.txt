@@ -17,6 +17,7 @@
 # pangram to create puzzles. If we added UNICYCLING, there would be
 # two possible solutions, so generate_puzzles.py would reject both.
 
+bandana, bandanas		# Should be in american-words.35
 geek, geeks
 debacle
 macaroon, macaroons
@@ -61,4 +62,5 @@ atoll
 aïoli (aioli)
 aloe
 origami
-oink
+oink, oinks, oinked, oinking
+
