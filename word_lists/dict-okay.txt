@@ -730,3 +730,5 @@ cantrip, cantrips
 captaincy
 catty
 pectin
+pidgin
+opioid
