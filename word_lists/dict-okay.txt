@@ -151,8 +151,8 @@ arctic, artic
 tarpit, tarpits
 cattail, cattails
 lariat, lariats
-aril
-pica
+aril, arils
+pica, picas
 piratical
 acacia
 licit
@@ -732,3 +732,14 @@ catty
 pectin
 pidgin
 opioid
+catalytic
+lactic
+acyclic
+ictal
+tactically
+cyclical
+cyclically
+laity, laic
+loyally
+loci, foci
+
