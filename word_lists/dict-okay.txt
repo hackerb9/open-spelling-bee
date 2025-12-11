@@ -734,14 +734,14 @@ pidgin
 opioid
 reword, rewords, reworded, rewording
 ewer, ewers
-wend, wended
+wend, wends, wended
+weir
 catalytic
 lactic
 acyclic
 ictal
 tactically
-cyclical
-cyclically
+cyclical, cyclically
 laity, laic
 loyally
 loci, foci
