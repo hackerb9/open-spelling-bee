@@ -745,4 +745,6 @@ cyclical, cyclically
 laity, laic
 loyally
 loci, foci
+harpy, harpies
+campy
 
