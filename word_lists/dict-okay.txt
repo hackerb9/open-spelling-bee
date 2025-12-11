@@ -732,6 +732,9 @@ catty
 pectin
 pidgin
 opioid
+reword, rewords, reworded, rewording
+ewer, ewers
+wend, wended
 catalytic
 lactic
 acyclic
