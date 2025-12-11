@@ -43,6 +43,9 @@ brinier, briniest
 anon
 amid
 rifer, rifest
+wedder
+weer, weest
+woodener, woodenest
 
 ######################################################################
 
@@ -328,7 +331,6 @@ proofed, proofing
 psych, psychs, psyched, psyching	# Common enough with "psych out"?
 purposed, purposing
 pyramided, pyramiding
-
 
 
 #...
