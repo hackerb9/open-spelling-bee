@@ -46,6 +46,8 @@ rifer, rifest
 wedder
 weer, weest
 woodener, woodenest
+maria
+
 
 ######################################################################
 
