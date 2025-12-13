@@ -51,6 +51,13 @@ def play(puzzle):
 
     # loop until game ends
     while True:
+        if puzzle.word_count - player.words == 3:
+            print('Three words remaining…')
+        if puzzle.word_count - player.words == 2:
+            print('Two words left.')
+        if puzzle.word_count - player.words == 1:
+            print('One last word to find!')
+
         # ask user to guess a word
         guess = ask_user()
 
@@ -141,13 +148,6 @@ def play(puzzle):
 
                     # print success and running stats
                     utils.print_table(print_list)
-
-                    if puzzle.word_count - player.words == 3:
-                        print('Three words remaining…')
-                    if puzzle.word_count - player.words == 2:
-                        print('Two words left.')
-                    if puzzle.word_count - player.words == 1:
-                        print('One last word to find!')
 
                     print()
 
@@ -275,6 +275,7 @@ def handle_rare_word(word, player):
                 explication = [f'To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list.',
                                f'If {word} is an everyday word, use !add to require it in future puzzles.',
                                f'If {word} is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it.'
+                               f'If {word} is a good word but shouldn\'t be required to solve the puzzle, use !okay to allow a bonus for finding it.'
                                #f'Otherwise, do nothing and enjoy knowing you have an above average vocabulary.'
                                ]
                 pfill(f'NICE ONE: {random.choice(explication)}')
