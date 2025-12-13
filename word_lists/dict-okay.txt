@@ -704,10 +704,8 @@ nationalization
 lionization
 sashay
 satay
-grok
 brig
 gunk
-oinking
 loupe
 lepton
 eyelet
@@ -766,4 +764,14 @@ lychee
 aleph
 pleach		# To unite by interweaving, as branches of trees, to plash.
 phylum, phyla
+clade
 codicil
+acidic
+crawdad
+railcar
+caryatid
+cicada
+caracal
+coracle
+lidar
+kazoo
