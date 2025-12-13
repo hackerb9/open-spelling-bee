@@ -1,4 +1,4 @@
-# 				   -*- truncate-lines: t ; eval: (auto-fill-mode -1) -*-
+#		   -*- truncate-lines: t ; eval: (auto-fill-mode -1) -*-
 # Obscure words that should be recognized as valid but not used to
 # generate puzzles. Some sort of bonus may be given, like a free hint.
 
@@ -747,5 +747,10 @@ loyally
 loci, foci
 harpy, harpies
 campy
-tarp
-rampart
+tarp, tarps
+rampart, ramparts
+eunuch, eunuchs
+euchre
+emcee, emcees, emceed
+unneeded
+unheeded
