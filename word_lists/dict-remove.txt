@@ -47,6 +47,9 @@ wedder
 weer, weest
 woodener, woodenest
 maria
+coyer
+cooper
+preoccupy, preoccupies
 
 
 ######################################################################
