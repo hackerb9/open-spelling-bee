@@ -269,29 +269,35 @@ def handle_rare_word(word, player):
             player.rare_words[wl.rank].append(word)
 #            print (wl.rank)
             if wl.rank <= 35:
-                pfill(f'"{word}" looks hunky dory to me! This routine shouldn\'t have been called.')
+                pfill(f'HUNKY DORY: "{word}" looks swell to me! This routine shouldn\'t have been called.')
                 return
             if wl.rank == 40:
-                pfill(f'POSSIBLE ERUDITION DETECTED: To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list. If it is an everyday word, use !add to require it in future puzzles. If it is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it. Otherwise, do nothing and enjoy knowing you have an above average vocabulary.')
+                explication = [f'To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list.',
+                               f'If {word} is an everyday word, use !add to require it in future puzzles.',
+                               f'If {word} is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it.'
+                               #f'Otherwise, do nothing and enjoy knowing you have an above average vocabulary.'
+                               ]
+                pfill(f'NICE ONE: {random.choice(explication)}')
                 return
             elif wl.rank == 50:
                 pfill(f'I hadn\'t thought of "{word}". Use !okay to mark it as a bonus word.')
                 return
             elif wl.rank == 55:
-                pfill(f'That is not one of the typical English words I am thinking of. Do people deserve a bonus for finding "{word}"? If so, use !okay.')
+                pfill(f'Hmm. That is not one of the typical English words I am thinking of. Do people deserve a bonus for finding "{word}"? If so, use !okay.')
                 return
             elif wl.rank == 60:
-                pfill(f'This puzzle wasn\'t designed for such rare words. If "{word}" is a word one should be proud of knowing, please use !okay to mark it as acceptable.')
+                pfill(f'I\'m dubious about "{word}". If it is a word one should be proud of knowing, please use !okay to mark it as acceptable.')
                 return
             elif wl.rank == 70:
-                boring=['pedestrian', 'quotidian', 'everyday', 'simpler']
+                boring=['pedestrian', 'quotidian', 'everyday', 'mundane']
                 pfill(f'You have an impressive vocabulary! But I was told "{word}" was too unusual to accept. Do you see any {random.choice(boring)} words?')
                 return
             elif wl.rank == 80:
                 wacky=['abstruse', 'esoteric', 'recondite', 'obscure']
-                pfill(f'Goodness! "{word}" is a bit too {random.choice(wacky)} for me.')
+                pfill(f'"{word}" is a bit too {random.choice(wacky)} for me.')
                 return
             else: # wl.rank <= 95:
+                # CONTEMNIBLE SCAPEGRACE
                 uhno=[f'Sorry, "{word}" is inadmissable.',
                       f'If I had eyes, I\'d be rolling them right now.',
                       f'I think we both know "{word}" should not be accepted.',
