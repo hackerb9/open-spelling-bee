@@ -760,3 +760,5 @@ atlatl
 addle, addled, addlepated
 twaddle
 pommel
+dale
+dandle, dandled
