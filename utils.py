@@ -243,7 +243,7 @@ def custom_lookup(pattern):
                                 output=re.findall(rx, custom_parse(fp.read()))
                                 if output:
                                         try:
-                                                print(f'{f}: {', '.join(output)}')
+                                                print(f'{f}: {", ".join(output)}')
                                         except BrokenPipeError:
                                                 sys.stdout = None
 
