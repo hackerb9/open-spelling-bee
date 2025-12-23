@@ -317,7 +317,7 @@ def handle_rare_word(word, player):
                          not 'variant' in wl.category ]
     if unusual_category:
         # Matches british-words or similar
-        pfill(f'Less common word "{word}" found in {', '.join(unusual_category)}. Maybe use !okay.')
+        pfill(f'Less common word "{word}" found in {", ".join(unusual_category)}. Maybe use !okay.')
         # XXX maybe give more specific advice here
         return
 
