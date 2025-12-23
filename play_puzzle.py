@@ -255,7 +255,7 @@ def handle_rare_word(word, player):
                 else:
                     print(f'Sorry, {disallowed_cats[0]} is not allowed.')
             else:
-                print(f'Sorry, {', '.join(disallowed_cats)} are not allowed.')
+                print(f'Sorry, {", ".join(disallowed_cats)} are not allowed.')
             return
 
     # Is the word acceptable in Hacker jargon? ('bletch').
