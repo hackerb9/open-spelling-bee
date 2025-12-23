@@ -226,7 +226,7 @@ def handle_rare_word(word, player):
     if unusual_category:
         # Matches british-words, australian-words, or similar
         # XXX maybe give specific response for Britishisms?
-        print(f'Acceptable in {', '.join(unusual_category)}')
+        print(f'Acceptable in {", ".join(unusual_category)}')
         return
 
     # Is the word most commonly a disallowed category? (Try 'USA', 'maths')
