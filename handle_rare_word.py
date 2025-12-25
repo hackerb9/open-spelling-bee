@@ -97,19 +97,18 @@ def handle_rare_word(word, player):
             player.rare_words[wl.rank].append(word)
 #            print (wl.rank)
             if wl.rank <= 35:
-                pfill(f'HUNKY DORY: "{word}" looks swell to me! This routine shouldn\'t have been called.')
+                pfill(f'Hunky dory: "{word}" looks swell to me! This routine shouldn\'t have been called.')
                 return
             if wl.rank == 40:
                 explication = [f'To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list.',
-                               f'If {word} is an everyday word, use !add to require it in future puzzles.',
-                               f'If {word} is familiar to you but maybe not everyone, use !okay to allow a bonus for finding it.'
-                               f'If {word} is a good word but shouldn\'t be required to solve the puzzle, use !okay to allow a bonus for finding it.'
+                               f'Use !add if everyone should be required to find "{word}" in future puzzles.',
+                               f'If "{word}" is a good word but shouldn\'t be required to solve the puzzle, use !okay to allow a bonus for finding it.'
                                #f'Otherwise, do nothing and enjoy knowing you have an above average vocabulary.'
                                ]
-                pfill(f'NICE ONE: {random.choice(explication)}')
+                pfill(f"That's a nice one I should have thought of: {random.choice(explication)}")
                 return
             elif wl.rank == 50:
-                pfill(f'I hadn\'t thought of "{word}". Use !okay to mark it as a bonus word.')
+                pfill(f'Oh! I hadn\'t thought of "{word}". Use !okay to mark it as a bonus word.')
                 return
             elif wl.rank == 55:
                 pfill(f'Hmm. That is not one of the typical English words I am thinking of. Do people deserve a bonus for finding "{word}"? If so, use !okay.')
