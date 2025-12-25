@@ -55,16 +55,10 @@ def play(puzzle):
     # loop until game ends
     while True:
 
-        # If there's an active hint, show it before the prompt.
-        if player.last_hint:
-            print(f'      hint: {player.last_hint}')
-
-        # Prefix prompt when down to three words.
-        if puzzle.word_count - player.words <= 3:
-            print(f'({puzzle.word_count - player.words} left) ', end='')
-
         # Ask user to guess a word
-        guess = ask_user()
+        guess = ask_user('Your guess: ',
+                         hint = player.last_hint,
+                         remaining = puzzle.word_count - player.words)
 
         # user need some help
         if guess in ('', '!redraw'): guess="!g"
@@ -235,7 +229,15 @@ def draw_letters_honeycomb(game_letters):
 
     return hex_string.format(*game_letters)
 
-def ask_user(prompt='Your guess: '):
+def ask_user(prompt='Your guess: ', hint=None, remaining=None):
+    if remaining:
+        # Prefix prompt for last three words.
+        if remaining <= 3:
+            prompt = f'({remaining} left) {prompt}'
+        # If there's an active hint, show it before the prompt.
+        if hint:
+            print(f'{" "*(len(prompt)-6)}hint: {hint}')
+
     try:
         text = input(prompt)
         text = text.strip()
