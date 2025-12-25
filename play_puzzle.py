@@ -51,14 +51,16 @@ def play(puzzle):
 
     # loop until game ends
     while True:
-        if puzzle.word_count - player.words == 3:
-            print('Three words remaining…')
-        if puzzle.word_count - player.words == 2:
-            print('Two words left.')
-        if puzzle.word_count - player.words == 1:
-            print('One last word to find!')
 
-        # ask user to guess a word
+        # If there's an active hint, show it before the prompt.
+        if player.last_hint:
+            print(f'      hint: {player.last_hint}')
+
+        # Prefix prompt when down to three words.
+        if puzzle.word_count - player.words <= 3:
+            print(f'({puzzle.word_count - player.words} left) ', end='')
+
+        # Ask user to guess a word
         guess = ask_user()
 
         # user need some help
@@ -110,6 +112,7 @@ def play(puzzle):
                             player.bonus_found.append(g)
                     elif utils.is_in_scowl(g):
                         handle_rare_word(g, player)
+                        print()
                     else:
                         print (f'Sorry, "{g}" is not a valid word\n')
                     continue
@@ -143,7 +146,6 @@ def play(puzzle):
                         print_list[0] += ' ***'
 
                     if word_dict.get('word') in player.hints_given:
-                        print('Hint completed.')
                         player.last_hint=""
 
                     # print success and running stats
@@ -175,8 +177,16 @@ def play(puzzle):
                             player.achievements['85'] = True
                             pfill('\b“SUPERBRAIN LEVEL ACHIEVED: You have found 85% of the hidden words!”')
                             player.hints_available += 1
+
                             offer_hint(player.hints_available)
                             print()
+                    
+                if puzzle.word_count - player.words == 3:
+                    print('    Three words remaining…\n')
+                if puzzle.word_count - player.words == 2:
+                    print('    Two words left.\n')
+                if puzzle.word_count - player.words == 1:
+                    print('    One last word to find!\n')
 
         # all words found (somehow this could be possible)
         if player.words == puzzle.word_count:
@@ -490,7 +500,7 @@ def give_hint(puzzle, player):
     x=player.hints_given[word]
     y=len(word) - player.hints_given[word]
     player.last_hint = word[0:x] + '_'*y + f' ({str(len(word))} letters)'
-    print( player.last_hint )
+    # print( player.last_hint )	# This is now shown before the prompt
     print()
 
 def get_longest_unfound(word_list, player_found):
