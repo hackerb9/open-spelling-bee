@@ -36,6 +36,7 @@ manga
 attune, attuned, attunement
 nutmeat, nutmeats
 metagame
+ebon, ichor, incarnadine, viridian
 yore
 yecch, yecchy
 phooey
@@ -69,7 +70,6 @@ emetic
 decedent
 candida
 naiad, naiads
-nand
 fella, fellas
 caul
 fecal
@@ -775,3 +775,15 @@ caracal
 coracle
 lidar
 kazoo
+tiredly
+absentmindedly
+bangle, bangles
+baleen
+lemma
+mélange (melange)
+balun
+gabble
+alee
+albumen
+lollygag
+galangal
