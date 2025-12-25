@@ -256,15 +256,19 @@ def custom_lookup(pattern, letters=None):
         for p in pattern:
                 if letters: p = p.replace('%', f'[{letters}]')
                 if p.isalpha(): p=equivalence(p)
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
-                for f in glob.glob("word_lists/dict-*.txt"):
-                        with open(f, 'r') as fp:
-                                output=re.findall(rx, custom_parse(fp.read()))
-                                if output:
-                                        try:
-                                                print(f'{f}: {", ".join(output)}')
-                                        except BrokenPipeError:
-                                                sys.stdout = None
+                try:
+                        rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                        for f in glob.glob("word_lists/dict-*.txt"):
+                                with open(f, 'r') as fp:
+                                        output=re.findall(rx, custom_parse(fp.read()))
+                                        if output:
+                                                try:
+                                                        print(f'{f}: {", ".join(output)}')
+                                                except BrokenPipeError:
+                                                        sys.stdout = None
+                except re.PatternError:
+                        pass
+
 
 def is_in_custom(pattern):
         '''Searches the custom word lists for the regex 'pattern'.
@@ -295,14 +299,17 @@ def is_in_custom(pattern):
 
         for p in pattern:
                 if p.isalpha(): p=equivalence(p)
-                rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
-                filenames=(f'word_lists/dict-{x}.txt'
-                           for x in ('add', 'okay', 'remove'))
-                for fn in filenames:
-                        with open(fn, 'r') as fp:
-                                for m in re.findall(rx, custom_parse(fp.read())):
-                                        rv.append( { 'file': f'{fn}',
-                                                     'word': m } )
+                try:
+                    rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
+                    filenames=(f'word_lists/dict-{x}.txt'
+                               for x in ('add', 'okay', 'remove'))
+                    for fn in filenames:
+                            with open(fn, 'r') as fp:
+                                    for m in re.findall(rx, custom_parse(fp.read())):
+                                            rv.append( { 'file': f'{fn}',
+                                                         'word': m } )
+                except re.PatternError:
+                        pass
         return rv
 
 custom_parse_re = re.compile(r'\W*(#.*)?\n|\W+')
@@ -394,12 +401,15 @@ def is_in_scowl(w:str) -> []:
         '''
         results=[]
         if w.isalpha(): w=eqv(w)
-        rx=re.compile(fr'^({w})$', flags=re.IGNORECASE|re.MULTILINE)
-        for f in glob.glob("word_lists/scowl-u8/*"):
-                with open(f, 'r') as fp:
-                        matches=rx.findall(fp.read())
-                        if matches:
-                                results.append(ScowlFile(f, matches, w))
+        try:
+                rx=re.compile(fr'^({w})$', flags=re.IGNORECASE|re.MULTILINE)
+                for f in glob.glob("word_lists/scowl-u8/*"):
+                        with open(f, 'r') as fp:
+                                matches=rx.findall(fp.read())
+                                if matches:
+                                        results.append(ScowlFile(f, matches, w))
+        except re.PatternError:
+                pass
         return sorted(results)
 
 def scowl_lookup_usage():
