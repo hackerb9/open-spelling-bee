@@ -102,7 +102,7 @@ def handle_rare_word(word, player):
             if wl.rank == 40:
                 explication = [f'To make the puzzle completable, I only expect the most commonplace words and "{word}" wasn\'t in my list.',
                                f'Use !add if everyone should be required to find "{word}" in future puzzles.',
-                               f'If "{word}" is a good word but shouldn\'t be required to solve the puzzle, use !okay to allow a bonus for finding it.'
+                               f'If "{word}" is a good word but not good enough that it should be required to solve the puzzle, use !okay to allow a bonus for finding it.'
                                #f'Otherwise, do nothing and enjoy knowing you have an above average vocabulary.'
                                ]
                 pfill(f"That's a nice one I should have thought of. {random.choice(explication)}")
