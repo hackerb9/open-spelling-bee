@@ -105,7 +105,7 @@ def handle_rare_word(word, player):
                                f'If "{word}" is a good word but shouldn\'t be required to solve the puzzle, use !okay to allow a bonus for finding it.'
                                #f'Otherwise, do nothing and enjoy knowing you have an above average vocabulary.'
                                ]
-                pfill(f"That's a nice one I should have thought of: {random.choice(explication)}")
+                pfill(f"That's a nice one I should have thought of. {random.choice(explication)}")
                 return
             elif wl.rank == 50:
                 pfill(f'Oh! I hadn\'t thought of "{word}". Use !okay to mark it as a bonus word.')
