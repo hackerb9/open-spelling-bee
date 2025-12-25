@@ -6,6 +6,9 @@ import params
 import generate_puzzles
 from equivalence import equivalence, eqv
 
+from textwrap import fill
+from shutil import get_terminal_size
+
 import os
 import random
 import json
@@ -131,6 +134,22 @@ def print_table(data, cols=None, wide=None):
         if r:
                 line = pat * r
                 print(line.format(*data[n*cols:]).rstrip())
+
+def s(n:int) -> str:
+    '''An "s" for plural numbers, e.g., "3 points"'''
+    return "" if n == 1 else "s"
+    
+def pfill(s: str, indent=4, **kwargs):
+    '''Print s indented and word wrapped.
+    Uses keyword args from textwrap, q.v..
+    '''
+    if not 'width' in kwargs:
+        kwargs['width'] = get_terminal_size().columns - indent*2
+    if not 'initial_indent' in kwargs:
+        kwargs['initial_indent'] = ' '*indent
+    if not 'subsequent_indent' in kwargs:
+        kwargs['subsequent_indent'] = ' '*indent
+    print( fill(s, **kwargs) )
 
 def uniqueness(word_list) -> float:
         '''
