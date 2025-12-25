@@ -54,7 +54,6 @@ titre, titer
 requite, requital, requitals, requited
 curie, curies
 ricture, rictus
-intoning
 conniving
 noggin
 eggnog
@@ -787,3 +786,10 @@ alee
 albumen
 lollygag
 galangal
+dyke, dykes
+drake, drakes
+diode, diodes
+bidet, bidets
+botnet, botnets
+dint
+intone, intones, intoned, intoning
