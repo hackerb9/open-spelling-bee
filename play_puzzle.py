@@ -396,10 +396,10 @@ def command(command, puzzle, player):
         utils.dict_define( player.lastguess )
     elif cmd == 'match' or cmd == 'm':
         if cmdargs: player.lastguess=cmdargs
-        utils.match_any( player.lastguess )
+        utils.match_any( player.lastguess, puzzle.letters )
     elif cmd == 'slook' or cmd == 'scowl':
         if cmdargs: player.lastguess=cmdargs
-        utils.scowl_lookup( player.lastguess )
+        utils.scowl_lookup( player.lastguess, puzzle.letters )
     else:
         print(f'Unknown command "!{cmd}"')
         print_short_commands()

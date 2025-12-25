@@ -242,19 +242,19 @@ def compare_overlap(f1, f2):
         print(f"{'Words in both':>30}: {both:>2}")
         print(f"{'Overlap':>30}: {100*both/min(len1,len2):>5.2f}%")
 
-
-def custom_lookup(pattern):
+def custom_lookup(pattern, letters=None):
         '''Grep the custom word lists for pattern and prints results.
 
         Custom words are kept in word_lists/dict-{add,okay,remove,*}.txt. 
         If 'pattern' is an array, then each word will be looked up.
-        Allows regular expressions.
+        Allows regular expressions and expands % to [letters].
         '''
 
         if type(pattern) is not list:
                 pattern = [ pattern ]
 
         for p in pattern:
+                if letters: p = p.replace('%', f'[{letters}]')
                 if p.isalpha(): p=equivalence(p)
                 rx=re.compile(fr'^({p})$', flags=re.IGNORECASE|re.MULTILINE)
                 for f in glob.glob("word_lists/dict-*.txt"):
@@ -420,10 +420,10 @@ To see possible inflections of a word, append .* like so:
 
 ''')
 
-def scowl_lookup(pattern):
+def scowl_lookup(pattern, letters=None):
         '''Grep the SCOWL word_lists for ^pattern$
         If a list is given, then each word will be looked up.
-        Allows regular expressions.
+        Allows regular expressions and expands % to [letters].
 
         NOTA BENE: we have re-encoded our SCOWL files to UTF-8, so we
         don't have to do deal with the Latin-1 encoding here.
@@ -432,6 +432,7 @@ def scowl_lookup(pattern):
         if type(pattern) is not list:
                 pattern = [ pattern ]
         for p in pattern:
+                if letters: p = p.replace('%', f'[{letters}]')
                 for scowlFile in is_in_scowl( p ):
                         try:
                                 print(scowlFile)
@@ -517,6 +518,8 @@ def dict_lookup(pattern, showerrors=True):
         if type(pattern) is list:
                 pattern = ' '.join(pattern)
 
+        if '%' in pattern: return 	# Ignore the regex hack for pzl letters
+
         dictcmd='dict'
         (rc, output) = subprocess.getstatusoutput(f'type {dictcmd}')
         if rc == 127:
@@ -547,12 +550,16 @@ def dict_lookup(pattern, showerrors=True):
                 return rc
 
 
-def match_any(pattern):
+def match_any(pattern, letters=None):
         '''Given a word (or regex), search the custom dictionaries,
         SCOWL wordlists, and the 'dict' command (if available).
+
+        If 'letters' is given, it is a string of the letters allowed
+        for the current puzzle with the center letter first. This is
+        used to expand '%' to [ABCDEFG]. 
         '''
-        custom_lookup(pattern)
-        scowl_lookup(pattern)
+        custom_lookup(pattern, letters)
+        scowl_lookup(pattern, letters)
         dict_lookup(pattern, showerrors=False)
 
 
