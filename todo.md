@@ -8,12 +8,7 @@ and a few others since then. We do not need this restriction since we
 already already attempt to cut out puzzles that have lots of plurals.
 See generate_puzzles.py.a
 
-
-### Remove Britishisms
-
-* [x] People don't like having to do both "defense" and "defence". 
-
-### Allow variants
+### Maybe allow variants
 
 "Variants" of words are stored in separate files. It is not clear what
 that means in terms of word frequency since they still have the
@@ -48,8 +43,8 @@ Dictionary, (e.g., "NAOI", "ILIA") and hyper-specific terms of art
 
 SCOWL categorizes the words I found as less frequently used, primarily
 english-words.50 (the top 50% of English words). While "pyro" and
-"cannoli" are dubious, it feels wrong to not accept a common word like
-"aurora". 
+"cannoli" may be questiionable, it certainly feels wrong to not accept
+a common word like "aurora".
 
 <details><summary>Which SCOWL word lists contain what</summary>
 <ul>
@@ -141,14 +136,23 @@ in which more than half of the words end in -ING.
     review, reviewer, reviewed, dive, diver, dived, peeve, peeved, ...
 	(uniqueness is quite low at 0.36)
 
-  * [x] generate-puzzles.py: Remove plural (-S) pairs
+  * [ ] generate-puzzles.py:make_puzzles()
+		More reasons for is_valid = False.
 
-  * [x] generate-puzzles.py: Remove gerundive (-ING) pairs
+	* [x] Count `-S` pairs (simple plural)
 
-  * [ ] generate-puzzles.py: Remove past tense (-ED) pairs
+	* [x] Count `-ING` pairs (present participle and gerundive)
 
-  * [ ] generate-puzzles.py: Count stems and ensure we have a
-        sufficient number: WAGE, WAGED, WAGING == 1 stem. 
+	* [x] Count `-ED` pairs (preterite == simple past tense). Test with DEFLOUY.
+
+	* [ ] Count stems and ensure we have a sufficient number: 
+		  WAGE, WAGED, WAGING == 1 stem. 
+
+### Estimate number of compound words. 
+
+  * [ ] Split words into two halves and check if they are valid words.
+        "Ringworm is neither a 'ring' nor a 'worm'. It is a fungus."
+
 
 ### Place found words to the side of the grid
 
@@ -283,21 +287,6 @@ player truly needs it.
 The user should be able to hit the up arrow to go back in the history
 and correct mistakes.
 
-### Show encouragement
-
-Cause, why not?
-
-* [ ] “ERUDITION BONUS: We didn't expect people to know that word.
-  You've earned a bonus!”
-
-* [x] “AMAZING LEVEL ACHIEVED: You have found 50% of the hidden words! When
-  you quit, any remaining words will be listed.”
-
-* [ ] “GENIUS LEVEL ACHIEVED: You have found 70% of the words. You can
-  now convert your bonus points into hints, if you'd like.
-
-* [x] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
-  earned a free HINT. Use '!HINT' when stuck.”
 
 ### Use "fancy" terminal escape sequences?
 
@@ -310,12 +299,8 @@ enhanced a bit by
 * [ ] Maybe — if we want to go _crazy_ — we could show a one-line ASCII
   animation using carriage-return without newline.
 
-### Dictionary
+* [ ] Some people would like the center letter to be bold or reverse.
 
-* [x] Add !dict to define a word in a dictionary, if dict is installed.
-
-* [x] Add !match to look up the headword in a dictionary, using both
-      SCOWL and dict.
 
 ### Are Döppelgangers a problem?
 
@@ -407,15 +392,10 @@ puzzles? If they are too similar, which one should be kept?
 
 ### Hapax Legomena
 
-Nonce words should be accepted
+Nonce words are perfectly crommulent.
 
 [hapax]: https://archive.examiningtheoed.com/oed.hertford.ox.ac.uk/main/content/view/402/450/ "Discussion of Hapax Legomena in the Oxfored English Dictionary"
 				  
-### Match accented characters
-
- * [ ] If the user types "pinata", then it should match _piñata_ in a
-	   wordlist. To test, try _canapé_ which is in Scowl only accented.
-
 ### Get rid of mkscowl
 
 mkscowl script currently converts the multitude of scowl files to a
@@ -425,4 +405,41 @@ single homogeneous file.
        of a certain frequency level (set in params.py?) instead of
        hardcoding it to ≤35 with bonus ≤50.
 
+
+
+## DONE. 
+
+Delete me eventually.
+
+### Match accented characters
+
+ * [x] If the user types "pinata", then it should match _piñata_ in a
+	   wordlist. To test, try _canapé_ which is in Scowl only accented.
+
+### Dictionary
+
+* [x] Add !dict to define a word in a dictionary, if dict is installed.
+
+* [x] Add !match to look up the headword in a dictionary, using both
+      SCOWL and dict.
+
+### Show encouragement
+
+Cause, why not?
+
+* [x] “ERUDITION BONUS: We didn't expect people to know that word.
+  You've earned a bonus!”
+
+* [x] “AMAZING LEVEL ACHIEVED: You have found 50% of the hidden words! When
+  you quit, any remaining words will be listed.”
+
+* [x] “GENIUS LEVEL ACHIEVED: You have found 70% of the words. You can
+  now convert your bonus points into hints, if you'd like.
+
+* [x] “SUPERBRAIN LEVEL ACHIEVED: You found 85% of the words! You've
+  earned a free HINT. Use '!HINT' when stuck.”
+
+### Remove Britishisms
+
+* [x] People don't like having to do both "defense" and "defence". 
 
