@@ -171,6 +171,7 @@ faceting
 facsimiled, facsimileing
 fantasied, fantasying
 firmed, firming
+flanneled, flanneling, flannelled, flannelling
 flatted, flatting
 floodlighted
 floured, flouring
@@ -311,6 +312,7 @@ pearled, pearling
 pebbled, pebbling
 peeved, peeving
 pelleted, pelleting
+periled, periling, perilled, perilling
 peroxided, peroxiding
 peter, peters, petered, petering
 phonied, phonying
@@ -345,6 +347,7 @@ pyramided, pyramiding
 quirked, quirking
 rifted, rifting
 satellited, satelliting
+sepulchered, sepulchering, sepulchre, speulchring
 tided, tiding
 vanned, vanning
 vatted, vatting
