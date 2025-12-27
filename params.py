@@ -32,10 +32,14 @@ MAX_WORD_COUNT = 50
 CAP_PLURALS = True
 MAX_PLURALS = 3
 
-
-# Reject games with too many gerund pairs (-ING)
+# Reject games with too many pairs of gerunds or present participles (-ING)
 CAP_GERUNDS = True
 MAX_GERUNDS = 5
+
+# Reject games with too many simple past tense pairs (-ED)
+CAP_PRETERITE = True
+MAX_PRETERITE = 4
+
 
 # total score limits
 MIN_TOTAL_SCORE = 60
@@ -43,6 +47,7 @@ MIN_TOTAL_SCORE = 60
 MAX_TOTAL_SCORE = 400           # Allow long words
 
 # Show rejected games as well as valid ones.
-# True, False, or "dots", or "why".
-PRINT_INVALID = "dots"        # "dots" simply prints a dot per invalid game.
-PRINT_INVALID = "why"         # "why" prints % stats for invalid games.
+# "csv", "dots", or "why".
+PRINT_INVALID = "csv"            # Emit table of puzzles, tab separated.
+#PRINT_INVALID = "dots"          # "dots" simply prints a dot per invalid game.
+#PRINT_INVALID = "why"           # "why" prints % stats for invalid games.
