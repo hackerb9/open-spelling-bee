@@ -21,7 +21,6 @@ bandana, bandanas		# Should be in american-words.35
 geek, geeks
 debacle
 macaroon, macaroons
-café (cafe), cafés (cafes)
 deice, deiced, deicing
 impala, impalas
 nanny, nannies
@@ -44,7 +43,7 @@ recruiter
 cognition
 pallet, pallets
 latte, lattes
-elate, elated
+elated
 arugula
 agate, agates
 piper, pipers
