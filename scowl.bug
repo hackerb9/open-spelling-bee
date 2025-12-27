@@ -86,16 +86,16 @@ verbing problem, but does seem to over emphasize the acadmic domain.
 ----------------------------------------------------------------------
 3. ACCENTED VARIATIONS HAVE REPLACED MORE COMMON UNACCENTED VERSIONS
 
-   a. attachés is in english-words.10 which is quite wrong.
+   a. attachés is in english-words.10 which is heinously wrong.
       The unnaccented spelling should be kept there and the 
       accented spelling should be moved to a less common file, like .50)
 
-   b. ALMOST NEVER SPELLED WITH ACCENTS (in American English): adiós,
-       croûton, débutante, derrière, épée, ingénue, kindergärtner,
-       matinée, macramé, mêlée, sauté, séance, soufflé
+   b. ALMOST NEVER SPELLED WITH ACCENTS (in American English):
+      adiós, croûton, débutante, derrière, épée, ingénue,
+      kindergärtner, matinée, macramé, mêlée, sauté, séance, soufflé
 
    c. CAN GO EITHER WAY BUT USUALLY ARE SPELLED WITHOUT THE ACCENT:
-      appliqué, blasé, café, châtelaine, cliché, dérailleur élan,
+      aïoli, appliqué, blasé, café, châtelaine, cliché, dérailleur, élan,
       émigré, entrée, fête, ingénue, outré, protégé, vicuña, voilà
 
    d. OFTEN SEEN WITH ACCENTS, BUT WITHOUT IS ALSO CORRECT:
@@ -119,3 +119,24 @@ verbing problem, but does seem to over emphasize the acadmic domain.
    CALK.*	CAULK.*
    REPRIZED	REPRISED
    
+4b. Some words give an uncommmon American spelling, but the
+    "British" spelling is actually more usual in the US.
+
+   UNCOMMON	MORE COMMONLY
+   ==========================
+   OCHER	OCHRE
+   BANDANNA	BANDANA
+
+5. Some words are ranked incorrectly.
+
+		CURRENTLY	SHOULD BE
+   AURORA	60		35
+   ICONIC	55		35
+   CYAN		55		35
+   UMBER	50		35
+   SIENNA	55		35
+   ECRU		50		35
+   TEAL		50		35
+   MEATBALL(s)	40		20
+
+
