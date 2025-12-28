@@ -467,7 +467,7 @@ def main():
         # check validity of letters
         if not utils.check_letters(puzzle_idx):
             print('Exiting...', file=sys.stderr)
-        exit(1)
+            exit(1)
 
         # choose standard sorting for all puzzle file names
         puzzle_idx = utils.sort_letters(puzzle_idx)

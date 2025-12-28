@@ -39,11 +39,13 @@ def main():
 
     if puzzle_idx is not None:
         
-        # check validity of letters
-        utils.check_letters(puzzle_idx)
-
         # choose standard sorting for all puzzle file names
         puzzle_idx = utils.sort_letters(puzzle_idx)
+
+        # check validity of letters
+        if not utils.check_letters(puzzle_idx):
+            print('Exiting...', file=sys.stderr)
+	    exit(1)
 
     # select puzzle, generate it if it doesn't exist
     puzl_path = utils.select_puzzle(puzzle_idx)
