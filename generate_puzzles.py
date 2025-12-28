@@ -293,7 +293,7 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
     with open(file_path, 'w') as json_file:
         json.dump(tmp, json_file, indent=4)
 
-    return True
+    return is_valid
 
 def count_plurals(results):
     """Given a list of words, return the number of pairs which appear as
@@ -378,70 +378,77 @@ def count_preterite(results):
     return count
 def main(puzzle_input=None):
 
-    # if data dir does not exist, create it
-    if not os.path.isdir(params.PUZZLE_DATA_PATH):
-        os.makedirs(params.PUZZLE_DATA_PATH)
+    try:
+        # if data dir does not exist, create it
+        if not os.path.isdir(params.PUZZLE_DATA_PATH):
+            os.makedirs(params.PUZZLE_DATA_PATH)
 
-    # get array of previously generated puzzles, to check against
-    existing_puzzles = get_existing_puzzles()
+        # get array of previously generated puzzles, to check against
+        existing_puzzles = get_existing_puzzles()
 
-    words = get_words(params.WORD_LIST_PATH)
-    #words = words[0:10000] #debug
-    print ('total words: ', len(words))
-    pool = get_pangramable_letter_pool(words)
-    print (f'unique {params.TOTAL_LETTER_COUNT}-letter pool: '+str(len(pool)))
+        words = get_words(params.WORD_LIST_PATH)
+        #words = words[0:10000] #debug
+        print ('total words: ', len(words))
+        pool = get_pangramable_letter_pool(words)
+        print (f'unique {params.TOTAL_LETTER_COUNT}-letter pool: '+str(len(pool)))
 
-    if len(sys.argv) > 1 and sys.argv[-1] == '--regenerate':
-        regenerate = True
-        sys.argv.pop()
-    else:
-        regenerate = False
+        if len(sys.argv) > 1 and sys.argv[-1] == '--regenerate':
+            regenerate = True
+            sys.argv.pop()
+        else:
+            regenerate = False
 
-    if len(sys.argv) > 1:
-        puzzle_input = sys.argv[-1].strip().upper()
-        sys.argv.pop()
-    else:
-        puzzle_input = None
+        if len(sys.argv) > 1:
+            puzzle_input = sys.argv[-1].strip().upper()
+            sys.argv.pop()
+        else:
+            puzzle_input = None
 
-    # header for csv output
-    if params.PRINT_INVALID == "csv":
-        print ('\t'.join(('letters', 'words', 'score', 'pangram', 'valid?', '-S pair', '-ED', '-ING')))
+        # header for csv output
+        if params.PRINT_INVALID == "csv":
+            print ('\t'.join(('letters', 'words', 'score', 'pangram', 'valid?', '-S pair', '-ED', '-ING')))
 
-    # user has requested a specific puzzle be created
-    if puzzle_input is not None:
-        # check validity of letters
-        utils.check_letters(puzzle_input)
+        # user has requested a specific puzzle be created
+        if puzzle_input is not None:
+            # check validity of letters
+            utils.check_letters(puzzle_input)
 
-        # manually request one puzzle by defining letters  on command line
-        # alphabetize the non-center letters (all but first in array)
-        puzzle_input = utils.sort_letters(puzzle_input)
+            # manually request one puzzle by defining letters  on command line
+            # alphabetize the non-center letters (all but first in array)
+            puzzle_input = utils.sort_letters(puzzle_input)
 
-        make_puzzles(words, pool, existing_puzzles, puzzle_input)
+            make_puzzles(words, pool, existing_puzzles, puzzle_input)
 
-    elif regenerate:
-        # Regenerate all existing puzzles
-        no_good=[]
-        for puzzle_input in existing_puzzles:
-            if not make_puzzles(words, [], [], puzzle_input):
-                no_good.append(puzzle_input)
-        if no_good:
-            print(f'These puzzles no longer meet the requirements and can be deleted:\n{" ".join(no_good)}')
+        elif regenerate:
+            # Regenerate all existing puzzles
+            no_good=[]
+            try:
+                for puzzle_input in existing_puzzles:
+                    if not make_puzzles(words, [], existing_puzzles, puzzle_input):
+                        no_good.append(puzzle_input)
+            except KeyboardInterrupt:
+                print("Aborting.")
+            if no_good:
+                print(f'These puzzles no longer meet the requirements and can be deleted:\n{" ".join(no_good)}')
 
-    # user/code has no specific puzzle to create, generating many
-    else:
+        # user/code has no specific puzzle to create, generating many
+        else:
 
-        idx_valid = 0
+            idx_valid = 0
 
-        # generating N puzzles based on params
-        for _ in range(params.MAX_PUZZLE_TRIES):
-            if make_puzzles(words, pool, existing_puzzles, None):
-                idx_valid += 1
+            # generating N puzzles based on params
+            for _ in range(params.MAX_PUZZLE_TRIES):
+                if make_puzzles(words, pool, existing_puzzles, None):
+                    idx_valid += 1
 
-            # reached target count of puzzles, exiting loop
-            if idx_valid >= params.PUZZLE_COUNT:
-                exit(0)
+                # reached target count of puzzles, exiting loop
+                if idx_valid >= params.PUZZLE_COUNT:
+                    exit(0)
 
-    return puzzle_input
-
+        return puzzle_input
+    except KeyboardInterrupt:
+        print("Exiting.")
+        return -1
+        
 if __name__ == "__main__":
     main()
