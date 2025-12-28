@@ -429,8 +429,13 @@ def main(puzzle_input=None):
             print ('letters', 'valid?', 'words', 'score', 'pangram',
                    '-S pair', '-ED', '-ING', sep='\t')
 
-        # user has requested a specific puzzle be created
+        # user has requested a specific puzzle be created, e.g., WAHORTY
         if puzzle_input is not None:
+            # Allow input like "data/WAHORTY.json".
+            if '.' in puzzle_input or '/' in puzzle_input:
+                puzzle_input=os.path.basename(puzzle_input)
+                (puzzle_input, dummy)=os.path.splitext(puzzle_input)
+
             # check validity of letters
             utils.check_letters(puzzle_input)
 
