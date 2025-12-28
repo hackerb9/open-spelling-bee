@@ -85,7 +85,7 @@ def select_puzzle(puzl_idx=None):
         print ('Puzzles must be ',str(params.TOTAL_LETTER_COUNT),'letters long. Please try again.', file=sys.stderr)
         exit(1)
 
-    # scenario 2: specific puzzle requested but not already available
+    # scenario 2: the specific puzzle requested already exists
     if puzl_idx in puzl_idx_list:
         print('Existing puzzle will be played:',puzl_idx)
         puzl_path = params.PUZZLE_DATA_PATH + os.sep + puzl_idx + '.json'
