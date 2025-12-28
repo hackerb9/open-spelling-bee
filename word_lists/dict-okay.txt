@@ -789,7 +789,6 @@ galangal
 dyke, dykes
 drake, drakes
 diode, diodes
-bidet, bidets
 botnet, botnets
 dint
 intone, intones, intoned, intoning
@@ -806,6 +805,6 @@ bantam
 missy					# Joyce Ulysses 733 “Little chits of missies they have now singing.”
 dyad
 deadeye
-
+reverb, tremolo, vibrato, vocoder
 
 
