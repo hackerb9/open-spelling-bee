@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 210,
-    "word_count": 50,
+    "total_score": 217,
+    "word_count": 51,
     "pangram_count": 1,
     "pangram_list": [
         "IMMORTAL"
@@ -90,11 +90,6 @@
         {
             "word": "MALARIA",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MARIA",
-            "score": 5,
             "pangram": false
         },
         {
@@ -198,6 +193,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -205,6 +205,11 @@
         {
             "word": "TAILOR",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 101,
-    "word_count": 29,
+    "total_score": 95,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "FIREWORK"
@@ -113,11 +113,6 @@
             "pangram": false
         },
         {
-            "word": "RIFER",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "ROOF",
             "score": 1,
             "pangram": false
@@ -130,11 +125,6 @@
         {
             "word": "ROOKIE",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

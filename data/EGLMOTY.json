@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 82,
-    "word_count": 23,
+    "total_score": 77,
+    "word_count": 22,
     "pangram_count": 1,
     "pangram_list": [
         "ETYMOLOGY"
@@ -55,11 +55,6 @@
         {
             "word": "MEET",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 239,
-    "word_count": 45,
+    "total_score": 247,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "DOCKING"
@@ -230,6 +230,16 @@
         {
             "word": "NOON",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OINKING",
+            "score": 7,
             "pangram": false
         },
         {

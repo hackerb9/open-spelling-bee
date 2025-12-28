@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 137,
-    "word_count": 35,
+    "total_score": 132,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "IMAGERY"
@@ -125,11 +125,6 @@
         {
             "word": "MARE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MARIA",
-            "score": 5,
             "pangram": false
         },
         {

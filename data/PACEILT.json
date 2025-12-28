@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 195,
-    "word_count": 50,
+    "total_score": 207,
+    "word_count": 52,
     "pangram_count": 1,
     "pangram_list": [
         "ELLIPTICAL"
@@ -24,6 +24,11 @@
     "word_list": [
         {
             "word": "ACCEPT",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALPACA",
             "score": 6,
             "pangram": false
         },
@@ -150,6 +155,11 @@
         {
             "word": "PALL",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PALLET",
+            "score": 6,
             "pangram": false
         },
         {

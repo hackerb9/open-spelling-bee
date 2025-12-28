@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 30,
+    "total_score": 135,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "CRIMINAL"
@@ -144,11 +144,6 @@
         },
         {
             "word": "MANIC",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "MARIA",
             "score": 5,
             "pangram": false
         },

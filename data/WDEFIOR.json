@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 39,
+    "total_score": 172,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "FIREWOOD"
@@ -68,11 +68,6 @@
             "pangram": false
         },
         {
-            "word": "WEDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "WEED",
             "score": 1,
             "pangram": false
@@ -85,11 +80,6 @@
         {
             "word": "WEEDIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

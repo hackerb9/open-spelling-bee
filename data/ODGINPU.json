@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 136,
-    "word_count": 30,
+    "total_score": 145,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "POUNDING"
@@ -115,6 +115,11 @@
         {
             "word": "PINION",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 9,
             "pangram": false
         },
         {

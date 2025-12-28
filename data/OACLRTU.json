@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 179,
-    "word_count": 49,
+    "total_score": 202,
+    "word_count": 53,
     "pangram_count": 1,
     "pangram_list": [
         "CALCULATOR"
@@ -40,6 +40,16 @@
         {
             "word": "AORTA",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "AURORA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -193,6 +203,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -205,6 +220,11 @@
         {
             "word": "TACO",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

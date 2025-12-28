@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 131,
-    "word_count": 46,
+    "total_score": 130,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "LAWMAKER"
@@ -229,11 +229,6 @@
         },
         {
             "word": "WEEK",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
             "score": 1,
             "pangram": false
         },

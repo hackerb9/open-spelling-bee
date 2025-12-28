@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 102,
-    "word_count": 26,
+    "total_score": 97,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "TRAUMATIC"
@@ -84,11 +84,6 @@
         },
         {
             "word": "MAMMA",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "MARIA",
             "score": 5,
             "pangram": false
         },

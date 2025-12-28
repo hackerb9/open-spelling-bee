@@ -15,12 +15,10 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 189,
+    "total_score": 190,
     "word_count": 30,
-    "pangram_count": 1,
-    "pangram_list": [
-        "PHOTOING"
-    ],
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "HOOP",
@@ -73,11 +71,6 @@
             "pangram": false
         },
         {
-            "word": "PHOTOING",
-            "score": 8,
-            "pangram": true
-        },
-        {
             "word": "PHOTON",
             "score": 6,
             "pangram": false
@@ -90,6 +83,11 @@
         {
             "word": "PINION",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 9,
             "pangram": false
         },
         {

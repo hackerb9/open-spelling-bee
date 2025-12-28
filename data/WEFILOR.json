@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 99,
-    "word_count": 26,
+    "total_score": 98,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "FLOWERIER"
@@ -75,11 +75,6 @@
         {
             "word": "LOWLIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 225,
-    "word_count": 43,
+    "total_score": 220,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "FIGURED"
@@ -215,11 +215,6 @@
         {
             "word": "RIFE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RIFER",
-            "score": 5,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
-    "word_count": 37,
+    "total_score": 166,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "LEGALITY"
@@ -54,11 +54,6 @@
         },
         {
             "word": "EAGLE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ELATE",
             "score": 5,
             "pangram": false
         },

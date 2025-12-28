@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 50,
+    "total_score": 198,
+    "word_count": 53,
     "pangram_count": 1,
     "pangram_list": [
         "ALPHABET"
@@ -133,6 +133,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LEAPT",
             "score": 5,
             "pangram": false
@@ -155,6 +160,11 @@
         {
             "word": "PALETTE",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PALLET",
+            "score": 6,
             "pangram": false
         },
         {
@@ -225,6 +235,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

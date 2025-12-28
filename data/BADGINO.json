@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
+    "total_score": 183,
     "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
@@ -63,8 +63,8 @@
             "pangram": false
         },
         {
-            "word": "BANDANNA",
-            "score": 8,
+            "word": "BANDANA",
+            "score": 7,
             "pangram": false
         },
         {

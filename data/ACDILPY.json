@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 98,
-    "word_count": 30,
+    "total_score": 104,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "PLACIDLY"
@@ -35,6 +35,11 @@
         {
             "word": "ALLY",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALPACA",
+            "score": 6,
             "pangram": false
         },
         {

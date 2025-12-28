@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 60,
-    "word_count": 27,
+    "total_score": 55,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "LEUKEMIA"
@@ -125,11 +125,6 @@
         {
             "word": "MEAL",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

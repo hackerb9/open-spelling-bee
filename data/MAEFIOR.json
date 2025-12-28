@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 37,
+    "total_score": 124,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "FOAMIER"
@@ -125,11 +125,6 @@
         {
             "word": "MARE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MARIA",
-            "score": 5,
             "pangram": false
         },
         {

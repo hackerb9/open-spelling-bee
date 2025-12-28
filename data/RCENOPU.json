@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 241,
-    "word_count": 50,
+    "total_score": 235,
+    "word_count": 49,
     "pangram_count": 1,
     "pangram_list": [
         "PRONOUNCE"
@@ -40,11 +40,6 @@
         {
             "word": "CONCURRENCE",
             "score": 11,
-            "pangram": false
-        },
-        {
-            "word": "COOPER",
-            "score": 6,
             "pangram": false
         },
         {

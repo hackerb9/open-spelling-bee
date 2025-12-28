@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 49,
+    "total_score": 212,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "AROMATIC"
@@ -158,11 +158,6 @@
             "pangram": false
         },
         {
-            "word": "MARIA",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "MART",
             "score": 1,
             "pangram": false
@@ -198,6 +193,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "TACIT",
             "score": 5,
             "pangram": false
@@ -215,6 +215,11 @@
         {
             "word": "TACTIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

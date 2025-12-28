@@ -15,12 +15,10 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 130,
-    "word_count": 24,
-    "pangram_count": 1,
-    "pangram_list": [
-        "JOLLYING"
-    ],
+    "total_score": 122,
+    "word_count": 23,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "GIGGLING",
@@ -81,11 +79,6 @@
             "word": "JOINING",
             "score": 7,
             "pangram": false
-        },
-        {
-            "word": "JOLLYING",
-            "score": 8,
-            "pangram": true
         },
         {
             "word": "LINGO",

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 122,
-    "word_count": 23,
+    "total_score": 123,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "PUNCTURE"
@@ -80,6 +80,11 @@
         {
             "word": "CUTTER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
             "pangram": false
         },
         {

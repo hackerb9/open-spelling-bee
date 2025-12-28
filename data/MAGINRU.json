@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 230,
-    "word_count": 39,
+    "total_score": 225,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "RUMMAGING"
@@ -130,11 +130,6 @@
         {
             "word": "MARGIN",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "MARIA",
-            "score": 5,
             "pangram": false
         },
         {

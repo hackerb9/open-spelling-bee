@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 162,
-    "word_count": 39,
+    "total_score": 156,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "OVERPRICE"
@@ -25,11 +25,6 @@
         {
             "word": "COOP",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COOPER",
-            "score": 6,
             "pangram": false
         },
         {

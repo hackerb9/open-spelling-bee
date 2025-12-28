@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 33,
+    "total_score": 140,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "INFORMER"
@@ -175,11 +175,6 @@
         {
             "word": "RIFE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RIFER",
-            "score": 5,
             "pangram": false
         },
         {

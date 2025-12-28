@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 184,
-    "word_count": 40,
+    "total_score": 179,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "FURNITURE"
@@ -190,11 +190,6 @@
         {
             "word": "RIFE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RIFER",
-            "score": 5,
             "pangram": false
         },
         {

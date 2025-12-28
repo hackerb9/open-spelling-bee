@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 205,
-    "word_count": 49,
+    "total_score": 211,
+    "word_count": 51,
     "pangram_count": 1,
     "pangram_list": [
         "CALORIE"
@@ -33,8 +33,18 @@
             "pangram": false
         },
         {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "AIRIER",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ALOE",
+            "score": 1,
             "pangram": false
         },
         {

@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 140,
-    "word_count": 38,
+    "total_score": 146,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "ANYPLACE"
     ],
     "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "ANYPLACE",
             "score": 8,

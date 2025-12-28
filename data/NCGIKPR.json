@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 186,
-    "word_count": 33,
+    "total_score": 180,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
         "PRICKING"
@@ -115,11 +115,6 @@
         {
             "word": "PICNICKING",
             "score": 10,
-            "pangram": false
-        },
-        {
-            "word": "PIKING",
-            "score": 6,
             "pangram": false
         },
         {

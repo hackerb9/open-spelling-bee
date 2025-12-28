@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 115,
-    "word_count": 37,
+    "total_score": 114,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "HAYWIRE"
@@ -160,11 +160,6 @@
         {
             "word": "WEARY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

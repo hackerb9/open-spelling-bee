@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 219,
-    "word_count": 49,
+    "total_score": 213,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "OVERWORKED"
@@ -209,11 +209,6 @@
         },
         {
             "word": "WEDDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WEDDER",
             "score": 6,
             "pangram": false
         },

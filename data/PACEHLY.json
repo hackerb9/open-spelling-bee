@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 114,
-    "word_count": 34,
+    "total_score": 120,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "CHEAPLY"
     ],
     "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "ALPHA",
             "score": 5,

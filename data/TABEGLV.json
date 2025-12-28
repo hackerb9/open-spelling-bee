@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 107,
-    "word_count": 28,
+    "total_score": 102,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "VEGETABLE"
@@ -74,11 +74,6 @@
         },
         {
             "word": "BLEAT",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ELATE",
             "score": 5,
             "pangram": false
         },

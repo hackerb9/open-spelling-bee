@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 129,
-    "word_count": 29,
+    "total_score": 122,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "OVERPOWERED"
@@ -98,11 +98,6 @@
             "pangram": false
         },
         {
-            "word": "WEDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "WEED",
             "score": 1,
             "pangram": false
@@ -114,11 +109,6 @@
         },
         {
             "word": "WEEP",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
             "score": 1,
             "pangram": false
         },

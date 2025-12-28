@@ -15,12 +15,10 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 92,
-    "word_count": 27,
-    "pangram_count": 1,
-    "pangram_list": [
-        "PREOCCUPY"
-    ],
+    "total_score": 72,
+    "word_count": 24,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "COERCE",
@@ -30,11 +28,6 @@
         {
             "word": "COOP",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COOPER",
-            "score": 6,
             "pangram": false
         },
         {
@@ -60,11 +53,6 @@
         {
             "word": "COUP",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COYER",
-            "score": 5,
             "pangram": false
         },
         {
@@ -121,11 +109,6 @@
             "word": "POUR",
             "score": 1,
             "pangram": false
-        },
-        {
-            "word": "PREOCCUPY",
-            "score": 9,
-            "pangram": true
         },
         {
             "word": "PROCURE",

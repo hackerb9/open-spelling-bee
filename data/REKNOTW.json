@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 167,
-    "word_count": 42,
+    "total_score": 166,
+    "word_count": 41,
     "pangram_count": 1,
     "pangram_list": [
         "NETWORK"
@@ -184,11 +184,6 @@
         },
         {
             "word": "TROT",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
             "score": 1,
             "pangram": false
         },

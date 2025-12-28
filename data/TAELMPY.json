@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 207,
-    "word_count": 51,
+    "total_score": 202,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "PLAYMATE"
@@ -30,11 +30,6 @@
         {
             "word": "ATTEMPT",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "ELATE",
-            "score": 5,
             "pangram": false
         },
         {

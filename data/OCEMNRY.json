@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 37,
+    "total_score": 140,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "CEREMONY"
@@ -95,11 +95,6 @@
         {
             "word": "CORONER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "COYER",
-            "score": 5,
             "pangram": false
         },
         {

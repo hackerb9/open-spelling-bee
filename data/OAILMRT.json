@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 171,
-    "word_count": 50,
+    "total_score": 193,
+    "word_count": 54,
     "pangram_count": 1,
     "pangram_list": [
         "IMMORTAL"
     ],
     "word_list": [
+        {
+            "word": "AIOLI",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "ALLOT",
             "score": 5,
@@ -49,6 +54,11 @@
         },
         {
             "word": "AROMA",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ATOLL",
             "score": 5,
             "pangram": false
         },
@@ -203,6 +213,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
@@ -210,6 +225,11 @@
         {
             "word": "TAILOR",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

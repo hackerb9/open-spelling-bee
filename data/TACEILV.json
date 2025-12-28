@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
-    "word_count": 48,
+    "total_score": 224,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "VACILLATE"
@@ -75,11 +75,6 @@
         {
             "word": "ECLECTIC",
             "score": 8,
-            "pangram": false
-        },
-        {
-            "word": "ELATE",
-            "score": 5,
             "pangram": false
         },
         {

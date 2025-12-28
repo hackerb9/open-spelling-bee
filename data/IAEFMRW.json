@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 116,
-    "word_count": 29,
+    "total_score": 106,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "FIRMWARE"
@@ -108,11 +108,6 @@
             "pangram": false
         },
         {
-            "word": "MARIA",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "MERRIER",
             "score": 7,
             "pangram": false
@@ -130,11 +125,6 @@
         {
             "word": "RIFE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RIFER",
-            "score": 5,
             "pangram": false
         },
         {

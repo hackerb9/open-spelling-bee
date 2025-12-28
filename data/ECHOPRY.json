@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 145,
-    "word_count": 36,
+    "total_score": 134,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "PROPHECY"
@@ -58,11 +58,6 @@
             "pangram": false
         },
         {
-            "word": "COOPER",
-            "score": 6,
-            "pangram": false
-        },
-        {
             "word": "COPE",
             "score": 1,
             "pangram": false
@@ -75,11 +70,6 @@
         {
             "word": "CORE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COYER",
-            "score": 5,
             "pangram": false
         },
         {

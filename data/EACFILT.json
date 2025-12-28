@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 183,
-    "word_count": 50,
+    "total_score": 196,
+    "word_count": 53,
     "pangram_count": 1,
     "pangram_list": [
         "FACILITATE"
@@ -113,6 +113,11 @@
             "pangram": true
         },
         {
+            "word": "FALAFEL",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "FATE",
             "score": 1,
             "pangram": false
@@ -198,6 +203,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LATTICE",
             "score": 7,
             "pangram": false
@@ -240,6 +250,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

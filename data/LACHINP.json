@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 90,
-    "word_count": 26,
+    "total_score": 96,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "CHAPLAIN"
     ],
     "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "ALPHA",
             "score": 5,

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 82,
-    "word_count": 26,
+    "total_score": 81,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "WORMHOLE"
@@ -114,11 +114,6 @@
         },
         {
             "word": "ROOM",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
             "score": 1,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 112,
-    "word_count": 25,
+    "total_score": 111,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "OVERWRITE"
@@ -80,11 +80,6 @@
         {
             "word": "VIEWER",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

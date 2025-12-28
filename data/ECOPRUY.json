@@ -15,20 +15,13 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 123,
-    "word_count": 31,
-    "pangram_count": 1,
-    "pangram_list": [
-        "PREOCCUPY"
-    ],
+    "total_score": 103,
+    "word_count": 28,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "COERCE",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "COOPER",
             "score": 6,
             "pangram": false
         },
@@ -45,11 +38,6 @@
         {
             "word": "CORE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COYER",
-            "score": 5,
             "pangram": false
         },
         {
@@ -116,11 +104,6 @@
             "word": "PORE",
             "score": 1,
             "pangram": false
-        },
-        {
-            "word": "PREOCCUPY",
-            "score": 9,
-            "pangram": true
         },
         {
             "word": "PREY",

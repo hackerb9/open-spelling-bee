@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 125,
-    "word_count": 35,
+    "total_score": 131,
+    "word_count": 36,
     "pangram_count": 1,
     "pangram_list": [
         "APPLICABLE"
     ],
     "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "APIECE",
             "score": 6,

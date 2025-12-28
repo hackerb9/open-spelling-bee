@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 119,
-    "word_count": 28,
+    "total_score": 118,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "WARTIME"
@@ -115,11 +115,6 @@
         {
             "word": "WEARIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

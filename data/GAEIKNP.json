@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 252,
-    "word_count": 46,
+    "total_score": 246,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "PEAKING"
@@ -224,11 +224,6 @@
         },
         {
             "word": "PIGPEN",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "PIKING",
             "score": 6,
             "pangram": false
         },

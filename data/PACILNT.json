@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 105,
-    "word_count": 26,
+    "total_score": 111,
+    "word_count": 27,
     "pangram_count": 1,
     "pangram_list": [
         "APPLICANT"
     ],
     "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "APPALL",
             "score": 6,

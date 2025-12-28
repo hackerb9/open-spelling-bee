@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 203,
-    "word_count": 36,
+    "total_score": 212,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "WHOOPING"
@@ -125,6 +125,11 @@
         {
             "word": "PINION",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 9,
             "pangram": false
         },
         {

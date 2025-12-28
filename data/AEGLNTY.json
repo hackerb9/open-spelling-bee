@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 222,
-    "word_count": 50,
+    "total_score": 238,
+    "word_count": 54,
     "pangram_count": 1,
     "pangram_list": [
         "ELEGANTLY"
     ],
     "word_list": [
+        {
+            "word": "AGATE",
+            "score": 5,
+            "pangram": false
+        },
         {
             "word": "AGENT",
             "score": 5,
@@ -173,6 +178,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LEAN",
             "score": 1,
             "pangram": false
@@ -185,6 +195,11 @@
         {
             "word": "LEGALLY",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "NANNY",
+            "score": 5,
             "pangram": false
         },
         {
@@ -250,6 +265,11 @@
         {
             "word": "TATTY",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

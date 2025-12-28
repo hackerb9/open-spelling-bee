@@ -15,7 +15,7 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 229,
+    "total_score": 224,
     "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
@@ -40,11 +40,6 @@
         {
             "word": "CONE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COOPER",
-            "score": 6,
             "pangram": false
         },
         {
@@ -84,6 +79,11 @@
         },
         {
             "word": "CURE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
             "score": 1,
             "pangram": false
         },

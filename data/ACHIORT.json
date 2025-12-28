@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 217,
-    "word_count": 50,
+    "total_score": 229,
+    "word_count": 52,
     "pangram_count": 1,
     "pangram_list": [
         "CHARIOT"
@@ -198,6 +198,11 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "TACIT",
             "score": 5,
             "pangram": false
@@ -215,6 +220,11 @@
         {
             "word": "TACTIC",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
+            "score": 5,
             "pangram": false
         },
         {

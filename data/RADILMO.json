@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
-    "word_count": 43,
+    "total_score": 164,
+    "word_count": 42,
     "pangram_count": 1,
     "pangram_list": [
         "ARMADILLO"
@@ -135,11 +135,6 @@
         {
             "word": "MALLARD",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "MARIA",
-            "score": 5,
             "pangram": false
         },
         {

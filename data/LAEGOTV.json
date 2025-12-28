@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
-    "word_count": 49,
+    "total_score": 164,
+    "word_count": 48,
     "pangram_count": 1,
     "pangram_list": [
         "VOLTAGE"
@@ -54,11 +54,6 @@
         },
         {
             "word": "EAGLE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ELATE",
             "score": 5,
             "pangram": false
         },

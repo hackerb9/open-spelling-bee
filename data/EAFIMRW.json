@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 169,
-    "word_count": 46,
+    "total_score": 163,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "FIRMWARE"
@@ -193,11 +193,6 @@
             "pangram": false
         },
         {
-            "word": "RIFER",
-            "score": 5,
-            "pangram": false
-        },
-        {
             "word": "WAFER",
             "score": 5,
             "pangram": false
@@ -225,11 +220,6 @@
         {
             "word": "WEARIER",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

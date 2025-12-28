@@ -15,12 +15,10 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 111,
-    "word_count": 26,
-    "pangram_count": 1,
-    "pangram_list": [
-        "JOLLYING"
-    ],
+    "total_score": 103,
+    "word_count": 25,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "GIGGLING",
@@ -51,11 +49,6 @@
             "word": "JOLLY",
             "score": 5,
             "pangram": false
-        },
-        {
-            "word": "JOLLYING",
-            "score": 8,
-            "pangram": true
         },
         {
             "word": "LILY",

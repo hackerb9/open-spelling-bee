@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 112,
-    "word_count": 22,
+    "total_score": 125,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "UNHOOKING"
     ],
     "word_list": [
+        {
+            "word": "GINKGO",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "GOING",
             "score": 5,
@@ -115,6 +120,11 @@
         {
             "word": "NIGH",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OINKING",
+            "score": 7,
             "pangram": false
         },
         {

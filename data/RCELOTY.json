@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 222,
-    "word_count": 46,
+    "total_score": 217,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "CORRECTLY"
@@ -70,11 +70,6 @@
         {
             "word": "CORRECTOR",
             "score": 9,
-            "pangram": false
-        },
-        {
-            "word": "COYER",
-            "score": 5,
             "pangram": false
         },
         {

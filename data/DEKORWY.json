@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 185,
-    "word_count": 48,
+    "total_score": 179,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "KEYWORD"
@@ -184,11 +184,6 @@
         },
         {
             "word": "WEDDED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WEDDER",
             "score": 6,
             "pangram": false
         },

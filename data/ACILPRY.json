@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 132,
-    "word_count": 38,
+    "total_score": 138,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "CAPILLARY"
@@ -40,6 +40,11 @@
         {
             "word": "ALLY",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ALPACA",
+            "score": 6,
             "pangram": false
         },
         {

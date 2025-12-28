@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 278,
-    "word_count": 49,
+    "total_score": 290,
+    "word_count": 51,
     "pangram_count": 1,
     "pangram_list": [
         "VARIATION"
@@ -178,12 +178,22 @@
             "pangram": false
         },
         {
+            "word": "ROTATOR",
+            "score": 7,
+            "pangram": false
+        },
+        {
             "word": "ROTOR",
             "score": 5,
             "pangram": false
         },
         {
             "word": "TAINT",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TAROT",
             "score": 5,
             "pangram": false
         },

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 105,
-    "word_count": 34,
+    "total_score": 104,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "ANYWHERE"
@@ -145,11 +145,6 @@
         {
             "word": "WEARY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

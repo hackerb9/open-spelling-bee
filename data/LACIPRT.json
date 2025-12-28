@@ -15,13 +15,18 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 138,
-    "word_count": 34,
+    "total_score": 144,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PRACTICAL"
     ],
     "word_list": [
+        {
+            "word": "ALPACA",
+            "score": 6,
+            "pangram": false
+        },
         {
             "word": "ALTAR",
             "score": 5,

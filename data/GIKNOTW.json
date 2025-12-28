@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 250,
-    "word_count": 44,
+    "total_score": 257,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "KOWTOWING"
@@ -105,6 +105,11 @@
         {
             "word": "NOTING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OINKING",
+            "score": 7,
             "pangram": false
         },
         {

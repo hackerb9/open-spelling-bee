@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 198,
-    "word_count": 32,
+    "total_score": 205,
+    "word_count": 33,
     "pangram_count": 1,
     "pangram_list": [
         "MOCKING"
@@ -164,6 +164,11 @@
         },
         {
             "word": "NICKING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OINKING",
             "score": 7,
             "pangram": false
         },

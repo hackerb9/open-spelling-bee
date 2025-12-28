@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 164,
-    "word_count": 46,
+    "total_score": 184,
+    "word_count": 50,
     "pangram_count": 1,
     "pangram_list": [
         "AFFLUENT"
@@ -26,6 +26,11 @@
             "word": "AFFLUENT",
             "score": 8,
             "pangram": true
+        },
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
         },
         {
             "word": "ANAL",
@@ -40,6 +45,11 @@
         {
             "word": "ANNUL",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FALAFEL",
+            "score": 7,
             "pangram": false
         },
         {
@@ -168,6 +178,11 @@
             "pangram": false
         },
         {
+            "word": "LATTE",
+            "score": 5,
+            "pangram": false
+        },
+        {
             "word": "LEAF",
             "score": 1,
             "pangram": false
@@ -230,6 +245,11 @@
         {
             "word": "TATTLE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TEAL",
+            "score": 1,
             "pangram": false
         },
         {

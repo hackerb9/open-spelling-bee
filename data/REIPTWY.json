@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 199,
-    "word_count": 46,
+    "total_score": 198,
+    "word_count": 45,
     "pangram_count": 1,
     "pangram_list": [
         "TYPEWRITER"
@@ -191,11 +191,6 @@
             "word": "TYPEWRITER",
             "score": 10,
             "pangram": true
-        },
-        {
-            "word": "WEER",
-            "score": 1,
-            "pangram": false
         },
         {
             "word": "WERE",

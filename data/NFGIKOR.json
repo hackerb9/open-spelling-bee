@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 218,
-    "word_count": 42,
+    "total_score": 226,
+    "word_count": 44,
     "pangram_count": 1,
     "pangram_list": [
         "FORKING"
@@ -180,6 +180,16 @@
         {
             "word": "OFFING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "OINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OINKING",
+            "score": 7,
             "pangram": false
         },
         {

@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 97,
-    "word_count": 25,
+    "total_score": 96,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "FLOWERY"
@@ -75,11 +75,6 @@
         {
             "word": "LOWLY",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

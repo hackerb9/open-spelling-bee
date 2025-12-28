@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 293,
-    "word_count": 50,
+    "total_score": 298,
+    "word_count": 51,
     "pangram_count": 1,
     "pangram_list": [
         "JOLTING"
@@ -75,6 +75,11 @@
         {
             "word": "IGNITION",
             "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "INGOT",
+            "score": 5,
             "pangram": false
         },
         {

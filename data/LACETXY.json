@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 109,
-    "word_count": 31,
+    "total_score": 104,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "EXACTLY"
@@ -74,11 +74,6 @@
         },
         {
             "word": "CYCLE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "ELATE",
             "score": 5,
             "pangram": false
         },

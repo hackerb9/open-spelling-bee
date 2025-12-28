@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 194,
-    "word_count": 35,
+    "total_score": 202,
+    "word_count": 37,
     "pangram_count": 1,
     "pangram_list": [
         "KINGDOM"
@@ -179,6 +179,16 @@
         },
         {
             "word": "NODDING",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "OINK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OINKING",
             "score": 7,
             "pangram": false
         },

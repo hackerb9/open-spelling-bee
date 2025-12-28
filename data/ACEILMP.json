@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 160,
-    "word_count": 50,
+    "total_score": 172,
+    "word_count": 52,
     "pangram_count": 1,
     "pangram_list": [
         "PIECEMEAL"
@@ -25,6 +25,11 @@
         {
             "word": "ACCLAIM",
             "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALPACA",
+            "score": 6,
             "pangram": false
         },
         {
@@ -105,6 +110,11 @@
         {
             "word": "EMAIL",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "IMPALA",
+            "score": 6,
             "pangram": false
         },
         {

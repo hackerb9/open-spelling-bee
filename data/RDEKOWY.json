@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 156,
-    "word_count": 40,
+    "total_score": 149,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
         "KEYWORD"
@@ -155,16 +155,6 @@
         {
             "word": "ROWED",
             "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "WEDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "WEER",
-            "score": 1,
             "pangram": false
         },
         {

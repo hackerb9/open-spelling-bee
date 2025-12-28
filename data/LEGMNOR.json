@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 72,
-    "word_count": 25,
+    "total_score": 67,
+    "word_count": 24,
     "pangram_count": 1,
     "pangram_list": [
         "MONGREL"
@@ -100,11 +100,6 @@
         {
             "word": "LORE",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MELEE",
-            "score": 5,
             "pangram": false
         },
         {

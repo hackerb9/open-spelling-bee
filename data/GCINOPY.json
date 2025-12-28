@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": true
     },
-    "total_score": 121,
-    "word_count": 20,
+    "total_score": 130,
+    "word_count": 21,
     "pangram_count": 1,
     "pangram_list": [
         "COPYING"
@@ -100,6 +100,11 @@
         {
             "word": "PINING",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 9,
             "pangram": false
         },
         {

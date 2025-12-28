@@ -15,8 +15,8 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 166,
-    "word_count": 33,
+    "total_score": 175,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "CHOPPING"
@@ -165,6 +165,11 @@
         {
             "word": "PINION",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PINIONING",
+            "score": 9,
             "pangram": false
         },
         {

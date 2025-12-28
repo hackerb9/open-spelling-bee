@@ -15,21 +15,14 @@
         "count_pangrams": 1,
         "manual_puzzle": false
     },
-    "total_score": 124,
-    "word_count": 36,
-    "pangram_count": 1,
-    "pangram_list": [
-        "PREOCCUPY"
-    ],
+    "total_score": 109,
+    "word_count": 34,
+    "pangram_count": 0,
+    "pangram_list": [],
     "word_list": [
         {
             "word": "COOP",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "COOPER",
-            "score": 6,
             "pangram": false
         },
         {
@@ -131,11 +124,6 @@
             "word": "POUR",
             "score": 1,
             "pangram": false
-        },
-        {
-            "word": "PREOCCUPY",
-            "score": 9,
-            "pangram": true
         },
         {
             "word": "PREY",
