@@ -396,8 +396,12 @@ def count_preterite(results):
         if len(word) >= 4 and word[-3] == word[-4] and word[0:-3] in words:
             count=count+1       # YODELLED (British English)
     return count
-def main(puzzle_input=None):
 
+def s(n:int) -> str:
+    '''An "s" for plural numbers, e.g., "3 points"'''
+    return "" if n == 1 else "s"
+    
+def main():
     try:
         # if data dir does not exist, create it
         if not os.path.isdir(params.PUZZLE_DATA_PATH):
@@ -412,38 +416,37 @@ def main(puzzle_input=None):
         pool = get_pangramable_letter_pool(words)
         print (f'unique {params.TOTAL_LETTER_COUNT}-letter pool: '+str(len(pool)))
 
-        if len(sys.argv) > 1 and sys.argv[-1] == '--regenerate':
+        args = sys.argv[1:]
+        if len(args) == 1 and args[0] == '--regenerate':
             regenerate = True
-            sys.argv.pop()
+            args = args[1:]
         else:
             regenerate = False
 
-        if len(sys.argv) > 1:
-            puzzle_input = sys.argv[-1].strip().upper()
-            sys.argv.pop()
-        else:
-            puzzle_input = None
+        # Array of command line args, e.g. ['WAHORTY', 'VABDERT', 'DAEIMTY']
+        puzzle_input = [ x.strip().upper() for x in args ]
 
         # header for csv output
         if params.PRINT_VALID == "csv" or params.PRINT_INVALID == "csv":
             print ('letters', 'valid?', 'words', 'score', 'pangram',
                    '-S pair', '-ED', '-ING', sep='\t')
 
-        # user has requested a specific puzzle be created, e.g., WAHORTY
-        if puzzle_input is not None:
-            # Allow input like "data/WAHORTY.json".
-            if '.' in puzzle_input or '/' in puzzle_input:
-                puzzle_input=os.path.basename(puzzle_input)
-                (puzzle_input, dummy)=os.path.splitext(puzzle_input)
+        if puzzle_input:
+            # User has requested puzzle(s) by defining letters on command line
 
-            # check validity of letters
-            utils.check_letters(puzzle_input)
+            for p in puzzle_input:
+                # Clean up input if they specified "data/WAHORTY.json".
+                if '.' in p or '/' in p:
+                    p=os.path.basename(p)
+                    (p, dummy)=os.path.splitext(p)
 
-            # manually request one puzzle by defining letters  on command line
-            # alphabetize the non-center letters (all but first in array)
-            puzzle_input = utils.sort_letters(puzzle_input)
+                # check validity of letters
+                utils.check_letters(p)
 
-            make_puzzles(words, pool, existing_puzzles, puzzle_input)
+                # alphabetize the non-center letters (all but first in array)
+                p = utils.sort_letters(p)
+
+                make_puzzles(words, pool, existing_puzzles, p)
 
         elif regenerate:
             # Regenerate all existing puzzles
@@ -456,7 +459,8 @@ def main(puzzle_input=None):
             except KeyboardInterrupt:
                 print("Aborting.")
             if no_good:
-                print(f'These puzzles no longer meet the requirements and can be deleted:\n{" ".join(no_good)}')
+                num = len(no_good)
+                print(f'{num} puzzle{s(num)} no longer meet the requirements and can be deleted:\n{" ".join(no_good)}')
 
         # user/code has no specific puzzle to create, generating many
         else:
