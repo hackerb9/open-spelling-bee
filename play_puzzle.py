@@ -354,7 +354,7 @@ def give_hint(puzzle, player):
     x=player.hints_given[word]
     y=len(word) - player.hints_given[word]
     player.last_hint = word[0:x] + '_'*y + f' ({str(len(word))} letters)'
-    # print( player.last_hint )	# This is now shown before the prompt
+    # Note: player.last_hint is automatically shown before the prompt
     print()
 
 def get_longest_unfound(word_list, player_found):
@@ -465,7 +465,9 @@ def main():
     if puzzle_idx is not None:
 
         # check validity of letters
-        utils.check_letters(puzzle_idx)
+        if not utils.check_letters(puzzle_idx):
+            print('Exiting...', file=sys.stderr)
+        exit(1)
 
         # choose standard sorting for all puzzle file names
         puzzle_idx = utils.sort_letters(puzzle_idx)
