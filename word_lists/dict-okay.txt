@@ -356,7 +356,6 @@ popeyed
 preop
 preppy
 yippie
-robotic
 bocci, bocce
 ribbit
 trove, troves
@@ -811,6 +810,4 @@ tithe
 toothier
 hitter
 ziti
-
-
-
+atria, catboat, ciabatta, ricotta
