@@ -54,6 +54,7 @@ bused
 reprized
 wounder
 advert
+pended, impended
 
 ######################################################################
 
