@@ -53,12 +53,14 @@ class ScowlFile:
 def check_letters(pzl):
 
 	if len(pzl) != len(list(set(pzl))):
-		print('Invalid count of letters requested.', file=sys.stderr)
+		print(f'Duplicate letters requested: {pzl}.',
+                      file=sys.stderr)
 		print('Exiting...', file=sys.stderr)
 		exit(1)
 
 	elif len(pzl) != params.TOTAL_LETTER_COUNT:
-		print('Invalid count of letters requested.', file=sys.stderr)
+		print(f'Invalid count of letters requested: {pzl}.',
+                      file=sys.stderr)
 		print('Exiting...', file=sys.stderr)
 		exit(1)
 	else:
