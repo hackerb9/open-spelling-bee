@@ -794,4 +794,15 @@ botnet, botnets
 dint
 intone, intones, intoned, intoning
 preterite, præterite			# 1. Of or pertaining to bygone time; occurring or existing previously.  2. In grammar, a former word for the simple past tense.   3. Theol. One who is passed over or not elected by God.  1864: Fraser's Mag. May 533 “The reprobates who are damned because they were always meant to be damned, and the preterites who are damned because they were never meant to be saved.”
+catacomb, catacombs
+boatman
+canton
+toccata
+nanobot
+noncombatant
+nabob
+canto
+naan
+bantam
+
 
