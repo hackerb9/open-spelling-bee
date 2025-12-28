@@ -150,7 +150,7 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
     is_valid=True       # Are the current letters a valid game? 
     why_invalid={}      # Reasons why current letters are invalid.
     global valid_count  # Count of valid games found.
-    manual_puzzle=False # Were the letters specified? (False is automatic)
+    manual_puzzle=False # Were the letters specified? (False is "automatic")
     s_pairs = ed_pairs = ing_pairs = 0        # For pruning less fun puzzles.
 
     if letters is not None:
@@ -159,6 +159,13 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
         letters = get_letters_from(pool) # E.G. 'WAHORTY'
         if letters in existing_puzzles:
             return False
+
+    # Show output for every invalid puzzle found?
+    if params.PRINT_INVALID == "auto":
+        if manual_puzzle:
+            params.PRINT_INVALID = params.PRINT_VALID
+        else:
+            params.PRINT_INVALID = None
 
     results = []
     if params.THREADS > 1:
@@ -222,31 +229,28 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
         # (manual puzzles create files whether valid or not)
         if not manual_puzzle:
             if params.PRINT_INVALID == "dots":
-                print ('.', end='', flush=True)
+                print ('x', end='', flush=True)
             elif params.PRINT_INVALID == "why":
                 print_cumulative_why(why_invalid)
             elif params.PRINT_INVALID == "csv":
-                print( letters, len(results), total_score, len(pangram_list),
-                       is_valid, s_pairs, ed_pairs, ing_pairs, sep='\t' )
-            # return to go to next letters.
+                print( letters, is_valid, len(results), total_score,
+                       len(pangram_list), s_pairs, ed_pairs, ing_pairs,
+                       sep='\t' )
+                # return to go to next letters.
             return False
-        else:
-            # Not valid, but puzzle was specified manually
-            if params.PRINT_INVALID == "dots":
-                print ('', flush=True, file=sys.stderr)
-            print(f'Warning: Game written to {letters}.json'
-                  ' despite the following errors:\n\t',
-                  ', '.join(why_invalid), '.', flush=True, file=sys.stderr)
 
     # We got a valid word list (or manually specified), so let folks know.
     if params.PRINT_INVALID == "dots" != params.PRINT_VALID:
         print ('')          # Newline after row of .....
 
-    if params.PRINT_VALID == "dots":
-        print ('!', end='', flush=True)
-    elif params.PRINT_VALID == "csv":
-        print( letters, len(results), total_score, len(pangram_list),
-               is_valid, s_pairs, ed_pairs, ing_pairs, sep='\t' )
+    if is_valid and params.PRINT_VALID == "dots":
+        print ('.', end='', flush=True)
+    if not is_valid and params.PRINT_INVALID == "dots":
+        print ('x', end='', flush=True)
+
+    if params.PRINT_VALID == "csv":
+        print( letters, is_valid, len(results), total_score, len(pangram_list),
+               s_pairs, ed_pairs, ing_pairs, sep='\t' )
 
     # If you made it this far, the game will be recorded.
     # WARNING! if puzzle already exists, it will be overwritten
@@ -293,6 +297,11 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
     with open(file_path, 'w') as json_file:
         json.dump(tmp, json_file, indent=4)
 
+    # Maybe warn if the puzzle we just wrote was not valid.
+    if not is_valid and params.WARN_INVALID_MANUAL:
+        print(f'Warning: Game written to {file_path}'
+              ' despite the following errors:\n\t',
+              ', '.join(why_invalid), '.', flush=True, file=sys.stderr)
     return is_valid
 
 def count_plurals(results):
@@ -405,8 +414,9 @@ def main(puzzle_input=None):
             puzzle_input = None
 
         # header for csv output
-        if params.PRINT_INVALID == "csv":
-            print ('\t'.join(('letters', 'words', 'score', 'pangram', 'valid?', '-S pair', '-ED', '-ING')))
+        if params.PRINT_VALID == "csv" or params.PRINT_INVALID == "csv":
+            print ('letters', 'valid?', 'words', 'score', 'pangram',
+                   '-S pair', '-ED', '-ING', sep='\t')
 
         # user has requested a specific puzzle be created
         if puzzle_input is not None:
@@ -421,6 +431,7 @@ def main(puzzle_input=None):
 
         elif regenerate:
             # Regenerate all existing puzzles
+            params.WARN_INVALID_MANUAL = False
             no_good=[]
             try:
                 for puzzle_input in existing_puzzles:
