@@ -268,6 +268,14 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 
     pangram_list = [x.get('word') for x in pangram_list ]
 
+    quality = {
+        'is_valid'           : is_valid,
+        's_pairs'            : s_pairs,
+        'ed_pairs'           : ed_pairs,
+        'ing_pairs'          : ing_pairs,
+        'uniqueness'         : utils.uniqueness(results),
+    }
+
     generation_info = {
         'path'               : params.WORD_LIST_PATH,
         'min_word_length'    : params.MIN_WORD_LENGTH,
@@ -278,10 +286,13 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
         'max_total_score'    : params.MAX_TOTAL_SCORE,
         'cap_plurals'        : params.CAP_PLURALS,
         'max_plurals'        : params.MAX_PLURALS,
+        'cap_preterite'      : params.CAP_PRETERITE,
+        'max_preterite'      : params.MAX_PRETERITE,
         'cap_gerunds'        : params.CAP_GERUNDS,
         'max_gerunds'        : params.MAX_GERUNDS,
         'count_pangrams'     : params.COUNT_PANGRAMS,
         'manual_puzzle'      : manual_puzzle,
+        'quality'            : quality,
     }
 
     tmp = {
