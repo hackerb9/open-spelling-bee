@@ -247,6 +247,7 @@ jigged
 jigsawed, jigsawing
 jobbed, jobbing
 jointing
+jollied, jollying
 joyed, joying
 jugged, jugging
 keyboarded
@@ -347,7 +348,7 @@ pyramided, pyramiding
 quirked, quirking
 rifted, rifting
 satellited, satelliting
-sepulchered, sepulchering, sepulchre, speulchring
+sepulchered, sepulchering, sepulchred, speulchring
 tided, tiding
 vanned, vanning
 vatted, vatting
@@ -378,11 +379,11 @@ zincked, zincking
 #careered, careering
 #chancing
 #choppered, choppering
-#circuited
-#clued, cluing
+#circuited, circuiting			# Common enough with "short circuit"?
+#clued, cluing				# Common enough with "clue in"?
 #cocooned, cocooning
 #contenting
-#cottoned, cottoning
+#cottoned, cottoning			# Common enough with "cotton on"?
 #crusted, crusting
 #evidenced, evidences, evidencing
 #feathering
@@ -397,7 +398,6 @@ zincked, zincking
 #hurrahed
 #inclines, inclining
 #interchanged, interchanging
-#jollied, jollying
 #keynoted, keynoting
 # knuckled, knuckling			# Common enough with "knuckle under"?
 # limbered, limbering			# Common enough with "limber up"?
@@ -408,5 +408,5 @@ zincked, zincking
 #planked, planking
 #plighted, plighting
 #podded, podding
-#premised, premisin
+#premised, premising
 #puttied, puttying
