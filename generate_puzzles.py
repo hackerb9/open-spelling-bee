@@ -285,19 +285,19 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
     }
 
     tmp = {
-            'letters' : letters, # key letter is always first in list
-            'generation_info' : generation_info,
-            'total_score' : total_score,
-            'word_count' : len(results),
-            'pangram_count' : len(pangram_list),
-            'pangram_list' : pangram_list,
-            'word_list' : results,
-        }
+        'letters' : letters,    # key letter is always first in list
+        'generation_info' : generation_info,
+        'total_score' : total_score,
+        'word_count' : len(results),
+        'pangram_count' : len(pangram_list),
+        'pangram_list' : pangram_list,
+        'word_list' : results,
+    }
 
     with open(file_path, 'w') as json_file:
         json.dump(tmp, json_file, indent=4)
 
-    # Maybe warn if the puzzle we just wrote was not valid.
+    # Maybe warn if the puzzle file we just wrote was not valid.
     if not is_valid and params.WARN_INVALID_MANUAL:
         print(f'Warning: Game written to {file_path}'
               ' despite the following errors:\n\t',
