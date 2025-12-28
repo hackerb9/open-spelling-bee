@@ -123,6 +123,7 @@ certificating
 cheeking
 chinked, chinking
 chinning
+choppered, choppering
 chorused, chorusing
 chowed, chowering
 chroming
@@ -356,6 +357,7 @@ tided, tiding
 vanned, vanning
 vatted, vatting
 viced, vicing, vised, vising
+yachted, yachting
 zincked, zincking
 
 ######################################################################
@@ -381,7 +383,6 @@ zincked, zincking
 #candled, candling
 #careered, careering
 #chancing
-#choppered, choppering
 #circuited, circuiting			# Common enough with "short circuit"?
 #clued, cluing				# Common enough with "clue in"?
 #cocooned, cocooning
