@@ -1,0 +1,280 @@
+{
+    "letters": "IDEGOPR",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_preterite": true,
+        "max_preterite": 7,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true,
+        "quality": {
+            "is_valid": false,
+            "s_pairs": 0,
+            "ed_pairs": 8,
+            "ing_pairs": 0,
+            "uniqueness": 0.4
+        }
+    },
+    "total_score": 244,
+    "word_count": 49,
+    "pangram_count": 1,
+    "pangram_list": [
+        "PORRIDGE"
+    ],
+    "word_list": [
+        {
+            "word": "DERIDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DERIDED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DIED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIPPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DIRE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DIRER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DIRGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DOPIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DRIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRIER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DRIPPED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "EDDIED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EDGIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EERIE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EERIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GIDDIER",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GIRDER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOOIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GORIER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GREEDIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "GRID",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIP",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GRIPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GRIPED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GRIPPED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GROGGIER",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PEDIGREE",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PERIOD",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PIER",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PIPED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PIPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PORRIDGE",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "PRIDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIDED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "PRIED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRIOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "REDID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIDER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RIGID",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIGOR",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIPE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "RIPER",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "RIPPED",
+            "score": 6,
+            "pangram": false
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "letters": "DAEQRUV",
+    "letters": "DCEGHOU",
     "generation_info": {
         "path": "word_lists/scowl.txt",
         "min_word_length": 4,
@@ -15,55 +15,85 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false,
+        "manual_puzzle": true,
         "quality": {
-            "is_valid": true,
+            "is_valid": false,
             "s_pairs": 0,
-            "ed_pairs": 3,
+            "ed_pairs": 9,
             "ing_pairs": 0,
-            "uniqueness": 0.42
+            "uniqueness": 0.41
         }
     },
-    "total_score": 155,
-    "word_count": 35,
+    "total_score": 168,
+    "word_count": 38,
     "pangram_count": 1,
     "pangram_list": [
-        "QUAVERED"
+        "COUGHED"
     ],
     "word_list": [
         {
-            "word": "ADDED",
+            "word": "CEDE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "CEDED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DARE",
+            "word": "CHUGGED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "CODE",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DARED",
+            "word": "CODED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DEAD",
+            "word": "COOED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "COUCHED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "COUGHED",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "CUED",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DEADER",
+            "word": "DECODE",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "DEAR",
-            "score": 1,
+            "word": "DECODED",
+            "score": 7,
             "pangram": false
         },
         {
-            "word": "DEARER",
+            "word": "DEDUCE",
             "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DEDUCED",
+            "score": 7,
             "pangram": false
         },
         {
@@ -72,18 +102,28 @@
             "pangram": false
         },
         {
-            "word": "DEER",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DREAD",
+            "word": "DODGE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DREADED",
-            "score": 7,
+            "word": "DODGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DODO",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOUGH",
+            "score": 5,
             "pangram": false
         },
         {
@@ -92,117 +132,92 @@
             "pangram": false
         },
         {
-            "word": "ERRED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EVADE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EVADED",
+            "word": "ECHOED",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "QUAVERED",
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GODHOOD",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOUGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEDGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "HEDGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "HEDGEHOG",
             "score": 8,
-            "pangram": true
-        },
-        {
-            "word": "QUEERED",
-            "score": 7,
             "pangram": false
         },
         {
-            "word": "QUEUED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RADAR",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RARED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RAVED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "READ",
+            "word": "HEED",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "READER",
+            "word": "HEEDED",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "REARED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REED",
+            "word": "HOED",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "REREAD",
+            "word": "HOGGED",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "REVERED",
-            "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVVED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUDE",
+            "word": "HOOD",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "RUDER",
-            "score": 5,
+            "word": "HOODED",
+            "score": 6,
             "pangram": false
         },
         {
-            "word": "RUED",
+            "word": "HUED",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "UDDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "VEERED",
+            "word": "HUGGED",
             "score": 6,
             "pangram": false
         }

@@ -1,5 +1,5 @@
 {
-    "letters": "DAEQRUV",
+    "letters": "GADENOT",
     "generation_info": {
         "path": "word_lists/scowl.txt",
         "min_word_length": 4,
@@ -15,195 +15,235 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false,
+        "manual_puzzle": true,
         "quality": {
-            "is_valid": true,
+            "is_valid": false,
             "s_pairs": 0,
-            "ed_pairs": 3,
+            "ed_pairs": 8,
             "ing_pairs": 0,
-            "uniqueness": 0.42
+            "uniqueness": 0.43
         }
     },
-    "total_score": 155,
-    "word_count": 35,
+    "total_score": 176,
+    "word_count": 43,
     "pangram_count": 1,
     "pangram_list": [
-        "QUAVERED"
+        "TANGOED"
     ],
     "word_list": [
         {
-            "word": "ADDED",
+            "word": "ADAGE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DARE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DARED",
+            "word": "AGATE",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DEAD",
+            "word": "AGED",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DEADER",
+            "word": "AGENDA",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "DEAR",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEARER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "DEED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DEER",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "DREAD",
+            "word": "AGENT",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DREADED",
+            "word": "DODGE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "DODGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DOGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "EDGE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "EDGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "EGGED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ENGAGED",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "DUDE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ERRED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EVADE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EVADED",
+            "word": "GADGET",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "QUAVERED",
-            "score": 8,
+            "word": "GAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GANGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GATE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GATED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "GENE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GENT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GNAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOAD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOADED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GOAT",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOATEE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "GONE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GONG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOOD",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOON",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "GOTTEN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEGATE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "NEGATED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TAGGED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "TANG",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "TANGENT",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "TANGO",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "TANGOED",
+            "score": 7,
             "pangram": true
         },
         {
-            "word": "QUEERED",
+            "word": "TEENAGE",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "QUEUED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RADAR",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RARED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RAVED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "READ",
+            "word": "TOGA",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "READER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REARED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REED",
+            "word": "TONG",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "REREAD",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REVERED",
+            "word": "TONNAGE",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVVED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUDE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "UDDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "VEERED",
-            "score": 6,
             "pangram": false
         }
     ]

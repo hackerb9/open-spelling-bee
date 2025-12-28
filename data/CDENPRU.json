@@ -1,5 +1,5 @@
 {
-    "letters": "DAEQRUV",
+    "letters": "CDENPRU",
     "generation_info": {
         "path": "word_lists/scowl.txt",
         "min_word_length": 4,
@@ -15,195 +15,180 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false,
+        "manual_puzzle": true,
         "quality": {
-            "is_valid": true,
+            "is_valid": false,
             "s_pairs": 0,
-            "ed_pairs": 3,
+            "ed_pairs": 8,
             "ing_pairs": 0,
-            "uniqueness": 0.42
+            "uniqueness": 0.39
         }
     },
-    "total_score": 155,
-    "word_count": 35,
+    "total_score": 183,
+    "word_count": 32,
     "pangram_count": 1,
     "pangram_list": [
-        "QUAVERED"
+        "PRUDENCE"
     ],
     "word_list": [
         {
-            "word": "ADDED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "DARE",
+            "word": "CEDE",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DARED",
+            "word": "CEDED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DEAD",
-            "score": 1,
+            "word": "CREDENCE",
+            "score": 8,
             "pangram": false
         },
         {
-            "word": "DEADER",
+            "word": "CREED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREEP",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CREPE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRUDE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "CRUDER",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "DEAR",
+            "word": "CUED",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DEARER",
+            "word": "CUPPED",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "DEED",
+            "word": "CURD",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DEER",
+            "word": "CURE",
             "score": 1,
             "pangram": false
         },
         {
-            "word": "DREAD",
+            "word": "CURED",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "DREADED",
+            "word": "DECREE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "DECREED",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "DUDE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "ERRED",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EVADE",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "EVADED",
+            "word": "DEDUCE",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "QUAVERED",
+            "word": "DEDUCED",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "DEPENDENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "DUNCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ECRU",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "PENCE",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDE",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDED",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "PRECEDENCE",
+            "score": 10,
+            "pangram": false
+        },
+        {
+            "word": "PRUDENCE",
             "score": 8,
             "pangram": true
         },
         {
-            "word": "QUEERED",
+            "word": "RECEDE",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "RECEDED",
             "score": 7,
             "pangram": false
         },
         {
-            "word": "QUEUED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RADAR",
+            "word": "RECUR",
             "score": 5,
             "pangram": false
         },
         {
-            "word": "RARED",
-            "score": 5,
+            "word": "RECURRED",
+            "score": 8,
             "pangram": false
         },
         {
-            "word": "RAVED",
-            "score": 5,
+            "word": "RECURRENCE",
+            "score": 10,
             "pangram": false
         },
         {
-            "word": "READ",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "READER",
+            "word": "REDUCE",
             "score": 6,
             "pangram": false
         },
         {
-            "word": "REARED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "REREAD",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "REVERED",
+            "word": "REDUCED",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "REVVED",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUDDER",
-            "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "RUDE",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "RUDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "RUED",
-            "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "UDDER",
-            "score": 5,
-            "pangram": false
-        },
-        {
-            "word": "VEERED",
-            "score": 6,
             "pangram": false
         }
     ]
