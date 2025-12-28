@@ -55,16 +55,14 @@ def check_letters(pzl):
 	if len(pzl) != len(list(set(pzl))):
 		print(f'Duplicate letters requested: {pzl}.',
                       file=sys.stderr)
-		print('Exiting...', file=sys.stderr)
-		exit(1)
+                return False
 
 	elif len(pzl) != params.TOTAL_LETTER_COUNT:
 		print(f'Invalid count of letters requested: {pzl}.',
                       file=sys.stderr)
-		print('Exiting...', file=sys.stderr)
-		exit(1)
+                return False
 	else:
-		return
+		return True
 
 # smart sorting of letters, keeping first letter first
 def sort_letters(pzl):
