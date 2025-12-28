@@ -28,26 +28,32 @@ COUNT_PANGRAMS = 1
 MIN_WORD_COUNT = 25
 MAX_WORD_COUNT = 50
 
-# Reject games with too many plural pairs (-S)
-CAP_PLURALS = True
+# Reject games with too many simple pairs of words (LOVE, LOVES, LOVING, LOVED)
+CAP_PLURALS = True		# -S (plural pairs)
 MAX_PLURALS = 3
-
-# Reject games with too many pairs of gerunds or present participles (-ING)
-CAP_GERUNDS = True
+CAP_GERUNDS = True              # -ING (gerunds or present participles)
 MAX_GERUNDS = 5
-
-# Reject games with too many simple past tense pairs (-ED)
-CAP_PRETERITE = True
-MAX_PRETERITE = 4
-
+CAP_PRETERITE = True            # -ED (simple past tense)
+MAX_PRETERITE = 7
 
 # total score limits
 MIN_TOTAL_SCORE = 60
 #MAX_TOTAL_SCORE = 240
 MAX_TOTAL_SCORE = 400           # Allow long words
 
+WARN_INVALID_MANUAL = True      # Warn if a manually specified game is invalid 
+
+
+# Should valid games be listed as they're found when running generate_puzzles?
+# Values can be: "csv", "dots", or False.
+PRINT_VALID = "csv"             # Emit table of puzzles, tab separated.
+#PRINT_VALID = "dots"            # "dots" prints . for every valid game.
+
 # Show rejected games as well as valid ones.
-# "csv", "dots", or "why".
-PRINT_INVALID = "csv"            # Emit table of puzzles, tab separated.
-#PRINT_INVALID = "dots"          # "dots" simply prints a dot per invalid game.
+# "auto", "csv", "dots", "why", or None
+PRINT_INVALID = "auto"           # None, if letters are picked randomly,
+				 #   otherwise, use same as PRINT_VALID.
+#PRINT_INVALID = "csv"           # Emit table of puzzles, tab separated.
+#PRINT_INVALID = "dots"          # "dots" prints an "x" per invalid games.
 #PRINT_INVALID = "why"           # "why" prints % stats for invalid games.
+
