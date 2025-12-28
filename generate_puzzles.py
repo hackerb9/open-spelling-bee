@@ -16,29 +16,29 @@ import glob
 
 def get_existing_puzzles():
 
-	# return list of previously generated puzzles
-	
-	existing_puzzles = glob.glob(params.PUZZLE_DATA_PATH + os.sep + '*.json')
-	existing_puzzles = [x.replace(params.PUZZLE_DATA_PATH + os.sep,'').replace('.json','') for x in existing_puzzles]
-	return existing_puzzles
+    # return list of previously generated puzzles
+    
+    existing_puzzles = glob.glob(params.PUZZLE_DATA_PATH + os.sep + '*.json')
+    existing_puzzles = [x.replace(params.PUZZLE_DATA_PATH + os.sep,'').replace('.json','') for x in existing_puzzles]
+    return existing_puzzles
 
 def get_words(word_file):
 
-	# https://github.com/jmlewis/valett/
-	# https://raw.githubusercontent.com/jmlewis/valett/master/scrabble/sowpods.txt
+    # https://github.com/jmlewis/valett/
+    # https://raw.githubusercontent.com/jmlewis/valett/master/scrabble/sowpods.txt
 
-	# http://scrabutility.com/TWL06.txt
+    # http://scrabutility.com/TWL06.txt
 
-	with open(params.WORD_LIST_PATH,'r') as wp:
-		words = wp.readlines()
+    with open(params.WORD_LIST_PATH,'r') as wp:
+        words = wp.readlines()
 
-	# trim whitespace and remove short words
-	words = [w.strip().upper() for w in words if len(w.strip()) >= params.MIN_WORD_LENGTH]
+    # trim whitespace and remove short words
+    words = [w.strip().upper() for w in words if len(w.strip()) >= params.MIN_WORD_LENGTH]
 
-	# remove words known to be too obscure (e.g., "geed", "geeing")
-	try:
-		remove_list=utils.get_custom_word_list('remove')
-		words = sorted(list( set(words) - set(remove_list) ))
+    # remove words known to be too obscure (e.g., "geed", "geeing")
+    try:
+        remove_list=utils.get_custom_word_list('remove')
+        words = sorted(list( set(words) - set(remove_list) ))
     except (OSError, IOError) as e:
         print(f'Could not read optional "remove" list: {e}')
 
@@ -119,7 +119,8 @@ valid_count = 0
 why_cumulative={ 'Already found': 0, 'Too few pangrams': 0, 'Too many pangrams': 0,
          'Total score too low': 0, 'Total score too high': 0,
          'Too few words': 0, 'Too many words': 0,
-         'Too many plural pairs': 0, 'Too many gerund pairs': 0 }
+         'Too many plural pairs': 0, 'Too many gerund pairs': 0,
+         'Too many preterite pairs': 0}
 
 def print_cumulative_why(why):
     '''Given an associative array indicating why a set of letters was
@@ -145,26 +146,20 @@ def print_cumulative_why(why):
     print('%24s: %d' % ( 'Valid games found', valid_count ), flush=True )
 
 
-def make_puzzles(word_list, pool, existing_puzzles, letters=None, force_auto=False):
+def make_puzzles(word_list, pool, existing_puzzles, letters=None):
     is_valid=True       # Are the current letters a valid game? 
     why_invalid={}      # Reasons why current letters are invalid.
     global valid_count  # Count of valid games found.
+    manual_puzzle=False # Were the letters specified? (False is automatic)
+    s_pairs = ed_pairs = ing_pairs = 0        # For pruning less fun puzzles.
 
     if letters is not None:
-        if not force_auto:
-            manual_puzzle = True
-        else:
-            manual_puzzle = False
+        manual_puzzle = True    # Caller specified what letters to use
     else:
-        manual_puzzle = False
-        # letters = get_letters()
-        letters = get_letters_from(pool)
-        #letters = 'WAHORTY' # debug
+        letters = get_letters_from(pool) # E.G. 'WAHORTY'
+        if letters in existing_puzzles:
+            return False
 
-    if letters in existing_puzzles:
-        is_valid = False
-        why_invalid['Already found'] = 1
-        #return 0
     results = []
     if params.THREADS > 1:
         pool = ThreadPool(params.THREADS)
@@ -182,72 +177,95 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None, force_auto=Fal
     # generate list of pangrams
     pangram_list = list(filter(lambda x: x.get('pangram'), results))
 
+    # Count up potentially problematic pairs. LOVE, LOVES, LOVED, LOVING, 
+    if 'S' in letters: s_pairs = count_plurals(results)
+    if all([x in letters for x in 'ED']): ed_pairs = count_preterite(results)
+    if all((x in letters for x in 'ING')): ing_pairs = count_gerunds(results)
+
     # check if generated answers are invalid, based on params
     # incorrect number of pangrams
     # OR total_score falls out of bounds
     # OR total number of words falls out of bounds
     # OR too many pairs of singular/plural (FOOL, FOOLS) 
-    # OR too many pairs of verb/gerund (ENHANCE, ENHANCING)
-    if not manual_puzzle:
-        if (len(pangram_list) < params.COUNT_PANGRAMS):
-            is_valid=False
-            why_invalid['Too few pangrams']=1
-        if (len(pangram_list) > params.COUNT_PANGRAMS):
-            is_valid=False
-            why_invalid['Too many pangrams']=1
-        if (total_score < params.MIN_TOTAL_SCORE):
-            is_valid=False
-            why_invalid['Total score too low']=1
-        if (total_score > params.MAX_TOTAL_SCORE):
-            is_valid=False
-            why_invalid['Total score too high']=1
-        if (len(results) < params.MIN_WORD_COUNT):
-            is_valid=False
-            why_invalid['Too few words']=1
-        if (len(results) > params.MAX_WORD_COUNT):
-            is_valid=False
-            why_invalid['Too many words']=1
-        if (params.CAP_PLURALS and 'S' in letters and count_plurals(results) > params.MAX_PLURALS):
-            is_valid=False
-            why_invalid['Too many plural pairs']=1
-        if (params.CAP_GERUNDS and all([[x in letters for x in ('I', 'N', 'G')]]) and count_gerunds(results) > params.MAX_GERUNDS):
-            is_valid=False
-            why_invalid['Too many gerund pairs']=1
+    # OR too many pairs of verb/gerund/pp (ENHANCE, ENHANCING)
+    # OR too many pairs of verb/preterit (YODEL, YODELED)
+    if (len(pangram_list) < params.COUNT_PANGRAMS):
+        is_valid=False
+        why_invalid['Too few pangrams']=1
+    if (len(pangram_list) > params.COUNT_PANGRAMS):
+        is_valid=False
+        why_invalid['Too many pangrams']=1
+    if (total_score < params.MIN_TOTAL_SCORE):
+        is_valid=False
+        why_invalid['Total score too low']=1
+    if (total_score > params.MAX_TOTAL_SCORE):
+        is_valid=False
+        why_invalid['Total score too high']=1
+    if (len(results) < params.MIN_WORD_COUNT):
+        is_valid=False
+        why_invalid['Too few words']=1
+    if (len(results) > params.MAX_WORD_COUNT):
+        is_valid=False
+        why_invalid['Too many words']=1
+    if (params.CAP_PLURALS and s_pairs > params.MAX_PLURALS):
+        is_valid=False
+        why_invalid['Too many plural pairs']=1
+    if (params.CAP_GERUNDS and ing_pairs > params.MAX_GERUNDS):
+        is_valid=False
+        why_invalid['Too many gerund pairs']=1
+    if (params.CAP_PRETERITE and ed_pairs > params.MAX_PRETERITE):
+        is_valid=False
+        why_invalid['Too many preterite pairs']=1
 
     if not is_valid:
-        # not valid! return to go to next letters. (manual puzzle is always valid)
-        if params.PRINT_INVALID == "dots":
-            print ('.', end='', flush=True)
-        elif params.PRINT_INVALID == "why":
-            print_cumulative_why(why_invalid)
-        elif params.PRINT_INVALID:
-            print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(0))))
-        return 0
+        # not valid! 
+        # (manual puzzles create files whether valid or not)
+        if not manual_puzzle:
+            if params.PRINT_INVALID == "dots":
+                print ('.', end='', flush=True)
+            elif params.PRINT_INVALID == "why":
+                print_cumulative_why(why_invalid)
+            elif params.PRINT_INVALID == "csv":
+                print( letters, len(results), total_score, len(pangram_list),
+                       is_valid, s_pairs, ed_pairs, ing_pairs, sep='\t' )
+            # return to go to next letters.
+            return False
+        else:
+            # Not valid, but puzzle was specified manually
+            if params.PRINT_INVALID == "dots":
+                print ('', flush=True, file=sys.stderr)
+            print(f'Warning: Game written to {letters}.json'
+                  ' despite the following errors:\n\t',
+                  ', '.join(why_invalid), '.', flush=True, file=sys.stderr)
 
-    elif params.PRINT_INVALID == "dots":
-        # Got a valid puzzle, so go to new line
-        print ('') 
+    # We got a valid word list (or manually specified), so let folks know.
+    if params.PRINT_INVALID == "dots" != params.PRINT_VALID:
+        print ('')          # Newline after row of .....
 
+    if params.PRINT_VALID == "dots":
+        print ('!', end='', flush=True)
+    elif params.PRINT_VALID == "csv":
+        print( letters, len(results), total_score, len(pangram_list),
+               is_valid, s_pairs, ed_pairs, ing_pairs, sep='\t' )
 
-    print ('\t'.join((letters, str(len(results)), str(total_score), str(len(pangram_list)), str(1))))
-
-    if manual_puzzle and (len(pangram_list) < params.COUNT_PANGRAMS):
-        print(f'Warning: {len(pangram_list)} pangrams found'
-              f'(of {params.COUNT_PANGRAMS} required) in {letters}',
-              file=sys.stderr)
-
-    # if you made it this far, you have a valid word list
-    # and the game will be recorded
-
+    # If you made it this far, the game will be recorded.
     # WARNING! if puzzle already exists, it will be overwritten
+    file_path = params.PUZZLE_DATA_PATH + os.sep + letters + '.json'
 
-    if not manual_puzzle:
-        valid_count += 1
+    valid_count += int(is_valid)
+
+    if manual_puzzle and letters in existing_puzzles:
+        # We were given specific letters despite the puzzle already
+        # existing. This is likely to quickly regenerate the file
+        # using new params, therefore we'll set "manual_puzzle" to
+        # whatever its previous value was in the existing file.
+        puzl = utils.read_puzzle(file_path)
+        manual_puzzle = puzl.generation_info['manual_puzzle']
 
     pangram_list = [x.get('word') for x in pangram_list ]
 
     generation_info = {
-        'path'           : params.WORD_LIST_PATH,
+        'path'               : params.WORD_LIST_PATH,
         'min_word_length'    : params.MIN_WORD_LENGTH,
         'total_letter_count' : params.TOTAL_LETTER_COUNT,
         'min_word_count'     : params.MIN_WORD_COUNT,
@@ -272,11 +290,10 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None, force_auto=Fal
             'word_list' : results,
         }
 
-    file_path = params.PUZZLE_DATA_PATH + os.sep + letters + '.json'
     with open(file_path, 'w') as json_file:
         json.dump(tmp, json_file, indent=4)
 
-    return 1
+    return True
 
 def count_plurals(results):
     """Given a list of words, return the number of pairs which appear as
@@ -314,7 +331,7 @@ def count_gerunds(results):
     possibly doubling previous letter, possibly removing -E
     suffix).
 
-    For example: ALIGN, ALIGNING, LOVE, LOVING, ZIGZAG, ZIGZAGGING
+    For example: LOVE, LOVING, YODEL, YODELING, ZIGZAG, ZIGZAGGING
     would return 3.
 
     Limiting the count (see params.py:MAX_GERUNDS) allows games
@@ -328,14 +345,37 @@ def count_gerunds(results):
         if not word.endswith('ING'):
             continue
         if word[0:-3] in words:
-            count=count+1
+            count=count+1       # YODELING -> YODEL
         if word[0:-3]+'E' in words:
-            count=count+1
+            count=count+1       # LOVING -> LOVE
         if len(word) >= 5 and word[-4] == word[-5] and word[0:-4] in words:
-            count=count+1
+            count=count+1       # YODELLING -> YODEL (British English)
     return count
 
 
+def count_preterite(results):
+    """Given a list of words, return the number of pairs which appear as
+    both the verb and the simple past tense by adding -ED or -D. 
+
+    For example: LOVE, LOVED, YODEL, YODELED, ZIGZAG, ZIGZAGGED
+    would return 3.
+
+    Limiting the count (see params.py:MAX_PRETERITE) allows games
+    with 'E', 'D', to exist, but rejects games that are too simple
+    because too many words end in -ED. """
+
+    words = list( x['word']  for x in results )
+    count=0
+    for word in words:
+        if not word.endswith('ED'):
+            continue
+        if word[0:-2] in words:
+            count=count+1       # YODELED -> YODEL
+        if word[0:-1] in words:     
+            count=count+1       # LOVED -> LOVE
+        if len(word) >= 4 and word[-3] == word[-4] and word[0:-3] in words:
+            count=count+1       # YODELLED (British English)
+    return count
 def main(puzzle_input=None):
 
     # if data dir does not exist, create it
@@ -351,9 +391,6 @@ def main(puzzle_input=None):
     pool = get_pangramable_letter_pool(words)
     print (f'unique {params.TOTAL_LETTER_COUNT}-letter pool: '+str(len(pool)))
 
-    # header for csv output
-    print ('\t'.join(('letters', 'word_count', 'total_score', 'pangram_count', 'is_valid')))
-
     if len(sys.argv) > 1 and sys.argv[-1] == '--regenerate':
         regenerate = True
         sys.argv.pop()
@@ -366,11 +403,9 @@ def main(puzzle_input=None):
     else:
         puzzle_input = None
 
-    if len(sys.argv) > 1 and sys.argv[-1] == '--force-auto':
-        force_auto = True
-        sys.argv.pop()
-    else:
-        force_auto = False
+    # header for csv output
+    if params.PRINT_INVALID == "csv":
+        print ('\t'.join(('letters', 'words', 'score', 'pangram', 'valid?', '-S pair', '-ED', '-ING')))
 
     # user has requested a specific puzzle be created
     if puzzle_input is not None:
@@ -381,13 +416,13 @@ def main(puzzle_input=None):
         # alphabetize the non-center letters (all but first in array)
         puzzle_input = utils.sort_letters(puzzle_input)
 
-        make_puzzles(words, pool, existing_puzzles, puzzle_input, force_auto)
+        make_puzzles(words, pool, existing_puzzles, puzzle_input)
 
     elif regenerate:
         # Regenerate all existing puzzles
         no_good=[]
         for puzzle_input in existing_puzzles:
-            if not make_puzzles(words, [], [], puzzle_input, force_auto=True):
+            if not make_puzzles(words, [], [], puzzle_input):
                 no_good.append(puzzle_input)
         if no_good:
             print(f'These puzzles no longer meet the requirements and can be deleted:\n{" ".join(no_good)}')
@@ -399,7 +434,8 @@ def main(puzzle_input=None):
 
         # generating N puzzles based on params
         for _ in range(params.MAX_PUZZLE_TRIES):
-            idx_valid += make_puzzles(words, pool, existing_puzzles, None)
+            if make_puzzles(words, pool, existing_puzzles, None):
+                idx_valid += 1
 
             # reached target count of puzzles, exiting loop
             if idx_valid >= params.PUZZLE_COUNT:
