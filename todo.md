@@ -129,8 +129,9 @@ in which more than half of the words end in -ING.
     meanings. (initiation, innovation, intonation, invitation,
     intimation, imitation, annotation, aviation, animation, ...).
 
-* [ ] Perhaps what gets players annoyed is when they have to inflect
-      every word: WAGE, WAGED, WAGING, WAGGLE, WAGGLED, WAGGLING, ...
+* [ ] Stem words. Perhaps what gets players annoyed is when they have
+      to inflect every word: WAGE, WAGED, WAGING, WAGGLE, WAGGLED,
+      WAGGLING, ...
   
   * `VDEIPWR`: view, viewer, viewed, preview, previewer, previewed,
     review, reviewer, reviewed, dive, diver, dived, peeve, peeved, ...
@@ -144,9 +145,8 @@ in which more than half of the words end in -ING.
 	* [x] Count `-ING` pairs (present participle and gerundive)
 
 	* [x] Count `-ED` pairs (preterite == simple past tense). Test with DEFLOUY.
-
-	* [ ] Count stems and ensure we have a sufficient number: 
-		  WAGE, WAGED, WAGING == 1 stem. 
+	* [ ] Find the root words and ensure we have a sufficient number: 
+		  WAGE, WAGED, WAGING == 1 stem. Test with `MDELRUY`.
 
 ### Estimate number of compound words. 
 
