@@ -10,13 +10,22 @@
         "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
+        "cap_preterite": true,
+        "max_preterite": 7,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": false,
+        "quality": {
+            "is_valid": true,
+            "s_pairs": 0,
+            "ed_pairs": 0,
+            "ing_pairs": 4,
+            "uniqueness": 0.45
+        }
     },
-    "total_score": 141,
-    "word_count": 31,
+    "total_score": 136,
+    "word_count": 30,
     "pangram_count": 1,
     "pangram_list": [
         "MOUNDING"
@@ -60,11 +69,6 @@
         {
             "word": "DOOMING",
             "score": 7,
-            "pangram": false
-        },
-        {
-            "word": "DUNNO",
-            "score": 5,
             "pangram": false
         },
         {

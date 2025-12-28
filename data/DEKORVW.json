@@ -10,13 +10,22 @@
         "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
+        "cap_preterite": true,
+        "max_preterite": 7,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": false,
+        "quality": {
+            "is_valid": true,
+            "s_pairs": 0,
+            "ed_pairs": 5,
+            "ing_pairs": 0,
+            "uniqueness": 0.42
+        }
     },
-    "total_score": 213,
-    "word_count": 48,
+    "total_score": 205,
+    "word_count": 47,
     "pangram_count": 1,
     "pangram_list": [
         "OVERWORKED"
@@ -195,11 +204,6 @@
         {
             "word": "VOODOO",
             "score": 6,
-            "pangram": false
-        },
-        {
-            "word": "VOODOOED",
-            "score": 8,
             "pangram": false
         },
         {

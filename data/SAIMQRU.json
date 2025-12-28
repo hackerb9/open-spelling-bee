@@ -10,13 +10,22 @@
         "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
+        "cap_preterite": true,
+        "max_preterite": 7,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": false,
+        "quality": {
+            "is_valid": true,
+            "s_pairs": 2,
+            "ed_pairs": 0,
+            "ing_pairs": 0,
+            "uniqueness": 0.53
+        }
     },
-    "total_score": 78,
-    "word_count": 25,
+    "total_score": 84,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "AQUARIUMS"
@@ -85,6 +94,11 @@
         {
             "word": "MASS",
             "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "MIASMA",
+            "score": 6,
             "pangram": false
         },
         {

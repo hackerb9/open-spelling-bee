@@ -10,13 +10,22 @@
         "max_total_score": 400,
         "cap_plurals": true,
         "max_plurals": 3,
+        "cap_preterite": true,
+        "max_preterite": 7,
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false
+        "manual_puzzle": false,
+        "quality": {
+            "is_valid": true,
+            "s_pairs": 0,
+            "ed_pairs": 0,
+            "ing_pairs": 0,
+            "uniqueness": 0.41
+        }
     },
-    "total_score": 275,
-    "word_count": 45,
+    "total_score": 281,
+    "word_count": 46,
     "pangram_count": 1,
     "pangram_list": [
         "VARIATION"
@@ -44,6 +53,11 @@
         },
         {
             "word": "ATTAIN",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "AVATAR",
             "score": 6,
             "pangram": false
         },
