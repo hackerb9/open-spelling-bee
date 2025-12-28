@@ -65,4 +65,8 @@ oink, oinks, oinked, oinking
 decor
 alpaca
 meatball
+mayday
+miasma
+seamy
+catacomb, catacombs
 
