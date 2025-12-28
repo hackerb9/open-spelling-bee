@@ -7,7 +7,7 @@ tonne                           # Should be in british-words.35
 holidayed, holidaying           # Should be in british-words.35
 bandanna			# Should be in variant-words
 
-lemme, gimme, wanna, gonna
+lemme, gimme, wanna, gonna, dunno
 letup
 genii
 uteri
