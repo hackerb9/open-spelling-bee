@@ -1,0 +1,178 @@
+{
+    "letters": "FABLOSU",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_preterite": true,
+        "max_preterite": 7,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true,
+        "quality": {
+            "is_valid": false,
+            "why_invalid": [
+                "Too many plural pairs"
+            ],
+            "s_pairs": 10,
+            "ed_pairs": 0,
+            "ing_pairs": 0,
+            "uniqueness": 0.49
+        }
+    },
+    "total_score": 105,
+    "word_count": 28,
+    "pangram_count": 1,
+    "pangram_list": [
+        "FABULOUS"
+    ],
+    "word_list": [
+        {
+            "word": "ALFALFA",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "ALOOF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "BLUFFS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "BUFF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "BUFFALO",
+            "score": 7,
+            "pangram": false
+        },
+        {
+            "word": "BUFFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FABULOUS",
+            "score": 8,
+            "pangram": true
+        },
+        {
+            "word": "FALL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FALLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLOSS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLUFF",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FLUFFS",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "FOAL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOALS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOOL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOOLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FOUL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FOULS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FULL",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "FULLS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "FUSS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAF",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "LOAFS",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "OAFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "OFFS",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOFA",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "SOFAS",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}
