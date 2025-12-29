@@ -15,9 +15,12 @@
         "cap_gerunds": true,
         "max_gerunds": 5,
         "count_pangrams": 1,
-        "manual_puzzle": false,
+        "manual_puzzle": true,
         "quality": {
             "is_valid": false,
+            "why_invalid": [
+                "Too many words"
+            ],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 3,
