@@ -401,8 +401,11 @@ def s(n:int) -> str:
     '''An "s" for plural numbers, e.g., "3 points"'''
     return "" if n == 1 else "s"
     
-def main():
+def main(puzzle_input=[]):
     try:
+        if type(puzzle_input) is not list:
+            puzzle_input = [ puzzle_input ]
+
         # if data dir does not exist, create it
         if not os.path.isdir(params.PUZZLE_DATA_PATH):
             os.makedirs(params.PUZZLE_DATA_PATH)
@@ -424,7 +427,8 @@ def main():
             regenerate = False
 
         # Array of command line args, e.g. ['WAHORTY', 'VABDERT', 'DAEIMTY']
-        puzzle_input = [ x.strip().upper() for x in args ]
+        if not puzzle_input:
+            puzzle_input = [ x.strip().upper() for x in args ]
 
         # header for csv output
         if params.PRINT_VALID == "csv" or params.PRINT_INVALID == "csv":
@@ -479,10 +483,10 @@ def main():
                 if idx_valid >= params.PUZZLE_COUNT:
                     exit(0)
 
-        return puzzle_input
+        return puzzle_input[0]
     except KeyboardInterrupt:
         print("Exiting.")
-        return -1
+        exit(1)
         
 if __name__ == "__main__":
     main()
