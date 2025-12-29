@@ -119,11 +119,8 @@ Your guess: !h
 
 + High "uniqueness" score (answers are dissimilar): `EAINTXY`, `BACIORT`, `IACMORT`
 
-+ `Q` as center letter: `QAHILSU`, `QBEISTU`
-
-+ `X` as center letter: `XACESTV`, `XEFIOST`, `XAENSTU`, `XADEIRS`, `XAEINOT`, `XCENOST`, `XEFIPRS`, `XAERSTY`, `XDELOPS`, `XBELOST`, `XCDELSU`
-
-+ `Z` as center letter: `ZORIBTE`, `ZRBEOSU`, `ZCEILST`,`ZAEMNST`,`ZADELRS`, `ZADENRS`, `ZAEIKLS`, `ZACENOS`, `ZGILNOS`, `ZABDELR`, `ZBEGINO`, `ZABGINS`, `ZEILNOR`, `ZABDELS`, `ZAELOST`
++ `X` as center letter: `XACESTV`, `XAEINOT`, `XCDELSU`, `XCENOST`,
+  `XDELOPS`, `XEFIOST`, `XEFIPRS`
 
 + Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`,
   `VAEGIRT`, `IACLPRT`, `LEIOPTX`, `BACELRM`
