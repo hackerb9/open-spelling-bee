@@ -95,7 +95,7 @@ manually.
 * [ ] Give player bonuses for words which are not in the generating
   dictionary but are valid in more recondite sources. 
   * [x] Check custom user dict-*.txt, 
-  * [ ] more scowl, upto and including english-words.50
+  * [x] more scowl, upto and including english-words.50
   * [ ] TWL
   * [ ] local dictd
   * [ ] online dictd
