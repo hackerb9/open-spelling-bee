@@ -64,12 +64,12 @@ origami
 oink, oinks, oinked, oinking
 decor
 alpaca
-meatball
+meatball, meatballs
 mayday
 miasma
 seamy
 catacomb, catacombs
 avatar, avatars
 robotic
-toolboxes
+toolbox, toolboxes
 subzero
