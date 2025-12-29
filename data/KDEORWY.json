@@ -1,0 +1,118 @@
+{
+    "letters": "KDEORWY",
+    "generation_info": {
+        "path": "word_lists/scowl.txt",
+        "min_word_length": 4,
+        "total_letter_count": 7,
+        "min_word_count": 25,
+        "max_word_count": 50,
+        "min_total_score": 60,
+        "max_total_score": 400,
+        "cap_plurals": true,
+        "max_plurals": 3,
+        "cap_preterite": true,
+        "max_preterite": 7,
+        "cap_gerunds": true,
+        "max_gerunds": 5,
+        "count_pangrams": 1,
+        "manual_puzzle": true,
+        "quality": {
+            "is_valid": false,
+            "why_invalid": [
+                "Too few words"
+            ],
+            "s_pairs": 0,
+            "ed_pairs": 4,
+            "ing_pairs": 0,
+            "uniqueness": 0.57
+        }
+    },
+    "total_score": 62,
+    "word_count": 16,
+    "pangram_count": 1,
+    "pangram_list": [
+        "KEYWORD"
+    ],
+    "word_list": [
+        {
+            "word": "EKED",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "KEYED",
+            "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "KEYWORD",
+            "score": 7,
+            "pangram": true
+        },
+        {
+            "word": "REEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "REEKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "REWORK",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "ROOK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "ROOKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WEEK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WOODWORK",
+            "score": 8,
+            "pangram": false
+        },
+        {
+            "word": "WORK",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "WORKED",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "WORKER",
+            "score": 6,
+            "pangram": false
+        },
+        {
+            "word": "YOKE",
+            "score": 1,
+            "pangram": false
+        },
+        {
+            "word": "YOKED",
+            "score": 5,
+            "pangram": false
+        }
+    ]
+}
