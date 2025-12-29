@@ -17,15 +17,15 @@
         "count_pangrams": 1,
         "manual_puzzle": true,
         "quality": {
-            "is_valid": false,
+            "is_valid": true,
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 0,
-            "uniqueness": 0.53
+            "uniqueness": 0.51
         }
     },
-    "total_score": 102,
-    "word_count": 24,
+    "total_score": 109,
+    "word_count": 25,
     "pangram_count": 1,
     "pangram_list": [
         "ACROBATIC"
@@ -139,6 +139,11 @@
         {
             "word": "ROBOT",
             "score": 5,
+            "pangram": false
+        },
+        {
+            "word": "ROBOTIC",
+            "score": 7,
             "pangram": false
         },
         {
