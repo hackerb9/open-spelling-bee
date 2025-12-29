@@ -45,7 +45,7 @@ def main():
         # check validity of letters
         if not utils.check_letters(puzzle_idx):
             print('Exiting...', file=sys.stderr)
-	    exit(1)
+            exit(1)
 
     # select puzzle, generate it if it doesn't exist
     puzl_path = utils.select_puzzle(puzzle_idx)
