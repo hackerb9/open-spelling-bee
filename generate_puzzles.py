@@ -270,6 +270,7 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
 
     quality = {
         'is_valid'           : is_valid,
+        'why_invalid'	     : list(why_invalid.keys()),
         's_pairs'            : s_pairs,
         'ed_pairs'           : ed_pairs,
         'ing_pairs'          : ing_pairs,
