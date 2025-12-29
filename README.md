@@ -119,9 +119,6 @@ Your guess: !h
 
 + High "uniqueness" score (answers are dissimilar): `EAINTXY`, `BACIORT`, `IACMORT`
 
-+ `X` as center letter: `XACESTV`, `XAEINOT`, `XCDELSU`, `XCENOST`,
-  `XDELOPS`, `XEFIOST`, `XEFIPRS`
-
 + Play tester faves: `RCEIMNU`, `ECHOPRY`, `NACEGHL`, `ECIQRTU`,
   `VAEGIRT`, `IACLPRT`, `LEIOPTX`, `BACELRM`
 
