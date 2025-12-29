@@ -52,21 +52,20 @@ class ScowlFile:
 # check validity of provided letters
 def check_letters(pzl):
 
-    if len(pzl) != len(list(set(pzl))):
-        print(f'Duplicate letters requested: {pzl}.',
-              file=sys.stderr)
+    if len(pzl) != len(set(pzl)):
+        s=set(pzl); dupes=[ c for c in s if pzl.count(c) > 1 ]
+        print(f'Error: Duplicate letters requested: {dupes}', file=sys.stderr)
         return False
-
     elif len(pzl) != params.TOTAL_LETTER_COUNT:
-        print(f'Invalid count of letters requested: {pzl}.',
-              file=sys.stderr)
+        print(f'Error: {len(pzl)} letters requested, '
+              f'but {params.TOTAL_LETTER_COUNT} required.', file=sys.stderr)
         return False
     else:
         return True
 
-# smart sorting of letters, keeping first letter first
+# smart sorting of letters, keeping first letter first, merging duplicates
 def sort_letters(pzl):
-    return pzl[0] + ''.join(sorted(pzl[1:]))
+    return pzl[0] + ''.join(sorted(set(pzl)-set(pzl[0])))
 
 
 def select_puzzle(puzl_idx=None):
