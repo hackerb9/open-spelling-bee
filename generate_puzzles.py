@@ -435,16 +435,19 @@ def main():
             # User has requested puzzle(s) by defining letters on command line
 
             for p in puzzle_input:
+                porig = p
                 # Clean up input if they specified "data/WAHORTY.json".
                 if '.' in p or '/' in p:
                     p=os.path.basename(p)
                     (p, dummy)=os.path.splitext(p)
 
-                # check validity of letters
-                utils.check_letters(p)
-
                 # alphabetize the non-center letters (all but first in array)
                 p = utils.sort_letters(p)
+
+                # check validity of letters
+                if not utils.check_letters(p):
+                    print(f'Skipping {porig}.', file=sys.stderr)
+                    continue
 
                 make_puzzles(words, pool, existing_puzzles, p)
 
