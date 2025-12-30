@@ -146,19 +146,19 @@ def print_cumulative_why(why):
     print('%24s: %d' % ( 'Valid games found', valid_count ), flush=True )
 
 
-def make_puzzles(word_list, pool, existing_puzzles, letters=None):
+def make_puzzles_nowrite(word_list, pool, letters, manual_puzzle):
+    ''' Returns a data structure ready for writing by json.dump() 
+        INPUT:
+        word_list     # list of all valid words
+        pool          # thread pool
+        letters       # the seven letters to form a puzzle from
+        manual_puzzle # bool Were the letters specified?
+    '''
+
+    # Initialization
     is_valid=True       # Are the current letters a valid game? 
     why_invalid={}      # Reasons why current letters are invalid.
-    global valid_count  # Count of valid games found.
-    manual_puzzle=False # Were the letters specified? (False is "automatic")
     s_pairs = ed_pairs = ing_pairs = 0        # For pruning less fun puzzles.
-
-    if letters is not None:
-        manual_puzzle = True    # Caller specified what letters to use
-    else:
-        letters = get_letters_from(pool) # E.G. 'WAHORTY'
-        if letters in existing_puzzles:
-            return False
 
     # Show output for every invalid puzzle found?
     if params.PRINT_INVALID == "auto":
@@ -224,20 +224,19 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
         is_valid=False
         why_invalid['Too many preterite pairs']=1
 
-    if not is_valid:
-        # not valid! 
+    if not is_valid and not manual_puzzle:
+        # invalid and automatic, so return False instead of datastructure.
         # (manual puzzles create files whether valid or not)
-        if not manual_puzzle:
-            if params.PRINT_INVALID == "dots":
-                print ('x', end='', flush=True)
-            elif params.PRINT_INVALID == "why":
-                print_cumulative_why(why_invalid)
-            elif params.PRINT_INVALID == "csv":
-                print( letters, is_valid, len(results), total_score,
-                       len(pangram_list), s_pairs, ed_pairs, ing_pairs,
-                       sep='\t' )
-                # return to go to next letters.
-            return False
+        if params.PRINT_INVALID == "dots":
+            print ('x', end='', flush=True)
+        elif params.PRINT_INVALID == "why":
+            print_cumulative_why(why_invalid)
+        elif params.PRINT_INVALID == "csv":
+            print( letters, is_valid, len(results), total_score,
+                   len(pangram_list), s_pairs, ed_pairs, ing_pairs,
+                   sep='\t' )
+            # return to go to next letters.
+        return False
 
     # We got a valid word list (or manually specified), so let folks know.
     if params.PRINT_INVALID == "dots" != params.PRINT_VALID:
@@ -253,19 +252,6 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
                s_pairs, ed_pairs, ing_pairs, sep='\t' )
 
     # If you made it this far, the game will be recorded.
-    # WARNING! if puzzle already exists, it will be overwritten
-    file_path = params.PUZZLE_DATA_PATH + os.sep + letters + '.json'
-
-    valid_count += int(is_valid)
-
-    if manual_puzzle and letters in existing_puzzles:
-        # We were given specific letters despite the puzzle already
-        # existing. This is likely to quickly regenerate the file
-        # using new params, therefore we'll set "manual_puzzle" to
-        # whatever its previous value was in the existing file.
-        puzl = utils.read_puzzle(file_path)
-        manual_puzzle = puzl.generation_info['manual_puzzle']
-
     pangram_list = [x.get('word') for x in pangram_list ]
 
     quality = {
@@ -306,14 +292,50 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
         'word_list' : results,
     }
 
+    return tmp
+
+def make_puzzles(word_list, pool, existing_puzzles, letters=None):
+    global valid_count  # Count of valid games found for debugging.
+
+    if letters is not None:
+        manual_puzzle = True    # Caller specified what letters to use
+    else:
+        letters = get_letters_from(pool) # E.G. 'WAHORTY'
+        if letters in existing_puzzles:
+            return False
+
+    # Do the actual work of creating the puzzle and get a data structure
+    puzl = make_puzzles_nowrite(word_list, pool, letters, manual_puzzle)
+    if not puzl:
+        return False
+
+    # Extract a few key variables
+    is_valid = puzl['generation_info']['quality']['is_valid']
+    why_invalid = puzl['generation_info']['quality']['why_invalid']
+
+    # For debugging, update a global variable
+    valid_count += int(is_valid)
+
+    # WARNING! if puzzle already exists, it will be overwritten
+    file_path = params.PUZZLE_DATA_PATH + os.sep + letters + '.json'
+
+    if manual_puzzle and letters in existing_puzzles:
+        # We were given specific letters despite the puzzle already
+        # existing. This is likely being used to quickly regenerate
+        # the file using new params, therefore don't force "manual_puzzle".
+        oldpuzl = utils.read_puzzle(file_path)
+        manual_puzzle = oldpuzl.generation_info['manual_puzzle']
+
+    # Record the puzzle data in a file
     with open(file_path, 'w') as json_file:
-        json.dump(tmp, json_file, indent=4)
+        json.dump(puzl, json_file, indent=4)
 
     # Maybe warn if the puzzle file we just wrote was not valid.
     if not is_valid and params.WARN_INVALID_MANUAL:
         print(f'Warning: Game written to {file_path}'
               ' despite the following errors:\n\t',
               ', '.join(why_invalid), '.', flush=True, file=sys.stderr)
+
     return is_valid
 
 def count_plurals(results):
@@ -438,6 +460,7 @@ def main(puzzle_input=[]):
 
         if puzzle_input:
             # User has requested puzzle(s) by defining letters on command line
+            # or main(puzzle_input) was called by utils.py:select_puzzle()
 
             for p in puzzle_input:
                 porig = p
