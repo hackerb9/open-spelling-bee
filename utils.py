@@ -169,7 +169,7 @@ def uniqueness(word_list) -> float:
 
     try:
         return round( compressed / original, 2 )
-    except ZeroDivisonError:
+    except ZeroDivisionError:
         return 1.00
 
 def get_puzzle_dir_or_filename(puzl_name=None):
