@@ -811,3 +811,4 @@ toothier
 hitter
 ziti
 atria, catboat, ciabatta, ricotta
+gybe, gybes, gybed, gybing
