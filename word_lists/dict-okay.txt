@@ -812,3 +812,6 @@ hitter
 ziti
 atria, catboat, ciabatta, ricotta
 gybe, gybes, gybed, gybing
+gnomon
+monger
+hegemon
