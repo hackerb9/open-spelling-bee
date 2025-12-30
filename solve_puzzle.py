@@ -4,6 +4,7 @@
 
 import params
 import utils
+import generate_puzzles
 
 import os
 import sys
@@ -11,18 +12,18 @@ from dataclasses import asdict
 
 def solve(p):
 
-    print ('letters:', p.letters)
-    print ('total_score:', p.total_score)
-    print ('word_count:', p.word_count)
-    print ('pangram(s):', ', '.join(p.pangram_list))
+    print ('letters:', p['letters'])
+    print ('total_score:', p['total_score'])
+    print ('word_count:', p['word_count'])
+    print ('pangram(s):', ', '.join(p['pangram_list']))
     print ()
 
     # print all answers
-    for x in p.word_list:
+    for x in p['word_list']:
         score = x.get('score')
 
         # add 7 points if word is pangram
-        if x['word'] in p.pangram_list:
+        if x['word'] in p['pangram_list']:
             score += + 7
         utils.print_table((x['word'],score), 2, 10)
 
@@ -48,10 +49,12 @@ def main():
             exit(1)
 
     # select puzzle, generate it if it doesn't exist
-    puzl_path = utils.select_puzzle(puzzle_idx)
+#    puzl_path = utils.select_puzzle(puzzle_idx)
 
     # load json puzzle data
-    puzl = utils.read_puzzle(puzl_path)
+#    puzl = utils.read_puzzle(puzl_path)
+
+    puzl = generate_puzzles.solve(puzzle_idx)
 
     # solve puzzle (cheat mode)
     solve(puzl)

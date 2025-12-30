@@ -424,6 +424,47 @@ def s(n:int) -> str:
     '''An "s" for plural numbers, e.g., "3 points"'''
     return "" if n == 1 else "s"
     
+def solve(puzzle_input):
+    '''Solve a single puzzle and return the result as a data structure'''
+    ''' Very similar to main() below, but with no writing. '''
+
+    # get array of previously generated puzzles, to check against
+    existing_puzzles = get_existing_puzzles()
+
+    words = get_words(params.WORD_LIST_PATH)
+    print ('total words: ', len(words))
+    pool = get_pangramable_letter_pool(words)
+    print (f'unique {params.TOTAL_LETTER_COUNT}-letter pool: '+str(len(pool)))
+
+    # Array of command line args, e.g. ['WAHORTY', 'VABDERT', 'DAEIMTY']
+    if not puzzle_input:
+        return False
+
+    # header for csv output
+    if params.PRINT_VALID == "csv" or params.PRINT_INVALID == "csv":
+        print ('letters', 'valid?', 'words', 'score', 'pangram',
+               '-S pair', '-ED', '-ING', sep='\t')
+
+    p = puzzle_input
+    if puzzle_input:
+        porig = p
+        # Clean up input if they specified "data/WAHORTY.json".
+        if '.' in p or '/' in p:
+            p=os.path.basename(p)
+            (p, dummy)=os.path.splitext(p)
+
+        # alphabetize the non-center letters (all but first in array)
+        p = utils.sort_letters(p)
+
+        # check validity of letters
+        if not utils.check_letters(p):
+            print(f'Skipping {porig}.', file=sys.stderr)
+            return False
+
+    return make_puzzles_nowrite(words, pool, p, manual_puzzle=True)
+            
+
+
 def main(puzzle_input=[]):
     try:
         if type(puzzle_input) is not list:
