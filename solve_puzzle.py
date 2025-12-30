@@ -12,6 +12,10 @@ from dataclasses import asdict
 
 def solve(p):
 
+    q = p['generation_info']['quality']
+    if q['is_valid'] is False:
+        print ('INVALID PUZZLE:', ', '.join(q['why_invalid']))
+
     print ('letters:', p['letters'])
     print ('total_score:', p['total_score'])
     print ('word_count:', p['word_count'])
