@@ -381,7 +381,7 @@ def dump_custom_word_list(name: str) -> [ str ]:
     words = sorted(get_custom_word_file(name).upper().split())
     print ("\n".join(words))
 
-def is_in_scowl(w:str) -> []:
+def is_in_scowl(w:str, scowl_files='word_lists/scowl-u8/*') -> []:
 
     '''is_in_scowl(w)
 
@@ -402,7 +402,7 @@ def is_in_scowl(w:str) -> []:
     if w.isalpha(): w=eqv(w)
     try:
         rx=re.compile(fr'^({w})$', flags=re.IGNORECASE|re.MULTILINE)
-        for f in glob.glob("word_lists/scowl-u8/*"):
+        for f in glob.glob(scowl_files):
             with open(f, 'r') as fp:
                 matches=rx.findall(fp.read())
                 if matches:
