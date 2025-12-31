@@ -319,12 +319,13 @@ def make_puzzles(word_list, pool, existing_puzzles, letters=None):
     # WARNING! if puzzle already exists, it will be overwritten
     file_path = params.PUZZLE_DATA_PATH + os.sep + letters + '.json'
 
-    if manual_puzzle and letters in existing_puzzles:
+    if manual_puzzle and (letters in existing_puzzles):
         # We were given specific letters despite the puzzle already
         # existing. This is likely being used to quickly regenerate
         # the file using new params, therefore don't force "manual_puzzle".
         oldpuzl = utils.read_puzzle(file_path)
         manual_puzzle = oldpuzl.generation_info['manual_puzzle']
+        puzl['generation_info']['manual_puzzle'] = manual_puzzle
 
     # Record the puzzle data in a file
     with open(file_path, 'w') as json_file:
