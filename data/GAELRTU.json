@@ -18,6 +18,9 @@
         "manual_puzzle": true,
         "quality": {
             "is_valid": false,
+            "why_invalid": [
+                "Too many words"
+            ],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 0,
