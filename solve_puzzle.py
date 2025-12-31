@@ -52,12 +52,7 @@ def main():
             print('Exiting...', file=sys.stderr)
             exit(1)
 
-    # select puzzle, generate it if it doesn't exist
-#    puzl_path = utils.select_puzzle(puzzle_idx)
-
-    # load json puzzle data
-#    puzl = utils.read_puzzle(puzl_path)
-
+    # load json puzzle data. Generate if necessary, but do not save to disk. 
     puzl = generate_puzzles.solve(puzzle_idx)
 
     # solve puzzle (cheat mode)
