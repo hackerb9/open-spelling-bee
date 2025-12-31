@@ -18,14 +18,15 @@
         "manual_puzzle": false,
         "quality": {
             "is_valid": true,
+            "why_invalid": [],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 4,
-            "uniqueness": 0.4
+            "uniqueness": 0.41
         }
     },
-    "total_score": 160,
-    "word_count": 30,
+    "total_score": 155,
+    "word_count": 29,
     "pangram_count": 1,
     "pangram_list": [
         "DAMPING"
@@ -129,11 +130,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {

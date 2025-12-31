@@ -18,14 +18,15 @@
         "manual_puzzle": false,
         "quality": {
             "is_valid": true,
+            "why_invalid": [],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 0,
-            "uniqueness": 0.49
+            "uniqueness": 0.48
         }
     },
-    "total_score": 99,
-    "word_count": 29,
+    "total_score": 94,
+    "word_count": 28,
     "pangram_count": 1,
     "pangram_list": [
         "BLACKMAIL"
@@ -164,11 +165,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {

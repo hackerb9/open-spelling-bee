@@ -18,14 +18,15 @@
         "manual_puzzle": false,
         "quality": {
             "is_valid": true,
+            "why_invalid": [],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 4,
             "uniqueness": 0.43
         }
     },
-    "total_score": 139,
-    "word_count": 27,
+    "total_score": 134,
+    "word_count": 26,
     "pangram_count": 1,
     "pangram_list": [
         "FOAMING"
@@ -94,11 +95,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {

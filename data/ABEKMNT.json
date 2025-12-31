@@ -18,14 +18,15 @@
         "manual_puzzle": false,
         "quality": {
             "is_valid": true,
+            "why_invalid": [],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 0,
             "uniqueness": 0.45
         }
     },
-    "total_score": 124,
-    "word_count": 40,
+    "total_score": 119,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "EMBANKMENT"
@@ -134,11 +135,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {

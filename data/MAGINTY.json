@@ -18,14 +18,15 @@
         "manual_puzzle": false,
         "quality": {
             "is_valid": true,
+            "why_invalid": [],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 3,
-            "uniqueness": 0.4
+            "uniqueness": 0.41
         }
     },
-    "total_score": 194,
-    "word_count": 32,
+    "total_score": 189,
+    "word_count": 31,
     "pangram_count": 1,
     "pangram_list": [
         "MAGNANIMITY"
@@ -104,11 +105,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {

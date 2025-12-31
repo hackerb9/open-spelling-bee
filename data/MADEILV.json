@@ -18,14 +18,17 @@
         "manual_puzzle": true,
         "quality": {
             "is_valid": false,
+            "why_invalid": [
+                "Too many preterite pairs"
+            ],
             "s_pairs": 0,
             "ed_pairs": 8,
             "ing_pairs": 0,
             "uniqueness": 0.43
         }
     },
-    "total_score": 151,
-    "word_count": 40,
+    "total_score": 146,
+    "word_count": 39,
     "pangram_count": 1,
     "pangram_list": [
         "MEDIEVAL"
@@ -154,11 +157,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {

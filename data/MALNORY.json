@@ -18,14 +18,15 @@
         "manual_puzzle": false,
         "quality": {
             "is_valid": true,
+            "why_invalid": [],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 0,
-            "uniqueness": 0.46
+            "uniqueness": 0.47
         }
     },
-    "total_score": 136,
-    "word_count": 35,
+    "total_score": 131,
+    "word_count": 34,
     "pangram_count": 1,
     "pangram_list": [
         "NORMALLY"
@@ -94,11 +95,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {

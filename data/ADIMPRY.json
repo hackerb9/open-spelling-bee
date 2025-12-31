@@ -18,14 +18,15 @@
         "manual_puzzle": false,
         "quality": {
             "is_valid": true,
+            "why_invalid": [],
             "s_pairs": 0,
             "ed_pairs": 0,
             "ing_pairs": 0,
             "uniqueness": 0.51
         }
     },
-    "total_score": 126,
-    "word_count": 36,
+    "total_score": 121,
+    "word_count": 35,
     "pangram_count": 1,
     "pangram_list": [
         "PYRAMID"
@@ -104,11 +105,6 @@
         {
             "word": "MAMA",
             "score": 1,
-            "pangram": false
-        },
-        {
-            "word": "MAMMA",
-            "score": 5,
             "pangram": false
         },
         {
