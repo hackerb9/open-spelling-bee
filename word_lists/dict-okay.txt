@@ -316,7 +316,7 @@ quipu
 typo, typos
 honeypot, honeypots
 hottentot, hottentots
-poppet, poppets
+poppet, poppets, moppet
 peyote
 toothy
 neoteny
@@ -824,3 +824,8 @@ appellant, appellate
 palpate, palpates
 patella, patellae
 platen, platens
+cockatoo, cockatiel
+ookpik
+limpet
+pipit
+pomelo
