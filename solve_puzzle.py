@@ -33,30 +33,53 @@ def solve(p):
 
     return
 
+def scowl_search(letters:str):
+    '''Search all Scowl files, even if ranked as obscure or invalid category'''
+    center=letters[0]
+    utils.scowl_lookup(f'^%*{center}%*$', letters)
+
+def scowl_english_search(letters:str):
+    '''Search all english-words Scowl files, even if ranked as obscure'''
+    center=letters[0]
+    utils.scowl_lookup(f'^%*{center}%*$', letters, 'word_lists/scowl-u8/english-words.*')
+
 def main():
     
-    # try to read an existing or new puzzle from command line (not required)
+    # if -a given, then search SCOWL directly instead of using scowl.txt
+    if len(sys.argv)>2 and '-a' in sys.argv:
+        aflag=True
+        sys.argv = [ x for x in sys.argv if x != '-a' ]
+
+    # try to read an existing or new puzzle from command line
     try:
         puzzle_idx = sys.argv[1].strip().upper()
     except:
+        puzzle_idx = None
+
+
+    if not puzzle_idx:
         print ('Please enter a puzzle. Exiting...')
         exit(0)
-
-    if puzzle_idx is not None:
         
-        # choose standard sorting for all puzzle file names
-        puzzle_idx = utils.sort_letters(puzzle_idx)
+    # choose standard sorting for all puzzle file names
+    puzzle_idx = utils.sort_letters(puzzle_idx)
 
+    if not aflag:
         # check validity of letters
         if not utils.check_letters(puzzle_idx):
             print('Exiting...', file=sys.stderr)
             exit(1)
 
-    # load json puzzle data. Generate if necessary, but do not save to disk. 
-    puzl = generate_puzzles.solve(puzzle_idx)
-
-    # solve puzzle (cheat mode)
-    solve(puzl)
+        # load json puzzle data. Generate as needed, but do not save to disk.
+        puzl = generate_puzzles.solve(puzzle_idx)
+        if not puzl:
+            print(f'Error: Could not solve "{puzzle_idx}"\n', file=sys.stderr)
+            exit(1)
+        # solve puzzle (cheat mode)
+        solve(puzl)
+    else:
+        # Use alternate solving method for '-a' flag
+        scowl_english_search(puzzle_idx)
 
 if __name__ == "__main__":
 
