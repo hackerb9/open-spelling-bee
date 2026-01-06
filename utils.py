@@ -381,8 +381,7 @@ def dump_custom_word_list(name: str) -> [ str ]:
     words = sorted(get_custom_word_file(name).upper().split())
     print ("\n".join(words))
 
-def is_in_scowl(w:str, scowl_files='word_lists/scowl-u8/*') -> []:
-
+def is_in_scowl(w:str, scowl_files=None) -> []:
     '''is_in_scowl(w)
 
     If w is found in the scowl dictionaries, return an array of ScowlFile
@@ -398,6 +397,9 @@ def is_in_scowl(w:str, scowl_files='word_lists/scowl-u8/*') -> []:
     Latin-1 characters. For example, searching for 'metier' will find
     'métier' but searching for '\bmetier\b' will have no results.
     '''
+    if not scowl_files:
+        scowl_files='word_lists/scowl-u8/*'
+
     results=[]
     if w.isalpha(): w=eqv(w)
     try:
@@ -429,7 +431,7 @@ To see possible inflections of a word, append .* like so:
 
 ''')
 
-def scowl_lookup(pattern, letters=None):
+def scowl_lookup(pattern, letters=None, scowl_files=None):
     '''Grep the SCOWL word_lists for ^pattern$
     If a list is given, then each word will be looked up.
     Allows regular expressions and expands % to [letters].
@@ -442,7 +444,7 @@ def scowl_lookup(pattern, letters=None):
         pattern = [ pattern ]
     for p in pattern:
         if letters: p = p.replace('%', f'[{letters}]')
-        for scowlFile in is_in_scowl( p ):
+        for scowlFile in is_in_scowl( p, scowl_files ):
             try:
                 print(scowlFile)
             except BrokenPipeError:
